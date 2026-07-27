@@ -92,13 +92,14 @@ function listItem(it, opts = {}) {
    ============================================================ */
 function viewAmazon() {
   const S = window.SEED.amazon;
-  const tabs = [['news', '📰 政策新闻'], ['sales', '📊 销量数据'], ['market', '🔍 市场分析'], ['interview', '💬 面试问答'], ['tips', '🎯 运营技巧']];
+  const tabs = [['news', '📰 政策新闻'], ['sales', '📊 销量数据'], ['market', '🔍 市场分析'], ['interview', '💬 面试问答'], ['tips', '🎯 运营技巧'], ['tools', '🛠️ 工具技巧']];
   const inner = {
     news: viewAmazonNews,
     sales: viewAmazonSales,
     market: viewAmazonMarket,
     interview: viewAmazonInterview,
-    tips: viewAmazonTips
+    tips: viewAmazonTips,
+    tools: viewAmazonTools
   }[state.amazon]();
   return `
   <div class="topbar"><h1>📦 Amazon 运营台</h1><span class="pill">美国站 · 紧固件 / 气动钉枪</span></div>
@@ -173,6 +174,10 @@ function viewAmazonInterview() {
 function viewAmazonTips() {
   const seed = window.SEED.amazon.tips || [];
   return `<div class="card"><h2>🎯 亚马逊美国站运营技巧</h2><p class="desc">选品、广告、转化、物流、合规、品牌实战技巧。</p>${seed.map(it => listItem(it)).join('')}</div>`;
+}
+function viewAmazonTools() {
+  const seed = window.SEED.amazon.tools || [];
+  return `<div class="card"><h2>🛠️ 常用工具使用技巧</h2><p class="desc">领星ERP、卖家精灵、SIF 三款工具的实战使用技巧，覆盖选品、库存、广告、关键词、竞品分析全流程。</p>${seed.map(it => listItem(it)).join('')}</div>`;
 }
 function viewAmazonSales() {
   const owners = ['负责人A', '负责人B', '负责人C', '负责人D']; // 汇保 4 个 listing 负责人

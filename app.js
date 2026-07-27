@@ -159,6 +159,7 @@ function renderFeed(d) {
     <div class="head"><span class="title"><a href="${esc(it.link)}" target="_blank" rel="noopener" style="color:inherit;text-decoration:none">${esc(it.title)}</a></span>
       ${it.query ? `<span class="tag">${esc(it.query)}</span>` : ''}
       ${it.pubDate ? `<span class="meta" style="margin-left:auto">${esc(it.pubDate)}</span>` : ''}</div>
+    ${it.summary ? `<div class="body" style="color:var(--purple-d);line-height:1.7">📝 ${esc(it.summary)}</div>` : ''}
     <div class="meta">来源：${esc(it.source || '—')} · <a href="${esc(it.link)}" target="_blank" rel="noopener">查看原文 ↗</a></div>
   </div>`).join('');
 }

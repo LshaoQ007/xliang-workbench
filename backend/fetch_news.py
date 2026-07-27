@@ -1,16 +1,20 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-纯抓取脚本（供 GitHub Actions 定时运行，无 Flask / APScheduler 依赖）
-把抓到的亚马逊新闻写到 backend/data/news.json
+"""Daily Amazon news fetcher (runs in GitHub Actions, no Flask needed).
+Fetches Amazon seller news via Google News RSS and writes backend/data/news.json.
+Optional: set LLM_API_KEY to auto-generate Chinese summaries (summary field).
 """
 import os
 import json
-import html
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime
+
+try:
+    import requests
+except ImportError:
+    requests = None
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(HERE, 'data')
@@ -47,21 +51,89 @@ def fetch_news():
                     'source': src, 'pubDate': pub, 'query': q
                 })
         except Exception as e:
-            print(f'[fetch] 查询失败 "{q}": {e}')
+            print('[fetch] failed query "%s": %s' % (q, e))
     items.sort(key=lambda x: x.get('pubDate', ''), reverse=True)
     return items[:50]
 
 
+def load_old_summaries():
+    """Load previous news.json and keep existing Chinese summaries keyed by link or title."""
+    try:
+        d = json.load(open(NEWS_FILE, encoding='utf-8'))
+        m = {}
+        for it in d.get('items', []):
+            if it.get('summary'):
+                if it.get('link'):
+                    m[it['link']] = it['summary']
+                if it.get('title'):
+                    m[it['title']] = it['summary']
+        return m
+    except Exception:
+        return {}
+
+
+def summarize_with_llm(items):
+    """Call an OpenAI-compatible API to batch-generate Chinese summaries. Returns {link: summary}."""
+    api_key = os.environ.get('LLM_API_KEY')
+    if not api_key:
+        return None
+    base = os.environ.get('LLM_BASE_URL', 'https://api.openai.com/v1').rstrip('/')
+    model = os.environ.get('LLM_MODEL', 'gpt-4o-mini')
+    uniq = {}
+    for it in items:
+        uniq.setdefault(it['title'], it['link'])
+    prompt = (
+        "You are an Amazon seller operations assistant. For each English news title below, "
+        "translate it to concise Chinese and write ONE sentence (20-40 chars) summarizing the "
+        "key point and its impact on sellers. Return ONLY a JSON array where each element is "
+        "{\"title\": original_title, \"summary\": chinese_summary}. No other text.\n"
+        + json.dumps([t for t in uniq.keys()], ensure_ascii=False)
+    )
+    try:
+        if requests is None:
+            return None
+        r = requests.post(
+            base + '/chat/completions',
+            headers={'Authorization': 'Bearer ' + api_key, 'Content-Type': 'application/json'},
+            json={'model': model, 'messages': [{'role': 'user', 'content': prompt}],
+                  'response_format': {'type': 'json_object'}, 'temperature': 0.3},
+            timeout=60
+        )
+        content = r.json()['choices'][0]['message']['content']
+        data = json.loads(content)
+        arr = data if isinstance(data, list) else data.get('summaries') or data.get('results') or []
+        out = {}
+        for e in arr:
+            t = e.get('title')
+            s = e.get('summary')
+            if t and s and t in uniq:
+                out[uniq[t]] = s
+        print('[llm] generated %d summaries (model %s)' % (len(out), model))
+        return out
+    except Exception as e:
+        print('[llm] summary failed, keep old summaries:', e)
+        return None
+
+
 def main():
-    print(f'[{datetime.now():%H:%M:%S}] 开始抓取…')
+    print('[%s] start fetching' % datetime.now().strftime('%H:%M:%S'))
     items = fetch_news()
+    summaries = summarize_with_llm(items)
+    old = load_old_summaries()
+    for it in items:
+        if summaries and it['link'] in summaries:
+            it['summary'] = summaries[it['link']]
+        elif it['link'] in old and old[it['link']]:
+            it['summary'] = old[it['link']]
+        elif it['title'] in old and old[it['title']]:
+            it['summary'] = old[it['title']]
     payload = {
         'updated': datetime.now().strftime('%Y-%m-%d %H:%M'),
         'count': len(items), 'items': items
     }
     with open(NEWS_FILE, 'w', encoding='utf-8') as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
-    print(f'[{datetime.now():%H:%M:%S}] 完成，写入 {len(items)} 条 → {NEWS_FILE}')
+    print('[%s] done, wrote %d items -> %s' % (datetime.now().strftime('%H:%M:%S'), len(items), NEWS_FILE))
 
 
 if __name__ == '__main__':

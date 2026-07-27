@@ -29,6 +29,10 @@ jobs:
           PUSH_HOUR: '7'
           PUSH_MINUTE: '30'
           NEWS_QUERIES: 'Amazon seller policy,Amazon FBA update,Amazon sellers news,Amazon Seller Central,amazon.com marketplace'
+          # 可选：配置以下 Secrets 后自动生成中文摘要（不填则复用已有摘要）
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL }}
         run: |
           python backend/fetch_news.py
 

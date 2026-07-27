@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#a855f7">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="小凉台">
+  <title>小凉工作台</title>
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="apple-touch-icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='112' fill='%23a855f7'/%3E%3Ctext x='256' y='340' font-size='260' text-anchor='middle' fill='white' font-family='sans-serif' font-weight='700'%3E凉%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <div class="layout">
+    <!-- 侧边栏（桌面） -->
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="logo">凉</div>
+        <div>
+          <div class="name">小凉工作台</div>
+          <div class="sub">效率 · 成长 · 生活</div>
+        </div>
+      </div>
+      <nav class="nav" id="sidebar-nav"></nav>
+      <div class="side-foot">
+        数据本地保存 · 离线可用<br>
+        💡 想每天自动推送？见交付说明
+      </div>
+    </aside>
+
+    <!-- 主内容 -->
+    <main class="content">
+      <div id="view"></div>
+    </main>
+  </div>
+
+  <!-- 底部导航（移动端） -->
+  <nav class="bottom-nav" id="bottom-nav"></nav>
+
+  <!-- 安装到主屏入口 -->
+  <button id="install-pill" class="pill hidden" style="position:fixed;right:14px;bottom:calc(70px + env(safe-area-inset-bottom));z-index:50;cursor:pointer;background:var(--grad);color:#fff;border:none;box-shadow:var(--shadow)">📲 安装到手机</button>
+
+  <script src="./seed.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>

@@ -117,9 +117,13 @@ def summarize_with_llm(items):
 
 def main():
     print('[%s] start fetching' % datetime.now().strftime('%H:%M:%S'))
+    # 若未配置 LLM key，且已有带中文摘要的数据，则保留，不覆盖（避免每日被冲掉）
+    old = load_old_summaries()
+    if not os.environ.get('LLM_API_KEY') and old:
+        print('[skip] no LLM_API_KEY and summaries exist, keep existing news.json')
+        return
     items = fetch_news()
     summaries = summarize_with_llm(items)
-    old = load_old_summaries()
     for it in items:
         if summaries and it['link'] in summaries:
             it['summary'] = summaries[it['link']]

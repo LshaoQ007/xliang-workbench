@@ -227,3 +227,23 @@ td input { padding: 7px 9px; font-size: 13px; }
   padding: 1px 8px; border-radius: 999px; margin-bottom: 4px; }
 .live-title { display: block; font-size: 14px; line-height: 1.4; }
 .live-date { display: block; font-size: 11px; color: var(--text-soft); margin-top: 3px; }
+
+/* ===== Play · 链接卡片 ===== */
+.play-link-card { display: block; text-decoration: none; color: inherit; cursor: pointer; }
+.play-link-card .head { display: flex; align-items: center; justify-content: space-between; gap: 10px; }
+.play-link-card .title { color: var(--purple-d); }
+.play-link-card .meta { flex-shrink: 0; font-size: 12px; color: var(--pink); }
+.play-link-card:hover .title { text-decoration: underline; }
+
+/* ===== Daily · 照片日历 ===== */
+.cal-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px; }
+.cal-title { font-weight: 600; color: var(--purple-d); }
+.cal-grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 6px; }
+.cal-weekday { text-align: center; font-size: 11px; color: var(--text-soft); padding: 4px 0; font-weight: 500; }
+.cal-cell { aspect-ratio: 1; border-radius: 10px; background: var(--grad-soft); border: 1px solid rgba(168,85,247,.12); position: relative; overflow: hidden; display: flex; flex-direction: column; min-height: 44px; }
+.cal-cell.empty { background: transparent; border: none; }
+.cal-cell.has { cursor: pointer; }
+.cal-cell.has:active { transform: scale(.97); }
+.cal-num { position: absolute; top: 3px; left: 5px; font-size: 10px; color: var(--text-soft); z-index: 2; background: rgba(255,255,255,.72); padding: 1px 5px; border-radius: 999px; }
+.cal-content { flex: 1; display: grid; place-items: center; font-size: 20px; }
+.cal-content img { width: 100%; height: 100%; object-fit: cover; border-radius: 10px; }

@@ -28,6 +28,7 @@ function toast(msg) {
 
 /* ---------- 全局状态 ---------- */
 const state = { view: 'amazon', growth: 'photo', plan: 'diet', play: 'douyin', amazon: 'news' };
+let dailyCal = { year: new Date().getFullYear(), month: new Date().getMonth() };
 
 /* ============================================================
    导航
@@ -91,11 +92,13 @@ function listItem(it, opts = {}) {
    ============================================================ */
 function viewAmazon() {
   const S = window.SEED.amazon;
-  const tabs = [['news', '📰 政策新闻'], ['sales', '📊 销量数据'], ['market', '🔍 市场分析']];
+  const tabs = [['news', '📰 政策新闻'], ['sales', '📊 销量数据'], ['market', '🔍 市场分析'], ['interview', '💬 面试问答'], ['tips', '🎯 运营技巧']];
   const inner = {
     news: viewAmazonNews,
     sales: viewAmazonSales,
-    market: viewAmazonMarket
+    market: viewAmazonMarket,
+    interview: viewAmazonInterview,
+    tips: viewAmazonTips
   }[state.amazon]();
   return `
   <div class="topbar"><h1>📦 Amazon 运营台</h1><span class="pill">美国站 · 紧固件 / 气动钉枪</span></div>
@@ -162,6 +165,14 @@ function renderFeed(d) {
     ${it.summary ? `<div class="body" style="color:var(--purple-d);line-height:1.7">📝 ${esc(it.summary)}</div>` : ''}
     <div class="meta">来源：${esc(it.source || '—')} · <a href="${esc(it.link)}" target="_blank" rel="noopener">查看原文 ↗</a></div>
   </div>`).join('');
+}
+function viewAmazonInterview() {
+  const seed = window.SEED.amazon.interview || [];
+  return `<div class="card"><h2>💬 亚马逊运营面试问答</h2><p class="desc">常见面试题 + 回答思路，面试前过一遍。</p>${seed.map(it => listItem(it)).join('')}</div>`;
+}
+function viewAmazonTips() {
+  const seed = window.SEED.amazon.tips || [];
+  return `<div class="card"><h2>🎯 亚马逊美国站运营技巧</h2><p class="desc">选品、广告、转化、物流、合规、品牌实战技巧。</p>${seed.map(it => listItem(it)).join('')}</div>`;
 }
 function viewAmazonSales() {
   const owners = ['负责人A', '负责人B', '负责人C', '负责人D']; // 汇保 4 个 listing 负责人
@@ -358,11 +369,20 @@ function renderObjCard(o) {
     <div class="body">${esc(o.body || '')}</div>
   </div>`;
 }
+function renderPlayItem(x) {
+  if (typeof x === 'string') return `<div class="item"><div class="body">${esc(x)}</div></div>`;
+  if (x.link) return `<a class="item play-link-card" href="${esc(x.link)}" target="_blank" rel="noopener">
+    <div class="head"><span class="title">${esc(x.text || '链接')}</span><span class="meta">↗ 打开</span></div>
+    ${x.body ? `<div class="body">${esc(x.body)}</div>` : ''}
+  </a>`;
+  return `<div class="item"><div class="head"><span class="title">${esc(x.text || '')}</span></div><div class="body">${esc(x.body || '')}</div></div>`;
+}
 function viewPlay() {
   const S = window.SEED.play;
   const tabs = [
     ['douyin', '🎵 抖音'], ['xhs', '📕 小红书'], ['positive', '✨ 正能量'],
-    ['national', '🇨🇳 国家新闻'], ['ai', '🤖 AI资讯'], ['aitips', '💡 AI技巧'], ['werewolf', '🐺 狼人杀']
+    ['national', '🇨🇳 国家新闻'], ['ai', '🤖 AI资讯'], ['aitips', '💡 AI技巧'], ['werewolf', '🐺 狼人杀'],
+    ['home', '🏠 家居收纳'], ['sing', '🎤 学唱歌'], ['dance', '💃 学跳舞'], ['posture', '🧘 体态']
   ];
   const cur = state.play;
   const curLabel = (tabs.find(t => t[0] === cur) || [,''])[1];
@@ -373,15 +393,19 @@ function viewPlay() {
     national: '国家大事与民生政策，保持关注。',
     ai: 'AI 平台动态整合推送：精选摘要 + 每日实时快讯。',
     aitips: 'AI 使用技巧：把大模型用得更顺手。',
-    werewolf: '狼人杀玩法技巧：从发言到归票的思路。'
+    werewolf: '狼人杀玩法技巧：从发言到归票的思路。',
+    home: '家居收纳技巧：让小空间变好用。',
+    sing: '零基础学唱歌：呼吸、音准、发声、情感表达。',
+    dance: '零基础学跳舞：基本功、跟舞、录舞技巧。',
+    posture: '体态改正：动作展示 + 日常习惯。'
   };
   let body = '';
-  const STR = ['douyin', 'xhs', 'positive', 'national'];
+  const STR = ['douyin', 'xhs', 'positive', 'national', 'home', 'sing', 'dance', 'posture'];
   if (STR.includes(cur)) {
     const key = cur === 'xhs' ? 'xiaohongshu' : cur;
     const seedArr = S[key] || [];
     const user = DB.get('play_' + cur, []);
-    body = [...user, ...seedArr].map(x => `<div class="item"><div class="body">${esc(x)}</div></div>`).join('');
+    body = [...user, ...seedArr].map(renderPlayItem).join('');
   } else if (cur === 'ai') {
     const seedArr = (S.ai || []).map(x => ({ title: x.title, body: x.summary }));
     const user = DB.get('play_ai', []).map(x => ({ title: '📝 我的笔记', body: x }));
@@ -393,17 +417,16 @@ function viewPlay() {
     body = [...user, ...seedArr].map(renderObjCard).join('');
   }
   setTimeout(() => { if (state.view === 'play' && state.play === 'ai') loadAiLive(); }, 30);
-  return `<div class="topbar"><h1>🎮 Play 娱乐台</h1><span class="pill">抖音 · 小红书 · 正能量 · 要闻 · AI</span></div>
+  return `<div class="topbar"><h1>🎮 Play 娱乐台</h1><span class="pill">抖音 · 小红书 · 正能量 · 要闻 · AI · 生活 · 兴趣</span></div>
     <div class="subtabs">${tabs.map(t => `<div class="subtab ${cur === t[0] ? 'active' : ''}" data-play="${t[0]}">${t[1]}</div>`).join('')}</div>
     <div class="card"><h2>${esc(curLabel)}</h2>
       <p class="desc">${esc(descMap[cur] || '')}</p>
       ${body || '<p class="muted">暂无内容。</p>'}
       <hr class="hr"/><h2 style="font-size:15px">＋ 添加一条</h2>
-      <textarea id="play_text" placeholder="粘贴你看到的热点 / 技巧 / 新闻…"></textarea>
+      <textarea id="play_text" placeholder="粘贴你看到的热点 / 技巧 / 新闻 / 链接…"></textarea>
       <button class="btn sm" style="margin-top:10px" data-act="addPlay" data-key="${cur}">保存</button>
     </div>`;
-}
-function loadAiLive() {
+}function loadAiLive() {
   const box = document.getElementById('ai_live');
   if (!box) return;
   fetch('./backend/data/news_ai.json', { cache: 'no-store' })
@@ -613,6 +636,20 @@ function viewDaily() {
     <button class="btn sm" style="margin-top:10px" data-act="saveJournal">保存今日日记</button>
   </div>
   <div class="card">
+    <h2>📅 照片日历</h2>
+    <p class="desc">点击日期查看当天日记；有图的格子会显示照片。</p>
+    <div class="cal-header">
+      <button class="btn ghost sm" data-act="calPrev">← 上月</button>
+      <span class="cal-title">${dailyCal.year} 年 ${dailyCal.month + 1} 月</span>
+      <button class="btn ghost sm" data-act="calNext">下月 →</button>
+    </div>
+    <div class="cal-grid">
+      <div class="cal-weekday">一</div><div class="cal-weekday">二</div><div class="cal-weekday">三</div><div class="cal-weekday">四</div><div class="cal-weekday">五</div><div class="cal-weekday">六</div><div class="cal-weekday">日</div>
+      ${renderCalCells(dailyCal.year, dailyCal.month, all)}
+    </div>
+    <div id="cal-detail"></div>
+  </div>
+  <div class="card">
     <h2>📔 日记墙</h2>
     <div class="journal-grid">
       ${all.map(j => `<div class="jcard">
@@ -621,6 +658,24 @@ function viewDaily() {
       </div>`).join('') || '<p class="muted">还没有日记，记下今天吧～</p>'}
     </div>
   </div>`;
+}
+function renderCalCells(year, month, journals) {
+  const map = {};
+  journals.forEach(j => map[j.date] = j);
+  const firstDay = new Date(year, month, 1).getDay(); // 0=Sun
+  const daysInMonth = new Date(year, month + 1, 0).getDate();
+  const offset = (firstDay + 6) % 7; // Monday start
+  let html = '';
+  for (let i = 0; i < offset; i++) html += '<div class="cal-cell empty"></div>';
+  for (let d = 1; d <= daysInMonth; d++) {
+    const date = `${year}-${String(month + 1).padStart(2, '0')}-${String(d).padStart(2, '0')}`;
+    const j = map[date];
+    let content = '';
+    if (j?.img) content = `<img src="${j.img}" loading="lazy">`;
+    else if (j?.mood) content = `<span style="font-size:22px">${j.mood}</span>`;
+    html += `<div class="cal-cell ${j ? 'has' : ''}" data-act="calCell" data-date="${date}"><span class="cal-num">${d}</span>${content ? `<div class="cal-content">${content}</div>` : ''}</div>`;
+  }
+  return html;
 }
 
 /* ============================================================
@@ -751,6 +806,21 @@ function handleAct(el) {
         DB.set('journal', arr); toast('日记已保存 💜'); renderView();
       };
       if (file) readImage(file).then(finish); else finish(recImg(date));
+      break;
+    }
+    case 'calPrev': { dailyCal.month--; if (dailyCal.month < 0) { dailyCal.month = 11; dailyCal.year--; } renderView(); break; }
+    case 'calNext': { dailyCal.month++; if (dailyCal.month > 11) { dailyCal.month = 0; dailyCal.year++; } renderView(); break; }
+    case 'calCell': {
+      const date = el.dataset.date;
+      const j = DB.get('journal', []).find(x => x.date === date);
+      const box = $('#cal-detail');
+      if (!box) return;
+      if (!j) { box.innerHTML = '<p class="muted" style="margin-top:10px">这一天还没有日记。</p>'; break; }
+      box.innerHTML = `<div class="item" style="margin-top:10px">
+        <div class="head"><span class="title">${j.date}</span><span class="meta">${j.mood || ''}</span></div>
+        ${j.img ? `<img src="${j.img}" style="max-width:140px;border-radius:10px;margin-top:6px">` : ''}
+        <div class="body">${esc(j.text || '')}</div>
+      </div>`;
       break;
     }
   }

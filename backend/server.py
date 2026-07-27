@@ -100,6 +100,35 @@ def load_news():
         return {'updated': None, 'count': 0, 'items': []}
 
 
+def load_old_summaries():
+    """保留已有中文摘要，按 link/title 做 key。"""
+    try:
+        d = load_news()
+        m = {}
+        for it in d.get('items', []):
+            if it.get('summary'):
+                if it.get('link'):
+                    m[it['link']] = it['summary']
+                if it.get('title'):
+                    m[it['title']] = it['summary']
+        return m
+    except Exception:
+        return {}
+
+
+def merge_summaries(items):
+    """把旧摘要合并到新抓取条目，避免每日被冲掉。"""
+    old = load_old_summaries()
+    if not old:
+        return items
+    for it in items:
+        if it.get('link') in old:
+            it['summary'] = old[it['link']]
+        elif it.get('title') in old:
+            it['summary'] = old[it['title']]
+    return items
+
+
 # ───────── 推送 ─────────
 def push_telegram(text):
     if not (TG_TOKEN and TG_CHAT_ID):
@@ -155,6 +184,7 @@ def job():
     print(f'[{datetime.now():%H:%M:%S}] 开始抓取亚马逊新闻…')
     items = fetch_news()
     if items:
+        items = merge_summaries(items)
         save_news(items)
         push_all(items)
         print(f'[{datetime.now():%H:%M:%S}] 完成，获取 {len(items)} 条，已推送')
@@ -195,6 +225,8 @@ def api_refresh():
     if REFRESH_TOKEN and request.args.get('token') != REFRESH_TOKEN:
         return jsonify({'ok': False, 'error': 'unauthorized'}), 403
     items = fetch_news()
+    if items:
+        items = merge_summaries(items)
     payload = save_news(items) if items else load_news()
     return jsonify({'ok': True, 'count': payload.get('count', 0),
                     'updated': payload.get('updated')})

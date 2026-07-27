@@ -134,10 +134,21 @@ function loadAmazonFeed() {
     if (!cache) box.innerHTML = '<p class="muted">当前环境不支持自动拉取，将显示示例内容。</p>';
     return;
   }
-  fetch('./api/news?topic=amazon').then(r => r.ok ? r.json() : null).then(d => {
-    if (d && d.items && d.items.length) { DB.set('amz_feed', d); box.innerHTML = renderFeed(d); }
-    else if (!cache) box.innerHTML = '<p class="muted">自动简报暂不可用（离线或后端未启动），将显示示例内容。</p>';
-  }).catch(() => { if (!cache) box.innerHTML = '<p class="muted">自动简报暂不可用（离线或后端未启动），将显示示例内容。</p>'; });
+  // 优先后端 API；失败时回退到静态部署的 news.json（GitHub Pages 模式）
+  fetch('./api/news?topic=amazon')
+    .then(r => r.ok ? r.json() : Promise.reject())
+    .then(d => { if (d && d.items && d.items.length) { DB.set('amz_feed', d); box.innerHTML = renderFeed(d); } else fallbackFeed(cache, box); })
+    .catch(() => fetch('./backend/data/news.json?t=' + Date.now())
+      .then(r => r.ok ? r.json() : null)
+      .then(d => {
+        if (d && d.items && d.items.length) { DB.set('amz_feed', d); box.innerHTML = renderFeed(d); }
+        else fallbackFeed(cache, box);
+      })
+      .catch(() => fallbackFeed(cache, box)));
+}
+function fallbackFeed(cache, box) {
+  if (cache) return;
+  box.innerHTML = '<p class="muted">自动简报暂不可用（离线或后端未启动），将显示示例内容。</p>';
 }
 function renderFeed(d) {
   const items = d.items || [];

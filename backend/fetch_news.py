@@ -20,6 +20,20 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(HERE, 'data')
 NEWS_FILE = os.path.join(DATA_DIR, 'news.json')
 os.makedirs(DATA_DIR, exist_ok=True)
+NEWS_AI_FILE = os.path.join(DATA_DIR, 'news_ai.json')
+
+AI_QUERIES = os.environ.get(
+    'AI_NEWS_QUERIES',
+    'OpenAI,Anthropic Claude,Google DeepMind,Gemini AI,'
+    'LLM release,AI model update,Midjourney,AI agent platform,'
+    'DeepSeek,Qwen Alibaba,AI video generation'
+).split(',')
+
+def write_payload(path, items):
+    payload = {'updated': datetime.now().strftime('%Y-%m-%d %H:%M'),
+               'count': len(items), 'items': items}
+    with open(path, 'w', encoding='utf-8') as f:
+        json.dump(payload, f, ensure_ascii=False, indent=2)
 
 QUERIES = os.environ.get(
     'NEWS_QUERIES',
@@ -30,9 +44,11 @@ QUERIES = os.environ.get(
 RSS_TMPL = 'https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en'
 
 
-def fetch_news():
+def fetch_news(queries=None):
+    if queries is None:
+        queries = QUERIES
     items, seen = [], set()
-    for q in [x.strip() for x in QUERIES if x.strip()]:
+    for q in [x.strip() for x in queries if x.strip()]:
         try:
             url = RSS_TMPL.format(q=urllib.parse.quote(q))
             req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
@@ -54,6 +70,11 @@ def fetch_news():
             print('[fetch] failed query "%s": %s' % (q, e))
     items.sort(key=lambda x: x.get('pubDate', ''), reverse=True)
     return items[:50]
+
+
+def fetch_ai_news():
+    """Fetch AI-platform news via Google News RSS (no LLM needed)."""
+    return fetch_news(AI_QUERIES)
 
 
 def load_old_summaries():
@@ -118,6 +139,14 @@ def summarize_with_llm(items):
 def main():
     print('[%s] start fetching' % datetime.now().strftime('%H:%M:%S'))
     # 若未配置 LLM key，且已有带中文摘要的数据，则保留，不覆盖（避免每日被冲掉）
+    # AI 快讯：独立文件，无需 LLM，每日刷新（放在 Amazon 守卫之前，确保始终更新）
+    try:
+        ai_items = fetch_ai_news()
+        write_payload(NEWS_AI_FILE, ai_items)
+        print('[ai] wrote %d AI items -> %s' % (len(ai_items), NEWS_AI_FILE))
+    except Exception as e:
+        print('[ai] fetch failed:', e)
+    # Amazon 新闻：未配置 LLM 且有旧摘要则保留，不覆盖
     old = load_old_summaries()
     if not os.environ.get('LLM_API_KEY') and old:
         print('[skip] no LLM_API_KEY and summaries exist, keep existing news.json')
@@ -131,12 +160,7 @@ def main():
             it['summary'] = old[it['link']]
         elif it['title'] in old and old[it['title']]:
             it['summary'] = old[it['title']]
-    payload = {
-        'updated': datetime.now().strftime('%Y-%m-%d %H:%M'),
-        'count': len(items), 'items': items
-    }
-    with open(NEWS_FILE, 'w', encoding='utf-8') as f:
-        json.dump(payload, f, ensure_ascii=False, indent=2)
+    write_payload(NEWS_FILE, items)
     print('[%s] done, wrote %d items -> %s' % (datetime.now().strftime('%H:%M:%S'), len(items), NEWS_FILE))
 
 

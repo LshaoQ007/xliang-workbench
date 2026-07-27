@@ -29,6 +29,7 @@ jobs:
           PUSH_HOUR: '7'
           PUSH_MINUTE: '30'
           NEWS_QUERIES: 'Amazon seller policy,Amazon FBA update,Amazon sellers news,Amazon Seller Central,amazon.com marketplace'
+          AI_NEWS_QUERIES: 'OpenAI,Anthropic Claude,Google DeepMind,Gemini AI,LLM release,AI model update,Midjourney,AI agent platform,DeepSeek,Qwen Alibaba,AI video generation'
           # 可选：配置以下 Secrets 后自动生成中文摘要（不填则复用已有摘要）
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
           LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
@@ -40,10 +41,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add backend/data/news.json
+          git add backend/data/news.json backend/data/news_ai.json
           if git diff --staged --quiet; then
             echo "无变化，跳过提交"
           else
-            git commit -m "自动更新新闻 $(date +'%Y-%m-%d %H:%M')"
+            git commit -m "自动更新新闻与 AI 快讯 $(date +'%Y-%m-%d %H:%M')"
             git push
           fi

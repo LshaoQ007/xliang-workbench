@@ -215,3 +215,15 @@ td input { padding: 7px 9px; font-size: 13px; }
 /* 滚动条 */
 ::-webkit-scrollbar { width: 8px; height: 8px; }
 ::-webkit-scrollbar-thumb { background: rgba(168,85,247,.25); border-radius: 8px; }
+
+/* ===== Play · AI 实时快讯 ===== */
+.live-wrap { margin-top: 10px; display: flex; flex-direction: column; gap: 8px; }
+.live-item { display: block; text-decoration: none; color: inherit;
+  background: var(--grad-soft); border: 1px solid rgba(168,85,247,.18);
+  border-radius: 14px; padding: 10px 12px; transition: transform .08s ease; }
+.live-item:active { transform: scale(.99); }
+.live-src { display: inline-block; font-size: 11px; color: #fff;
+  background: linear-gradient(90deg, var(--purple), var(--pink));
+  padding: 1px 8px; border-radius: 999px; margin-bottom: 4px; }
+.live-title { display: block; font-size: 14px; line-height: 1.4; }
+.live-date { display: block; font-size: 11px; color: var(--text-soft); margin-top: 3px; }

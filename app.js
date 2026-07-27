@@ -348,23 +348,73 @@ function aiReply(text) {
 /* ============================================================
    3. PLAY
    ============================================================ */
+function renderObjCard(o) {
+  return `<div class="item">
+    <div class="head"><span class="title">${esc(o.title || '')}</span></div>
+    <div class="body">${esc(o.body || '')}</div>
+  </div>`;
+}
 function viewPlay() {
   const S = window.SEED.play;
-  const tabs = [['douyin', '🎵 抖音'], ['xhs', '📕 小红书'], ['positive', '✨ 正能量'], ['national', '🇨🇳 国家新闻']];
+  const tabs = [
+    ['douyin', '🎵 抖音'], ['xhs', '📕 小红书'], ['positive', '✨ 正能量'],
+    ['national', '🇨🇳 国家新闻'], ['ai', '🤖 AI资讯'], ['aitips', '💡 AI技巧'], ['werewolf', '🐺 狼人杀']
+  ];
+  const cur = state.play;
+  const curLabel = (tabs.find(t => t[0] === cur) || [,''])[1];
+  const descMap = {
+    douyin: '抖音热点整理：蹭热点、找选题、攒素材。',
+    xhs: '小红书趋势：穿搭 / 护肤 / 旅行 / 摄影，收藏灵感。',
+    positive: '正能量视频与 UP 主推荐，治愈自己。',
+    national: '国家大事与民生政策，保持关注。',
+    ai: 'AI 平台动态整合推送：精选摘要 + 每日实时快讯。',
+    aitips: 'AI 使用技巧：把大模型用得更顺手。',
+    werewolf: '狼人杀玩法技巧：从发言到归票的思路。'
+  };
   let body = '';
-  if (state.play === 'douyin') body = S.douyin.map(x => `<div class="item"><div class="body">${esc(x)}</div></div>`).join('');
-  if (state.play === 'xhs') body = S.xiaohongshu.map(x => `<div class="item"><div class="body">${esc(x)}</div></div>`).join('');
-  if (state.play === 'positive') body = S.positive.map(x => `<div class="item"><div class="body">${esc(x)}</div></div>`).join('');
-  if (state.play === 'national') body = S.national.map(x => `<div class="item"><div class="body">${esc(x)}</div></div>`).join('');
-  return `<div class="topbar"><h1>🎮 Play 娱乐台</h1><span class="pill">抖音 · 小红书 · 正能量 · 要闻</span></div>
-    <div class="subtabs">${tabs.map(t => `<div class="subtab ${state.play === t[0] ? 'active' : ''}" data-play="${t[0]}">${t[1]}</div>`).join('')}</div>
-    <div class="card"><h2>${tabs.find(t => t[0] === state.play)[1]} 热点整理</h2>
-      <p class="desc">每日整理两大平台热点，推送正能量视频与国家重大新闻。</p>
+  const STR = ['douyin', 'xhs', 'positive', 'national'];
+  if (STR.includes(cur)) {
+    const key = cur === 'xhs' ? 'xiaohongshu' : cur;
+    const seedArr = S[key] || [];
+    const user = DB.get('play_' + cur, []);
+    body = [...user, ...seedArr].map(x => `<div class="item"><div class="body">${esc(x)}</div></div>`).join('');
+  } else if (cur === 'ai') {
+    const seedArr = (S.ai || []).map(x => ({ title: x.title, body: x.summary }));
+    const user = DB.get('play_ai', []).map(x => ({ title: '📝 我的笔记', body: x }));
+    body = [...user, ...seedArr].map(renderObjCard).join('');
+    body += `<div id="ai_live" class="muted" style="margin-top:12px">正在加载实时快讯…</div>`;
+  } else if (cur === 'aitips' || cur === 'werewolf') {
+    const seedArr = (S[cur] || []).map(x => ({ title: x.title, body: x.body }));
+    const user = DB.get('play_' + cur, []).map(x => ({ title: '📝 我的笔记', body: x }));
+    body = [...user, ...seedArr].map(renderObjCard).join('');
+  }
+  setTimeout(() => { if (state.view === 'play' && state.play === 'ai') loadAiLive(); }, 30);
+  return `<div class="topbar"><h1>🎮 Play 娱乐台</h1><span class="pill">抖音 · 小红书 · 正能量 · 要闻 · AI</span></div>
+    <div class="subtabs">${tabs.map(t => `<div class="subtab ${cur === t[0] ? 'active' : ''}" data-play="${t[0]}">${t[1]}</div>`).join('')}</div>
+    <div class="card"><h2>${esc(curLabel)}</h2>
+      <p class="desc">${esc(descMap[cur] || '')}</p>
       ${body || '<p class="muted">暂无内容。</p>'}
       <hr class="hr"/><h2 style="font-size:15px">＋ 添加一条</h2>
-      <textarea id="play_text" placeholder="粘贴你看到的热点/视频/新闻…"></textarea>
-      <button class="btn sm" style="margin-top:10px" data-act="addPlay" data-key="${state.play}">保存</button>
+      <textarea id="play_text" placeholder="粘贴你看到的热点 / 技巧 / 新闻…"></textarea>
+      <button class="btn sm" style="margin-top:10px" data-act="addPlay" data-key="${cur}">保存</button>
     </div>`;
+}
+function loadAiLive() {
+  const box = document.getElementById('ai_live');
+  if (!box) return;
+  fetch('./backend/data/news_ai.json', { cache: 'no-store' })
+    .then(r => r.ok ? r.json() : null)
+    .then(d => {
+      const items = (d && d.items) || [];
+      if (!items.length) { box.innerHTML = '<span class="muted">暂无实时快讯（每日自动更新）</span>'; return; }
+      box.outerHTML = '<div class="live-wrap">' + items.slice(0, 12).map(it =>
+        `<a class="live-item" href="${esc(it.link || '#')}" target="_blank" rel="noopener">
+           <span class="live-src">${esc(it.source || 'AI快讯')}</span>
+           <span class="live-title">${esc(it.title || '')}</span>
+           <span class="live-date">${esc((it.pubDate || '').slice(0, 16))}</span>
+         </a>`).join('') + '</div>';
+    })
+    .catch(() => { box.innerHTML = '<span class="muted">实时快讯加载失败（离线或尚未生成）</span>'; });
 }
 
 /* ============================================================

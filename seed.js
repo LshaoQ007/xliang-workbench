@@ -151,6 +151,39 @@ window.SEED = {
       { title: '《我的阿勒泰》', note: '慢生活治愈系，和李娟文字一样干净。适合睡前看，给脑子放个假。' },
       { title: '《奥本海默》', note: '诺兰叙事野心之作，信息密度炸裂。看完可和 AI 探讨“技术与责任”的边界。' },
       { title: '《年会不能停！》', note: '职场喜剧照进现实，摸鱼与裁员的荒诞，打工人看完又笑又心酸。' }
+    ],
+    english: [
+      { tag: '专八词汇', title: 'ambiguous', body: 'adj. 模棱两可的、含糊的。例：His ambiguous reply left us unsure.（他含糊的回答让我们无法确定。）' },
+      { tag: '专八词汇', title: 'scrutinize', body: 'v. 仔细检查、审查。例：The committee will scrutinize the proposal.（委员会将仔细审查该提案。）' },
+      { tag: '专八词汇', title: 'ubiquitous', body: 'adj. 无处不在的。例：Smartphones are ubiquitous nowadays.（如今智能手机无处不在。）' },
+      { tag: '专八词汇', title: 'pertinent', body: 'adj. 相关的、中肯的。例：Please keep your questions pertinent to the topic.（请让问题与主题相关。）' },
+      { tag: '专八词汇', title: 'mitigate', body: 'v. 减轻、缓解。例：Steps were taken to mitigate the risk.（已采取措施缓解风险。）' },
+      { tag: '专八词汇', title: 'candor', body: 'n. 坦率、真诚。例：She spoke with surprising candor.（她出人意料地坦率。）' },
+      { tag: '口语跟读', title: '影子跟读法', body: '播放原声同时小声跟读，落后半句，专练语感与连读。素材：TED / 美剧 / 新闻，每天 10 分钟。' },
+      { tag: '口语跟读', title: '万能句型', body: '"Could you elaborate on that?"（能展开说说吗？）/"I couldn\'t agree more."（非常同意）/"To put it simply,"（简单说）——背熟可直接套用。' },
+      { tag: '口语跟读', title: '连读弱读', body: '注意 want to→wanna、going to→gonna、did you→d\'ju 等弱读，跟读时模仿节奏而非逐词。' },
+      { tag: '口语跟读', title: '录音对比', body: '同一段跟读前后各录一次，对比原声找差距（重音/语调/吞音），比单纯听更有效。' },
+      { tag: '影视句段', title: '《阿甘正传》', body: '"Life was like a box of chocolates, you never know what you\'re gonna get." 生活就像一盒巧克力，你永远不知道下一颗是什么味道。' },
+      { tag: '影视句段', title: '《当幸福来敲门》', body: '"You got a dream, you gotta protect it." 有了梦想，就要守护它。' },
+      { tag: '影视句段', title: '《小王子》(英)', body: '"It is only with the heart that one can see rightly." 只有用心才能看清，本质的东西肉眼看不见。' }
+    ],
+    korean: [
+      { tag: '发音', title: '韩文（字母）', body: '由 19 个辅音 + 21 个元音组成，是表音文字，看到就能拼读。先学 ㅎㄱㄷㅂㅈㅅ 等基础辅音。' },
+      { tag: '发音', title: '基础元音', body: 'ㅏ(a) ㅓ(eo) ㅗ(o) ㅜ(u) ㅡ(eu) ㅣ(i)，配合辅音拼成音节，如 가(ga) 거(geo)。' },
+      { tag: '单词', title: '你好/谢谢/对不起', body: '안녕하세요(annyeonghaseyo) 你好；감사합니다(gamsahamnida) 谢谢；죄송합니다(joesonghamnida) 对不起。' },
+      { tag: '单词', title: '数字 1-5', body: '하나(hana)1 둘(dul)2 셋(set)3 넷(net)4 다섯(daseot)5。韩语有"固有词"与"汉字词"两套数字系统。' },
+      { tag: '句型', title: '입니다 / 是…', body: '名词 + 입니다 表"是"（敬语）。例：학생입니다(haksaeng-imnida) 我是学生。' },
+      { tag: '句型', title: '었어요 / 过去式', body: '动词词干 + 았/었어요 表过去。例：갔어요(gasseoyo) 去了；먹었어요(meogeosseoyo) 吃了。' },
+      { tag: '文化', title: '敬语很重要', body: '韩语分半语(반말)与敬语(존댓말)，对陌生人或长辈用敬语(-요/-습니다)，对朋友可用半语。' }
+    ],
+    japanese: [
+      { tag: '假名', title: '五十音图', body: '日语基础：平假名(ひらがな)46 + 片假名(カタカナ)46。先背平假名 あいうえお，再练片假名。' },
+      { tag: '假名', title: 'あ行', body: 'あ(a) い(i) う(u) え(e) お(o)。平假名源自汉字草体，如 あ 来自"安"。' },
+      { tag: '单词', title: '你好/谢谢/对不起', body: 'こんにちは(kon\'nichiwa) 你好；ありがとう(arigatō) 谢谢；ごめんなさい(gomen nasai) 对不起。' },
+      { tag: '单词', title: '数字 1-5', body: '一(いち ichi) 二(に ni) 三(さん san) 四(よん yon) 五(ご go)。量词随物品变化，是日语难点。' },
+      { tag: '句型', title: '～です / 是…', body: '名词 + です 表"是"（礼貌体）。例：学生です(gakusei desu) 我是学生。否定：～ではありません。' },
+      { tag: '句型', title: '～ます / 礼貌动词', body: '动词ます形变礼貌体。例：行きます(ikimasu) 去；食べます(tabemasu) 吃。过去：～ました。' },
+      { tag: '文化', title: '敬语体系', body: '日语有敬语(そんけいご)、谦让语(けんじょうご)、礼貌语(ていねいご)，职场与长辈场景务必用对。' }
     ]
   },
 

@@ -233,6 +233,7 @@ const GROWTH_TABS = [
   ['photo', '📷 摄影修图'], ['skincare', '💄 护肤化妆'], ['music', '🎵 歌曲分享'],
   ['finance', '💰 理财学习'], ['law', '⚖️ 法律知识'], ['books', '📚 书籍阅读'],
   ['quotes', '✍️ 句段记录'], ['career', '💼 职场成长'], ['film', '🎬 影视综艺']
+, ['english', '🇬🇧 英语学习'], ['korean', '🇰🇷 韩语零基础'], ['japanese', '🇯🇵 日语零基础']
 ];
 function viewGrowth() {
   const inner = {
@@ -244,9 +245,12 @@ function viewGrowth() {
     books: gBooks(),
     quotes: gQuotes(),
     career: gList('career', '职场成长', '口才 · Excel 切片/透视表等'),
-    film: gFilm()
+    film: gFilm(),
+    english: gList('english', '英语学习', '专八词汇 · 口语跟读 · 影视句段'),
+    korean: gList('korean', '韩语零基础', '发音 · 单词 · 实用句型'),
+    japanese: gList('japanese', '日语零基础', '五十音 · 单词 · 实用句型')
   }[state.growth];
-  return `<div class="topbar"><h1>🌱 Growth 成长台</h1><span class="pill">九大板块 · 每日充电</span></div>
+  return `<div class="topbar"><h1>🌱 Growth 成长台</h1><span class="pill">十二大板块 · 每日充电</span></div>
     <div class="subtabs">${GROWTH_TABS.map(t => `<div class="subtab ${state.growth === t[0] ? 'active' : ''}" data-grow="${t[0]}">${t[1]}</div>`).join('')}</div>
     ${inner}`;
 }

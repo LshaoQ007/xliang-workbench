@@ -27,7 +27,7 @@ function toast(msg) {
 }
 
 /* ---------- 全局状态 ---------- */
-const state = { view: 'amazon', growth: 'photo', plan: 'diet', play: 'douyin', amazon: 'news' };
+const state = { view: 'amazon', growth: 'photo', plan: 'diet', play: 'douyin', amazon: 'news', driveMode: 'daily' };
 let dailyCal = { year: new Date().getFullYear(), month: new Date().getMonth() };
 
 /* ============================================================
@@ -387,7 +387,7 @@ function viewPlay() {
   const tabs = [
     ['douyin', '🎵 抖音'], ['xhs', '📕 小红书'], ['positive', '✨ 正能量'],
     ['national', '🇨🇳 国家新闻'], ['ai', '🤖 AI资讯'], ['aitips', '💡 AI技巧'], ['werewolf', '🐺 狼人杀'],
-    ['home', '🏠 家居收纳'], ['sing', '🎤 学唱歌'], ['dance', '💃 学跳舞'], ['posture', '🧘 体态']
+    ['home', '🏠 家居收纳'], ['sing', '🎤 学唱歌'], ['dance', '💃 学跳舞'], ['posture', '🧘 体态'], ['drive', '🚗 驾照']
   ];
   const cur = state.play;
   const curLabel = (tabs.find(t => t[0] === cur) || [,''])[1];
@@ -402,7 +402,8 @@ function viewPlay() {
     home: '家居收纳技巧：让小空间变好用。',
     sing: '零基础学唱歌：呼吸、音准、发声、情感表达。',
     dance: '零基础学跳舞：基本功、跟舞、录舞技巧。',
-    posture: '体态改正：动作展示 + 日常习惯。'
+    posture: '体态改正：动作展示 + 日常习惯。',
+    drive: '驾照考试零基础题库：每日一练自动换题，点选项看对错与解析。'
   };
   let body = '';
   const STR = ['douyin', 'xhs', 'positive', 'national', 'home', 'sing', 'dance', 'posture'];
@@ -420,10 +421,18 @@ function viewPlay() {
     const seedArr = (S[cur] || []).map(x => ({ title: x.title, body: x.body }));
     const user = DB.get('play_' + cur, []).map(x => ({ title: '📝 我的笔记', body: x }));
     body = [...user, ...seedArr].map(renderObjCard).join('');
+  } else if (cur === 'drive') {
+    body = viewDrive();
   }
   setTimeout(() => { if (state.view === 'play' && state.play === 'ai') loadAiLive(); }, 30);
+  const subtabs = `<div class="subtabs">${tabs.map(t => `<div class="subtab ${cur === t[0] ? 'active' : ''}" data-play="${t[0]}">${t[1]}</div>`).join('')}</div>`;
+  if (cur === 'drive') {
+    return `<div class="topbar"><h1>🎮 Play 娱乐台</h1><span class="pill">抖音 · 小红书 · 正能量 · 要闻 · AI · 生活 · 兴趣</span></div>
+    ${subtabs}
+    ${body}`;
+  }
   return `<div class="topbar"><h1>🎮 Play 娱乐台</h1><span class="pill">抖音 · 小红书 · 正能量 · 要闻 · AI · 生活 · 兴趣</span></div>
-    <div class="subtabs">${tabs.map(t => `<div class="subtab ${cur === t[0] ? 'active' : ''}" data-play="${t[0]}">${t[1]}</div>`).join('')}</div>
+    ${subtabs}
     <div class="card"><h2>${esc(curLabel)}</h2>
       <p class="desc">${esc(descMap[cur] || '')}</p>
       ${body || '<p class="muted">暂无内容。</p>'}
@@ -447,6 +456,72 @@ function viewPlay() {
          </a>`).join('') + '</div>';
     })
     .catch(() => { box.innerHTML = '<span class="muted">实时快讯加载失败（离线或尚未生成）</span>'; });
+}
+
+/* 确定性伪随机：同一天用同一 seed，保证"每日一练"当天题目固定 */
+function mulberry32(a) {
+  return function () {
+    a |= 0; a = (a + 0x6D2B79F5) | 0;
+    let t = Math.imul(a ^ (a >>> 15), 1 | a);
+    t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
+    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+  };
+}
+function viewDrive() {
+  const pool = window.SEED.play.drive || [];
+  if (!pool.length) return '<p class="muted">题库暂为空。</p>';
+  const date = todayStr();
+  const allMode = state.driveMode === 'all';
+  const letters = ['A', 'B', 'C', 'D'];
+  let picks;
+  if (allMode) {
+    picks = pool.map((q, i) => ({ ...q, _i: i }));
+  } else {
+    // 由日期字符串生成确定性 seed，打乱后取前 5 题
+    let h = 2166136261;
+    for (const c of date) { h ^= c.charCodeAt(0); h = Math.imul(h, 16777619); }
+    const rng = mulberry32(h >>> 0);
+    const idx = pool.map((_, i) => i);
+    for (let i = idx.length - 1; i > 0; i--) {
+      const j = Math.floor(rng() * (i + 1));
+      [idx[i], idx[j]] = [idx[j], idx[i]];
+    }
+    picks = idx.slice(0, Math.min(5, pool.length)).map(i => ({ ...pool[i], _i: i }));
+  }
+  const saved = DB.get('drive_' + date, {}); // { '<_i>': 'A' }
+  let correct = 0, answered = 0;
+  const cards = picks.map((q, qi) => {
+    const chosen = saved[String(q._i)];
+    const isAns = !!chosen;
+    if (isAns) { answered++; if (chosen === q.ans) correct++; }
+    const opts = q.opts.map((o, oi) => {
+      const L = letters[oi];
+      let cls = 'drive-opt';
+      if (isAns) { if (L === q.ans) cls += ' correct'; else if (L === chosen) cls += ' wrong'; }
+      const attr = isAns ? '' : `data-act="drivePick" data-q="${q._i}" data-opt="${L}"`;
+      return `<div class="${cls}" ${attr}><span class="dl">${L}</span>${esc(o)}</div>`;
+    }).join('');
+    const exp = isAns
+      ? `<div class="drive-exp">${chosen === q.ans ? '✅ 答对啦！' : '❌ 正确答案：' + q.ans + '。'}${esc(q.exp)}</div>`
+      : '';
+    return `<div class="drive-q">
+      <div class="drive-num">${allMode ? '全部' : '每日'} ${qi + 1}</div>
+      <div class="drive-text">${esc(q.q)}</div>
+      <div class="drive-opts">${opts}</div>
+      ${exp}
+    </div>`;
+  }).join('');
+  const prog = allMode ? '' : `<div class="drive-prog">📅 ${date} · 今日进度 ${answered}/${picks.length} · 答对 ${correct}</div>`;
+  const toggle = `<div class="drive-toggle">
+    <div class="subtab ${!allMode ? 'active' : ''}" data-act="driveMode" data-mode="daily">📅 每日一练</div>
+    <div class="subtab ${allMode ? 'active' : ''}" data-act="driveMode" data-mode="all">📚 全部 ${pool.length} 题</div>
+  </div>`;
+  return `<div class="drive-wrap">${toggle}${prog}
+    <div class="card"><h2>🚗 驾照考试 · 零基础题库</h2>
+      <p class="desc">科目一 / 科目四 基础题，零基础也能练。点选项看对错与解析；切到"每日一练"每天自动换 5 题。</p>
+      ${cards}
+    </div>
+  </div>`;
 }
 
 /* ============================================================
@@ -781,6 +856,15 @@ function handleAct(el) {
     }
     case 'addPlay': {
       const a = DB.get('play_' + el.dataset.key, []); a.unshift($('#play_text').value); DB.set('play_' + el.dataset.key, a); toast('已添加'); renderView(); break;
+    }
+    case 'driveMode': {
+      state.driveMode = el.dataset.mode || 'daily'; renderView(); break;
+    }
+    case 'drivePick': {
+      const date = todayStr();
+      const saved = DB.get('drive_' + date, {});
+      saved[String(el.dataset.q)] = el.dataset.opt;
+      DB.set('drive_' + date, saved); renderView(); break;
     }
     case 'saveDiet': {
       const date = $('#d_date').value || todayStr();

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28 00:49",
+  "updated": "2026-07-28 08:08",
   "count": 50,
   "items": [
     {
@@ -34,13 +34,6 @@
       "title": "NVIDIA Blackwell Sets STAC-AI Record for LLM Inference in Finance | NVIDIA Technical Blog - NVIDIA Developer",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbUVpUWZtZEhQUFdtQm5kUVlTWk5PbVM2aTUwaVJrTFpycUZkUHA4YUhrbTJRb1FyQjgxV3lmNzRMVjQ0dWNCU1RndUJZb0RiQV9ObEx4M1ZTVXV0dzMxZnJFZEg4WWlCZGpFR1JWd0ZUWk5UVmNreTZrYVp6VV9IZ3piS2JXcEhpbnVMbUNnMU9XeXhrY1lHRnlCak5JNlRYOEE?oc=5",
       "source": "NVIDIA Developer",
-      "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
-      "query": "LLM release"
-    },
-    {
-      "title": "Finnish Newsroom’s AI tool Wrongly Suggests Russian Drones Entered Airspace | by Clare Spencer | May, 2026 - Generative AI in the Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR1V3TFVfRkRXWGg3MGVULW1xWEJQYUpjUnBTVjhTVkFxeVlVWnVwdUhlbjFoUWJfSzgwTmpqZ0R5YkhLczJnTWVVZFNZU2JGcG0wVzd2OERsWXFMdVZWSy1aMFZNSUcxTDg4UkVFeHJHUXBKN2l4cTNlYk9FNkt5RkZvNFdhYUlBNzg3aTE4dnUyb3dWRUlYOVBtc1FhMDh2aWxOU0Jvdk5WWGFRVHZhMUM4dlBPT00xVlZqRWdkOA?oc=5",
-      "source": "Generative AI in the Newsroom",
       "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
       "query": "LLM release"
     },
@@ -84,6 +77,27 @@
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxSjhhNmprLUw4djBMbENiYnlqSjZ0c2lBR3ZEazNkMnlyTWFJZmlHWU1PLVdlRWx2enNxNkFOS041SWNfRTVsVHpnY2lJUVR6MFVISnU1MkI3dTJnWVVTb01ObDRPR3YwdTVHaTRDVnVWRUE3cVdnSUpTTQ?oc=5",
       "source": "The Guardian",
       "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
+      "query": "AI video generation"
+    },
+    {
+      "title": "OpenAI pulls the plug on Sora, the viral AI video app that sparked deepfake concerns - NPR",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNXNqYVpXc2FsNlhIMzZDRUQxNFVhYzFlRDdDQlJHS0ZibHRMQmVITnUyMDZja29DemZ2UktkX040V1kweHh4cUFXWVJQTTNPbi1pSzhYTHMzeGQ5R2U4MWF2SWJQLXlhQW45RkM0TUptVUhueEJzQkRua0huS2FIZWZIOVVuYmtVd1F5ZWFVZTMxejZlOTNzcG9IbEU0YV9JYVdKVjJMbHg0VmtLakJlaFhkTHA0WjQ3eHFBSVlZSGlaQjlv?oc=5",
+      "source": "NPR",
+      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
+      "query": "AI video generation"
+    },
+    {
+      "title": "An update on our model deprecation commitments for Claude Opus 3 - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xbjF4a3FWLXdtUmxfZ1R4SkdpNXBhcHQwUmdZRzNoekVfSmlPSXlxV0JXVWNnaDd4dlpFa3Y3TGJPZk9hQlU5ZXlYVC1JaHFyWkdEVnJoVDBycEpScFVlM2hHREoyakx1VVUzbTBB?oc=5",
+      "source": "Anthropic",
+      "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT",
+      "query": "AI model update"
+    },
+    {
+      "title": "Putting ideas in motion: Redefining AI video with Adobe Firefly - Adobe",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMlNVZXFaY2ZmTlA1UV9QWWlqRmdMM1A5UFRac0FKSld2Wk0tZFlXSlVFSHJKdFRqSGdJa21mMC16aE9uTFY0R0pLSUdSc096aDRHNzJXbTFfc0l1ZGxvZVZEMHBoTll1UHBTTDMxNzltZm0wOFBod2JNUzBlenRzbEdKX2ZkSC14ZVRnNVhzOTRERF8tb2pKSmMtWGdmNHZhR2p1UlpiYkJjeTQ?oc=5",
+      "source": "Adobe",
+      "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT",
       "query": "AI video generation"
     },
     {
@@ -178,20 +192,6 @@
       "query": "Gemini AI"
     },
     {
-      "title": "Framework Previews Its AMD Ryzen AI MAX+ PRO 495 PC Desktop With 192 GB Unified Memory That Effortlessly Runs DeepSeek V4-Flash at Q8 - Wccftech",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd3g3aHJpV1VWV0dlWVpTVTBpMkFtbXhYdmtXcV9pSnRqT2JKZlF0TEhDa2s2MUZDOHhwd1ViOFhxMVN5OGlUQnZ0bUctZDEyMW5qbjNQcVhXY0xqSDgwazFZSTI2ZVZYSFVHUVZ2bE11TW9SN2tzMmZfenIxR3dQelJSejAydVpSMjRzOVdXWHBYM1NOcEt2RnJpMldEUkpEMDVld0pSWdIBrAFBVV95cUxPX3BWYTNUWFdXYXlYMUlSQmpXY0RVMGo5cm9HM0loLVJhNTZXOGU4MTAyM3pHOUNSamwyTWJLTEpqY3R2X0VPcGhfTEhzQmlBRHVfZWxDRl9JQ1ZtVGcyaHU0YkRhdXpnRXRrVWU3NDhVZTdGRTU2MlBUSFVWX0VZcW9iSGNRUlI1WnVsZHdBSmlQRE9UcFd1TkFidXBvWVFUaUNSS2ltUDRnZmpX?oc=5",
-      "source": "Wccftech",
-      "pubDate": "Wed, 22 Jul 2026 20:35:05 GMT",
-      "query": "DeepSeek"
-    },
-    {
-      "title": "Alibaba's Qwen Model Raises Stakes In AI Race | The China Show | 7/20/2026 John Cena (J8HQ6oK70t) - Mshale",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NMk9Fd25jVUlwZlE4VWlXeDU3dWEzZno4TkVhT1JrT2FuRjRfXzZJQmxqNDBQSEptMG5rOW1FTUZtbW52NWxXeVU1em1TY2htRjBsczJ4RWdnSmVhWU5vOQ?oc=5",
-      "source": "Mshale",
-      "pubDate": "Wed, 22 Jul 2026 20:07:40 GMT",
-      "query": "Qwen Alibaba"
-    },
-    {
       "title": "OpenAI AI models went rogue during testing, triggering 'unprecedented' breach at startup - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT3oyVDNzekNWY3BJUUZLVGNsb3Z3VUhXc3pfSmtEZG96bzk2RFQ4MTZBWDdQVHlyZTlDOWhEN1o3dzVuekVuWUh2cWFPMy1SU0sxWnl3WkVSbFpKTzBqOU54WjlwM0Jfd185OWsxT1BLbGpHcmlaNHdCalhub0x2cVVBai11dVhPdEVsZERZWHo3anRQMi0yUGZEN0VVOEZHcEJuZ1pxMHp2U2dkSWNhYmhOOXR0aGJjVXVTdHE3MGw1aEgw?oc=5",
       "source": "Reuters",
@@ -227,6 +227,13 @@
       "query": "OpenAI"
     },
     {
+      "title": "OpenAI’s High-Stakes, High-Touch Push to Make AI Work for Business - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUWttaUNncEVSalJpeGlsRGF0MXhWNmZCN19ONjkxNXZ2QjN5MU82TkkzYTB5Tm1ranRRRnhYLXNGaUJYV0ZIeHUwZjgzZFFENHhkTzluYTY1M0RTNHdOeV96SVlwUy1lS2dxemM0ZkZ2dlptY05BWUgyUTdyQ3hvMUl5Um4wYmJjVG9wS1RieHNXeXMybXZUbFBQNVpzc253U29tbnUxMDU?oc=5",
+      "source": "WSJ",
+      "pubDate": "Wed, 22 Jul 2026 17:45:00 GMT",
+      "query": "OpenAI"
+    },
+    {
       "title": "Harness Agent DLC targets AI agent development gaps - TechTarget",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY1Y4QXJ6clV5ckFwRk9rT0dFX24zQkZyNnlIMEEwei00SV80MkQxQ2psbzRvc2dSNGF4X24teG5oaGlvd0lJNnVKYzVST01CYi1Fa0pjMjhQWDNUMGF0TWt6UXpNcDBvcmhQZDA4QWx4YUI2WFBwQ3FqMXFGVzF4UDhGbksxS0FiSWotQjJoMmFVdm1lU0tscG9xV1hramZCeGVTOTlWSE12ZTZlWXFUN3BB?oc=5",
       "source": "TechTarget",
@@ -238,13 +245,6 @@
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SYk1FQ3paMmNwYURwWWFZQ3VDblA3Yy05c3F4MXJxTnVHLVlHMDQyM2pDQ3A0VjNhNl90Q2xzNFpyYVlhUkdXb2ZTVUR5MFZnVWpkaFRmdkxPUGZoTGYyakJnTzhBOGJOaDF1Q1ZDa3haVkU?oc=5",
       "source": "Anthropic",
       "pubDate": "Wed, 22 Jul 2026 17:13:51 GMT",
-      "query": "Anthropic Claude"
-    },
-    {
-      "title": "A research agenda for the Economic Futures Research Fund - Anthropic",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HMldWaTVQMzdleERTR0FWVGR2eHIwY3lqQ3VwM2c5MnVlSS14WWFzSTlSQmJ0RG5ER3VSemFVaUYxVjg4NVE5Q2hqcko5cFgyTGtod2J5MFl6RmNoaGdfdld4aUxrR29IY3QxTDZJUXpTcjlRWXdV?oc=5",
-      "source": "Anthropic",
-      "pubDate": "Wed, 22 Jul 2026 17:13:46 GMT",
       "query": "Anthropic Claude"
     },
     {
@@ -339,18 +339,18 @@
       "query": "OpenAI"
     },
     {
-      "title": "Alibaba's Qwen Official Site Source Code Flooded with Sexual Keywords Including 'Hentai,' Discovered Right After Image AI Launch - finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VWkl5b0RORTdEbFNZeXFWbkViZ1RDbWlnT0VQQ015X2NXY3lOUFZLcFdPYkNVX3BKTktKTWdyNFFkT3l3WHpJRksxLW93bzVxZTlHVUZUcmxPd0NwZ1FpanEzREpHNGNLelN0US1aWV9qTkZJZFE?oc=5",
-      "source": "finance.biggo.com",
-      "pubDate": "Wed, 22 Jul 2026 11:05:00 GMT",
-      "query": "Qwen Alibaba"
-    },
-    {
       "title": "Led By DeepSeek, 10 Frontier Labs Rush Onto The Crunchbase Unicorn Board In June - Crunchbase News",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ1V3Z2RJVFFWNWhyNUJpMTFpNDZiNlRxVjdZWThVd2xPRDRmNTgwRS1rWGtqYV9KamdQRTVuUXZiSzhHbG44emxvbTl3VVFPOWFIV0Y3QUVBZWRDMFRHSHRYYzZidkJJR1NPS2xHMlZMOFAzcUFpM0U2UjBqeHdPTkxJM0dIZWNNTnhGREIwWWZ2NUtqb2V6VVBlYXVSUQ?oc=5",
       "source": "Crunchbase News",
       "pubDate": "Wed, 22 Jul 2026 11:00:54 GMT",
       "query": "DeepSeek"
+    },
+    {
+      "title": "Alibaba Group Holding (BABA) Is Up 5.0% After Apple Selects Qwen For China Apple Intelligence Integration - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaEI4djdCWnBHeGRCQjAxaFZwYjI3U3A4QW5QUHFmNklCYzlyanc4YXBPYy1xOVFPLUVhV2xhYUNvMTRJLXo3aUF2T0RyU0pBblQtS3hSRHFGUjN3eVhRRC1TbjIzREpXdzBkR2t6Y3I2ODRzbVY5Y0JtdkZ5TDNra3g4cmZtVVZfM0ZWS0hfU2VXb0JxN3pleEh4M1l3Q1o1RmxDTUcwVnY2S3I0R3NaZGpPWGZDZDd6RENSd3VpV1dlbzYwOHRYUzh2LXJIRGJSVHfSAdcBQVVfeXFMT2p5dUt1eDg2bXBwNTFId1VBWnFBYW9fMnhOZmEzRmlRa2p2ZGFVMENOUnpDOXc3QjY3bjI5d29QSHFZV0xidlhMam4zejVlRGhPV2FGWUJSNjd3VGxlNHVZemdtUGIyYlNxcEtpaUlObVE4cTZ1SWtMVFdUSk5xZTRyWk1vZHZZTGNrS0RCSXBndEhXcG9ub1FsNEZJeW1naFhCY2pOUUVBYmJuNEZZbHhfTVd3X3ZMdjVNUlZEU2JNUHdMb0djaVM1N0E0THNxUW8yMTI0N1E?oc=5",
+      "source": "simplywall.st",
+      "pubDate": "Wed, 22 Jul 2026 10:38:22 GMT",
+      "query": "Qwen Alibaba"
     }
   ]
 }

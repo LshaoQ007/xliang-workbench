@@ -266,3 +266,23 @@ td input { padding: 7px 9px; font-size: 13px; }
 .drive-opt.wrong .dl { background: #ff3b30; color: #fff; }
 .drive-opt.correct, .drive-opt.wrong { cursor: default; }
 .drive-exp { margin-top: 10px; font-size: 13px; line-height: 1.55; color: var(--text-soft); background: var(--primary-soft, #f6f1ff); padding: 10px 12px; border-radius: 10px; }
+
+/* ---------- 模拟考试计时器 ---------- */
+.exam-timer { display: flex; align-items: center; gap: 10px; margin: 10px 0 4px; padding: 10px 14px; background: #fff7e6; border: 1px solid #ffd591; border-radius: 12px; }
+.exam-timer-label { font-size: 13px; color: #ad6800; font-weight: 600; }
+.exam-timer-val { font-size: 26px; font-weight: 800; font-variant-numeric: tabular-nums; color: #d48806; margin-left: auto; }
+.exam-timer .btn { flex: 0 0 auto; }
+.exam-result { text-align: center; padding: 18px; border-radius: 14px; margin-bottom: 8px; }
+.exam-result.pass { background: #e8f8ee; border: 1px solid #34c759; }
+.exam-result.fail { background: #fdecec; border: 1px solid #ff3b30; }
+.exam-score { font-size: 48px; font-weight: 900; line-height: 1; }
+.exam-result.pass .exam-score { color: #34c759; }
+.exam-result.fail .exam-score { color: #ff3b30; }
+.exam-score small { font-size: 18px; font-weight: 700; margin-left: 4px; }
+
+/* ---------- 体态倒计时 ---------- */
+.pose-timer { background: #f3f0ff; border: 1px solid var(--primary-soft, #e3d5ff); border-radius: 14px; padding: 14px; margin: 10px 0 4px; text-align: center; }
+.pose-timer-display { font-size: 44px; font-weight: 900; font-variant-numeric: tabular-nums; color: var(--primary); line-height: 1.1; }
+.pose-timer-btns { display: flex; gap: 8px; justify-content: center; margin: 10px 0; }
+.pose-presets { display: flex; gap: 6px; justify-content: center; flex-wrap: wrap; }
+.btn.on { background: var(--primary); color: #fff; }

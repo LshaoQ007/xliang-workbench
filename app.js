@@ -29,6 +29,8 @@ function toast(msg) {
 /* ---------- 全局状态 ---------- */
 const state = { view: 'amazon', growth: 'photo', plan: 'diet', play: 'douyin', amazon: 'news', driveMode: 'daily' };
 let dailyCal = { year: new Date().getFullYear(), month: new Date().getMonth() };
+let driveExam = null, examTimerInt = null;
+let postureTimer = { total: 60, remaining: 60, running: false }, postureTimerInt = null;
 
 /* ============================================================
    导航
@@ -76,11 +78,14 @@ function listItem(it, opts = {}) {
   let extra = '';
   if (opts.comments) extra = `<div class="comments">${opts.comments.map((c, i) => `<div class="comment">${esc(c)}</div>`).join('')}</div>`;
   if (opts.lyric) extra = `<div class="body" style="font-style:italic;color:var(--purple-d)">“${esc(opts.lyric)}”</div>` + extra;
+  const linkMeta = it.link
+    ? `<a class="meta link" href="${esc(it.link)}" target="_blank" rel="noopener" style="margin-left:auto;color:var(--purple);font-weight:700">↗ 打开</a>`
+    : (it.date ? `<span class="meta" style="margin-left:auto">${esc(it.date)}</span>` : '');
   return `<div class="item">
     <div class="head"><span class="title">${esc(it.title || it.song || '')}</span>
       ${it.tag ? `<span class="tag">${esc(it.tag)}</span>` : ''}
       ${it.artist ? `<span class="meta">— ${esc(it.artist)}</span>` : ''}
-      ${it.date ? `<span class="meta" style="margin-left:auto">${esc(it.date)}</span>` : ''}</div>
+      ${linkMeta}</div>
     <div class="body">${esc(it.body || it.summary || it.note || '')}</div>
     ${it.caseStudy ? `<div class="body" style="color:var(--text-soft)"><b>📌 案例：</b>${esc(it.caseStudy)}</div>` : ''}
     ${extra}
@@ -406,7 +411,7 @@ function viewPlay() {
     drive: '驾照考试零基础题库：每日一练自动换题，点选项看对错与解析。'
   };
   let body = '';
-  const STR = ['douyin', 'xhs', 'positive', 'national', 'home', 'sing', 'dance', 'posture'];
+  const STR = ['douyin', 'xhs', 'positive', 'national', 'home', 'sing', 'dance'];
   if (STR.includes(cur)) {
     const key = cur === 'xhs' ? 'xiaohongshu' : cur;
     const seedArr = S[key] || [];
@@ -423,10 +428,12 @@ function viewPlay() {
     body = [...user, ...seedArr].map(renderObjCard).join('');
   } else if (cur === 'drive') {
     body = viewDrive();
+  } else if (cur === 'posture') {
+    body = viewPosture();
   }
   setTimeout(() => { if (state.view === 'play' && state.play === 'ai') loadAiLive(); }, 30);
   const subtabs = `<div class="subtabs">${tabs.map(t => `<div class="subtab ${cur === t[0] ? 'active' : ''}" data-play="${t[0]}">${t[1]}</div>`).join('')}</div>`;
-  if (cur === 'drive') {
+  if (cur === 'drive' || cur === 'posture') {
     return `<div class="topbar"><h1>🎮 Play 娱乐台</h1><span class="pill">抖音 · 小红书 · 正能量 · 要闻 · AI · 生活 · 兴趣</span></div>
     ${subtabs}
     ${body}`;
@@ -471,13 +478,16 @@ function viewDrive() {
   const pool = window.SEED.play.drive || [];
   if (!pool.length) return '<p class="muted">题库暂为空。</p>';
   const date = todayStr();
-  const allMode = state.driveMode === 'all';
+  const mode = state.driveMode;
   const letters = ['A', 'B', 'C', 'D'];
+  if (mode === 'wrong') return viewDriveWrong(pool, letters);
+  if (mode === 'exam') return viewDriveExam(pool, letters);
+  const allMode = mode === 'all';
+  const saved = DB.get('drive_' + date, {});
   let picks;
   if (allMode) {
     picks = pool.map((q, i) => ({ ...q, _i: i }));
   } else {
-    // 由日期字符串生成确定性 seed，打乱后取前 5 题
     let h = 2166136261;
     for (const c of date) { h ^= c.charCodeAt(0); h = Math.imul(h, 16777619); }
     const rng = mulberry32(h >>> 0);
@@ -488,7 +498,7 @@ function viewDrive() {
     }
     picks = idx.slice(0, Math.min(5, pool.length)).map(i => ({ ...pool[i], _i: i }));
   }
-  const saved = DB.get('drive_' + date, {}); // { '<_i>': 'A' }
+  const wrongSet = DB.get('drive_wrong', []);
   let correct = 0, answered = 0;
   const cards = picks.map((q, qi) => {
     const chosen = saved[String(q._i)];
@@ -512,10 +522,7 @@ function viewDrive() {
     </div>`;
   }).join('');
   const prog = allMode ? '' : `<div class="drive-prog">📅 ${date} · 今日进度 ${answered}/${picks.length} · 答对 ${correct}</div>`;
-  const toggle = `<div class="drive-toggle">
-    <div class="subtab ${!allMode ? 'active' : ''}" data-act="driveMode" data-mode="daily">📅 每日一练</div>
-    <div class="subtab ${allMode ? 'active' : ''}" data-act="driveMode" data-mode="all">📚 全部 ${pool.length} 题</div>
-  </div>`;
+  const toggle = driveToggle(mode, pool.length, wrongSet.length);
   return `<div class="drive-wrap">${toggle}${prog}
     <div class="card"><h2>🚗 驾照考试 · 零基础题库</h2>
       <p class="desc">科目一 / 科目四 基础题，零基础也能练。点选项看对错与解析；切到"每日一练"每天自动换 5 题。</p>
@@ -523,6 +530,196 @@ function viewDrive() {
     </div>
   </div>`;
 }
+function driveToggle(mode, total, wrongLen) {
+  const mk = (m, label) => `<div class="subtab ${mode === m ? 'active' : ''}" data-act="driveMode" data-mode="${m}">${label}</div>`;
+  return `<div class="drive-toggle">
+    ${mk('daily', '📅 每日一练')}
+    ${mk('all', `📚 全部 ${total} 题`)}
+    ${mk('wrong', `📕 错题本 (${wrongLen})`)}
+    ${mk('exam', '📝 模拟考试')}
+  </div>`;
+}
+function addWrong(_i) {
+  const w = DB.get('drive_wrong', []);
+  if (!w.includes(_i)) { w.push(_i); DB.set('drive_wrong', w); }
+}
+function viewDriveWrong(pool, letters) {
+  const wrong = DB.get('drive_wrong', []);
+  const valid = wrong.filter(i => i >= 0 && i < pool.length);
+  const toggle = driveToggle('wrong', pool.length, wrong.length);
+  if (!valid.length) {
+    return `<div class="drive-wrap">${toggle}
+      <div class="card"><h2>📕 错题本</h2>
+        <p class="desc">答错的题会自动收集到这里。去「每日一练」或「全部」练一练，错题会亮起来～</p>
+        <p class="muted">还没有错题，继续保持！🎉</p>
+      </div></div>`;
+  }
+  const saved = DB.get('drive_' + todayStr(), {});
+  const cards = valid.map((_i, qi) => {
+    const q = pool[_i];
+    const chosen = saved[String(_i)];
+    const isAns = !!chosen;
+    const opts = q.opts.map((o, oi) => {
+      const L = letters[oi];
+      let cls = 'drive-opt';
+      if (isAns) { if (L === q.ans) cls += ' correct'; else if (L === chosen) cls += ' wrong'; }
+      const attr = isAns ? '' : `data-act="drivePick" data-q="${_i}" data-opt="${L}"`;
+      return `<div class="${cls}" ${attr}><span class="dl">${L}</span>${esc(o)}</div>`;
+    }).join('');
+    const exp = isAns
+      ? `<div class="drive-exp">${chosen === q.ans ? '✅ 答对啦！已掌握可点下方移除。' : '❌ 正确答案：' + q.ans + '。'}${esc(q.exp)}</div>`
+      : '';
+    const removeBtn = isAns && chosen === q.ans
+      ? `<button class="btn sm" style="margin-top:8px" data-act="driveForget" data-q="${_i}">✓ 已掌握，移出错题本</button>`
+      : '';
+    return `<div class="drive-q">
+      <div class="drive-num">错题 ${qi + 1}</div>
+      <div class="drive-text">${esc(q.q)}</div>
+      <div class="drive-opts">${opts}</div>
+      ${exp}${removeBtn}
+    </div>`;
+  }).join('');
+  return `<div class="drive-wrap">${toggle}
+    <div class="card"><h2>📕 错题本 (${valid.length})</h2>
+      <p class="desc">自动收集你答错的题。重做答对后可点"已掌握"移出。</p>
+      ${cards}
+    </div></div>`;
+}
+function initExam() {
+  const pool = window.SEED.play.drive || [];
+  const rng = mulberry32((Date.now() ^ Math.floor(performance.now() * 1000)) >>> 0);
+  const idx = pool.map((_, i) => i);
+  for (let i = idx.length - 1; i > 0; i--) {
+    const j = Math.floor(rng() * (i + 1));
+    [idx[i], idx[j]] = [idx[j], idx[i]];
+  }
+  const picks = idx.slice(0, Math.min(100, pool.length)).map(i => ({ ...pool[i], _i: i }));
+  driveExam = { picks, qi: 0, answers: {}, done: false, timeLeft: 45 * 60 };
+  startExamTimer();
+}
+function startExamTimer() {
+  if (examTimerInt) return;
+  examTimerInt = setInterval(() => {
+    if (!driveExam || driveExam.done) { clearInterval(examTimerInt); examTimerInt = null; return; }
+    driveExam.timeLeft--;
+    const node = document.getElementById('exam_timer');
+    if (!node) { clearInterval(examTimerInt); examTimerInt = null; return; }
+    const mm = String(Math.floor(driveExam.timeLeft / 60)).padStart(2, '0');
+    const ss = String(driveExam.timeLeft % 60).padStart(2, '0');
+    node.textContent = mm + ':' + ss;
+    if (driveExam.timeLeft <= 0) {
+      clearInterval(examTimerInt); examTimerInt = null;
+      driveExam.done = true; renderView();
+    }
+  }, 1000);
+}
+function viewDriveExam(pool, letters) {
+  if (!driveExam || driveExam.done) {
+    const toggle = driveToggle('exam', pool.length, DB.get('drive_wrong', []).length);
+    if (driveExam && driveExam.done) {
+      const total = driveExam.picks.length;
+      const correct = driveExam.picks.filter(q => driveExam.answers[q._i] === q.ans).length;
+      const pct = total ? Math.round(correct / total * 100) : 0;
+      const pass = pct >= 90;
+      return `<div class="drive-wrap">${toggle}
+        <div class="card"><h2>📝 模拟考试成绩</h2>
+          <div class="exam-result ${pass ? 'pass' : 'fail'}">
+            <div class="exam-score">${pct}<small>分</small></div>
+            <div>答对 ${correct} / ${total} · ${pass ? '🎉 合格（≥90）' : '未达 90 分合格线'}</div>
+          </div>
+          <button class="btn sm" style="margin-top:12px" data-act="driveMode" data-mode="exam">🔄 再来一套</button>
+        </div></div>`;
+    }
+    initExam();
+    return viewDriveExam(pool, letters);
+  }
+  const e = driveExam, total = e.picks.length, qi = e.qi, q = e.picks[qi];
+  const chosen = e.answers[q._i];
+  const isAns = !!chosen;
+  const opts = q.opts.map((o, oi) => {
+    const L = letters[oi];
+    let cls = 'drive-opt';
+    if (isAns) { if (L === q.ans) cls += ' correct'; else if (L === chosen) cls += ' wrong'; }
+    const attr = isAns ? '' : `data-act="driveExamPick" data-q="${q._i}" data-opt="${L}"`;
+    return `<div class="${cls}" ${attr}><span class="dl">${L}</span>${esc(o)}</div>`;
+  }).join('');
+  const exp = isAns
+    ? `<div class="drive-exp">${chosen === q.ans ? '✅ 答对！' : '❌ 正确答案：' + q.ans + '。'}${esc(q.exp)}</div>`
+    : '';
+  const mm = String(Math.floor(e.timeLeft / 60)).padStart(2, '0');
+  const ss = String(e.timeLeft % 60).padStart(2, '0');
+  const isLast = qi === total - 1;
+  const nextBtn = isAns
+    ? `<button class="btn sm" style="margin-top:10px" data-act="driveExamNext">${isLast ? '📊 查看成绩' : '下一题 →'}</button>`
+    : '';
+  const toggle = driveToggle('exam', pool.length, DB.get('drive_wrong', []).length);
+  return `<div class="drive-wrap">${toggle}
+    <div class="exam-timer">
+      <span class="exam-timer-label">⏱ 剩余时间</span>
+      <span id="exam_timer" class="exam-timer-val">${mm}:${ss}</span>
+      <button class="btn sm" data-act="driveExamSubmit">交卷</button>
+    </div>
+    <div class="card"><h2>📝 模拟考试 · 第 ${qi + 1}/${total} 题</h2>
+      <p class="desc">随机抽 ${total} 题，限时 45 分钟，90 分合格。</p>
+      <div class="drive-q">
+        <div class="drive-text">${esc(q.q)}</div>
+        <div class="drive-opts">${opts}</div>
+        ${exp}
+      </div>
+      ${nextBtn}
+    </div></div>`;
+}
+function startPostureTimer() {
+  if (postureTimerInt) return;
+  postureTimerInt = setInterval(() => {
+    const node = document.getElementById('posture_timer');
+    if (!node) { clearInterval(postureTimerInt); postureTimerInt = null; return; }
+    if (!postureTimer.running) return;
+    postureTimer.remaining--;
+    const mm = String(Math.floor(postureTimer.remaining / 60)).padStart(2, '0');
+    const ss = String(postureTimer.remaining % 60).padStart(2, '0');
+    node.textContent = mm + ':' + ss;
+    if (postureTimer.remaining <= 0) {
+      clearInterval(postureTimerInt); postureTimerInt = null;
+      postureTimer.running = false; renderView();
+    }
+  }, 1000);
+}
+function viewPosture() {
+  const S = window.SEED.play;
+  const seedArr = S.posture || [];
+  const user = DB.get('play_posture', []);
+  const items = [...user, ...seedArr];
+  const mm = String(Math.floor(postureTimer.remaining / 60)).padStart(2, '0');
+  const ss = String(postureTimer.remaining % 60).padStart(2, '0');
+  const presets = [30, 60, 90, 180];
+  const itemHtml = items.map(x => {
+    if (x.link) {
+      return `<a class="play-link-card" href="${esc(x.link)}" target="_blank" rel="noopener">
+        <div class="head"><span class="title">${esc(x.text || '链接')}</span><span class="meta">↗ 打开</span></div>
+        ${x.body ? `<div class="body">${esc(x.body)}</div>` : ''}
+      </a>`;
+    }
+    return `<div class="item"><div class="head"><span class="title">${esc(x.text || '')}</span></div><div class="body">${esc(x.body || '')}</div></div>`;
+  }).join('');
+  return `<div class="drive-wrap">
+    <div class="pose-timer">
+      <div class="pose-timer-display" id="posture_timer">${mm}:${ss}</div>
+      <div class="pose-timer-btns">
+        <button class="btn sm ${postureTimer.running ? 'on' : ''}" data-act="ptToggle">${postureTimer.running ? '⏸ 暂停' : '▶ 开始'}</button>
+        <button class="btn sm" data-act="ptReset">↺ 重置</button>
+      </div>
+      <div class="pose-presets">
+        ${presets.map(p => `<div class="subtab ${postureTimer.total === p && !postureTimer.running ? 'active' : ''}" data-act="ptSet" data-sec="${p}">${p < 60 ? p + '秒' : (p / 60) + '分'}</div>`).join('')}
+      </div>
+    </div>
+    <div class="card"><h2>🧘 体态改正</h2>
+      <p class="desc">欧阳春晓瘦腿瘦背视频 + 睡前瑜伽 + 日常矫正动作。点链接看原视频，用上方倒计时计时训练。</p>
+      ${itemHtml}
+    </div>
+  </div>`;
+}
+
 
 /* ============================================================
    4. PLAN（饮食 / 体重 / 财务 / 打卡）
@@ -858,13 +1055,63 @@ function handleAct(el) {
       const a = DB.get('play_' + el.dataset.key, []); a.unshift($('#play_text').value); DB.set('play_' + el.dataset.key, a); toast('已添加'); renderView(); break;
     }
     case 'driveMode': {
-      state.driveMode = el.dataset.mode || 'daily'; renderView(); break;
+      state.driveMode = el.dataset.mode || 'daily';
+      if (state.driveMode === 'exam') initExam();
+      renderView(); break;
     }
     case 'drivePick': {
       const date = todayStr();
       const saved = DB.get('drive_' + date, {});
-      saved[String(el.dataset.q)] = el.dataset.opt;
-      DB.set('drive_' + date, saved); renderView(); break;
+      const _i = Number(el.dataset.q);
+      saved[String(_i)] = el.dataset.opt;
+      DB.set('drive_' + date, saved);
+      const pool = window.SEED.play.drive || [];
+      if (pool[_i] && el.dataset.opt !== pool[_i].ans) addWrong(_i);
+      renderView(); break;
+    }
+    case 'driveExamPick': {
+      const _i = Number(el.dataset.q);
+      driveExam.answers[_i] = el.dataset.opt;
+      const q = driveExam.picks.find(p => p._i === _i);
+      if (q && el.dataset.opt !== q.ans) addWrong(_i);
+      renderView(); break;
+    }
+    case 'driveExamNext': {
+      driveExam.qi++;
+      if (driveExam.qi >= driveExam.picks.length) {
+        driveExam.done = true;
+        if (examTimerInt) { clearInterval(examTimerInt); examTimerInt = null; }
+      }
+      renderView(); break;
+    }
+    case 'driveExamSubmit': {
+      driveExam.done = true;
+      if (examTimerInt) { clearInterval(examTimerInt); examTimerInt = null; }
+      renderView(); break;
+    }
+    case 'driveForget': {
+      const w = DB.get('drive_wrong', []);
+      const i = w.indexOf(Number(el.dataset.q));
+      if (i >= 0) w.splice(i, 1);
+      DB.set('drive_wrong', w); renderView(); break;
+    }
+    case 'ptToggle': {
+      if (postureTimer.running) {
+        postureTimer.running = false;
+        if (postureTimerInt) { clearInterval(postureTimerInt); postureTimerInt = null; }
+      } else { postureTimer.running = true; startPostureTimer(); }
+      renderView(); break;
+    }
+    case 'ptReset': {
+      if (postureTimerInt) { clearInterval(postureTimerInt); postureTimerInt = null; }
+      postureTimer.running = false; postureTimer.remaining = postureTimer.total;
+      renderView(); break;
+    }
+    case 'ptSet': {
+      const sec = Number(el.dataset.sec);
+      if (postureTimerInt) { clearInterval(postureTimerInt); postureTimerInt = null; }
+      postureTimer.total = sec; postureTimer.remaining = sec; postureTimer.running = false;
+      renderView(); break;
     }
     case 'saveDiet': {
       const date = $('#d_date').value || todayStr();

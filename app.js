@@ -270,7 +270,7 @@ function viewGrowth() {
     national: gNational(),
     career: gList('career', '职场成长', '口才 · Excel 切片/透视表等'),
     cognition: gList('cognition', '认知提升', '时事政策·经济·理财·商业·前沿科技·民法典·职场·情商·认知'),
-    routine: planRoutine,
+    routine: planRoutine(),
     law: gList('law', '法律知识', '每日普法 + 案例辅助'),
     finance: gList('finance', '理财精进', '每日更新 · 基金理财 · 经济规律 · 做生意的思路')
   }[state.growth];
@@ -490,21 +490,21 @@ function renderPlayItem(x) {
 function viewPlay() {
   const S = window.SEED.play;
   const tabs = [
-    ['positive', '✨ 正能量'], ['douyin', '🎵 抖音'], ['xhs', '📕 小红书'],
+    ['positive', '📸 博主'], ['douyin', '🎵 抖音'], ['xhs', '📕 小红书'],
     ['ai', '🤖 AI资讯'], ['aitips', '💡 AI技巧'], ['werewolf', '🐺 狼人杀'],
     ['posture', '🧘 体态'], ['sing', '🎤 歌唱'], ['dance', '💃 舞蹈'],
-    ['diy', '🧶 手工DIY'], ['home', '🧹 收纳'], ['drive', '🚗 驾照']
+    ['diy', '🧶 手工DIY'], ['travel', '✈️ 旅游'], ['drive', '🚗 驾照']
   ];
   const cur = state.play;
   const curLabel = (tabs.find(t => t[0] === cur) || [,''])[1];
   const descMap = {
     douyin: '抖音热点整理：蹭热点、找选题、攒素材。',
     xhs: '小红书趋势：穿搭 / 护肤 / 旅行 / 摄影，收藏灵感。',
-    positive: '正能量视频与 UP 主推荐，治愈自己。',
+    positive: '博主推荐：正能量 UP 主 / 视频 / 账号，治愈与灵感。',
     ai: 'AI 平台动态整合推送：精选摘要 + 每日实时快讯。',
     aitips: 'AI 使用技巧：把大模型用得更顺手。',
     werewolf: '狼人杀玩法技巧：从发言到归票的思路。',
-    home: '家居收纳技巧：让小空间变好用。',
+    travel: '旅游灵感：国内外景点 · 历史博物馆 · 旅游规划，还有你的旅行足迹。',
     sing: '零基础学唱歌：呼吸、音准、发声、情感表达。',
     dance: '零基础学跳舞：基本功、跟舞、录舞技巧。',
     diy: '手工 DIY：钩织、拼图、手帐、收纳优化、素菜 / 荤菜 / 烘焙等每日灵感。',
@@ -512,8 +512,8 @@ function viewPlay() {
     drive: '驾照考试零基础题库：每日一练自动换题，点选项看对错与解析。'
   };
   let body = '';
-  const STR = ['douyin', 'xhs', 'positive', 'home', 'sing', 'dance', 'diy'];
-  const PLAY_DAILY = ['douyin', 'xhs', 'positive', 'aitips', 'werewolf', 'home', 'sing', 'dance', 'diy'];
+  const STR = ['douyin', 'xhs', 'positive', 'sing', 'dance', 'diy'];
+  const PLAY_DAILY = ['douyin', 'xhs', 'positive', 'aitips', 'werewolf', 'sing', 'dance', 'diy'];
   if (STR.includes(cur)) {
     const seedKey = cur === 'xhs' ? 'xiaohongshu' : cur;
     const seedArr = S[seedKey] || [];
@@ -534,16 +534,18 @@ function viewPlay() {
     body = viewDrive();
   } else if (cur === 'posture') {
     body = viewPosture();
+  } else if (cur === 'travel') {
+    body = viewTravel();
   }
   setTimeout(() => { if (state.view === 'play' && state.play === 'ai') loadAiLive(); }, 30);
   const subtabs = `<div class="subtabs">${tabs.map(t => `<div class="subtab ${cur === t[0] ? 'active' : ''}" data-play="${t[0]}">${t[1]}</div>`).join('')}</div>`;
   const playBadge = PLAY_DAILY.includes(cur) ? dailyBadge(cur) : '';
-  if (cur === 'drive' || cur === 'posture') {
-    return `<div class="topbar"><h1>🎮 Play 娱乐台</h1><span class="pill">抖音 · 小红书 · 正能量 · 要闻 · AI · 生活 · 兴趣</span></div>
+  if (cur === 'drive' || cur === 'posture' || cur === 'travel') {
+    return `    <div class="topbar"><h1>🎮 Play 娱乐台</h1><span class="pill">抖音 · 小红书 · 博主 · AI · 旅游 · 兴趣</span></div>
     ${subtabs}
     ${body}`;
   }
-  return `<div class="topbar"><h1>🎮 Play 娱乐台</h1><span class="pill">抖音 · 小红书 · 正能量 · 要闻 · AI · 生活 · 兴趣</span></div>
+  return `<div class="topbar"><h1>🎮 Play 娱乐台</h1><span class="pill">抖音 · 小红书 · 博主 · AI · 旅游 · 兴趣</span></div>
     ${subtabs}
     <div class="card"><h2>${esc(curLabel)}${playBadge}</h2>
       <p class="desc">${esc(descMap[cur] || '')}</p>
@@ -552,6 +554,39 @@ function viewPlay() {
       <textarea id="play_text" placeholder="粘贴你看到的热点 / 技巧 / 新闻 / 链接…"></textarea>
       <button class="btn sm" style="margin-top:10px" data-act="addPlay" data-key="${cur}">保存</button>
     </div>`;
+}
+function viewTravel() {
+  const S = window.SEED.play;
+  const daily = dailyItems('travel', S.travel || []);
+  const been = DB.get('travel_been', []);
+  const want = DB.get('travel_want', []);
+  const dailyHtml = daily.map(renderPlayItem).join('');
+  const beenHtml = been.length ? been.map((b, i) => `<div class="item" style="margin-bottom:8px">
+      <div class="head"><span class="title">${esc(b.place)}</span>${b.date ? `<span class="tag">${esc(b.date)}</span>` : ''}
+        <button class="btn ghost sm" style="margin-left:auto" data-act="delTravelBeen" data-i="${i}">删除</button></div>
+      ${b.note ? `<div class="body">${esc(b.note)}</div>` : ''}</div>`).join('')
+    : '<p class="muted">还没有记录去过的地方。</p>';
+  const wantHtml = want.length ? want.map((w, i) => `<div class="item" style="margin-bottom:8px">
+      <div class="head"><span class="title">${esc(w.place)}</span>
+        <button class="btn ghost sm" style="margin-left:auto" data-act="delTravelWant" data-i="${i}">删除</button></div>
+      ${w.note ? `<div class="body">${esc(w.note)}</div>` : ''}</div>`).join('')
+    : '<p class="muted">还没有想去的清单。</p>';
+  return `<div class="card">
+    <h2>✈️ 旅游灵感${dailyBadge('travel')}</h2>
+    <p class="desc">每日精选国内外热门 / 冷门景点、历史博物馆与旅游规划思路，帮你发现下一站。</p>
+    ${dailyHtml || '<p class="muted">暂无内容。</p>'}
+    <hr class="hr"/><h2 style="font-size:15px">✅ 去过的地方</h2>
+    <div class="row"><div><label class="f">地点</label><input id="tb_place" placeholder="如 京都·清水寺"></div>
+      <div><label class="f">日期</label><input id="tb_date" type="date"></div></div>
+    <label class="f">备注</label><input id="tb_note" placeholder="旅行感受 / 同行人…">
+    <button class="btn sm" style="margin-top:8px" data-act="saveTravelBeen">保存足迹</button>
+    <div style="margin-top:10px">${beenHtml}</div>
+    <hr class="hr"/><h2 style="font-size:15px">🗺️ 想去的地方</h2>
+    <div class="row"><div><label class="f">地点</label><input id="tw_place" placeholder="如 冰岛·极光"></div></div>
+    <label class="f">备注</label><input id="tw_note" placeholder="种草理由 / 计划时间…">
+    <button class="btn sm" style="margin-top:8px" data-act="saveTravelWant">加入清单</button>
+    <div style="margin-top:10px">${wantHtml}</div>
+  </div>`;
 }function loadAiLive() {
   const box = document.getElementById('ai_live');
   if (!box) return;
@@ -1080,7 +1115,7 @@ function heatmap(set) {
    ============================================================ */
 function viewDaily() {
   const tabs = [
-    ['cal', '📅 日历提醒'], ['love', '💞 恋爱日记'], ['diary', '📝 今日记录'], ['album', '🖼️ 照片日历']
+    ['cal', '📅 纪念'], ['love', '💞 恋爱'], ['diary', '📝 日记'], ['album', '🗓️ 月报']
   ];
   const inner = { cal: viewDailyCal, love: loveDiaryCard, diary: viewDailyDiary, album: viewDailyAlbum }[state.daily];
   return `<div class="topbar"><h1>📝 Daily 日记</h1><span class="pill">日历提醒 · 恋爱 · 记录 · 相册</span></div>
@@ -1129,7 +1164,7 @@ function viewDailyDiary() {
   const t = todayStr();
   const rec = all.find(j => j.date === t) || {};
   return `<div class="card">
-    <h2>✍️ 今日记录</h2><p class="desc">每天拍一张图 + 写点文字，留住此刻心情。</p>
+    <h2>✍️ 日记</h2><p class="desc">每天拍一张图 + 写点文字，留住此刻心情。</p>
     <div class="mood" id="moodpick">
       ${['😀', '😊', '😐', '😟', '😢', '😡', '🥰', '😴'].map(e => `<span class="${rec.mood === e ? 'on' : ''}" data-mood="${e}">${e}</span>`).join('')}
     </div>
@@ -1143,7 +1178,7 @@ function viewDailyDiary() {
 function viewDailyAlbum() {
   const all = DB.get('journal', []).slice().sort((a, b) => b.date.localeCompare(a.date));
   return `<div class="card">
-    <h2>📅 照片日历</h2>
+    <h2>🗓️ 月报</h2>
     <p class="desc">点击日期查看当天日记；有图的格子会显示照片。</p>
     <div class="cal-header">
       <button class="btn ghost sm" data-act="calPrev">← 上月</button>
@@ -1170,7 +1205,7 @@ function loveDiaryCard() {
   const all = DB.get('love_diary', []).slice().sort((a, b) => b.date.localeCompare(a.date));
   const t = todayStr();
   return `<div class="card">
-    <h2>💞 恋爱日记</h2>
+    <h2>💞 恋爱</h2>
     <p class="desc">记录你和 TA 相处的重要 moments —— 第一次牵手、一起看的电影、吵完架的和好…… 留住每一个心动。</p>
     <div class="mood" id="lovepick">
       ${['💑', '😊', '🥰', '🌟', '🤗', '😘', '🌈', '💕'].map(e => `<span data-mood="${e}">${e}</span>`).join('')}
@@ -1450,6 +1485,26 @@ function handleAct(el) {
     }
     case 'delBirthday': {
       const arr = DB.get('birthdays', []); arr.splice(el.dataset.i, 1); DB.set('birthdays', arr); renderView(); break;
+    }
+    case 'saveTravelBeen': {
+      const place = $('#tb_place').value.trim();
+      if (!place) { toast('地点要填哦'); break; }
+      const arr = DB.get('travel_been', []);
+      arr.push({ place, date: $('#tb_date').value.trim(), note: $('#tb_note').value.trim() });
+      DB.set('travel_been', arr); toast('已记录足迹 ✈️'); renderView(); break;
+    }
+    case 'saveTravelWant': {
+      const place = $('#tw_place').value.trim();
+      if (!place) { toast('地点要填哦'); break; }
+      const arr = DB.get('travel_want', []);
+      arr.push({ place, note: $('#tw_note').value.trim() });
+      DB.set('travel_want', arr); toast('已加入想去清单 🗺️'); renderView(); break;
+    }
+    case 'delTravelBeen': {
+      const arr = DB.get('travel_been', []); arr.splice(el.dataset.i, 1); DB.set('travel_been', arr); renderView(); break;
+    }
+    case 'delTravelWant': {
+      const arr = DB.get('travel_want', []); arr.splice(el.dataset.i, 1); DB.set('travel_want', arr); renderView(); break;
     }
     case 'calPrev': { dailyCal.month--; if (dailyCal.month < 0) { dailyCal.month = 11; dailyCal.year--; } renderView(); break; }
     case 'calNext': { dailyCal.month++; if (dailyCal.month > 11) { dailyCal.month = 0; dailyCal.year++; } renderView(); break; }

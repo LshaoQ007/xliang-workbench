@@ -121,8 +121,44 @@ MODULES = [
 ]
 
 
+def extract_json(text):
+    """从模型回复里稳健地取出 JSON（兼容纯 JSON / ```json 代码块 / 夹杂文字）。"""
+    if not text:
+        return None
+    t = text.strip()
+    # 去掉 ```json ... ``` 代码块包裹
+    if t.startswith('```'):
+        t = t.split('\n', 1)[-1] if '\n' in t else t
+        if t.endswith('```'):
+            t = t[:-3]
+        t = t.strip()
+    try:
+        return json.loads(t)
+    except Exception:
+        pass
+    # 截取第一个 { 到最后一个 }
+    s, e = t.find('{'), t.rfind('}')
+    if s != -1 and e != -1 and e > s:
+        try:
+            return json.loads(t[s:e + 1])
+        except Exception:
+            pass
+    # 或截取第一个 [ 到最后一个 ]
+    s, e = t.find('['), t.rfind(']')
+    if s != -1 and e != -1 and e > s:
+        try:
+            return json.loads(t[s:e + 1])
+        except Exception:
+            pass
+    return None
+
+
 def call_llm(system, user, model):
-    """调用 OpenAI 兼容接口，返回解析后的 JSON（通常是 {'items': [...]} 或 [...]）。"""
+    """调用 OpenAI 兼容接口，返回解析后的 JSON（通常是 {'items': [...]} 或 [...]）。
+
+    注意：Kimi(Moonshot) K2/K3 等模型不支持 response_format=json_object，会返回 400，
+    因此这里不发送该参数，改为靠提示词 + 稳健解析来拿到 JSON。
+    """
     if requests is None:
         return None
     api_key = os.environ.get('LLM_API_KEY')
@@ -130,26 +166,31 @@ def call_llm(system, user, model):
     prompt = (
         system + "\n\n" + user +
         "\n\n请只返回一个 JSON 对象，结构为 {\"items\": [ ... ]}，其中 items 是要求的数组。"
-        "不要输出 ``` 或任何说明文字。"
+        "不要输出 ``` 代码块，不要任何说明文字，直接输出纯 JSON。"
     )
     try:
         r = requests.post(
             base + '/chat/completions',
             headers={'Authorization': 'Bearer ' + api_key, 'Content-Type': 'application/json'},
-            json={'model': model, 'messages': [{'role': 'user', 'content': prompt}],
-                  'response_format': {'type': 'json_object'}, 'temperature': 0.6},
-            timeout=120,
+            json={'model': model, 'messages': [{'role': 'user', 'content': prompt}], 'temperature': 1},
+            timeout=300,
         )
+        r.raise_for_status()
         content = r.json()['choices'][0]['message']['content']
-        data = json.loads(content)
-        items = data.get('items') if isinstance(data, dict) else data
-        if not isinstance(items, list):
-            items = []
-        print('[llm] %s -> %d items' % (model, len(items)))
-        return items
     except Exception as e:
-        print('[llm] 生成失败:', e)
+        print('[llm] 请求失败:', e)
         return None
+    data = extract_json(content)
+    if isinstance(data, list):
+        items = data
+    elif isinstance(data, dict):
+        items = data.get('items')
+    else:
+        items = None
+    if not isinstance(items, list):
+        items = []
+    print('[llm] %s -> %d items' % (model, len(items)))
+    return items
 
 
 def main():

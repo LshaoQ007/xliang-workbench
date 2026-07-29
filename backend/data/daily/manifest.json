@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29 14:00",
+  "generated_at": "2026-07-29 13:17",
   "date": "2026-07-29",
   "modules": [
     {
@@ -64,11 +64,6 @@
     },
     {
       "key": "english",
-      "date": "2026-07-29",
-      "count": 6
-    },
-    {
-      "key": "korean",
       "date": "2026-07-29",
       "count": 6
     },

@@ -27,7 +27,7 @@ function toast(msg) {
 }
 
 /* ---------- 全局状态 ---------- */
-const state = { view: 'amazon', growth: 'photo', plan: 'diet', play: 'douyin', amazon: 'news', driveMode: 'daily' };
+const state = { view: 'amazon', growth: 'english', plan: 'diet', play: 'douyin', amazon: 'news', daily: 'cal', driveMode: 'daily' };
 let dailyCal = { year: new Date().getFullYear(), month: new Date().getMonth() };
 let driveExam = null, examTimerInt = null;
 let postureTimer = { total: 60, remaining: 60, running: false }, postureTimerInt = null;
@@ -99,13 +99,18 @@ function listItem(it, opts = {}) {
    ============================================================ */
 function viewAmazon() {
   const S = window.SEED.amazon;
-  const tabs = [['news', '📰 政策新闻'], ['market', '🔍 市场分析'], ['interview', '💬 面试问答'], ['tips', '🎯 运营技巧'], ['tools', '🛠️ 工具技巧']];
+  const tabs = [['news', '📰 政策新闻'], ['market', '🔍 市场分析'], ['demand', '📈 市场需求'], ['sop', '📋 高级运营SOP'], ['ads', '📣 广告实战'], ['tips', '🎯 运营技巧'], ['tools', '🛠️ 工具技巧'], ['holiday', '🎉 节日赛事'], ['office', '💼 办公软件'], ['builders', '🔩 建筑工具']];
   const inner = {
     news: viewAmazonNews,
     market: viewAmazonMarket,
-    interview: viewAmazonInterview,
+    demand: viewAmazonDemand,
+    sop: viewAmazonSop,
+    ads: viewAmazonAds,
     tips: viewAmazonTips,
-    tools: viewAmazonTools
+    tools: viewAmazonTools,
+    holiday: viewAmazonHoliday,
+    office: viewAmazonOffice,
+    builders: viewAmazonBuilders
   }[state.amazon]();
   return `
   <div class="topbar"><h1>📦 Amazon 运营台</h1><span class="pill">美国站 · 紧固件 / 气动钉枪</span></div>
@@ -193,6 +198,36 @@ function viewAmazonTools() {
   const all = dailyItems('amazon_tools', seed);
   return `<div class="card"><h2>🛠️ 常用工具使用技巧${dailyBadge('amazon_tools')}</h2><p class="desc">领星ERP、卖家精灵、SIF 三款工具的实战使用技巧，覆盖选品、库存、广告、关键词、竞品分析全流程。</p>${all.map(it => listItem(it)).join('')}</div>`;
 }
+function viewAmazonAds() {
+  const seed = window.SEED.amazon.ads || [];
+  const all = dailyItems('amazon_ads', seed);
+  return `<div class="card"><h2>📣 亚马逊广告实战${dailyBadge('amazon_ads')}</h2><p class="desc">每日自动更新：广告打法 · 优化逻辑 · 常见误区 · 广告解答。覆盖新品期 / 爆款期 / 清货期不同打法与 ACOS 优化。</p>${all.map(it => listItem(it)).join('')}</div>`;
+}
+function viewAmazonOffice() {
+  const seed = window.SEED.amazon.office || [];
+  const all = dailyItems('amazon_office', seed);
+  return `<div class="card"><h2>💼 办公软件技巧${dailyBadge('amazon_office')}</h2><p class="desc">每日自动更新：Excel 公式 / 数据透视表、思维导图、甘特图、流程图、时间表、看板等常用办公软件用法，提升运营效率。</p>${all.map(it => listItem(it)).join('')}</div>`;
+}
+function viewAmazonSop() {
+  const seed = window.SEED.amazon.sop || [];
+  const all = dailyItems('amazon_sop', seed);
+  return `<div class="card"><h2>📋 高级运营 SOP${dailyBadge('amazon_sop')}</h2><p class="desc">每日自动更新：亚马逊运营各关键流程的标准作业流程（SOP）—— 新品上架、广告搭建、差评处理、库存管理、关键词调研、退货索赔等。</p>${all.map(it => listItem(it)).join('')}</div>`;
+}
+function viewAmazonDemand() {
+  const seed = window.SEED.amazon.demand || [];
+  const all = dailyItems('amazon_demand', seed);
+  return `<div class="card"><h2>📈 市场需求${dailyBadge('amazon_demand')}</h2><p class="desc">每日自动更新：美国站各品类需求趋势、消费者痛点与选品方向，辅助选品决策。</p>${all.map(it => listItem(it)).join('')}</div>`;
+}
+function viewAmazonHoliday() {
+  const seed = window.SEED.amazon.holiday || [];
+  const all = dailyItems('amazon_holiday', seed);
+  return `<div class="card"><h2>🎉 北美节假日 & 全球赛事${dailyBadge('amazon_holiday')}</h2><p class="desc">每日自动更新：北美主要节日（黑五/网一/Prime Day/万圣节/圣诞…）与全球赛事（世界杯/超级碗/奥运…）的选品与流量机会。</p>${all.map(it => listItem(it)).join('')}</div>`;
+}
+function viewAmazonBuilders() {
+  const seed = window.SEED.amazon.builders || [];
+  const all = dailyItems('amazon_builders', seed);
+  return `<div class="card"><h2>🔩 北美建筑紧固件 & 工具${dailyBadge('amazon_builders')}</h2><p class="desc">每日自动更新：北美建筑/装修人群在不同场景（木工/吊顶/地板/围栏）用的紧固件与气动/手动工具——中英文名、需求点、痛点、需求量、国内采购成本预估。</p>${all.map(it => listItem(it)).join('')}</div>`;
+}
 function viewAmazonMarket() {
   const m = window.SEED.amazon.market;
   const mine = DB.get('amz_market_notes', []);
@@ -215,31 +250,79 @@ function viewAmazonMarket() {
    2. GROWTH
    ============================================================ */
 const GROWTH_TABS = [
-  ['photo', '📷 摄影修图'], ['skincare', '💄 护肤化妆'], ['music', '🎵 歌曲分享'],
-  ['finance', '💰 理财精进'], ['law', '⚖️ 法律知识'], ['books', '📚 书籍阅读'],
-  ['quotes', '✍️ 句段记录'], ['career', '💼 职场成长'], ['film', '🎬 影视综艺']
-, ['english', '🇬🇧 英语学习'], ['korean', '🇰🇷 韩语零基础'], ['japanese', '🇯🇵 日语零基础']
-, ['cognition', '🧠 认知提升']
+  ['english', '🇬🇧 英语学习'], ['korean', '🇰🇷 韩语学习'], ['japanese', '🇯🇵 日语学习'],
+  ['music', '🎵 歌曲分享'], ['film', '🎬 影视综艺'], ['skincare', '💄 护肤化妆'],
+  ['photo', '📷 摄影修图'], ['quotes', '✍️ 句段记录'], ['books', '📚 书籍阅读'],
+  ['national', '🌍 全球新闻'], ['career', '💼 职场成长'], ['cognition', '🧠 认知提升'],
+  ['routine', '📅 每日精进'], ['law', '⚖️ 法律知识'], ['finance', '💰 理财精进']
 ];
 function viewGrowth() {
   const inner = {
-    photo: gList('photo', '摄影修图', '每日拍照/修图/姿势/穿搭技巧'),
-    skincare: gList('skincare', '护肤化妆', '混干皮科学护肤 · 化妆 · 编发'),
-    music: gMusic(),
-    finance: gList('finance', '理财精进', '每日更新 · 基金理财 · 经济规律 · 做生意的思路'),
-    law: gList('law', '法律知识', '每日普法 + 案例辅助'),
-    books: gBooks(),
-    quotes: gQuotes(),
-    career: gList('career', '职场成长', '口才 · Excel 切片/透视表等'),
-    film: gFilm(),
     english: gList('english', '英语学习', '专八词汇 · 口语跟读 · 影视句段', true),
     korean: gList('korean', '韩语学习', '发音 · 单词 · 实用句型', true),
     japanese: gList('japanese', '日语学习', '五十音 · 单词 · 实用句型', true),
-    cognition: gList('cognition', '认知提升', '时事政策·经济·理财·商业·前沿科技·民法典·职场·情商·认知')
+    music: gMusic(),
+    film: gFilm(),
+    skincare: gSkincare(),
+    photo: gPhoto(),
+    quotes: gQuotes(),
+    books: gBooks(),
+    national: gNational(),
+    career: gList('career', '职场成长', '口才 · Excel 切片/透视表等'),
+    cognition: gList('cognition', '认知提升', '时事政策·经济·理财·商业·前沿科技·民法典·职场·情商·认知'),
+    routine: planRoutine,
+    law: gList('law', '法律知识', '每日普法 + 案例辅助'),
+    finance: gList('finance', '理财精进', '每日更新 · 基金理财 · 经济规律 · 做生意的思路')
   }[state.growth];
   return `<div class="topbar"><h1>🌱 Growth 成长台</h1><span class="pill">十二大板块 · 每日充电</span></div>
     <div class="subtabs">${GROWTH_TABS.map(t => `<div class="subtab ${state.growth === t[0] ? 'active' : ''}" data-grow="${t[0]}">${t[1]}</div>`).join('')}</div>
     ${inner}`;
+}
+function biliSearch(q) {
+  return 'https://search.bilibili.com/all?keyword=' + encodeURIComponent(q || '护肤');
+}
+function gSkincare() {
+  const seed = window.SEED.growth.skincare || [];
+  const mine = DB.get('g_skincare', []);
+  const all = [...mine, ...dailyItems('skincare', seed)]
+    .map(x => ({ ...x, link: x.link || biliSearch(x.title || x.tag || '护肤') }));
+  return `<div class="card"><h2>💄 护肤化妆${dailyBadge('skincare')}</h2><p class="desc">混干皮科学护肤 · 化妆 · 编发 · 小个子穿搭；点「看教程」跳转 B站搜同款。</p>
+    ${all.map(it => `<div class="item">
+      <div class="head"><span class="title">${esc(it.title)}</span>${it.tag ? `<span class="tag">${esc(it.tag)}</span>` : ''}
+        <a class="meta link" href="${esc(it.link)}" target="_blank" rel="noopener" style="margin-left:auto;color:var(--purple);font-weight:700">🔍 看教程</a></div>
+      <div class="body">${esc(it.body || '')}</div>
+    </div>`).join('')}
+    <hr class="hr"/><h2 style="font-size:15px">＋ 添加一条</h2>
+    <div class="row"><div><label class="f">标签</label><input id="g_tag" placeholder="如 技巧/原理"></div></div>
+    <label class="f">标题</label><input id="g_title" placeholder="标题">
+    <label class="f">内容</label><textarea id="g_body"></textarea>
+    <button class="btn sm" style="margin-top:10px" data-act="addGrowth" data-key="skincare">保存</button>
+  </div>`;
+}
+function douyinSearch(q) {
+  return 'https://www.douyin.com/search/' + encodeURIComponent(q || '摄影');
+}
+function gPhoto() {
+  const seed = window.SEED.growth.photo || [];
+  const mine = DB.get('g_photo', []);
+  const daily = dailyItems('photo', []);
+  const renderItem = (it) => {
+    const link = it.link || (/博主/.test(it.tag || '') ? douyinSearch(it.title || it.tag) : '');
+    return `<div class="item">
+      <div class="head"><span class="title">${esc(it.title)}</span>${it.tag ? `<span class="tag">${esc(it.tag)}</span>` : ''}
+        ${link ? `<a class="meta link" href="${esc(link)}" target="_blank" rel="noopener" style="margin-left:auto;color:var(--purple);font-weight:700">🔗 看教程</a>` : ''}</div>
+      <div class="body">${esc(it.body || '')}</div>
+    </div>`;
+  };
+  return `<div class="card"><h2>📷 摄影修图${dailyBadge('photo')}</h2><p class="desc">按学习顺序：拍照参数/姿势 → 运镜 → 剪辑 → 模板 → 博主推荐 → p图 → 穿搭 → 配色。</p>
+    ${[...mine, ...seed].map(renderItem).join('')}
+    ${daily.length ? `<hr class="hr"/><h2 style="font-size:15px">🆕 今日推荐</h2>${daily.map(renderItem).join('')}` : ''}
+    <hr class="hr"/><h2 style="font-size:15px">＋ 添加一条</h2>
+    <div class="row"><div><label class="f">标签</label><input id="g_tag" placeholder="如 场景/博主"></div></div>
+    <label class="f">标题</label><input id="g_title" placeholder="标题">
+    <label class="f">内容</label><textarea id="g_body"></textarea>
+    <button class="btn sm" style="margin-top:10px" data-act="addGrowth" data-key="photo">保存</button>
+  </div>`;
 }
 function gList(key, name, desc, checkIn) {
   const seed = window.SEED.growth[key] || [];
@@ -352,6 +435,16 @@ function gQuotes() {
     <button class="btn sm" style="margin-top:10px" data-act="addQuote">保存</button>
   </div>`;
 }
+function gNational() {
+  const seed = window.SEED.growth.national || [];
+  const all = dailyItems('national', seed).map(x => ({ tag: x.tag, title: x.text, body: x.body }));
+  return `<div class="card"><h2>🌍 全球外网新闻${dailyBadge('national')}</h2><p class="desc">每日自动更新：来自海外主流媒体与社交平台的全球热点，简明中文转述 + 一句点评。</p>${all.map(it => listItem(it)).join('')}</div>`;
+}
+function gSpeech() {
+  const seed = window.SEED.growth.speech || [];
+  const all = dailyItems('speech', seed);
+  return `<div class="card"><h2>🎤 高分演讲 / 语言类${dailyBadge('speech')}</h2><p class="desc">每日自动更新：TED / 名人演讲 / 辩论 / 访谈 / 脱口秀，练语感与表达。</p>${all.map(it => listItem(it)).join('')}</div>`;
+}
 
 /* ---------- AI 探讨窗口（本地版） ---------- */
 function aiChat(topic) {
@@ -397,9 +490,10 @@ function renderPlayItem(x) {
 function viewPlay() {
   const S = window.SEED.play;
   const tabs = [
-    ['douyin', '🎵 抖音'], ['xhs', '📕 小红书'], ['positive', '✨ 正能量'],
-    ['national', '🇨🇳 国家新闻'], ['ai', '🤖 AI资讯'], ['aitips', '💡 AI技巧'], ['werewolf', '🐺 狼人杀'],
-    ['home', '🏠 家居收纳'], ['sing', '🎤 学唱歌'], ['dance', '💃 学跳舞'], ['posture', '🧘 体态'], ['drive', '🚗 驾照']
+    ['positive', '✨ 正能量'], ['douyin', '🎵 抖音'], ['xhs', '📕 小红书'],
+    ['ai', '🤖 AI资讯'], ['aitips', '💡 AI技巧'], ['werewolf', '🐺 狼人杀'],
+    ['posture', '🧘 体态'], ['sing', '🎤 歌唱'], ['dance', '💃 舞蹈'],
+    ['diy', '🧶 手工DIY'], ['home', '🧹 收纳'], ['drive', '🚗 驾照']
   ];
   const cur = state.play;
   const curLabel = (tabs.find(t => t[0] === cur) || [,''])[1];
@@ -407,19 +501,19 @@ function viewPlay() {
     douyin: '抖音热点整理：蹭热点、找选题、攒素材。',
     xhs: '小红书趋势：穿搭 / 护肤 / 旅行 / 摄影，收藏灵感。',
     positive: '正能量视频与 UP 主推荐，治愈自己。',
-    national: '国家大事与民生政策，保持关注。',
     ai: 'AI 平台动态整合推送：精选摘要 + 每日实时快讯。',
     aitips: 'AI 使用技巧：把大模型用得更顺手。',
     werewolf: '狼人杀玩法技巧：从发言到归票的思路。',
     home: '家居收纳技巧：让小空间变好用。',
     sing: '零基础学唱歌：呼吸、音准、发声、情感表达。',
     dance: '零基础学跳舞：基本功、跟舞、录舞技巧。',
+    diy: '手工 DIY：钩织、拼图、手帐、收纳优化、素菜 / 荤菜 / 烘焙等每日灵感。',
     posture: '体态改正：动作展示 + 日常习惯。',
     drive: '驾照考试零基础题库：每日一练自动换题，点选项看对错与解析。'
   };
   let body = '';
-  const STR = ['douyin', 'xhs', 'positive', 'national', 'home', 'sing', 'dance'];
-  const PLAY_DAILY = ['douyin', 'xhs', 'positive', 'national', 'aitips', 'werewolf', 'home', 'sing', 'dance'];
+  const STR = ['douyin', 'xhs', 'positive', 'home', 'sing', 'dance', 'diy'];
+  const PLAY_DAILY = ['douyin', 'xhs', 'positive', 'aitips', 'werewolf', 'home', 'sing', 'dance', 'diy'];
   if (STR.includes(cur)) {
     const seedKey = cur === 'xhs' ? 'xiaohongshu' : cur;
     const seedArr = S[seedKey] || [];
@@ -757,8 +851,8 @@ function startRoutineTimer() {
    4. PLAN（饮食 / 体重 / 财务 / 打卡）
    ============================================================ */
 function viewPlan() {
-  const inner = { diet: planDiet, weight: planWeight, finance: planFinance, overview: planOverview, routine: planRoutine }[state.plan];
-  const tabs = [['diet', '🍱 饮食'], ['weight', '⚖️ 体重'], ['finance', '💳 财务'], ['routine', '📅 每日精进'], ['overview', '📈 打卡概览']];
+  const inner = { weight: planWeight, diet: planDiet, finance: planFinance, overview: planOverview }[state.plan];
+  const tabs = [['weight', '⚖️ 体重'], ['diet', '🍱 饮食'], ['finance', '💳 流水'], ['overview', '📈 打卡']];
   return `<div class="topbar"><h1>📋 Plan 计划台</h1><span class="pill">控饮食 · 减体重 · 理财务 · 每日精进</span></div>
     <div class="subtabs">${tabs.map(t => `<div class="subtab ${state.plan === t[0] ? 'active' : ''}" data-plan="${t[0]}">${t[1]}</div>`).join('')}</div>
     ${inner()}`;
@@ -777,11 +871,15 @@ function planRoutine() {
   const items = seed.map(x => {
     const isDone = done.includes(x.key);
     const isActive = rt.running && rt.key === x.key;
+    const gotoBtn = x.goto
+      ? `<button class="btn ghost sm routine-goto" data-act="goto" data-view="${x.goto.view}" data-tab="${x.goto.tab}">查看${esc(x.goto.label)} →</button>`
+      : '';
     return `<div class="routine-item ${isDone ? 'done' : ''}">
       <div class="routine-check ${isDone ? 'on' : ''}" data-act="rtToggle" data-key="${x.key}">${isDone ? '✓' : ''}</div>
       <div class="routine-main">
         <div class="routine-name">${esc(x.name)}</div>
         <div class="routine-note">${esc(x.note || '')}</div>
+        ${gotoBtn}
       </div>
       <div class="routine-time">${x.min} 分钟</div>
       <button class="btn sm ${isActive ? 'on' : ''}" data-act="rtStart" data-key="${x.key}">${isActive ? '⏸' : '▶'}</button>
@@ -981,11 +1079,56 @@ function heatmap(set) {
    5. DAILY
    ============================================================ */
 function viewDaily() {
+  const tabs = [
+    ['cal', '📅 日历提醒'], ['love', '💞 恋爱日记'], ['diary', '📝 今日记录'], ['album', '🖼️ 照片日历']
+  ];
+  const inner = { cal: viewDailyCal, love: loveDiaryCard, diary: viewDailyDiary, album: viewDailyAlbum }[state.daily];
+  return `<div class="topbar"><h1>📝 Daily 日记</h1><span class="pill">日历提醒 · 恋爱 · 记录 · 相册</span></div>
+    <div class="subtabs">${tabs.map(t => `<div class="subtab ${state.daily === t[0] ? 'active' : ''}" data-daily="${t[0]}">${t[1]}</div>`).join('')}</div>
+    ${inner()}`;
+}
+function daysBetween(from, to) {
+  const a = new Date(from + 'T00:00:00'), b = new Date(to + 'T00:00:00');
+  return Math.max(0, Math.round((b - a) / 86400000));
+}
+function nextBirthdayInDays(md) {
+  const now = new Date();
+  const y = now.getFullYear();
+  let d = new Date(y + '-' + md + 'T00:00:00');
+  if (isNaN(d)) return null;
+  if (d < now) d = new Date((y + 1) + '-' + md + 'T00:00:00');
+  return Math.round((d - now) / 86400000);
+}
+function viewDailyCal() {
+  const t = todayStr();
+  const loveStart = DB.get('love_start', '');
+  const days = loveStart ? daysBetween(loveStart, t) : null;
+  const bds = (DB.get('birthdays', []) || []).slice().sort((a, b) => (nextBirthdayInDays(a.date) ?? 999) - (nextBirthdayInDays(b.date) ?? 999));
+  return `<div class="card">
+    <h2>💞 在一起的第几天</h2>
+    ${loveStart ? `<p style="font-size:34px;font-weight:800;color:var(--purple);margin:6px 0">${days} <small style="font-size:16px;color:var(--text-soft)">天</small></p><p class="desc">从 ${esc(loveStart)} 到今天</p>` : '<p class="muted">还没记录在一起的日子～</p>'}
+    <div class="row"><div><label class="f">在一起起始日</label><input id="ls_date" type="date" value="${esc(loveStart)}"></div></div>
+    <button class="btn sm" style="margin-top:8px" data-act="saveLoveStart">${loveStart ? '更新' : '记录'}这个日子</button>
+    <hr class="hr"/><h2 style="font-size:15px">🎂 家人朋友生日</h2>
+    <div class="birthdays">
+      ${bds.map((b, i) => `<div class="item" style="margin-bottom:8px"><div class="head"><span class="title">${esc(b.name)}</span>
+        <span class="tag">${esc(b.date)}</span>
+        <span class="meta" style="margin-left:auto">${nextBirthdayInDays(b.date)} 天后</span></div>
+        ${b.note ? `<div class="body">${esc(b.note)}</div>` : ''}
+        <button class="btn ghost sm" style="margin-top:6px" data-act="delBirthday" data-i="${i}">删除</button></div>`).join('') || '<p class="muted">还没有记录生日。</p>'}
+    </div>
+    <hr class="hr"/><h2 style="font-size:15px">＋ 添加一个生日</h2>
+    <div class="row"><div><label class="f">姓名</label><input id="bd_name" placeholder="如 妈妈"></div>
+      <div><label class="f">生日(MM-DD)</label><input id="bd_date" placeholder="如 05-20"></div></div>
+    <label class="f">备注</label><input id="bd_note" placeholder="喜好 / 想送的礼物…">
+    <button class="btn sm" style="margin-top:8px" data-act="saveBirthday">保存</button>
+  </div>`;
+}
+function viewDailyDiary() {
   const all = DB.get('journal', []).slice().sort((a, b) => b.date.localeCompare(a.date));
   const t = todayStr();
   const rec = all.find(j => j.date === t) || {};
-  return `<div class="topbar"><h1>📝 Daily 日记</h1><span class="pill">每日一图 · 一心情 · 一记录</span></div>
-  <div class="card">
+  return `<div class="card">
     <h2>✍️ 今日记录</h2><p class="desc">每天拍一张图 + 写点文字，留住此刻心情。</p>
     <div class="mood" id="moodpick">
       ${['😀', '😊', '😐', '😟', '😢', '😡', '🥰', '😴'].map(e => `<span class="${rec.mood === e ? 'on' : ''}" data-mood="${e}">${e}</span>`).join('')}
@@ -995,8 +1138,11 @@ function viewDaily() {
     ${rec.img ? `<img src="${rec.img}" style="max-width:160px;border-radius:12px;margin-top:8px;display:block">` : ''}
     <label class="f">文字</label><textarea id="j_text" placeholder="今天发生了什么？心情如何？">${esc(rec.text || '')}</textarea>
     <button class="btn sm" style="margin-top:10px" data-act="saveJournal">保存今日日记</button>
-  </div>
-  <div class="card">
+  </div>`;
+}
+function viewDailyAlbum() {
+  const all = DB.get('journal', []).slice().sort((a, b) => b.date.localeCompare(a.date));
+  return `<div class="card">
     <h2>📅 照片日历</h2>
     <p class="desc">点击日期查看当天日记；有图的格子会显示照片。</p>
     <div class="cal-header">
@@ -1017,6 +1163,31 @@ function viewDaily() {
         ${j.img ? `<img src="${j.img}">` : `<div style="height:130px;background:var(--grad-soft);display:grid;place-items:center;font-size:30px">${j.mood || '📝'}</div>`}
         <div class="jt"><div class="jd">${j.date} ${j.mood || ''}</div><div class="jm">${esc(j.text || '')}</div></div>
       </div>`).join('') || '<p class="muted">还没有日记，记下今天吧～</p>'}
+    </div>
+  </div>`;
+}
+function loveDiaryCard() {
+  const all = DB.get('love_diary', []).slice().sort((a, b) => b.date.localeCompare(a.date));
+  const t = todayStr();
+  return `<div class="card">
+    <h2>💞 恋爱日记</h2>
+    <p class="desc">记录你和 TA 相处的重要 moments —— 第一次牵手、一起看的电影、吵完架的和好…… 留住每一个心动。</p>
+    <div class="mood" id="lovepick">
+      ${['💑', '😊', '🥰', '🌟', '🤗', '😘', '🌈', '💕'].map(e => `<span data-mood="${e}">${e}</span>`).join('')}
+    </div>
+    <label class="f">日期</label>
+    <input id="love_date" type="date" value="${t}">
+    <label class="f">今日一图（可选）</label>
+    <input id="love_img" type="file" accept="image/*">
+    <label class="f">记录这个 moment</label>
+    <textarea id="love_text" placeholder="今天和 TA 发生了什么温暖 / 有趣 / 难忘的事？"></textarea>
+    <button class="btn sm" style="margin-top:10px" data-act="saveLove">保存这个 moment</button>
+    <hr class="hr"/><h2 style="font-size:15px">💞 我们的 moments</h2>
+    <div class="journal-grid">
+      ${all.map(j => `<div class="jcard">
+        ${j.img ? `<img src="${j.img}">` : `<div style="height:130px;background:var(--grad-soft);display:grid;place-items:center;font-size:30px">${j.mood || '💞'}</div>`}
+        <div class="jt"><div class="jd">${j.date} ${j.mood || ''}</div><div class="jm">${esc(j.text || '')}</div></div>
+      </div>`).join('') || '<p class="muted">还没有记录，记下第一个心动瞬间吧～</p>'}
     </div>
   </div>`;
 }
@@ -1070,6 +1241,7 @@ function bindView() {
   $$('[data-grow]').forEach(el => el.onclick = () => { state.growth = el.dataset.grow; renderView(); });
   $$('[data-play]').forEach(el => el.onclick = () => { state.play = el.dataset.play; renderView(); });
   $$('[data-plan]').forEach(el => el.onclick = () => { state.plan = el.dataset.plan; renderView(); });
+  $$('[data-daily]').forEach(el => el.onclick = () => { state.daily = el.dataset.daily; renderView(); });
 
   // 通用动作
   $$('[data-act]').forEach(el => el.onclick = () => handleAct(el));
@@ -1077,6 +1249,10 @@ function bindView() {
   // 心情选择
   $$('#moodpick [data-mood]').forEach(el => el.onclick = () => {
     $$('#moodpick [data-mood]').forEach(s => s.classList.remove('on'));
+    el.classList.add('on');
+  });
+  $$('#lovepick [data-mood]').forEach(el => el.onclick = () => {
+    $$('#lovepick [data-mood]').forEach(s => s.classList.remove('on'));
     el.classList.add('on');
   });
 
@@ -1250,6 +1426,31 @@ function handleAct(el) {
       if (file) readImage(file).then(finish); else finish(recImg(date));
       break;
     }
+    case 'saveLove': {
+      const date = $('#love_date').value || todayStr();
+      const mood = ($('#lovepick .on') || {}).dataset?.mood || '';
+      const file = $('#love_img').files[0];
+      const finish = (img) => {
+        const arr = DB.get('love_diary', []);
+        arr.push({ date, mood, text: $('#love_text').value, img });
+        DB.set('love_diary', arr); toast('已记下这个 moment 💞'); renderView();
+      };
+      if (file) readImage(file).then(finish); else finish(null);
+      break;
+    }
+    case 'saveLoveStart': {
+      const d = $('#ls_date').value || '';
+      DB.set('love_start', d); toast(d ? '已记录在一起的日子 💞' : '已清空'); renderView(); break;
+    }
+    case 'saveBirthday': {
+      const name = $('#bd_name').value.trim(), date = $('#bd_date').value.trim();
+      if (!name || !date) { toast('姓名和生日都要填哦'); break; }
+      const arr = DB.get('birthdays', []); arr.push({ name, date, note: $('#bd_note').value.trim() });
+      DB.set('birthdays', arr); toast('已添加生日 🎂'); renderView(); break;
+    }
+    case 'delBirthday': {
+      const arr = DB.get('birthdays', []); arr.splice(el.dataset.i, 1); DB.set('birthdays', arr); renderView(); break;
+    }
     case 'calPrev': { dailyCal.month--; if (dailyCal.month < 0) { dailyCal.month = 11; dailyCal.year--; } renderView(); break; }
     case 'calNext': { dailyCal.month++; if (dailyCal.month > 11) { dailyCal.month = 0; dailyCal.year++; } renderView(); break; }
     case 'calCell': {
@@ -1264,6 +1465,14 @@ function handleAct(el) {
         <div class="body">${esc(j.text || '')}</div>
       </div>`;
       break;
+    }
+    case 'goto': {
+      const view = el.dataset.view, tab = el.dataset.tab;
+      if (view === 'amazon') state.amazon = tab;
+      else if (view === 'growth') state.growth = tab;
+      else if (view === 'play') state.play = tab;
+      else if (view === 'plan') state.plan = tab;
+      go(view); break;
     }
   }
 }

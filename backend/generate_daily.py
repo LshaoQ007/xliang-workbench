@@ -153,11 +153,12 @@ def extract_json(text):
     return None
 
 
-def call_llm(system, user, model):
+def call_llm(system, user, model, retries=3):
     """调用 OpenAI 兼容接口，返回解析后的 JSON（通常是 {'items': [...]} 或 [...]）。
 
     注意：Kimi(Moonshot) K2/K3 等模型不支持 response_format=json_object，会返回 400，
     因此这里不发送该参数，改为靠提示词 + 稳健解析来拿到 JSON。
+    对网络中断 / 返回空或非 JSON 的情况自动重试，避免偶发抖动导致整块内容缺失。
     """
     if requests is None:
         return None
@@ -168,29 +169,36 @@ def call_llm(system, user, model):
         "\n\n请只返回一个 JSON 对象，结构为 {\"items\": [ ... ]}，其中 items 是要求的数组。"
         "不要输出 ``` 代码块，不要任何说明文字，直接输出纯 JSON。"
     )
-    try:
-        r = requests.post(
-            base + '/chat/completions',
-            headers={'Authorization': 'Bearer ' + api_key, 'Content-Type': 'application/json'},
-            json={'model': model, 'messages': [{'role': 'user', 'content': prompt}], 'temperature': 1},
-            timeout=300,
-        )
-        r.raise_for_status()
-        content = r.json()['choices'][0]['message']['content']
-    except Exception as e:
-        print('[llm] 请求失败:', e)
-        return None
-    data = extract_json(content)
-    if isinstance(data, list):
-        items = data
-    elif isinstance(data, dict):
-        items = data.get('items')
-    else:
-        items = None
-    if not isinstance(items, list):
-        items = []
-    print('[llm] %s -> %d items' % (model, len(items)))
-    return items
+    last_err = None
+    for attempt in range(1, retries + 1):
+        try:
+            r = requests.post(
+                base + '/chat/completions',
+                headers={'Authorization': 'Bearer ' + api_key, 'Content-Type': 'application/json'},
+                json={'model': model, 'messages': [{'role': 'user', 'content': prompt}], 'temperature': 1},
+                timeout=300,
+            )
+            r.raise_for_status()
+            content = r.json()['choices'][0]['message']['content']
+        except Exception as e:
+            last_err = e
+            print('[llm] 请求失败(尝试 %d/%d): %s' % (attempt, retries, e))
+            continue
+        data = extract_json(content)
+        if isinstance(data, list):
+            items = data
+        elif isinstance(data, dict):
+            items = data.get('items')
+        else:
+            items = None
+        if not isinstance(items, list) or not items:
+            last_err = 'empty/non-json'
+            print('[llm] 解析失败，重试 %d/%d' % (attempt, retries))
+            continue
+        print('[llm] %s -> %d items' % (model, len(items)))
+        return items
+    print('[llm] 最终失败:', last_err)
+    return None
 
 
 def main():

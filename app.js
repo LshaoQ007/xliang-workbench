@@ -31,6 +31,7 @@ const state = { view: 'amazon', growth: 'photo', plan: 'diet', play: 'douyin', a
 let dailyCal = { year: new Date().getFullYear(), month: new Date().getMonth() };
 let driveExam = null, examTimerInt = null;
 let postureTimer = { total: 60, remaining: 60, running: false }, postureTimerInt = null;
+let routineTimer = { key: null, total: 0, remaining: 0, running: false }, routineTimerInt = null;
 
 /* ============================================================
    导航
@@ -87,6 +88,7 @@ function listItem(it, opts = {}) {
       ${it.artist ? `<span class="meta">— ${esc(it.artist)}</span>` : ''}
       ${linkMeta}</div>
     <div class="body">${esc(it.body || it.summary || it.note || '')}</div>
+    ${it.src ? `<div class="body" style="color:var(--text-soft);font-size:12px">📍 ${esc(it.src)}</div>` : ''}
     ${it.caseStudy ? `<div class="body" style="color:var(--text-soft)"><b>📌 案例：</b>${esc(it.caseStudy)}</div>` : ''}
     ${extra}
   </div>`;
@@ -255,6 +257,7 @@ const GROWTH_TABS = [
   ['finance', '💰 理财学习'], ['law', '⚖️ 法律知识'], ['books', '📚 书籍阅读'],
   ['quotes', '✍️ 句段记录'], ['career', '💼 职场成长'], ['film', '🎬 影视综艺']
 , ['english', '🇬🇧 英语学习'], ['korean', '🇰🇷 韩语零基础'], ['japanese', '🇯🇵 日语零基础']
+, ['cognition', '🧠 认知提升']
 ];
 function viewGrowth() {
   const inner = {
@@ -269,7 +272,8 @@ function viewGrowth() {
     film: gFilm(),
     english: gList('english', '英语学习', '专八词汇 · 口语跟读 · 影视句段'),
     korean: gList('korean', '韩语零基础', '发音 · 单词 · 实用句型'),
-    japanese: gList('japanese', '日语零基础', '五十音 · 单词 · 实用句型')
+    japanese: gList('japanese', '日语零基础', '五十音 · 单词 · 实用句型'),
+    cognition: gList('cognition', '认知提升', '时事政策·经济·理财·商业·前沿科技·民法典·职场·情商·认知')
   }[state.growth];
   return `<div class="topbar"><h1>🌱 Growth 成长台</h1><span class="pill">十二大板块 · 每日充电</span></div>
     <div class="subtabs">${GROWTH_TABS.map(t => `<div class="subtab ${state.growth === t[0] ? 'active' : ''}" data-grow="${t[0]}">${t[1]}</div>`).join('')}</div>
@@ -685,7 +689,28 @@ function startPostureTimer() {
     }
   }, 1000);
 }
-function viewPosture() {
+function startRoutineTimer() {
+  if (routineTimerInt) return;
+  routineTimerInt = setInterval(() => {
+    const node = document.getElementById('routine_timer');
+    if (!node) { clearInterval(routineTimerInt); routineTimerInt = null; return; }
+    if (!routineTimer.running) return;
+    routineTimer.remaining--;
+    const mm = String(Math.floor(routineTimer.remaining / 60)).padStart(2, '0');
+    const ss = String(routineTimer.remaining % 60).padStart(2, '0');
+    node.textContent = mm + ':' + ss;
+    if (routineTimer.remaining <= 0) {
+      clearInterval(routineTimerInt); routineTimerInt = null;
+      routineTimer.running = false;
+      const key = routineTimer.key;
+      routineTimer.key = null;
+      const date = todayStr();
+      const d = DB.get('plan_routine_' + date, []);
+      if (key && !d.includes(key)) { d.push(key); DB.set('plan_routine_' + date, d); }
+      renderView();
+    }
+  }, 1000);
+}function viewPosture() {
   const S = window.SEED.play;
   const seedArr = S.posture || [];
   const user = DB.get('play_posture', []);
@@ -725,11 +750,58 @@ function viewPosture() {
    4. PLAN（饮食 / 体重 / 财务 / 打卡）
    ============================================================ */
 function viewPlan() {
-  const inner = { diet: planDiet, weight: planWeight, finance: planFinance, overview: planOverview }[state.plan];
-  const tabs = [['diet', '🍱 饮食'], ['weight', '⚖️ 体重'], ['finance', '💳 财务'], ['overview', '📈 打卡概览']];
-  return `<div class="topbar"><h1>📋 Plan 计划台</h1><span class="pill">控饮食 · 减体重 · 理财务</span></div>
+  const inner = { diet: planDiet, weight: planWeight, finance: planFinance, overview: planOverview, routine: planRoutine }[state.plan];
+  const tabs = [['diet', '🍱 饮食'], ['weight', '⚖️ 体重'], ['finance', '💳 财务'], ['routine', '📅 每日精进'], ['overview', '📈 打卡概览']];
+  return `<div class="topbar"><h1>📋 Plan 计划台</h1><span class="pill">控饮食 · 减体重 · 理财务 · 每日精进</span></div>
     <div class="subtabs">${tabs.map(t => `<div class="subtab ${state.plan === t[0] ? 'active' : ''}" data-plan="${t[0]}">${t[1]}</div>`).join('')}</div>
     ${inner()}`;
+}
+function planRoutine() {
+  const seed = window.SEED.plan.routine || [];
+  if (!seed.length) return '<p class="muted">暂无每日精进安排。</p>';
+  const date = todayStr();
+  const done = DB.get('plan_routine_' + date, []);
+  const totalMin = seed.reduce((s, x) => s + x.min, 0);
+  const doneMin = seed.filter(x => done.includes(x.key)).reduce((s, x) => s + x.min, 0);
+  const rt = routineTimer;
+  const mm = String(Math.floor(rt.remaining / 60)).padStart(2, '0');
+  const ss = String(rt.remaining % 60).padStart(2, '0');
+  const activeName = rt.running && rt.key ? (seed.find(s => s.key === rt.key) || {}).name : '';
+  const items = seed.map(x => {
+    const isDone = done.includes(x.key);
+    const isActive = rt.running && rt.key === x.key;
+    return `<div class="routine-item ${isDone ? 'done' : ''}">
+      <div class="routine-check ${isDone ? 'on' : ''}" data-act="rtToggle" data-key="${x.key}">${isDone ? '✓' : ''}</div>
+      <div class="routine-main">
+        <div class="routine-name">${esc(x.name)}</div>
+        <div class="routine-note">${esc(x.note || '')}</div>
+      </div>
+      <div class="routine-time">${x.min} 分钟</div>
+      <button class="btn sm ${isActive ? 'on' : ''}" data-act="rtStart" data-key="${x.key}">${isActive ? '⏸' : '▶'}</button>
+    </div>`;
+  }).join('');
+  const timerBox = rt.running
+    ? `<div class="routine-timer on">
+        <span class="routine-timer-label">⏱ ${esc(activeName)}</span>
+        <span class="routine-timer-val" id="routine_timer">${mm}:${ss}</span>
+        <button class="btn sm" data-act="rtPause">暂停</button>
+        <button class="btn sm" data-act="rtStop">结束</button>
+      </div>`
+    : `<div class="routine-timer">
+        <span class="routine-timer-label">⏱ 专注计时</span>
+        <span class="routine-timer-val" id="routine_timer">${mm}:${ss}</span>
+      </div>`;
+  const cogs = (window.SEED.growth.cognition || []).map(c => `<span class="cog-chip">${esc(c.title)}</span>`).join('');
+  return `<div class="card">
+    <h2>📅 每日精进</h2>
+    <p class="desc">每天固定时段做这 4 件事，日积月累。点 ✓ 打卡，点 ▶ 用专注计时（结束或倒计时归零自动打卡）。</p>
+    <div class="routine-prog">今日进度 ${done.length}/${seed.length} · 已完成 ${doneMin}/${totalMin} 分钟</div>
+    ${timerBox}
+    ${items}
+    <hr class="hr"/><h2 style="font-size:15px">🧠 今日认知方向</h2>
+    <p class="desc">做上面几件事时，可围绕这些主题摄入内容：</p>
+    <div class="cog-chips">${cogs}</div>
+  </div>`;
 }
 function planDiet() {
   const t = todayStr();
@@ -1111,6 +1183,33 @@ function handleAct(el) {
       const sec = Number(el.dataset.sec);
       if (postureTimerInt) { clearInterval(postureTimerInt); postureTimerInt = null; }
       postureTimer.total = sec; postureTimer.remaining = sec; postureTimer.running = false;
+      renderView(); break;
+    }
+    case 'rtToggle': {
+      const date = todayStr();
+      const d = DB.get('plan_routine_' + date, []);
+      const i = d.indexOf(el.dataset.key);
+      if (i >= 0) d.splice(i, 1); else d.push(el.dataset.key);
+      DB.set('plan_routine_' + date, d); renderView(); break;
+    }
+    case 'rtStart': {
+      const item = (window.SEED.plan.routine || []).find(x => x.key === el.dataset.key);
+      if (!item) break;
+      if (routineTimerInt) { clearInterval(routineTimerInt); routineTimerInt = null; }
+      routineTimer.key = item.key;
+      routineTimer.total = item.min * 60;
+      routineTimer.remaining = item.min * 60;
+      routineTimer.running = true;
+      startRoutineTimer(); renderView(); break;
+    }
+    case 'rtPause': {
+      routineTimer.running = false;
+      if (routineTimerInt) { clearInterval(routineTimerInt); routineTimerInt = null; }
+      renderView(); break;
+    }
+    case 'rtStop': {
+      routineTimer.running = false; routineTimer.key = null;
+      if (routineTimerInt) { clearInterval(routineTimerInt); routineTimerInt = null; }
       renderView(); break;
     }
     case 'saveDiet': {

@@ -305,3 +305,16 @@ td input { padding: 7px 9px; font-size: 13px; }
 .routine-time { flex: 0 0 auto; font-size: 13px; color: var(--text-soft); font-weight: 600; }
 .cog-chips { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
 .cog-chip { font-size: 13px; padding: 5px 12px; border-radius: 999px; background: var(--primary-soft, #f6f1ff); color: var(--primary); font-weight: 600; }
+
+/* ---------- 每日自动更新徽标 ---------- */
+.daily-badge { display: inline-block; font-size: 12px; font-weight: 700; color: #16a34a; background: #e9f9ee; border: 1px solid #b7ebc4; border-radius: 999px; padding: 2px 10px; margin-left: 8px; vertical-align: middle; }
+.daily-badge.ghost { color: #b0721a; background: #fff7e6; border-color: #ffd591; }
+
+/* ---------- 语言学习打卡 ---------- */
+.checkin-box { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 10px 14px; margin: 4px 0 14px; background: #fff7ed; border: 1px solid #fed7aa; border-radius: 12px; }
+.checkin-info { font-size: 14px; color: #9a3412; }
+.checkin-info b { color: #ea580c; font-size: 16px; }
+
+/* ---------- 高分演讲推荐 ---------- */
+.speech-list { display: flex; flex-direction: column; gap: 8px; }
+.speech-list .item { padding: 10px 12px; background: #faf7ff; border: 1px solid var(--primary-soft, #efe7ff); border-radius: 12px; }

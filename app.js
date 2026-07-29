@@ -99,10 +99,9 @@ function listItem(it, opts = {}) {
    ============================================================ */
 function viewAmazon() {
   const S = window.SEED.amazon;
-  const tabs = [['news', '📰 政策新闻'], ['sales', '📊 销量数据'], ['market', '🔍 市场分析'], ['interview', '💬 面试问答'], ['tips', '🎯 运营技巧'], ['tools', '🛠️ 工具技巧']];
+  const tabs = [['news', '📰 政策新闻'], ['market', '🔍 市场分析'], ['interview', '💬 面试问答'], ['tips', '🎯 运营技巧'], ['tools', '🛠️ 工具技巧']];
   const inner = {
     news: viewAmazonNews,
-    sales: viewAmazonSales,
     market: viewAmazonMarket,
     interview: viewAmazonInterview,
     tips: viewAmazonTips,
@@ -162,9 +161,14 @@ function fallbackFeed(cache, box) {
   box.innerHTML = '<p class="muted">自动简报暂不可用（离线或后端未启动），将显示示例内容。</p>';
 }
 function renderFeed(d) {
-  const items = d.items || [];
+  // 仅保留 2026 年及以后的新闻（满足「只保留 2026 年或未来日期」）
+  const items = (d.items || []).filter(it => {
+    const y = (it.pubDate || '').match(/20\d{2}/);
+    if (y && parseInt(y[0], 10) < 2026) return false;
+    return true;
+  });
   const head = `<div class="head" style="margin-bottom:8px"><span class="tag">🔄 自动抓取</span>
-    <span class="meta" style="margin-left:auto">更新于 ${esc(d.updated || '—')} · 共 ${items.length} 条</span></div>`;
+    <span class="meta" style="margin-left:auto">更新于 ${esc(d.updated || '—')} · 共 ${items.length} 条（仅 2026+）</span></div>`;
   if (!items.length) return head + '<p class="muted">暂无自动抓取内容。</p>';
   return head + items.map(it => `<div class="item">
     <div class="head"><span class="title"><a href="${esc(it.link)}" target="_blank" rel="noopener" style="color:inherit;text-decoration:none">${esc(it.title)}</a></span>
@@ -176,60 +180,18 @@ function renderFeed(d) {
 }
 function viewAmazonInterview() {
   const seed = window.SEED.amazon.interview || [];
-  return `<div class="card"><h2>💬 亚马逊运营面试问答</h2><p class="desc">常见面试题 + 回答思路，面试前过一遍。</p>${seed.map(it => listItem(it)).join('')}</div>`;
+  const all = dailyItems('amazon_interview', seed);
+  return `<div class="card"><h2>💬 亚马逊运营面试问答${dailyBadge('amazon_interview')}</h2><p class="desc">常见面试题 + 回答思路，面试前过一遍。</p>${all.map(it => listItem(it)).join('')}</div>`;
 }
 function viewAmazonTips() {
   const seed = window.SEED.amazon.tips || [];
-  return `<div class="card"><h2>🎯 亚马逊美国站运营技巧</h2><p class="desc">选品、广告、转化、物流、合规、品牌实战技巧。</p>${seed.map(it => listItem(it)).join('')}</div>`;
+  const all = dailyItems('amazon_tips', seed);
+  return `<div class="card"><h2>🎯 亚马逊美国站运营技巧${dailyBadge('amazon_tips')}</h2><p class="desc">选品、广告、转化、物流、合规、品牌实战技巧。</p>${all.map(it => listItem(it)).join('')}</div>`;
 }
 function viewAmazonTools() {
   const seed = window.SEED.amazon.tools || [];
-  return `<div class="card"><h2>🛠️ 常用工具使用技巧</h2><p class="desc">领星ERP、卖家精灵、SIF 三款工具的实战使用技巧，覆盖选品、库存、广告、关键词、竞品分析全流程。</p>${seed.map(it => listItem(it)).join('')}</div>`;
-}
-function viewAmazonSales() {
-  const owners = ['负责人A', '负责人B', '负责人C', '负责人D']; // 汇保 4 个 listing 负责人
-  const today = todayStr();
-  const rows = DB.get('amz_sales', []).filter(r => r.date === today);
-  const byOwner = {}; owners.forEach(o => byOwner[o] = rows.find(r => r.owner === o) || {});
-  const totQty = rows.reduce((s, r) => s + num(r.qty), 0);
-  const totAmt = rows.reduce((s, r) => s + num(r.amount), 0);
-  return `<div class="card">
-    <h2>📊 领星 ERP · 今日销量（汇保 4 负责人）</h2>
-    <p class="desc">每日 14:57 查看 首页&gt;排行榜&gt;汇保 &gt; 4 个 listing 负责人下的销量与销售额，填到这里自动汇总。</p>
-    <div class="grid g4" style="margin-bottom:14px">
-      <div class="stat"><div class="k">今日总销量</div><div class="v">${totQty}</div></div>
-      <div class="stat"><div class="k">今日总销售额</div><div class="v">$${totAmt.toFixed(2)}</div></div>
-      <div class="stat"><div class="k">负责人数量</div><div class="v">4</div></div>
-      <div class="stat"><div class="k">日期</div><div class="v" style="font-size:16px">${today}</div></div>
-    </div>
-    <div class="note">🔐 账号密码等敏感信息请勿写入前端代码。此处仅作"手动录入/粘贴"入口，安全合规。</div>
-    <table style="margin-top:14px">
-      <thead><tr><th>负责人</th><th>销量</th><th>销售额($)</th><th></th></tr></thead>
-      <tbody>
-        ${owners.map(o => `<tr>
-          <td>${o}</td>
-          <td><input id="sq_${o}" type="number" value="${byOwner[o].qty ?? ''}" placeholder="0"></td>
-          <td><input id="sa_${o}" type="number" step="0.01" value="${byOwner[o].amount ?? ''}" placeholder="0"></td>
-          <td><button class="btn ghost sm" data-act="saveSales" data-owner="${o}">存</button></td>
-        </tr>`).join('')}
-      </tbody>
-    </table>
-    <hr class="hr"/>
-    <h2 style="font-size:15px">📅 历史记录</h2>
-    ${historySalesTable()}
-  </div>`;
-}
-function historySalesTable() {
-  const all = DB.get('amz_sales', []);
-  if (!all.length) return `<p class="muted">暂无历史，先填上方今日数据。</p>`;
-  const days = [...new Set(all.map(r => r.date))].sort().reverse().slice(0, 10);
-  return `<table><thead><tr><th>日期</th><th>总销量</th><th>总销售额($)</th></tr></thead><tbody>
-    ${days.map(d => {
-      const rs = all.filter(r => r.date === d);
-      const q = rs.reduce((s, r) => s + num(r.qty), 0), a = rs.reduce((s, r) => s + num(r.amount), 0);
-      return `<tr><td>${d}</td><td>${q}</td><td>$${a.toFixed(2)}</td></tr>`;
-    }).join('')}
-  </tbody></table>`;
+  const all = dailyItems('amazon_tools', seed);
+  return `<div class="card"><h2>🛠️ 常用工具使用技巧${dailyBadge('amazon_tools')}</h2><p class="desc">领星ERP、卖家精灵、SIF 三款工具的实战使用技巧，覆盖选品、库存、广告、关键词、竞品分析全流程。</p>${all.map(it => listItem(it)).join('')}</div>`;
 }
 function viewAmazonMarket() {
   const m = window.SEED.amazon.market;
@@ -254,7 +216,7 @@ function viewAmazonMarket() {
    ============================================================ */
 const GROWTH_TABS = [
   ['photo', '📷 摄影修图'], ['skincare', '💄 护肤化妆'], ['music', '🎵 歌曲分享'],
-  ['finance', '💰 理财学习'], ['law', '⚖️ 法律知识'], ['books', '📚 书籍阅读'],
+  ['finance', '💰 理财精进'], ['law', '⚖️ 法律知识'], ['books', '📚 书籍阅读'],
   ['quotes', '✍️ 句段记录'], ['career', '💼 职场成长'], ['film', '🎬 影视综艺']
 , ['english', '🇬🇧 英语学习'], ['korean', '🇰🇷 韩语零基础'], ['japanese', '🇯🇵 日语零基础']
 , ['cognition', '🧠 认知提升']
@@ -264,26 +226,28 @@ function viewGrowth() {
     photo: gList('photo', '摄影修图', '每日拍照/修图/姿势/穿搭技巧'),
     skincare: gList('skincare', '护肤化妆', '混干皮科学护肤 · 化妆 · 编发'),
     music: gMusic(),
-    finance: gList('finance', '理财学习', '基金热点 · 工资规划 · 金融知识'),
+    finance: gList('finance', '理财精进', '每日更新 · 基金理财 · 经济规律 · 做生意的思路'),
     law: gList('law', '法律知识', '每日普法 + 案例辅助'),
     books: gBooks(),
     quotes: gQuotes(),
     career: gList('career', '职场成长', '口才 · Excel 切片/透视表等'),
     film: gFilm(),
-    english: gList('english', '英语学习', '专八词汇 · 口语跟读 · 影视句段'),
-    korean: gList('korean', '韩语零基础', '发音 · 单词 · 实用句型'),
-    japanese: gList('japanese', '日语零基础', '五十音 · 单词 · 实用句型'),
+    english: gList('english', '英语学习', '专八词汇 · 口语跟读 · 影视句段', true),
+    korean: gList('korean', '韩语学习', '发音 · 单词 · 实用句型', true),
+    japanese: gList('japanese', '日语学习', '五十音 · 单词 · 实用句型', true),
     cognition: gList('cognition', '认知提升', '时事政策·经济·理财·商业·前沿科技·民法典·职场·情商·认知')
   }[state.growth];
   return `<div class="topbar"><h1>🌱 Growth 成长台</h1><span class="pill">十二大板块 · 每日充电</span></div>
     <div class="subtabs">${GROWTH_TABS.map(t => `<div class="subtab ${state.growth === t[0] ? 'active' : ''}" data-grow="${t[0]}">${t[1]}</div>`).join('')}</div>
     ${inner}`;
 }
-function gList(key, name, desc) {
+function gList(key, name, desc, checkIn) {
   const seed = window.SEED.growth[key] || [];
   const mine = DB.get('g_' + key, []);
-  const all = [...mine, ...seed];
-  return `<div class="card"><h2>${name}</h2><p class="desc">${desc}</p>
+  const all = [...mine, ...dailyItems(key, seed)];
+  const ci = checkIn ? langCheckinHtml(key) : '';
+  return `<div class="card"><h2>${name}${dailyBadge(key)}</h2><p class="desc">${desc}</p>
+    ${ci}
     ${all.map(it => listItem(it)).join('')}
     <hr class="hr"/><h2 style="font-size:15px">＋ 添加一条</h2>
     <div class="row"><div><label class="f">标签</label><input id="g_tag" placeholder="如 技巧/原理"></div></div>
@@ -292,18 +256,57 @@ function gList(key, name, desc) {
     <button class="btn sm" style="margin-top:10px" data-act="addGrowth" data-key="${key}">保存</button>
   </div>`;
 }
+/* ---------- 语言学习每日打卡 ---------- */
+function fmtDate(d) {
+  const y = d.getFullYear(), m = String(d.getMonth() + 1).padStart(2, '0'), day = String(d.getDate()).padStart(2, '0');
+  return `${y}-${m}-${day}`;
+}
+function langStreak(dates) {
+  const set = new Set(dates || []);
+  if (!set.size) return 0;
+  let cursor = todayStr();
+  if (!set.has(cursor)) {
+    const y = new Date(); y.setDate(y.getDate() - 1); cursor = fmtDate(y);
+    if (!set.has(cursor)) return 0;
+  }
+  let n = 0;
+  while (set.has(cursor)) {
+    n++;
+    const d = new Date(cursor + 'T00:00:00'); d.setDate(d.getDate() - 1); cursor = fmtDate(d);
+  }
+  return n;
+}
+function langCheckinHtml(key) {
+  const dates = DB.get('lang_checkin_' + key, []);
+  const done = dates.includes(todayStr());
+  const streak = langStreak(dates);
+  return `<div class="checkin-box">
+    <div class="checkin-info">🔥 连续打卡 <b>${streak}</b> 天${done ? ' · 今日已打卡 ✓' : ''}</div>
+    <button class="btn sm ${done ? 'on' : ''}" data-act="langCheckin" data-key="${key}">${done ? '✓ 今日已打卡' : '☐ 今日打卡'}</button>
+  </div>`;
+}
+function doLangCheckin(key) {
+  const dates = DB.get('lang_checkin_' + key, []);
+  const t = todayStr();
+  if (dates.includes(t)) { dates.splice(dates.indexOf(t), 1); DB.set('lang_checkin_' + key, dates); toast('已取消今日打卡'); }
+  else { dates.push(t); DB.set('lang_checkin_' + key, dates); toast('打卡成功 🔥 连续 ' + langStreak(dates) + ' 天'); }
+  renderView();
+}
 function gMusic() {
   const seed = window.SEED.growth.music;
   const mine = DB.get('g_music', []);
-  const all = [...mine, ...seed];
-  return `<div class="card"><h2>🎵 歌曲分享</h2><p class="desc">每日一首歌 + 歌词 + 网易云前 10 热评</p>
+  const all = [...mine, ...dailyItems('music', seed)];
+  return `<div class="card"><h2>🎵 歌曲分享${dailyBadge('music')}</h2><p class="desc">每日一首歌 + 歌词 + 热评；点 🔊 去音乐平台听，或粘贴音频链接直接播。</p>
     ${all.map((s, idx) => `<div class="item">
-      <div class="head"><span class="title">${esc(s.song)}</span><span class="meta">— ${esc(s.artist)}</span></div>
+      ${s.audio ? `<audio controls src="${esc(s.audio)}" style="width:100%;margin-bottom:8px"></audio>` : ''}
+      <div class="head"><span class="title">${esc(s.song)}</span><span class="meta">— ${esc(s.artist)}</span>
+        <a class="meta link" href="https://music.163.com/#/search/m/?s=${encodeURIComponent(s.song || '')}" target="_blank" rel="noopener" style="margin-left:auto;color:var(--purple);font-weight:700">🔊 去听</a></div>
       <div class="body" style="font-style:italic;color:var(--purple-d)">“${esc(s.lyric)}”</div>
-      <div class="comments"><b style="font-size:12px;color:var(--text-soft)">网易云热评 Top10</b>${s.comments.map(c => `<div class="comment">${esc(c)}</div>`).join('')}</div>
+      <div class="comments"><b style="font-size:12px;color:var(--text-soft)">热评 Top10</b>${s.comments.map(c => `<div class="comment">${esc(c)}</div>`).join('')}</div>
     </div>`).join('')}
     <hr class="hr"/><h2 style="font-size:15px">＋ 添加一首</h2>
     <div class="row"><div><label class="f">歌名</label><input id="m_song"></div><div><label class="f">歌手</label><input id="m_artist"></div></div>
+    <label class="f">音频链接(可空)</label><input id="m_audio" placeholder="https://...mp3，留空则只显示「去听」">
     <label class="f">歌词(一句)</label><input id="m_lyric">
     <label class="f">热评(每行一条)</label><textarea id="m_comments" placeholder="第一行\n第二行"></textarea>
     <button class="btn sm" style="margin-top:10px" data-act="addMusic">保存</button>
@@ -312,8 +315,8 @@ function gMusic() {
 function gBooks() {
   const seed = window.SEED.growth.books;
   const mine = DB.get('g_books', []);
-  const all = [...mine, ...seed];
-  return `<div class="card"><h2>📚 书籍阅读</h2><p class="desc">记录读过的书 + 与 AI 探讨（下方窗口）</p>
+  const all = [...mine, ...dailyItems('books', seed)];
+  return `<div class="card"><h2>📚 书籍阅读${dailyBadge('books')}</h2><p class="desc">记录读过的书 + 与 AI 探讨（下方窗口）</p>
     ${all.map(b => `<div class="item"><div class="head"><span class="title">${esc(b.title)}</span><span class="meta">— ${esc(b.author)}</span></div><div class="body">${esc(b.note)}</div></div>`).join('')}
     <hr class="hr"/><h2 style="font-size:15px">＋ 读完/在读一本书</h2>
     <div class="row"><div><label class="f">书名</label><input id="b_title"></div><div><label class="f">作者</label><input id="b_author"></div></div>
@@ -325,8 +328,8 @@ function gBooks() {
 function gFilm() {
   const seed = window.SEED.growth.film;
   const mine = DB.get('g_film', []);
-  const all = [...mine, ...seed];
-  return `<div class="card"><h2>🎬 影视综艺</h2><p class="desc">追剧记录 + 与 AI 探讨 / 写影评</p>
+  const all = [...mine, ...dailyItems('film', seed)];
+  return `<div class="card"><h2>🎬 影视综艺${dailyBadge('film')}</h2><p class="desc">追剧记录 + 与 AI 探讨 / 写影评</p>
     ${all.map(f => `<div class="item"><div class="head"><span class="title">${esc(f.title)}</span></div><div class="body">${esc(f.note)}</div></div>`).join('')}
     <hr class="hr"/><h2 style="font-size:15px">＋ 记录一部</h2>
     <label class="f">剧名</label><input id="f_title">
@@ -338,8 +341,8 @@ function gFilm() {
 function gQuotes() {
   const seed = window.SEED.growth.quotes;
   const mine = DB.get('g_quotes', []);
-  const all = [...mine, ...seed];
-  return `<div class="card"><h2>✍️ 句段记录 · 个人知识库</h2>
+  const all = [...mine, ...dailyItems('quotes', seed)];
+  return `<div class="card"><h2>✍️ 句段记录 · 个人知识库${dailyBadge('quotes')}</h2>
     <p class="desc">随时记录各平台看到的有哲理/有意思的文案；下方每日推送也在这里沉淀。支持搜索。</p>
     <input id="q_search" placeholder="🔍 搜索句段…" style="margin-bottom:12px">
     <div id="q_list">${all.map((q, i) => `<div class="item" style="margin-bottom:8px"><div class="body">${esc(q.text || q)}</div>
@@ -416,20 +419,23 @@ function viewPlay() {
   };
   let body = '';
   const STR = ['douyin', 'xhs', 'positive', 'national', 'home', 'sing', 'dance'];
+  const PLAY_DAILY = ['douyin', 'xhs', 'positive', 'national', 'aitips', 'werewolf', 'home', 'sing', 'dance'];
   if (STR.includes(cur)) {
-    const key = cur === 'xhs' ? 'xiaohongshu' : cur;
-    const seedArr = S[key] || [];
+    const seedKey = cur === 'xhs' ? 'xiaohongshu' : cur;
+    const seedArr = S[seedKey] || [];
     const user = DB.get('play_' + cur, []);
-    body = [...user, ...seedArr].map(renderPlayItem).join('');
+    const daily = dailyItems(cur, seedArr);
+    body = [...user, ...daily].map(renderPlayItem).join('');
   } else if (cur === 'ai') {
     const seedArr = (S.ai || []).map(x => ({ title: x.title, body: x.summary }));
     const user = DB.get('play_ai', []).map(x => ({ title: '📝 我的笔记', body: x }));
     body = [...user, ...seedArr].map(renderObjCard).join('');
     body += `<div id="ai_live" class="muted" style="margin-top:12px">正在加载实时快讯…</div>`;
   } else if (cur === 'aitips' || cur === 'werewolf') {
-    const seedArr = (S[cur] || []).map(x => ({ title: x.title, body: x.body }));
+    const seedArr = (S[cur] || []).map(x => ({ title: x.title || x.text, body: x.body }));
     const user = DB.get('play_' + cur, []).map(x => ({ title: '📝 我的笔记', body: x }));
-    body = [...user, ...seedArr].map(renderObjCard).join('');
+    const daily = dailyItems(cur, seedArr).map(x => ({ title: x.text || x.title, body: x.body }));
+    body = [...user, ...daily].map(renderObjCard).join('');
   } else if (cur === 'drive') {
     body = viewDrive();
   } else if (cur === 'posture') {
@@ -437,6 +443,7 @@ function viewPlay() {
   }
   setTimeout(() => { if (state.view === 'play' && state.play === 'ai') loadAiLive(); }, 30);
   const subtabs = `<div class="subtabs">${tabs.map(t => `<div class="subtab ${cur === t[0] ? 'active' : ''}" data-play="${t[0]}">${t[1]}</div>`).join('')}</div>`;
+  const playBadge = PLAY_DAILY.includes(cur) ? dailyBadge(cur) : '';
   if (cur === 'drive' || cur === 'posture') {
     return `<div class="topbar"><h1>🎮 Play 娱乐台</h1><span class="pill">抖音 · 小红书 · 正能量 · 要闻 · AI · 生活 · 兴趣</span></div>
     ${subtabs}
@@ -444,7 +451,7 @@ function viewPlay() {
   }
   return `<div class="topbar"><h1>🎮 Play 娱乐台</h1><span class="pill">抖音 · 小红书 · 正能量 · 要闻 · AI · 生活 · 兴趣</span></div>
     ${subtabs}
-    <div class="card"><h2>${esc(curLabel)}</h2>
+    <div class="card"><h2>${esc(curLabel)}${playBadge}</h2>
       <p class="desc">${esc(descMap[cur] || '')}</p>
       ${body || '<p class="muted">暂无内容。</p>'}
       <hr class="hr"/><h2 style="font-size:15px">＋ 添加一条</h2>
@@ -801,6 +808,11 @@ function planRoutine() {
     <hr class="hr"/><h2 style="font-size:15px">🧠 今日认知方向</h2>
     <p class="desc">做上面几件事时，可围绕这些主题摄入内容：</p>
     <div class="cog-chips">${cogs}</div>
+    <hr class="hr"/><h2 style="font-size:15px">🎤 今日高分演讲 / 语言类推荐${dailyBadge('speech')}</h2>
+    <p class="desc">配合「听高分演讲」打卡步骤，练语感与表达：TED / 名人演讲 / 辩论 / 脱口秀等。</p>
+    <div class="speech-list">
+      ${dailyItems('speech', window.SEED.growth.speech || []).map(x => renderObjCard({ title: x.title, body: x.body })).join('') || '<p class="muted">今日推荐生成中（配置 Key 后每日自动更新）。</p>'}
+    </div>
   </div>`;
 }
 function planDiet() {
@@ -1088,12 +1100,6 @@ function handleAct(el) {
       a.unshift({ date: $('#nw_date').value, tag: $('#nw_tag').value || '新闻', title: $('#nw_title').value, summary: $('#nw_sum').value });
       DB.set('amz_news', a); toast('已保存新闻'); renderView(); break;
     }
-    case 'saveSales': {
-      const owner = el.dataset.owner, date = todayStr();
-      const arr = DB.get('amz_sales', []).filter(r => !(r.date === date && r.owner === owner));
-      arr.push({ date, owner, qty: num($('#sq_' + owner).value), amount: num($('#sa_' + owner).value) });
-      DB.set('amz_sales', arr); toast(owner + ' 已保存'); renderView(); break;
-    }
     case 'addMarket': {
       const a = DB.get('amz_market_notes', []); a.unshift({ date: todayStr(), text: $('#mk_text').value }); DB.set('amz_market_notes', a); toast('已保存'); renderView(); break;
     }
@@ -1101,8 +1107,9 @@ function handleAct(el) {
     case 'addGrowth': {
       const a = DB.get('g_' + el.dataset.key, []); a.unshift({ tag: $('#g_tag').value || '技巧', title: $('#g_title').value, body: $('#g_body').value }); DB.set('g_' + el.dataset.key, a); toast('已添加'); renderView(); break;
     }
+    case 'langCheckin': { doLangCheckin(el.dataset.key); break; }
     case 'addMusic': {
-      const a = DB.get('g_music', []); a.unshift({ song: $('#m_song').value, artist: $('#m_artist').value, lyric: $('#m_lyric').value, comments: $('#m_comments').value.split('\n').filter(Boolean) }); DB.set('g_music', a); toast('已添加'); renderView(); break;
+      const a = DB.get('g_music', []); a.unshift({ song: $('#m_song').value, artist: $('#m_artist').value, audio: $('#m_audio').value.trim(), lyric: $('#m_lyric').value, comments: $('#m_comments').value.split('\n').filter(Boolean) }); DB.set('g_music', a); toast('已添加'); renderView(); break;
     }
     case 'addBook': {
       const a = DB.get('g_books', []); a.unshift({ title: $('#b_title').value, author: $('#b_author').value || '佚名', note: $('#b_note').value }); DB.set('g_books', a); toast('已记录'); renderView(); break;
@@ -1267,11 +1274,45 @@ function estimateKcal(a, b, c, d) {
 }
 
 /* ============================================================
+   每日内容加载层（后端 generate_daily.py 生成；无 Key 时回退 seed）
+   ============================================================ */
+window.DAILY = {};
+window.DAILY_READY = false;
+function loadDaily() {
+  fetch('./backend/data/daily/manifest.json?t=' + Date.now(), { cache: 'no-store' })
+    .then(r => r.ok ? r.json() : null)
+    .then(mf => {
+      if (!mf || !mf.modules) return;
+      window.DAILY_DATE = mf.date;
+      const keys = mf.modules.map(m => m.key);
+      Promise.all(keys.map(k =>
+        fetch('./backend/data/daily/' + k + '.json?t=' + Date.now(), { cache: 'no-store' })
+          .then(r => r.ok ? r.json() : null)
+          .then(d => { if (d && d.items) window.DAILY[k] = d; })
+          .catch(() => {})
+      )).then(() => { window.DAILY_READY = true; renderView(); });
+    })
+    .catch(() => {});
+}
+function dailyItems(module, fallback, maxN) {
+  const d = window.DAILY[module];
+  let items = (d && d.items && d.items.length) ? d.items : fallback;
+  if (maxN && items.length > maxN) items = items.slice(0, maxN);
+  return items;
+}
+function dailyBadge(module) {
+  const d = window.DAILY[module];
+  if (d && d.date) return ` <span class="daily-badge">📅 今日更新 ${d.date}</span>`;
+  return ` <span class="daily-badge ghost">示例内容 · 配置 Key 后每日更新</span>`;
+}
+
+/* ============================================================
    初始化
    ============================================================ */
 function init() {
   renderNav();
   renderView();
+  loadDaily();
   // PWA 注册
   if ('serviceWorker' in navigator) {
     window.addEventListener('load', () => navigator.serviceWorker.register('./sw.js').catch(() => {}));

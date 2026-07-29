@@ -412,12 +412,18 @@ function gFilm() {
   const seed = window.SEED.growth.film;
   const mine = DB.get('g_film', []);
   const all = [...mine, ...dailyItems('film', seed)];
-  return `<div class="card"><h2>🎬 影视综艺${dailyBadge('film')}</h2><p class="desc">追剧记录 + 与 AI 探讨 / 写影评</p>
-    ${all.map(f => `<div class="item"><div class="head"><span class="title">${esc(f.title)}</span></div><div class="body">${esc(f.note)}</div></div>`).join('')}
+  const daming = dailyItems('daming', window.SEED.growth.daming || []);
+  const damingHtml = daming.length ? daming.map(d => `<div class="item"><div class="head"><span class="title">${esc(d.title)}</span><span class="tag">${esc(d.ep || '剧集')}</span></div><div class="body">${esc(d.body)}</div></div>`).join('')
+    : '<p class="muted">今日解说生成中（配置 Key 后每日自动更新）。</p>';
+  return `<div class="card"><h2>🎬 影视综艺${dailyBadge('film')}</h2><p class="desc">记录看过的电影 / 电视剧 / 综艺，写评价；下方还有《大明王朝1566》每集解说。</p>
+    ${all.length ? all.map(f => `<div class="item"><div class="head"><span class="title">${esc(f.title)}</span></div><div class="body">${esc(f.note)}</div></div>`).join('') : '<p class="muted">还没记录，看完一部就来记一笔吧～</p>'}
     <hr class="hr"/><h2 style="font-size:15px">＋ 记录一部</h2>
     <label class="f">剧名</label><input id="f_title">
     <label class="f">我的评价/笔记</label><textarea id="f_note"></textarea>
     <button class="btn sm" style="margin-top:10px" data-act="addFilm">保存</button>
+    <hr class="hr"/><h2 style="font-size:15px">📜 《大明王朝1566》每集解说${dailyBadge('daming')}</h2>
+    <p class="desc">每日自动更新：按剧集推进的精选单集解说（剧情要点 + 历史背景 / 人物看点）。</p>
+    ${damingHtml}
     ${aiChat('film')}
   </div>`;
 }
@@ -558,9 +564,12 @@ function viewPlay() {
 function viewTravel() {
   const S = window.SEED.play;
   const daily = dailyItems('travel', S.travel || []);
+  const weekend = dailyItems('weekend', S.weekend || []);
   const been = DB.get('travel_been', []);
   const want = DB.get('travel_want', []);
   const dailyHtml = daily.map(renderPlayItem).join('');
+  const weekendHtml = weekend.length ? weekend.map(x => `<div class="item"><div class="head"><span class="title">${esc(x.title)}</span>${x.tag ? `<span class="tag">${esc(x.tag)}</span>` : ''}</div><div class="body">${esc(x.body)}</div></div>`).join('')
+    : '<p class="muted">今日推荐生成中（配置 Key 后每日自动更新）。</p>';
   const beenHtml = been.length ? been.map((b, i) => `<div class="item" style="margin-bottom:8px">
       <div class="head"><span class="title">${esc(b.place)}</span>${b.date ? `<span class="tag">${esc(b.date)}</span>` : ''}
         <button class="btn ghost sm" style="margin-left:auto" data-act="delTravelBeen" data-i="${i}">删除</button></div>
@@ -575,6 +584,9 @@ function viewTravel() {
     <h2>✈️ 旅游灵感${dailyBadge('travel')}</h2>
     <p class="desc">每日精选国内外热门 / 冷门景点、历史博物馆与旅游规划思路，帮你发现下一站。</p>
     ${dailyHtml || '<p class="muted">暂无内容。</p>'}
+    <hr class="hr"/><h2 style="font-size:15px">🎡 周末约会小事推荐${dailyBadge('weekend')}</h2>
+    <p class="desc">每日自动更新：爬山、剧本杀、看展、citywalk…… 适合周末 / 约会的小事灵感。</p>
+    ${weekendHtml}
     <hr class="hr"/><h2 style="font-size:15px">✅ 去过的地方</h2>
     <div class="row"><div><label class="f">地点</label><input id="tb_place" placeholder="如 京都·清水寺"></div>
       <div><label class="f">日期</label><input id="tb_date" type="date"></div></div>
@@ -1204,6 +1216,12 @@ function viewDailyAlbum() {
 function loveDiaryCard() {
   const all = DB.get('love_diary', []).slice().sort((a, b) => b.date.localeCompare(a.date));
   const t = todayStr();
+  const places = (DB.get('love_places', []) || []).slice().sort((a, b) => b.date.localeCompare(a.date));
+  const lovePlacesHtml = places.length ? places.map((p, i) => `<div class="item" style="margin-bottom:8px">
+      <div class="head"><span class="title">${esc(p.place)}</span><span class="tag">${esc(p.date)}</span>
+        <button class="btn ghost sm" style="margin-left:auto" data-act="delLovePlace" data-i="${i}">删除</button></div>
+      ${p.note ? `<div class="body">${esc(p.note)}</div>` : ''}</div>`).join('')
+    : '<p class="muted">还没有足迹，记下第一次约会吧～</p>';
   return `<div class="card">
     <h2>💞 恋爱</h2>
     <p class="desc">记录你和 TA 相处的重要 moments —— 第一次牵手、一起看的电影、吵完架的和好…… 留住每一个心动。</p>
@@ -1224,6 +1242,13 @@ function loveDiaryCard() {
         <div class="jt"><div class="jd">${j.date} ${j.mood || ''}</div><div class="jm">${esc(j.text || '')}</div></div>
       </div>`).join('') || '<p class="muted">还没有记录，记下第一个心动瞬间吧～</p>'}
     </div>
+    <hr class="hr"/><h2 style="font-size:15px">💑 我们的足迹</h2>
+    <p class="desc">记下「什么时候和 TA 去过哪里」——第一次约会、纪念日出行、说走就走的短途……</p>
+    <div class="row"><div><label class="f">日期</label><input id="lp_date" type="date" value="${t}"></div>
+      <div><label class="f">地点</label><input id="lp_place" placeholder="如 西湖·断桥"></div></div>
+    <label class="f">备注</label><input id="lp_note" placeholder="那天的天气 / 心情 / 小事…">
+    <button class="btn sm" style="margin-top:8px" data-act="saveLovePlace">记一笔足迹</button>
+    <div style="margin-top:10px">${lovePlacesHtml}</div>
   </div>`;
 }
 function renderCalCells(year, month, journals) {
@@ -1472,6 +1497,16 @@ function handleAct(el) {
       };
       if (file) readImage(file).then(finish); else finish(null);
       break;
+    }
+    case 'saveLovePlace': {
+      const date = $('#lp_date').value || todayStr();
+      const place = $('#lp_place').value.trim();
+      if (!place) { toast('地点要填哦'); break; }
+      const arr = DB.get('love_places', []); arr.push({ date, place, note: $('#lp_note').value.trim() });
+      DB.set('love_places', arr); toast('已记下我们的足迹 💑'); renderView(); break;
+    }
+    case 'delLovePlace': {
+      const arr = DB.get('love_places', []); arr.splice(el.dataset.i, 1); DB.set('love_places', arr); renderView(); break;
     }
     case 'saveLoveStart': {
       const d = $('#ls_date').value || '';

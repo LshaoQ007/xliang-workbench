@@ -1146,11 +1146,71 @@ function nextBirthdayInDays(md) {
   if (d < now) d = new Date((y + 1) + '-' + md + 'T00:00:00');
   return Math.round((d - now) / 86400000);
 }
+
+/* ---------- 农历 -> 公历 转换（1900-2100，自包含，离线可用） ---------- */
+const LUNAR_INFO = [0x04bd8,0x04ae0,0x0a570,0x054d5,0x0d260,0x0d950,0x16554,0x056a0,0x09ad0,0x055d2,
+0x04ae0,0x0a5b6,0x0a4d0,0x0d250,0x1d255,0x0b540,0x0d6a0,0x0ada2,0x095b0,0x14977,
+0x04970,0x0a4b0,0x0b4b5,0x06a50,0x06d40,0x1ab54,0x02b60,0x09570,0x052f2,0x04970,
+0x06566,0x0d4a0,0x0ea50,0x06e95,0x05ad0,0x02b60,0x186e3,0x092e0,0x1c8d7,0x0c950,
+0x0d4a0,0x1d8a6,0x0b550,0x056a0,0x1a5b4,0x025d0,0x092d0,0x0d2b2,0x0a950,0x0b557,
+0x06ca0,0x0b550,0x15355,0x04da0,0x0a5b0,0x14573,0x052b0,0x0a9a8,0x0e950,0x06aa0,
+0x0aea6,0x0ab50,0x04b60,0x0aae4,0x0a570,0x05260,0x0f263,0x0d950,0x05b57,0x056a0,
+0x096d0,0x04dd5,0x04ad0,0x0a4d0,0x0d4d4,0x0d250,0x0d558,0x0b540,0x0b6a0,0x195a6,
+0x095b0,0x049b0,0x0a974,0x0a4b0,0x0b27a,0x06a50,0x06d40,0x0af46,0x0ab60,0x09570,
+0x04af5,0x04970,0x064b0,0x074a3,0x0ea50,0x06b58,0x055c0,0x0ab60,0x096d5,0x092e0,
+0x0c960,0x0d954,0x0d4a0,0x0da50,0x07552,0x056a0,0x0abb7,0x025d0,0x092d0,0x0cab5,
+0x0a950,0x0b4a0,0x0baa4,0x0ad50,0x055d9,0x04ba0,0x0a5b0,0x15176,0x052b0,0x0a930,
+0x07954,0x06aa0,0x0ad50,0x05b52,0x04b60,0x0a6e6,0x0a4e0,0x0d260,0x0ea65,0x0d530,
+0x05aa0,0x076a3,0x096d0,0x04afb,0x04ad0,0x0a4d0,0x1d0b6,0x0d250,0x0d520,0x0dd45,
+0x0b5a0,0x056d0,0x055b2,0x049b0,0x0a577,0x0a4b0,0x0aa50,0x1b255,0x06d20,0x0ada0,
+0x14b63,0x09370,0x049f8,0x04970,0x064b0,0x168a6,0x0ea50,0x06b20,0x1a6c4,0x0aae0,
+0x0a2e0,0x0d2e3,0x0c960,0x0d557,0x0d4a0,0x0da50,0x05d55,0x056a0,0x0a6d0,0x055d4,
+0x052d0,0x0a9b8,0x0a950,0x0b4a0,0x0b6a6,0x0ad50,0x055a0,0x0aba4,0x0a5b0,0x052b0,
+0x0b273,0x06930,0x07337,0x06aa0,0x0ad50,0x14b55,0x04b60,0x0a570,0x054e4,0x0d160,
+0x0e968,0x0d520,0x0daa0,0x16aa6,0x056d0,0x04ae0,0x0a9d4,0x0a2d0,0x0d150,0x0f252,
+0x0d520];
+function _lYearDays(y){let s=348;for(let i=0x8000;i>0x8;i>>=1)s+=(LUNAR_INFO[y-1900]&i)?1:0;return s+_leapDays(y);}
+function _leapDays(y){if(_leapMonth(y))return((LUNAR_INFO[y-1900]&0x10000)?30:29);return 0;}
+function _leapMonth(y){return(LUNAR_INFO[y-1900]&0xf);}
+function _monthDays(y,m){return((LUNAR_INFO[y-1900]&(0x10000>>m))?30:29);}
+function lunar2solar(y,m,d,isLeap){
+  let offset=0,isAdd=false;
+  for(let i=1900;i<y;i++)offset+=_lYearDays(i);
+  for(let i=1;i<m;i++){offset+=_monthDays(y,i);if(_leapMonth(y)===i&&!isAdd&&!isLeap){offset+=_leapDays(y);isAdd=true;}}
+  if(isLeap){offset+=_monthDays(y,m);if(_leapMonth(y)!==m)return null;}
+  offset+=d-1;
+  return new Date(Date.UTC(1900,0,31)+offset*86400000);
+}
+// 把农历生日换算成「下一次」对应的公历 MM-DD（按当前年份/明年滚动）
+function birthdaySolarMD(b){
+  if(!b.lunar) return b.date;
+  const [lm,ld]=String(b.date).split('-').map(Number);
+  if(!lm||!ld) return b.date;
+  const now=new Date();
+  let d=lunar2solar(now.getFullYear(),lm,ld,!!b.leap)||lunar2solar(now.getFullYear(),lm,ld,false);
+  if(!d) return b.date;
+  if(d.getTime()<now.getTime()){
+    const d2=lunar2solar(now.getFullYear()+1,lm,ld,!!b.leap)||lunar2solar(now.getFullYear()+1,lm,ld,false);
+    if(d2) d=d2;
+  }
+  return String(d.getUTCMonth()+1).padStart(2,'0')+'-'+String(d.getUTCDate()).padStart(2,'0');
+}
+function cnMoon(m,d,leap){
+  const ms=['正','二','三','四','五','六','七','八','九','十','冬','腊'];
+  const mono=ms[(m-1)%12]||m;
+  let day;
+  if(d<=10)day='初'+'一二三四五六七八九十'[d-1];
+  else if(d<20)day='十'+'一二三四五六七八九'[d-11];
+  else if(d===20)day='二十';
+  else if(d<30)day='廿'+'一二三四五六七八九'[d-21];
+  else day='三十';
+  return (leap?'闰':'')+mono+'月'+day;
+}
 function viewDailyCal() {
   const t = todayStr();
   const loveStart = DB.get('love_start', '');
   const days = loveStart ? daysBetween(loveStart, t) : null;
-  const bds = (DB.get('birthdays', []) || []).slice().sort((a, b) => (nextBirthdayInDays(a.date) ?? 999) - (nextBirthdayInDays(b.date) ?? 999));
+  const bds = (DB.get('birthdays', []) || []).slice().sort((a, b) => (nextBirthdayInDays(birthdaySolarMD(a)) ?? 999) - (nextBirthdayInDays(birthdaySolarMD(b)) ?? 999));
   return `<div class="card">
     <h2>💞 在一起的第几天</h2>
     ${loveStart ? `<p style="font-size:34px;font-weight:800;color:var(--purple);margin:6px 0">${days} <small style="font-size:16px;color:var(--text-soft)">天</small></p><p class="desc">从 ${esc(loveStart)} 到今天</p>` : '<p class="muted">还没记录在一起的日子～</p>'}
@@ -1158,15 +1218,25 @@ function viewDailyCal() {
     <button class="btn sm" style="margin-top:8px" data-act="saveLoveStart">${loveStart ? '更新' : '记录'}这个日子</button>
     <hr class="hr"/><h2 style="font-size:15px">🎂 家人朋友生日</h2>
     <div class="birthdays">
-      ${bds.map((b, i) => `<div class="item" style="margin-bottom:8px"><div class="head"><span class="title">${esc(b.name)}</span>
-        <span class="tag">${esc(b.date)}</span>
-        <span class="meta" style="margin-left:auto">${nextBirthdayInDays(b.date)} 天后</span></div>
-        ${b.note ? `<div class="body">${esc(b.note)}</div>` : ''}
-        <button class="btn ghost sm" style="margin-top:6px" data-act="delBirthday" data-i="${i}">删除</button></div>`).join('') || '<p class="muted">还没有记录生日。</p>'}
+      ${bds.map((b, i) => {
+        const smd = birthdaySolarMD(b);
+        const sd = nextBirthdayInDays(smd);
+        const [lm, ld] = String(b.date).split('-').map(Number);
+        const tag = b.lunar ? cnMoon(lm, ld, b.leap) : b.date;
+        const lunarNote = b.lunar ? ` · 公历 ${smd}` : '';
+        return `<div class="item" style="margin-bottom:8px"><div class="head"><span class="title">${esc(b.name)}</span>
+          <span class="tag">${esc(tag)}</span>
+          <span class="meta" style="margin-left:auto">${sd} 天后${lunarNote}</span></div>
+          ${b.note ? `<div class="body">${esc(b.note)}</div>` : ''}
+          <button class="btn ghost sm" style="margin-top:6px" data-act="delBirthday" data-i="${i}">删除</button></div>`;
+      }).join('') || '<p class="muted">还没有记录生日。</p>'}
     </div>
     <hr class="hr"/><h2 style="font-size:15px">＋ 添加一个生日</h2>
     <div class="row"><div><label class="f">姓名</label><input id="bd_name" placeholder="如 妈妈"></div>
-      <div><label class="f">生日(MM-DD)</label><input id="bd_date" placeholder="如 05-20"></div></div>
+      <div><label class="f">类型</label>
+        <select id="bd_type"><option value="solar">公历</option><option value="lunar">农历</option></select></div></div>
+    <div class="row"><div><label class="f">生日(MM-DD)</label><input id="bd_date" placeholder="公历 05-20 / 农历 05-05"></div></div>
+    <label class="f" style="display:flex;align-items:center;gap:6px"><input type="checkbox" id="bd_leap"> 农历闰月（仅农历生日且恰逢闰月时勾选，如闰二月）</label>
     <label class="f">备注</label><input id="bd_note" placeholder="喜好 / 想送的礼物…">
     <button class="btn sm" style="margin-top:8px" data-act="saveBirthday">保存</button>
   </div>`;
@@ -1514,8 +1584,12 @@ function handleAct(el) {
     }
     case 'saveBirthday': {
       const name = $('#bd_name').value.trim(), date = $('#bd_date').value.trim();
+      const type = $('#bd_type') ? $('#bd_type').value : 'solar';
+      const leap = !!(document.getElementById('bd_leap') && document.getElementById('bd_leap').checked);
       if (!name || !date) { toast('姓名和生日都要填哦'); break; }
-      const arr = DB.get('birthdays', []); arr.push({ name, date, note: $('#bd_note').value.trim() });
+      if (!/^\d{1,2}-\d{1,2}$/.test(date)) { toast('日期格式应为 MM-DD，如 05-20 或农历 05-05'); break; }
+      const arr = DB.get('birthdays', []);
+      arr.push({ name, date, lunar: type === 'lunar', leap: type === 'lunar' ? leap : false, note: $('#bd_note').value.trim() });
       DB.set('birthdays', arr); toast('已添加生日 🎂'); renderView(); break;
     }
     case 'delBirthday': {

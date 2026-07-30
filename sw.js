@@ -1,5 +1,5 @@
 // 小凉工作台 Service Worker —— 保证离线可用 + 可"安装到主屏"
-const CACHE = 'xliang-v12';
+const CACHE = 'xliang-v13';
 const ASSETS = [
   './',
   './index.html',

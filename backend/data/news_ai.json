@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31 09:51",
+  "updated": "2026-08-01 07:52",
   "count": 50,
   "items": [
     {
@@ -10,11 +10,18 @@
       "query": "LLM release"
     },
     {
-      "title": "Everything Apple Is Releasing in 2026: iPhone Fold, LLM Siri, Low-Cost MacBook and More - macrumors.com",
+      "title": "Everything Apple Is Releasing in 2026: iPhone Fold, LLM Siri, Low-Cost MacBook and More - MacRumors",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84NWhTWHpSaVNVQTEyam93dGxKdlYyQzZwOWtaeFF6LTZDeXMtMldfZHd6bF93RGgxeW9CZTY3NTU0Q3ZMblExWDgxYVNQY1JMbWh3QTBXVnFYS2l6X1ZYOENCOWZCTGZqXzQwWFpZMU0?oc=5",
-      "source": "macrumors.com",
+      "source": "MacRumors",
       "pubDate": "Wed, 31 Dec 2025 08:00:00 GMT",
       "query": "LLM release"
+    },
+    {
+      "title": "Tesla’s Grok Playbook Meets Its Match? GOOGL's Waymo Arms Ojai Robotaxis With Gemini AI - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQXoxcDVEeFJxOFZVeXNZX3EydHNpRDlrLXoxbUVjTUtyV2xjVjJnY29ISy1uM0ZycEZJMTdVYXJrbVlWS0gtNVZoaWRZd1pyNW5UQzBIOVE4Y0pTN2pva3habkVnYnZsS1Z0QjFWT2dZc1VacDNmTDVGaGR3VTNmVmpfV3daV2JSM01NeUlRMFVCb01rdkZuX0FBRnY1aEJ1WWNEbjYwM3c4SmlNNkc4SEFzcGVtTE4wd1dEdUlaWUpTQk02UXlrQm5jMlpwNnJCektRX096WGJZaEVyZWdJ?oc=5",
+      "source": "Stocktwits",
+      "pubDate": "Wed, 29 Jul 2026 23:42:00 GMT",
+      "query": "Gemini AI"
     },
     {
       "title": "OpenAI CFO Sarah Friar tells employees that annualized revenue in July topped all of Q2 - CNBC",
@@ -45,13 +52,6 @@
       "query": "OpenAI"
     },
     {
-      "title": "Sam Altman meets lawmakers on back of OpenAI agents hacking companies - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc3RQOWNQQ01tOHA3cWFDU2JvdGdNWXVDNVZmVE5Lb0pzZUx0a1h0TlM4UW1zeHlrSXdkWEtCSFhfVkZyQXhYa0xSWFpvUXRiWEhnc1BwZXRpN2NkYjd0TW9IQ1FLMzdHLWJaWW5XSmtoSGRWbWo5LXRQN3VEZHdBUnQ0bEFybE03NWhRMWhIdWpRVU95YlpMR3ZvSWJoVWg4TEhYeFVHVkZqWER6eHFxY1psWdIBuAFBVV95cUxQQ2thdU95RUVlSEN0a1QtVXdNaTRLTDNPYnFQWDE2MDV6dFlSSmpnSHFDb29LbVphWTU0dGVudjk3aUdpNVBsbVh1ZjFoMWVadVhzQkZpclk4YW9hbk1iNjEtdEc5VGZ4Q0pQOTBoazBqUlhMVlY4blhvQ052UEcwSExZYlZUZHVjUk9RN3lYckRoUFBOcFZnZFIxdG1LNEgwRXdJMjRBa2NVWXcwbF9Cdjk3WVB2NVBV?oc=5",
-      "source": "Al Jazeera",
-      "pubDate": "Wed, 29 Jul 2026 22:31:03 GMT",
-      "query": "OpenAI"
-    },
-    {
       "title": "Meta Bets Its Next Revenue Line on Personal AI Agents - Unite.AI",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaXEyRG1UTUc5MGR6a28taGUzWV8yOEg3ZHY1eGExVHRVVU9uci1YUkh5b0h4Ym1SMEVwRUdwR015MzRVR1lHRGlYWVRvcFB4NnJkQWVDZEFHZ25rZFRPcnpYRUNPVkcyNDM1MnN3QU9xNEtEUTBERF93WURONm5vNw?oc=5",
       "source": "Unite.AI",
@@ -64,13 +64,6 @@
       "source": "nerdbot",
       "pubDate": "Wed, 29 Jul 2026 22:04:53 GMT",
       "query": "AI video generation"
-    },
-    {
-      "title": "NEWSLETTER: The fallout from the OpenAI-Hugging Face hack - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbmZpRC0yaFZNY1VPc2w3S0NIc2JpajBXcENTUnVVdkE2azRNWFpGdWxIek1PbThhYUZSYjRDM1lKSnUzWkgteXJIeEp5YVBQM2w1UHBqMnh1cmM3Mk9QbVlPQ0N4UDl3VHpMakp1QkMzdFZobGxXS3NELW9TY29CeF92bFlVenNodzUzQUVwNTRxaFp0OTY0UFQ2V0xCWU9MVVlSQ3BR?oc=5",
-      "source": "Reuters",
-      "pubDate": "Wed, 29 Jul 2026 21:44:38 GMT",
-      "query": "OpenAI"
     },
     {
       "title": "Anthropic confirms Claude is down worldwide - BleepingComputer",
@@ -87,9 +80,9 @@
       "query": "OpenAI"
     },
     {
-      "title": "Beyond Hugging Face: OpenAI’s Rogue AI Agent Hit Multiple Third-Party Services - androidheadlines.com",
+      "title": "Beyond Hugging Face: OpenAI’s Rogue AI Agent Hit Multiple Third-Party Services - Android Headlines",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT281TThkS2lLRUJVVjVTMzM0NmZhaDlMdVJVZVJMc0dhVkVsbWFYeHphc0l3ZmhaSFlWdUVfVU5VcjAzeWRiamhaeWw0cDllMkVaLUp4OGs3cHAyMWFQTGd2OVVPTGdNMmRnMVdCMnllajlPcTlXQl8xNFh6RWlKSU5ydmt5akJ1TE5HbzkxWVJlYjBpOEhwTw?oc=5",
-      "source": "androidheadlines.com",
+      "source": "Android Headlines",
       "pubDate": "Wed, 29 Jul 2026 20:59:06 GMT",
       "query": "AI agent platform"
     },
@@ -101,18 +94,11 @@
       "query": "Google DeepMind"
     },
     {
-      "title": "Google Docs just gave Gemini four new AI tricks to speed up editing - Digital Trends",
+      "title": "Google Docs just gave Gemini four new AI tricks to speed up editing - digitaltrends.com",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTFlYSkdUb0ZLWnJtLXZ4YlpveGlPVU5maHVVVHk3WjJUQmk1aTE5UnM0ekRaa0Y2YjhyWF9PRnhDRjFlblpHTVBFUUlKQk1nNVVXWGdOZkdrNzdqZWZLYkdrZUxnSWkzLWI5Q21xMTFlcmU0SF9XNDdvYTNmREFYZ2tWNFpxdWZQOVZNY1R5MGFTZS1ldFdKYUxTdmpXRmhLalJIbWNOa2Fzamcx?oc=5",
-      "source": "Digital Trends",
+      "source": "digitaltrends.com",
       "pubDate": "Wed, 29 Jul 2026 20:34:18 GMT",
       "query": "Gemini AI"
-    },
-    {
-      "title": "Patch-Resistant 'RufRoot' Flaw Can Unleash Malicious AI Agent Swarms - Dark Reading",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNmtLR3NwcjNyZnZhekV6Q1Y4ZHZaMlM1UUYxVl8xMGp3cXVCeXNFZmQ5ZVM4TkNnYUdzdTU4bHpOeC1KWkFZUjNlUmpZbGpNWXVzWnNaMDhhN19sQlp1WTZXNWhQYngtR1VOczE3eUZ6cnM5QzVqbEp4R3ZIVnJCc1F0ZXBKTlA3T3dMVW42TlVTM2pfUXdROQ?oc=5",
-      "source": "Dark Reading",
-      "pubDate": "Wed, 29 Jul 2026 20:31:43 GMT",
-      "query": "AI agent platform"
     },
     {
       "title": "5 startups tackling the AI agent trust gap - VentureBeat",
@@ -157,25 +143,11 @@
       "query": "Gemini AI"
     },
     {
-      "title": "Lilian Weng flips from Thinking Machines to OpenAI after saying the startup's pace hurt her health - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV1g3NXItVUhvUGg0YTNwR0gxV1c2ZS1tVmFWcFU2bGRIdWhSZ1pKYjA2NnNUVmE4MkZrSkxtd09Ca0dPd00yYmtISk1yaHRaU1pUX0lLdnN2M1V3bEpHMEZlbGM4RXZvZXlvZXZZWGdOQTFBNVJhVmlycXpseGxrWHBEa2hYVUZSZjB6eFJDUkFXaTRUaFliSnJ3SE51VVpYSXZ5SVJObw?oc=5",
-      "source": "Business Insider",
-      "pubDate": "Wed, 29 Jul 2026 18:57:00 GMT",
-      "query": "OpenAI"
-    },
-    {
       "title": "Seedance 2.0 And Seedance 2.5 How Content Creators Can Use AI To Build Better Videos - Geek Vibes Nation",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40TEVWNEZ0RF9zRmhpMnR1eXRQblRCRFJQc2NablczZnVPbm4yaDVGNkZzSUg3VWdPMGdNQ2FXdEpyU1ZDOWVZeGFBa09jalBDQ1V6a0w5Q28ta2NrWGx2ajJoSkJxb3FoS2c?oc=5",
       "source": "Geek Vibes Nation",
       "pubDate": "Wed, 29 Jul 2026 18:56:34 GMT",
       "query": "AI video generation"
-    },
-    {
-      "title": "OpenAI's Sam Altman discusses rogue agent with US senators, as Trump considers AI controls - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNejhjek5UdU8zQTFoVHhhUHQ5QVBISGpCenZVVlA4RUw5R2FkZUpCYXJNNnBDV0x1ZUhNaW8wdVRDcnpDc2lYNWNmOGF4a3NTbmZ1aFNNbHI0OE1vQ0pud0haNFZsSjhOaVVCOS01UHZrSEo3OHB3U1ZqQUtaRkphNkhFbnBpZUVxaE50ZXZBcmV4M0ZGbzlWVE93NElKc3gzWHI0MG1NQndMYWM5MlBQTGRTODZMN24wU0pmQ2dRSFRTZw?oc=5",
-      "source": "Reuters",
-      "pubDate": "Wed, 29 Jul 2026 18:44:00 GMT",
-      "query": "OpenAI"
     },
     {
       "title": "Set the tempo: Google's Lyria 3.5 debuts with updates to AI musicality in Flow Music - Android Central",
@@ -185,10 +157,17 @@
       "query": "AI model update"
     },
     {
-      "title": "Exclusive: Thinking Machines Cofounder to Return to OpenAI - theinformation.com",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON3lENGE3MGZ0RHd6VW9keXVMdkd0NzhZSVE4ZnBwRVVLTkpZZlhKQTQ5TG1wVGlic1VORGJnN1dyazdiSHIwR1JtSFRjZXZxSDdHXzc3c0poUTM0YzVvWm5OWG5wUUw4RjhkTzRWak9CcW82Y2NVZVF2RDVjZW9SM3l5NHFyekkxU0E?oc=5",
-      "source": "theinformation.com",
-      "pubDate": "Wed, 29 Jul 2026 17:39:00 GMT",
+      "title": "It’s Frighteningly Easy to Jailbreak Some Frontier AI Models - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNFBwNDJQRkw0VnhCelRZOHl4a3E3TnNBNzY4VFpNZVhYUU9nc1ZrSllwdjdxbC1BWnRLcjRWWkRwVkFzWHh3TzNnMGNESWJPVk51di1TdVhNZlVTT2xWYl8yN1hPNk1ZZzZjZzhxLWs1X1BqZC1TQTYyeDRwX29IV0tzNzFGUVJzWTdFVA?oc=5",
+      "source": "WIRED",
+      "pubDate": "Wed, 29 Jul 2026 18:30:00 GMT",
+      "query": "Gemini AI"
+    },
+    {
+      "title": "How an OpenAI safety test became a real-world cyberattack on the Hugging Face platform - The Conversation",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTWJaZkNmNlFPbHhTeHYtMUNaX1FfRVozeEdyVExMakw3bVhSWm1CQzUtUHo0NUh0N2E4OFdQX2xlUFo5SFdzMnplajhJc3UwTU1nMDNmT1JJVThZbXJhZUNOaThFQi13Y1lpNS1Xb3dKTGFhbTZ0Z0tWbENIbjlNT3lSemhCdDFmNzR1OUJOR3NqSE1wcjlrUEZxSnNkX1k3TEJ5WHNGbVUzNEMzOFVQd0tKVGFwdl9fUGx0d3FR?oc=5",
+      "source": "The Conversation",
+      "pubDate": "Wed, 29 Jul 2026 18:10:45 GMT",
       "query": "OpenAI"
     },
     {
@@ -199,10 +178,10 @@
       "query": "Gemini AI"
     },
     {
-      "title": "Hugging Face, OpenAI drop new hack details. Here’s what we know now, and what remains a mystery - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV1NUeTRRby1LbURhMlZTc2s2UFFrX1BDRzFDTWpRMXFaX0pJNEQwSXJsS1lkRVcwd21CSnpxSExocnVSMGN0aURlN1JnM2tJRUZDWDRhN2ZPZ0J1Y3dVXzA3aFJ6YVBDaU5IMzFjY1BWMVhfRDZTd0xNeEliWHJrejZaQllueFVUaFhrQW5kNkdTMVJZaV9kdXd3eE5nZw?oc=5",
-      "source": "Fortune",
-      "pubDate": "Wed, 29 Jul 2026 17:27:00 GMT",
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RdURTcDByN0NKcGZ6RzBEWmk1SjV5T1hEOG82MXp2cmRCc09ZLUxUV1JjX0dtYUlxTEVfLXVyUHI3dWIxMnNydzIxR0hwb1kxbU15dlQ1bThHYmc2M1lyeFM2eXpENWRKUlE?oc=5",
+      "source": "OpenAI",
+      "pubDate": "Wed, 29 Jul 2026 17:09:14 GMT",
       "query": "OpenAI"
     },
     {
@@ -269,20 +248,6 @@
       "query": "Gemini AI"
     },
     {
-      "title": "Runtime authorization becomes the next layer of AI agent security - Biometric Update",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYTQtaHBjQ3B0Sm1tSDEzaUgzVm5QanhIcWhMSlFxWFE2a0JVaDRwWkUyZGx0X29tOFdpcTM1MkRZU1NwQnJuZXBzaTRBUDdkRktoZVhXQ2NtQV9VajBDbGpaYllRVFEtXzFiSFdCdUNSQW01SzVnaDBOVzF5ZVRjR2VtaEQteXgtUXRwazVFTEZ4aE5Nc2d5YlVTNTZGeHNqY1ByUjRNaw?oc=5",
-      "source": "Biometric Update",
-      "pubDate": "Wed, 29 Jul 2026 15:10:00 GMT",
-      "query": "AI agent platform"
-    },
-    {
-      "title": "Alphabet's Google DeepMind Disbands AlphaFold Team as AI Strategy Shifts Toward Gemini - marketscreener.com",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcnJYckFNOGJWWXBBVks1QnkzQ1dTY09ELW1MbmcwVkJOSUhRdkRPRG1aUW1YM1JMbXZ2VjZOQnlUQWN4WW5qNzRCRHp5NF9CM085N2dNcTlfNklRYk82LU1WMWxGSW5jakZPcENzb25oUjR3SzhBWlNKcHVUZ09ZQldsS1JOSUZMbllnQUxPNzQ2Rnc0N3AyWEEwT0JNOEVXaU00MXJqUXB1RWRFM1ZIOC1idnBvQUE1TVh5N3J1QzRBYjViUUE4OEdsanAxSXZMSmNHYTlB?oc=5",
-      "source": "marketscreener.com",
-      "pubDate": "Wed, 29 Jul 2026 14:44:30 GMT",
-      "query": "Google DeepMind"
-    },
-    {
       "title": "Encore AI raises $30M to build AI agents that learn from customer calls - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZVM2M2g4bFd4X0VlNzNTY3Z2TE9hVEsxSk1Rd2o0VFQ5M1VNb25VNVRsd0pMbUNPNVowbGQxa2R4VU5QYWxhREE4WlF2ajJ3SlJaSVlTSV9LMTh5N0ViZkJ2V2JDcFZpcUxOQUU1UzFYd0JfMXBmOXlLb283dXcycldnSUl1VUVZWkd3WGpPR0pPaFhMcnlKVnl4Y1QzNDdzVGZTVkd1R20?oc=5",
       "source": "TechCrunch",
@@ -295,13 +260,6 @@
       "source": "SC Media",
       "pubDate": "Wed, 29 Jul 2026 14:32:11 GMT",
       "query": "AI model update"
-    },
-    {
-      "title": "Update: Market Chatter: Alphabet's Google DeepMind Disbands AlphaFold Team as AI Strategy Shifts Toward Gemini - finance.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWGtrSm0zcVlGZWY5YUQ0S2pKaS1ITkhpbTZSQXFmYzlxeVliWGd1cFdMZExqQ0gtaFk2UlZCN0l1dFAtTzNmcThaZEVCUFVnTkx5VWU2QlhRZXNIMjNGblphTjgtN2VWdUlNdXVrZnN2ME4xVGQxSVRlX0hWV0twX3RjclphZ0U1ekpyVnV5N3hhWjhMTGJ6OEFtNXRRY013?oc=5",
-      "source": "finance.yahoo.com",
-      "pubDate": "Wed, 29 Jul 2026 14:23:44 GMT",
-      "query": "Google DeepMind"
     },
     {
       "title": "SeeAPI: A Unified AI Image and Video Platform for Creators and Developers in 2026 - Cybernews",
@@ -325,9 +283,9 @@
       "query": "Google DeepMind"
     },
     {
-      "title": "MUSC Health extends SoundHound AI agent to pharmacy services - StreetInsider",
+      "title": "MUSC Health extends SoundHound AI agent to pharmacy services - streetinsider.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdW8zTHJtYWxqSExLSGhoWGZCd21jRWN3WDgzSjNFUWN1NkNOQnJ1UUo5ei1MbG41SmhXdjVidVd4ZXowQWFBQTJub0dvbzRzbndhM3VfR1ExZzVCNks5SVltSjV3ak5hQUF3MmtwNURlYXlMaF9jd29KRXhPYUNTQXFCSHVTSFhhaWthcFhWWXJZVWpSVWYxeWxvbWRwU3g2WmNqMEowODJ0Ul9kSmhRX09LTGVHeGtIWWRJ?oc=5",
-      "source": "StreetInsider",
+      "source": "streetinsider.com",
       "pubDate": "Wed, 29 Jul 2026 13:07:01 GMT",
       "query": "AI agent platform"
     },
@@ -339,9 +297,9 @@
       "query": "Google DeepMind"
     },
     {
-      "title": "MUSC Health Patients Can Use AI for Refills and Real-Time Updates - Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZVdBNGVIRlM0TE1UbUZjSWZqTE9JQXFmMzlrS3p0NXFFTThHR2ZTa2c2VExsTHR3a0JRQ2RvWVNaam9Kem9WMzRuX0Y3ZXpnMERLVkVwQmEzeS1TYmNZQ3M4dkpXcEtVSW9teTIxdzVrR1dDUDhwNnEtLVBxU1BuNEg3RXN6T2VCRUpBY01KaDdoTGhSbzZqbUluWmFPSzg3RnN6LWEwM0lLQTVfVmZGVzMtN0w4d3NoZmZsUWVJZnE?oc=5",
-      "source": "Stock Titan",
+      "title": "MUSC Health expands use of SoundHound’s AI agent platform - GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxObWJZQjI3NEkzUkl6UkZmTG9XUjUzYURfeDBpNVZnQXhLS2JFSnBkRFlxcFNfOVVRRzdXWjVBemdjOWQ4cWt6Y3lCVDFhaGJEM054a2dhX05qRG0tZGR4d1Y3bG5wTlpGVEJuRmJEN2c2THh4T24xSFlNVVdqc0hKTlN6TWo0RVgzMFBDaWtSZkNFWFlOX0poSm5GQVQtWjEwcG5DV1l0dlJNbTItNUtuLWZOSXdocC1xbEdkRW82c2tidEN6dXlkR0padExuTXZwOUZOXzU2cXVNVEdGOUVETmFuUWFic2pYS2Z6al92REZ2a1NWcmZrZWpzTDdfa0tRS3RzV1QyQ3hOU0N4eDJhWjdYcjU4MThIOFU4eDZyMnJibDN3MHZv?oc=5",
+      "source": "GlobeNewswire",
       "pubDate": "Wed, 29 Jul 2026 13:03:00 GMT",
       "query": "AI agent platform"
     },
@@ -351,6 +309,48 @@
       "source": "PR Newswire",
       "pubDate": "Wed, 29 Jul 2026 13:00:00 GMT",
       "query": "AI agent platform"
+    },
+    {
+      "title": "Exclusive / Censorship in Chinese AI models can be undone, new research shows - Semafor",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2wwNVdZWldVbi1yS2lvQ3NkMFNJQXFfb0M0QTFXem1KQjIxZkw4dU5Ib0lXZTVla1B3Wmt5MXU1cHU3U1BRVjl3RV9KOXB0V0tsLVJOZTVQWjlhZFRVYU1jUVZyWDgxSjlwdDhvdmZCYVo0SlZOVmxYallCekhPai1ZbGhkTHo4TW81ZGRZUlY3bEo5c2NnNFgxSnBWYzZzTk0tQktINWZwX2c?oc=5",
+      "source": "Semafor",
+      "pubDate": "Wed, 29 Jul 2026 13:00:00 GMT",
+      "query": "DeepSeek"
+    },
+    {
+      "title": "Rogue OpenAI agent that hacked startup tried to attack other firms - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeHUyRzFkQktHQWpzTURFT0tldXRZcDljOG9JN2gtOWstVlEwdEtieV8wTHZJZU16aW12Qk9oV282MGFCa1NFUWN0d2twNTFXZnd2V0NNNmwyOUhTRU0wWVE5VG1OLVRSTFU2U09QLVliUTJYMlhGUjdRRXUtVWJhc0l0enVVNks1T01WTGlKWjlBM3FIUUhza1UtYnoyRVd2Yl9PTlozZE9aODlKNUY5THlaUFRRbm1S?oc=5",
+      "source": "The Guardian",
+      "pubDate": "Wed, 29 Jul 2026 12:38:00 GMT",
+      "query": "OpenAI"
+    },
+    {
+      "title": "Google DeepMind Paper Says LLMs Will Never Replace Human Genius Because They Lack The Creative Leap Necessary To Make New Scientific Theories - wccftech.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR1pjWWxxem8tMFB6cFV5dElBVzY0WVc5ZGJCNXZQQXhIMVl1cmdLemtxVjdPOXVEWTFXTlBCYm5zdFREOEh2YllTdFU3dVcwUm9peXNKSm10UHpuMXhKcXBiOVlvUXlMYXNmZHAtWkdDRkxCTkcxOFVJNmNva2dkd0t30gGHAUFVX3lxTE5lX19oUUlSZ1AxMDVfUHpyOWRvLVFGUy1DQTZSRWU1N3d5MWVReEQ0NF9ueXVuTGpMNHRSR2EzSFZRR2ZYOVMwYndSNGxrMUIxRTlQSG05bmRndm9NTTh1ZFBqMFQ1VHRxVzl1NnlNQjRsenVLMEJjZzlPZklOSXBFNmk4WFZRQQ?oc=5",
+      "source": "wccftech.com",
+      "pubDate": "Wed, 29 Jul 2026 12:26:49 GMT",
+      "query": "Google DeepMind"
+    },
+    {
+      "title": "Renoise Review: Is Its Multi-Model AI Video Generator Practical? - findarticles.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1paEI4VXRFNEYxZmdWZFJMdWI4alRLeWJqb3lveUQ0NXhrVDB1YTUtNUpTUEdzUW5NT1dZWXhrbUJhVXVnbkFheHRwZUZ2NFgwUktTMWpCR2RFTUtERFctczNBeEVEUVNlcDJYX0g0WFXSAXhBVV95cUxOUG1zTk5Gb19WVVhUdEliMDlUUEJXZnB5RlpzU0ZlckZmVUhvNFVMTF9KUU83eXV5cFdIaDI5SzhuNXllSEtDeUtISlNMS1pwMnBTWHNxRWZyTTNmaHBDM0VaQVJJb2pZd2ViT2sxX2NCZU1SdTBJNmg?oc=5",
+      "source": "findarticles.com",
+      "pubDate": "Wed, 29 Jul 2026 12:25:16 GMT",
+      "query": "AI video generation"
+    },
+    {
+      "title": "Google makes Gemini Spark AI agent available to Hongkongers - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQVVraFdGQUpYclBEdWhmR0trd2RrM01sM2dOT2ZoTFpQZnUwLVI5Z2RzMWZGQWNMYXJnVjl4Q3RwU3ZpQWVnNE5md0d1LXZzcnhzMGxTckhua0FkN0habWh1QmswUFZNelFrZjZGUzV3MHgzcmk5ZmdDVXVOYzZKV1NIcHFFQzNEd250b2ZKNVY2OGJHbnlhOTVhS0IxdmhlblhHRE9qdnlhTzlOdE1xdE43SHZVTjRvclHSAboBQVVfeXFMTlhraDgtLUxPbkNwa2FEZWI0SldPaDF0d3ZQWDNidDlEcFpoRFVaZ3lyYWVKcmtWMzdwZUhmNzYzSDJSUHJqZnE3a2ZHejR0ellLYkVoQkNLcHRYa1JlLW1DeHRoSnM1T21VenZDMnNWLUNtRjhkNnpwVWNjaUVxczg4bU1tRG9WVWdSbDBmRTloV2U3TGpMamlndEFRcm1pY2FJVXZxMDZuWTVXaGJOV00tUlV5VDJvdWZ3?oc=5",
+      "source": "South China Morning Post",
+      "pubDate": "Wed, 29 Jul 2026 11:30:07 GMT",
+      "query": "Gemini AI"
+    },
+    {
+      "title": "I gave Gemini 3.6 Flash and GPT-5.6 access to my entire digital life — here’s which one actually helped me more - TechRadar",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZllWRlZ4NlJaRkFKQTIxZmJ1TnVsTUJndndxamx1MHAzejlwNjlZeG9wUEVKZ3NSUDUwY1VFaXhHWXFDY19fcF9nYzZPMWJyZmRBZ0RvN2ExQlhlelM3VERlTE9MRUdqQ2lpWkJCYm1lZEpOd3A2YWRvMkFfWmpJajdOVEd4aDRYY0FBdUw2Uk81LWlabThtRElCOGw5VXhZZkVhcmxMTzMxTWdvUUlubDV3dlFlT245SkExZXR1dUJfTk93QU43RjU3aHllMEN5VTVEcUp2RVllV0FEb1pKc2NsYmwwSGtRckdaUGJGRQ?oc=5",
+      "source": "TechRadar",
+      "pubDate": "Wed, 29 Jul 2026 10:50:00 GMT",
+      "query": "Gemini AI"
     }
   ]
 }

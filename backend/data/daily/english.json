@@ -1,35 +1,35 @@
 {
-  "date": "2026-08-03",
+  "date": "2026-08-04",
   "items": [
     {
       "tag": "专八词汇",
-      "title": "equivocate",
-      "body": "v. 闪烁其词；说模棱两可的话。例句：Stop equivocating and give me a straight answer.（别含糊其辞，给我一个明确的答复。）专八阅读中常用来描述政客或作者的不明确立场，写作中可替代 'be vague' 提升批判力度。记忆锚点：equi（相等）+ voc（声音）→ 两边说同样的话 → 两头不得罪。"
+      "title": "fastidious",
+      "body": "释义：adj. 一丝不苟的；挑剔的；讲究整洁的\n搭配：be fastidious about sth（对某事很挑剔/讲究）\n例句：She is fastidious about her personal hygiene and never skips hand-washing before meals.\n专八考点：常出现在人文阅读中，形容学者、艺术家的严谨态度。注意与 meticulous（细致的）区分：fastidious 更强调「因标准高而挑剔」。"
     },
     {
       "tag": "专八词汇",
-      "title": "salubrious",
-      "body": "adj. 有益健康的；清爽宜人的。例句：The salubrious mountain air helped him recover quickly.（山间清爽的空气帮助他迅速康复。）可用于环境描写、气候话题，替代 'healthy' 瞬间拉高词汇层级。注意区分：salubrious（有益健康） vs. lubricious（淫荡的）。"
+      "title": "perspicacious",
+      "body": "释义：adj. 敏锐的；有洞察力的；判断力强的\n搭配：perspicacious observation（敏锐的观察）\n例句：The perspicacious investor sold his shares weeks before the market crashed.\n专八考点：写作中可替换 sharp/keen，提升词汇丰富度。名词形式为 perspicacity。"
     },
     {
       "tag": "口语跟读",
       "title": "I'm running on fumes.",
-      "body": "我累到极点 / 油尽灯枯了。Native speaker 在加班、熬夜或高强度带娃后高频使用，比 'I'm very tired' 地道百倍。跟读要点：running 的 /r/ 卷舌清晰，fumes 重音在首，尾音 /z/ 轻而短，整体语调呈下滑趋势表疲惫。建议早晨通勤时跟读 5 遍，植入肌肉记忆。"
+      "body": "释义：我快累瘫了 / 我油尽灯枯了（字面：靠废气行驶）\n适用场景：加班、通宵后形容极度疲惫\n跟读要点：running on 连读为 /ˈrʌnɪŋ ɑːn/，fumes 重读。注意语调降在 fumes 上。\n替换练习： exhausted → I'm running on fumes."
     },
     {
       "tag": "口语跟读",
-      "title": "Let's not put the cart before the horse.",
-      "body": "咱们不要本末倒置 / 不要操之过急。用于提醒对方按顺序办事，语气礼貌但坚定。跟读技巧：cart 的 /ɑːr/ 嘴巴张大，horse 的 /ɔːr/ 圆唇收小，注意 cart 与 horse 的押韵感。适用场景：讨论预算、项目排期、装修顺序时优雅地踩刹车。"
+      "title": "It's not rocket science.",
+      "body": "释义：这又不是什么难事 / 没那么复杂\n适用场景：安慰朋友或自嘲，表示事情简单\n跟读要点：not 与 rocket 之间可轻度连读；rocket science 重音在 rock-。整句语调先升后降。\n文化背景：源自对航天工程师的调侃，现已成为日常高频表达。"
     },
     {
       "tag": "影视句段",
-      "title": "《The Crown》S1E1",
-      "body": "原句：'I am aware that I am surrounded by people who feel that they could do the job better. But for better or worse, the crown has landed on my head.' 这句适合模仿英式庄重口音。发音重点：aware 的 /əˈweə(r)/ 双元音饱满，for better or worse 三个爆破音干脆利落，句尾 landed on my head 适当放慢以示分量。可摘抄用于 '责任与担当' 主题写作。"
+      "title": "《肖申克的救赎》经典台词",
+      "body": "出处：《肖申克的救赎》(The Shawshank Redemption)\n原句：Hope is a good thing, maybe the best of things, and no good thing ever dies.\n译文：希望是美好的，也许是人间至善，而美好的事物永不消逝。\n学习要点：① 注意 Andy 念台词时的舒缓语速，适合模仿连读；② no good thing ever dies 为部分否定+倒装强调结构，可用于写作；③ 跟读时抓准 thing 和 ever 的轻读。"
     },
     {
       "tag": "影视句段",
-      "title": "《Breaking Bad》S5E16",
-      "body": "原句：'I did it for me. I liked it. I was good at it. And I was really... I was alive.' 完美示范美式口语中的停顿艺术与情感递进。跟读时抓住节奏：for me（无奈）→ liked it（坦白）→ good at it（自豪）→ alive（释然）。练习时可录音对比，重点模仿 'really' 后的省略号停顿与 'alive' 的轻微颤音。"
+      "title": "《当幸福来敲门》经典台词",
+      "body": "出处：《当幸福来敲门》(The Pursuit of Happyness)\n原句：Don't ever let somebody tell you you can't do something. Not even me.\n译文：别让别人告诉你你成不了才，即使是我也不行。\n学习要点：① 注意 Will Smith 口语中 you 的弱读 /jə/；② 连续三个 you 的连读节奏；③ tell you (that) you can't 中的省略 that 是口语常见现象；④ 适合早晨跟读，语气坚定有力。"
     }
   ]
 }

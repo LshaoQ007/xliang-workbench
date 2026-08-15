@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15 00:02",
+  "updated": "2026-08-15 23:57",
   "count": 50,
   "items": [
     {
@@ -10,18 +10,18 @@
       "query": "LLM release"
     },
     {
-      "title": "Everything Apple Is Releasing in 2026: iPhone Fold, LLM Siri, Low-Cost MacBook and More - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84NWhTWHpSaVNVQTEyam93dGxKdlYyQzZwOWtaeFF6LTZDeXMtMldfZHd6bF93RGgxeW9CZTY3NTU0Q3ZMblExWDgxYVNQY1JMbWh3QTBXVnFYS2l6X1ZYOENCOWZCTGZqXzQwWFpZMU0?oc=5",
-      "source": "MacRumors",
-      "pubDate": "Wed, 31 Dec 2025 08:00:00 GMT",
-      "query": "LLM release"
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RdURTcDByN0NKcGZ6RzBEWmk1SjV5T1hEOG82MXp2cmRCc09ZLUxUV1JjX0dtYUlxTEVfLXVyUHI3dWIxMnNydzIxR0hwb1kxbU15dlQ1bThHYmc2M1lyeFM2eXpENWRKUlE?oc=5",
+      "source": "OpenAI",
+      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
+      "query": "OpenAI"
     },
     {
-      "title": "MUSC Health expands use of SoundHound’s AI agent platform - GlobeNewswire",
-      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxObWJZQjI3NEkzUkl6UkZmTG9XUjUzYURfeDBpNVZnQXhLS2JFSnBkRFlxcFNfOVVRRzdXWjVBemdjOWQ4cWt6Y3lCVDFhaGJEM054a2dhX05qRG0tZGR4d1Y3bG5wTlpGVEJuRmJEN2c2THh4T24xSFlNVVdqc0hKTlN6TWo0RVgzMFBDaWtSZkNFWFlOX0poSm5GQVQtWjEwcG5DV1l0dlJNbTItNUtuLWZOSXdocC1xbEdkRW82c2tidEN6dXlkR0padExuTXZwOUZOXzU2cXVNVEdGOUVETmFuUWFic2pYS2Z6al92REZ2a1NWcmZrZWpzTDdfa0tRS3RzV1QyQ3hOU0N4eDJhWjdYcjU4MThIOFU4eDZyMnJibDN3MHZv?oc=5",
-      "source": "GlobeNewswire",
-      "pubDate": "Wed, 29 Jul 2026 13:03:00 GMT",
-      "query": "AI agent platform"
+      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BVE1UdnNURWZXWHE3dlU1Q0NDanNJdlRWODRrenIwTGZiSFBYTk02QUs4bEtRUmRuZU5vMlBmQm1TNGtXblhzdGVrM1E4R01JYkpnQ3MzUldxOHJJejRXeU9uQndxM2REOXZyN1Y5ckFsNjRq?oc=5",
+      "source": "OpenAI",
+      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
+      "query": "OpenAI"
     },
     {
       "title": "Google Reshuffles Nobel-Winning DeepMind AI Team - PYMNTS.com",
@@ -45,9 +45,16 @@
       "query": "AI model update"
     },
     {
-      "title": "MUSC Health Patients Can Use AI for Refills and Real-Time Updates - Stock Titan",
+      "title": "MUSC Health expands use of SoundHound’s AI agent platform to retail and specialty pharmacies, surpasses 2.2 million patient calls - finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaUNscElzeWcwMmh6eWRRR3NrcFgzaUVQVVFZVDFtYlhEcDJFTUwwUF9pa0U1OFNFbGN4UnNaVkFObUtKSjduYkdTbzQ1TkJxdURmMFRkNmxfelhqSzhLM3Z3OThHRUx5Vl90VTJ4R1dJMWhQSVJMUS1KMzFNYlJsUlRpVTVuWFNESXlQLTdPRXBKUHhJQmNjSWhB?oc=5",
+      "source": "finance.yahoo.com",
+      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
+      "query": "AI agent platform"
+    },
+    {
+      "title": "MUSC Health Patients Can Use AI for Refills and Real-Time Updates - stocktitan.net",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZVdBNGVIRlM0TE1UbUZjSWZqTE9JQXFmMzlrS3p0NXFFTThHR2ZTa2c2VExsTHR3a0JRQ2RvWVNaam9Kem9WMzRuX0Y3ZXpnMERLVkVwQmEzeS1TYmNZQ3M4dkpXcEtVSW9teTIxdzVrR1dDUDhwNnEtLVBxU1BuNEg3RXN6T2VCRUpBY01KaDdoTGhSbzZqbUluWmFPSzg3RnN6LWEwM0lLQTVfVmZGVzMtN0w4d3NoZmZsUWVJZnE?oc=5",
-      "source": "Stock Titan",
+      "source": "stocktitan.net",
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
       "query": "AI agent platform"
     },
@@ -122,18 +129,11 @@
       "query": "AI model update"
     },
     {
-      "title": "OpenAI shutters AI video generator Sora in abrupt announcement - theguardian.com",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxSjhhNmprLUw4djBMbENiYnlqSjZ0c2lBR3ZEazNkMnlyTWFJZmlHWU1PLVdlRWx2enNxNkFOS041SWNfRTVsVHpnY2lJUVR6MFVISnU1MkI3dTJnWVVTb01ObDRPR3YwdTVHaTRDVnVWRUE3cVdnSUpTTQ?oc=5",
-      "source": "theguardian.com",
+      "title": "Inside our approach to the Model Spec - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ReXBhMS1ONTNtWWtRVDN0aVRkMThHS3NjV1dNRFNaR0J2TDdHdWFLRkw5ZGdNcGR0OEpJV05QSGJONjBXVncyZ3RURzg1WFpmblBtb21JMDBPWk9rRmNGOTk0bTlYTzQ?oc=5",
+      "source": "OpenAI",
       "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
-      "query": "AI video generation"
-    },
-    {
-      "title": "Putting ideas in motion: Redefining AI video with Adobe Firefly - Adobe",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMlNVZXFaY2ZmTlA1UV9QWWlqRmdMM1A5UFRac0FKSld2Wk0tZFlXSlVFSHJKdFRqSGdJa21mMC16aE9uTFY0R0pLSUdSc096aDRHNzJXbTFfc0l1ZGxvZVZEMHBoTll1UHBTTDMxNzltZm0wOFBod2JNUzBlenRzbEdKX2ZkSC14ZVRnNVhzOTRERF8tb2pKSmMtWGdmNHZhR2p1UlpiYkJjeTQ?oc=5",
-      "source": "Adobe",
-      "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT",
-      "query": "AI video generation"
+      "query": "AI model update"
     },
     {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip - OpenAI",
@@ -178,6 +178,13 @@
       "query": "AI video generation"
     },
     {
+      "title": "AI Video Generators: Midjourney Video AI Creates Stunning Videos From Text For Free - Trend Hunter",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WaGlOeFdVYVBDQ2xia0Zzcl8tWFJjcmtyZWx3U0hpZmg5bmEzRmFBZEs3QTliaC1XMDVvMzRKeF9TdmtJZGZKS0RiV0ZBWkxqdnh4RUdMMUhnZUJSMklMTUtFby0?oc=5",
+      "source": "Trend Hunter",
+      "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "query": "AI video generation"
+    },
+    {
       "title": "Affinity Launches Ascend AI Agent Platform for Private Capital - MarTech Cube",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSFFPdE04NFlvSG9uaHZBQlV6TEhFckt2U3JBMWVxeVVjSzVGN0VwUS10bFlzQkpmYmZiWnVFMG5vS0dFT203LURnRFViNW1tckhSMk1HdkxaLUJyVTQwRzA5dG9MZGYwU3llc1lzVkZYNnpWUzRjRHRMLTJ6WFNKUjNWcG5LOV85ODVVcklvMGlESjRNd0E?oc=5",
       "source": "MarTech Cube",
@@ -192,13 +199,6 @@
       "query": "Anthropic Claude"
     },
     {
-      "title": "OpenAI Says Its Models Accidentally Hacked Hugging Face - bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN2dIazBHT3lxakdkc1BhbjFLZ3BJVEJpOWNGQVBoYklXOUVvS2ZpR0EyTVYxaEZsV2I0b0VJYkItTDdUQ25XYUxRT0dhZG4zNjVEUi14cmJLRG9xYXdFX2h6UXJ6VVIzSEFiVDZSd1ZwMWowYUJCR09vdHVLTFFmQkRTZ0l6Rmx2VVkxcWJubmk5MEZuV25wTnROTWJ3UV9uSXVhc0NFYWJ5R0ttZU1wOEJ3?oc=5",
-      "source": "bloomberg.com",
-      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-      "query": "AI model update"
-    },
-    {
       "title": "Hollywood studios accused of AI hypocrisy amid high-stakes legal battle that could define controversial tech’s future - Page Six",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWFY3aTNOT0lGNkNPRzJRVWZsVzJfSXh2TlY3WlBCTl9qT2EzZ3hkQlpwTWNOcEM2S2o5MGl5WnRrNGFYTHNhYWZZRnNYR2JrVm15bXN6WmNyRUVVWW5tcXRVWVc3cWUzSGZWYzBqeFl1VmRReUV3VWNyNUlITkxpaDRjMnNQM2hsOU9zSkNCdDF0RVlQOFdTM2REa09yaTRCSFM4U2g4UUdYSEdSMWlDc1E1TzByUTlWbVhFMXJ4LWtuSkx5dUx4Ui1zYS1iQQ?oc=5",
       "source": "Page Six",
@@ -206,16 +206,30 @@
       "query": "Midjourney"
     },
     {
-      "title": "How to Play BABA Stock as Alibaba Unveils New Qwen AI Model - Yahoo Finance",
+      "title": "How to Play BABA Stock as Alibaba Unveils New Qwen AI Model - finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYVk0cTZwbm10d19sVkNwcU93WHZaaEhHdjk4MlQzaXRqMURQZUYwM04tMUlwWHN0RGFzLUoxN1hFN0Q3RDNlUGlaRHhHX3A0eUpqUUxvOTBhS3VPeVFSa2xnWmJWSFRnNWhqV080NmlEaVRBcEZZSjJ1eF9sZ0FWeVpKRE1YVGpnMDBYbnE2Y0s5M29VUWZlaENNWQ?oc=5",
-      "source": "Yahoo Finance",
+      "source": "finance.yahoo.com",
       "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
       "query": "Qwen Alibaba"
     },
     {
-      "title": "groundcover Expands AI Observability to Support Agentic Workflows in Google Cloud - Business Wire",
+      "title": "What You Should Know About Seedance 2.5, ByteDance’s New AI Video Generator - techguide.com.au",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ29GLWxEb2xJYU9mYkZLY2cwUm1nTWs2Vm83OWNMQjhUTWVvZTNac1VVbGJaZUVzOVBwNVI4LWtieWdYNEJvdTdQcUcyTUZqcUZiUHBZUlJoekRhX0JHR25yUExXODJqOGNXa0lFTmpLRlo0RmFzOWw1dkZFSWYxSG95cUVWRWtEdXdCV0d6cDA5Y01NWjNVakdYaGktaWkwb2huclBRb2c2bkpQLTlINHdDTThpSUV5bmVJSi1hSlg?oc=5",
+      "source": "techguide.com.au",
+      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+      "query": "AI video generation"
+    },
+    {
+      "title": "Partnering with industry leaders to accelerate AI transformation - Google DeepMind",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSG9reURjdGdPLVdNeWpvQ3pZcVNMVmc2VzlzRFJFM3RpMmNudW5rckVGS09CZks2aWVqek5CNU5YeWdQV1hNT2ppZXVhYTVNRlp3UHRybFA0TE82WHVkbl8tdU1qMkdPSmp4THVmZUdxSHNmaGhsMDRmc1ZpQThnTlpPUTl5MThMZ3dZMWdtYTNhRlp5QUNvY2t3?oc=5",
+      "source": "Google DeepMind",
+      "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "query": "Google DeepMind"
+    },
+    {
+      "title": "groundcover Expands AI Observability to Support Agentic Workflows in Google Cloud - businesswire.com",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONUpMbUN4WUxHamliRzlmWk5ieV9HWmkwVFNEZy1fY0o4eENsYlNidjliWVQ2ZF84SGcxVEdGNkg5NHFyZ3M5S3Z5MVZJUmNHNXh1allLemo2Q3BnQ0laTl8tXzItM2YxSUs1TVJMQzQ4NmwzWnZRdnRfUElfUkhzbElLamJPTTl6cHhOdGd3bVgyZjFSY254bEE0QXBSUDd5cS0xYTZHYTNBWGp4ZzU1eFZsVjJrNFV4MEtwN3VPTDM0TEtPSkNnZDlEei1JZl9ETXVlaw?oc=5",
-      "source": "Business Wire",
+      "source": "businesswire.com",
       "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
       "query": "LLM release"
     },
@@ -248,11 +262,25 @@
       "query": "LLM release"
     },
     {
+      "title": "Google Shifts to AI Search, Heralding Major Change in How People Use the Internet - Time Magazine",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55VFlTZV9SSURGVzRTWXEwWWNqcmFKTUhIeUwwLTBCbjZrbDZRVXc3ZlVKT18ybnpXYXBRNVFMeWlXWWF3c3pyYnBqMTJYREJVNUpEVGhJYmYxNW5Bb1hQUHJMZGpqbEcwLXZNd0dCbw?oc=5",
+      "source": "Time Magazine",
+      "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
+      "query": "AI model update"
+    },
+    {
       "title": "Midjourney's TPU regret is a warning for AI startups - Startup Fortune",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNUFJaW9taFg5V3hGbDdhWU5tODVjb2c3amZ1R2pWczRhZHVSaGVtUkJ2Z05kUVZ0R2ViUC16YllBeU40MUpuWGZFMjlablFMbFZKOF9obEJZa0ZySmFKQkNwVk5ib3RvczhkaXRkRUF0dUk1U2tPd3ZxLVdqZVF3b3hsOUpQZw?oc=5",
       "source": "Startup Fortune",
       "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
       "query": "Midjourney"
+    },
+    {
+      "title": "RapDev Launches Agentic Platform Operator, a Governed AI Agent Platform for Operating ServiceNow at Scale - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSmlwS2dYLVJBZGl2ODUwNGY2cG9BQzdxVmxCZVZRNDhUQkFxUUlqWTdSandrZGxqWFhWX3o3d2p5M3VLN0lJdHphaVgtMDY4Sy1PbDg0RnNTSlhyOG5Nc0N0QmpVeHJlMFJOS1RGdXJQcXc3cVNTR1poRUl4ZlhDVndVSUYyS3F1cXNocGRRMEhTNzZ1NGU4ZFFGM29qSUlNVVlVemtNSUFtdF8wYU9ENDQtYW4yRmtxSXNmZnVVMGtVS0xMYWpVMHFRWjVLR210VVJyS0E0OGtuaF9vSmFOVVRLVmZYaDc3d1cxN05DUEVQZw?oc=5",
+      "source": "PR Newswire",
+      "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
+      "query": "AI agent platform"
     },
     {
       "title": "Xiaomi stuns with new MiMo-V2-Pro LLM nearing GPT-5.2, Opus 4.6 performance at a fraction of the cost - VentureBeat",
@@ -262,11 +290,11 @@
       "query": "LLM release"
     },
     {
-      "title": "Midjourney V8 rolls out with 5x faster generation but charges 4x more for its best features - the-decoder.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMzNzQzc3RGtZby1xMzBVRXBqd3ExYnB1RDdFN1pUTGpKUi1BNHA0bTczNXFZN1FCQTlEUHpBTGV0bXJZaFlQbWI4VzhNTzBTekh0ZHN2cVNQaUluTlZfbTZxZUk0ZmEtem1sZnRsa0NtbDFFMlZTMzljcUxNekhEWnRVcVQ1VWxYLU16RWxPMGwydnZIMWoxZ3BpTm9UTmdrMmFtUmRnS2VxandpVnVHVkZYVlhSOUU?oc=5",
-      "source": "the-decoder.com",
-      "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "query": "Midjourney"
+      "title": "Admanager Launches Site LLM -- A Private AI Built to Keep Healthcare Publishers in Control - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNclRZUEhnYlBGZ0RmbVBOMXZGUGJfdjVOQmRYaXBVRzY5ekxvZmgtWmprUUVmaDdsbHo3blI4SUtHOS1VbHBhVnI4SjEtbWhhc2RiWlhXdFNlSmtPeDMzQTVoLVE0OHlxY3E3YXZzcWpnOVl4RElYa1N4cEliRnpKWUR2UHFxTmd2dGxja191ZUNOLTJRNlpDaDFzbHIyUkJPa1QxVGwxcjhGX3puQktVLXBvdjNxQ0lWVWF6MEVkbGFkR3gxWUxVM2t1akIxQ1V4c1JkTGxHeDFPelpo?oc=5",
+      "source": "PR Newswire",
+      "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT",
+      "query": "LLM release"
     },
     {
       "title": "Agentic AI, explained - MIT Sloan",
@@ -283,9 +311,9 @@
       "query": "Midjourney"
     },
     {
-      "title": "Midjourney goes from generating cat images to full-body ultrasound scans - theverge.com",
+      "title": "Midjourney goes from generating cat images to full-body ultrasound scans - The Verge",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcGItUGdjVTdnU1BhU19vUGtaWm1pNklsVV9RODJnSUFqN08ySm5ONS1sT1lpb0M3bUlXTWZLSC10VkRqeE5tc2ttU0xKTUFuODFDaGRBR2ZKUEdLejdEM2xNRXRLend4X0ZTTWdJMzdieHB1a0tiNklBbF9OWThlSngxaGxNR1ZPc0ZPT3MwcnAxMjRVaUpQdWdlQjY?oc=5",
-      "source": "theverge.com",
+      "source": "The Verge",
       "pubDate": "Wed, 17 Jun 2026 07:00:00 GMT",
       "query": "Midjourney"
     },
@@ -297,9 +325,9 @@
       "query": "Midjourney"
     },
     {
-      "title": "AI Startup Midjourney Pivots to Health With Ultrasound Machine - bloomberg.com",
+      "title": "AI Startup Midjourney Pivots to Health With Ultrasound Machine - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOME42Rk9hNTJKSm42Y1RaTHlLN1dyTjlhcU1UR3F3d1FDRGdva0w3U3hDYWVEN3ZWMzZiVmwyUmNDZTFhTTFlZ2JBV0kxQzRRQkx5Zlo2ZzFEd2N0cEk0SXphakNqcUhHb2NUVUpjYjh1SjNIVVV5LU9yVWdrejkzeHJPMG4wTmFPb19CTk9qRWhQdWZVdnVmdzRDdzhNNDFuNEZEQldxNUtTMVQ0WUltZ2Z0MA?oc=5",
-      "source": "bloomberg.com",
+      "source": "Bloomberg.com",
       "pubDate": "Wed, 17 Jun 2026 07:00:00 GMT",
       "query": "Midjourney"
     },
@@ -318,39 +346,11 @@
       "query": "Google DeepMind"
     },
     {
-      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer - technologyreview.com",
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaEZNa3ZZZUpGMGRLajIyY2pLTjduZmhTVHp1Q0VkNEl0X0lGVUs3aXRfb1lrRjlWSS1IckF0MV80X0Rxb2o0MU1VbU8zVVlNMElnOWhjdGp4Zlp3ZkRuOGlodnpwZmhJOWpvYnB6WVd0OXhnR2J1MHlFWUZ0ZlJ1cUpWTjFkMU1qV0JzZFBDZUVMRTFoVzhSZWNRWXZVTFdxRk1HMFhUYlpRQkRNdnZGNWFiS0h5VVFCNlNzMlRrdV_SAcYBQVVfeXFMTWtlMlUwMFM4STZCMTRXVlg5VngxWU04cVRndWRmdlRhWTM3aV9ZUHB1TFNSa0hpTmpQUFltTTc4ZGhFMFhNNTVYdGRHLTRFbUo3Qm9JaE8xZGktVTh2LUhGMU55QWQ0WWRmY1NSdm45a0JWbXptZ0NBYWgzTV9UQ0N0ZzBveUVoQ2VRZnc4V3VCYTMyUlVhSk9sMG1xR1hYMnZLUmUzbmZZOFllQ1dET1FTTHRCMGpIQWhtQXRqSmtYZWdBS2R3?oc=5",
-      "source": "technologyreview.com",
+      "source": "MIT Technology Review",
       "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
       "query": "LLM release"
-    },
-    {
-      "title": "Alibaba’s U.S.-listed shares rise 4% after Qwen AI set to be integrated in Apple Intelligence - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KZGV6dDJ6U2R1eTJ1bFZleUhNX1FtMXFaOFBWaklmVE1PWV9vNVhDZGgybFdIQUlHNW5QNm53Z3B0LWdZUG9GaE0ySDNwaFUzT2R1YzhJWHRUM2c3Z2Y4cXNpS1I1RE5LWXEwT3FYMlo2TnJiMF9rc2JLZ9IBgAFBVV95cUxNSkp6a051Tm55Q1RtU0g5REJwajJnSUlqZi04NUJkNTkwYVFtNVNpLTBFOGh5VDFwYUVPc01sSVVZYko4SE9wS0ItTzFHQjF5emZRNzhWcTZOeVZ0UEQ2Vi0tWi1EN01CV1VabG1Jc1pvVGtKeFM0aDlnUTI3TDZYaw?oc=5",
-      "source": "CNBC",
-      "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-      "query": "Qwen Alibaba"
-    },
-    {
-      "title": "Apple Intelligence wins China approval, with Alibaba's AI model powering the rollout - qz.com",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KaDg1UnFFS2tXRS0wSGt6aXN3VXpMTXg1Z0UyMkZZNko4OTJSVUFlTjk4S29mX09sZzhSQXZfZUQtMkczUklTYm1PV0VIWWRsVnFmU205eGtaMi0zci1Za0tpclp1cTlUdGFkZVZEWnVMME1yTXM0?oc=5",
-      "source": "qz.com",
-      "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-      "query": "Qwen Alibaba"
-    },
-    {
-      "title": "Shutterstock Expands Commercial-Ready GenAI Solutions with AI Video Generator - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbXUtZGJfRjlTSl9UTXczOHJOdUVvdGkwYVBnRnRFdDJFelZKelc1OURBa05oTXJOalZiT0JTRjY0dHB3U2VvRk5iaHNTZWpicnIxaHFFVnZkVnhZbXhod0F1cHRhMDFMT3pTYlRkclI5aUs5NzE0d3lZWS1HX0E4M0FnUFAzbTNHb1dyUzgyQTd1dGZQTE8zRjU4ODhGVFE4SWpBd3g2WENqVjh6X3hMdDJuVXlOTC0zZ1JjMHlyQjBmYVo2LWhhR3BiWHhBZw?oc=5",
-      "source": "PR Newswire",
-      "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
-      "query": "AI video generation"
-    },
-    {
-      "title": "Two free video generations: Shutterstock adds Google, Runway AI - Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLXlnR1dlNExLR0llRU5PWVNpRWVENlYycmVwbERuVGFiUUNWNE9jWUNGMWVqSm9EamVyLVdIbGlFaG9fbDB6SGZaRko1TWlRNjd1eXZoTzlMNmZSYkJ3VUxaVl94UklCYXZKYndtLU0tZWY4TzRJV1d0cG9hUUNReDN1VDVUVTFuaFhDamFtdndndUVzT2dZQXJleEFhMnhtMERrYXI3Tjh3dm5FREpTbTBfVndqMVJ3bTFHTnZ5VkQ?oc=5",
-      "source": "Stock Titan",
-      "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
-      "query": "AI video generation"
     }
   ]
 }

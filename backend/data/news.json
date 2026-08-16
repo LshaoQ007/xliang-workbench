@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15 23:57",
+  "updated": "2026-08-16 23:57",
   "count": 50,
   "items": [
     {
@@ -22,20 +22,6 @@
       "source": "Global Sources",
       "pubDate": "Wed, 29 Oct 2025 07:00:00 GMT",
       "query": "Amazon Seller Central"
-    },
-    {
-      "title": "Jeff Bezos \"Can't Guarantee\" that Amazon's Policy Against Using Seller Data to Boost its Private Labels Has Not Been Violated - The Fashion Law",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcUI2UGZjWnJmMzZlVlluQ0tuZWhyX2F0NVdiTXhiRVU2dHJvWTh3RTNHSXJyMTVOTGRhSms1RmpybHZSWk4xVm9jbUhTYWdtUG5zMHBlcFFyZjBkOVg4QjJ0eVV1Zy05clVWU0pEWm9abzFpaXpoVXFnbUFrRUVpeTlpY0pjUXVlYU5tSnA1Tk5tYUczdVRXOGIwdGVYeFljbWFod0ZIS05tb3BsNnZ4LWZoR1RzS25YVEtTbk95SDdwRE91TkZQeGVWM0Fnd0toS2R3ZkxFMUNodU8xOFd2eklBVjgxUkVOeDBwOE9KYw?oc=5",
-      "source": "The Fashion Law",
-      "pubDate": "Wed, 29 Jul 2020 07:00:00 GMT",
-      "query": "Amazon seller policy"
-    },
-    {
-      "title": "Amazon.com Announces First Quarter Results - Amazon Investor Relations",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU0Q2ZUxLQTRVZWJCMFlBMU5jbDF0cGlEakF1bi12M24xY2JIR3c1VndtOF91R2pXOVdrNGJRb1lHX1FnMHZfRlBZdmtaM1BGZndTYmZ6ZXUxOVdGN3Y4UFFpNWRSS1JyRGxCSGdDc3B1emtIMXRmc3BYTlg4c1MzbElPVWxqZWItYVhQaG5XblgwV2t1ZC1MaENVdUpScWhrOE1mOHlPUTlTOFNON1pFQkQ3ZG9TMDE5NC1hcS13?oc=5",
-      "source": "Amazon Investor Relations",
-      "pubDate": "Wed, 29 Apr 2026 07:00:00 GMT",
-      "query": "Amazon sellers news"
     },
     {
       "title": "Amazon reports increased 1Q profits and net sales fueled by cloud computing demand - AP News",
@@ -66,13 +52,6 @@
       "query": "Amazon seller policy"
     },
     {
-      "title": "Seller Ledger Cracks Amazon Accounting Challenges with New Suite of Tools - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRlk3SEZsYjdycXFEVGpWQURycHVMWFRkR0ZZaWEzVmdOTXhBYTlvMUVCdl9lX2oxeWhKZE16cTc5dVQ5amp1SGc3aF9lbFlKcVNidVh4d0dUR1ExMzMxYks3cnNLSFVBbk5ueFBqNndCaWVidnEyMDhBdzZmRnBLeWJtZl8yaXZ2UW41X044eFZGV1RtYmpROU04TnZTUDNkaUdoNTh4ck9PQnhnczJaYVc5X3FBSnhQdDZPd1VtTUdXXzNIVzFBVg?oc=5",
-      "source": "PR Newswire",
-      "pubDate": "Wed, 28 Jan 2026 08:00:00 GMT",
-      "query": "Amazon sellers news"
-    },
-    {
       "title": "FTC Sues Amazon - Stratechery by Ben Thompson",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa1YzRkJreWVaSENjRUM5NldxV0VYTDZsVy0wQkI0T2FvYV9DMER2bGU0cW1jbERURkpzUUdFTGo2aDFBQjdVZzF6Zk9qYVdkTUROQTlub0M5QW1qY3RFX2RwaVM1eVVubEdGb1MtZS1Gb3F6YkRPZHZIc2NaTDdxR2lCUzM?oc=5",
       "source": "Stratechery by Ben Thompson",
@@ -92,6 +71,13 @@
       "source": "CNBC",
       "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
       "query": "Amazon sellers news"
+    },
+    {
+      "title": "Fulfillment Compared: Amazon, Walmart, Shopify - Practical Ecommerce",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUUtmRi1fd2hRSC0xQ2VLajE3MnN2bTJJM3VsZmdFSE52Wk1BblB5S2FTc2xmeG9LYWRTYUxQOFROTnpTYnJfMmU3R29hT1RCalA0WExyMDJ3cjl3YlVqbjZTWlIwRDJONTcwRHlqX2tRb1kzc21HWmhuRDNSdlJMME9udFg?oc=5",
+      "source": "Practical Ecommerce",
+      "pubDate": "Wed, 27 Aug 2025 07:00:00 GMT",
+      "query": "Amazon Seller Central"
     },
     {
       "title": "Mercury foundation models from Inception Labs are now available in Amazon Bedrock Marketplace and Amazon SageMaker JumpStart | Artificial Intelligence - Amazon Web Services (AWS)",
@@ -122,6 +108,13 @@
       "query": "Amazon seller policy"
     },
     {
+      "title": "Got a Public Amazon Wishlist? Upcoming Change Could Reveal Your Address - PCMag",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb3pyQVVCUTVvY3VLblJ2U0dRcV9NRTZhX1Zsbm9XcjMzWTktOUVzeHl6a0xzc1IzTnB3bEswNUZSenN1RnV4S3V6aFBEVzdzUjJoTkZKS2R1NjFuU29OcTBwV3Bpb3BrbDZTaHNINGpMa3hKQTRpai1NbWJzeVdmcm5DMldJSUxIemd3c3pXMTI4R19IaV80WDYzMjdrUQ?oc=5",
+      "source": "PCMag",
+      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
+      "query": "Amazon sellers news"
+    },
+    {
       "title": "Prime Video Leaders Pitch the Benefits of Amazon Channels Marketplace - Variety",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaHU1TkNJenJLLWpoeENpNmNuX1l5N0RrX3NEYkgyVWYxbWR2em14UG1EeXV2cXJINjJwZUV6MnpDbVk3WHJ6d1I3TzBHb2tqZmVJc1FmZmgtUTNKT0JTZUFFaFRyWkNvcEF4MjdwbTNDUkEzOUxKTS02M01YVE1jSWVkVzFhUk1HOFpHd2tYRU9jRDVJSzhWUTcxcWJCSGVfT2o4Rw?oc=5",
       "source": "Variety",
@@ -143,13 +136,6 @@
       "query": "Amazon sellers news"
     },
     {
-      "title": "Amazon seller reveals rare glimpse of shadow bribery market - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN0U1X083eFBoU1Q5NmNxZm1vbm5EbnJmTFdxUHhBbFpoUW1WRlVWVzZPX21BMTl5Tk1sU1lBQXhoQnNpNC05dnpoTzNWc2ZDRmJ6ZkVqb1hqdTVEY3VoSks4dG9XVjJESFFTeXB0VE8yd2ZlOFNWb09SYmVnaVdlQmhwR0gxbE1oT2FxbnltdDF1NzdmNFlzZjdlamQ3U2t60gGmAUFVX3lxTE93NnNIMVFWYmdMcGZuVVduLUZxQ1Rtcm9FWjRtanlwWkFjUG1WaDRYX291c0VHVDJIUXRSd3VyTlF0NEJIRUhlLWxWRm9XSVBZUFAyenYwai1BX1ExZnBwQnZKNktKQlFxdFJTTUJySi0xcERLTUl3LWZSTXpxRjUya05TZjhrb08wRFVaQXZvX3YzUG5udlAzZ2YteElGRjlGOTVBbUE?oc=5",
-      "source": "The Mercury News",
-      "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-      "query": "Amazon sellers news"
-    },
-    {
       "title": "Amazon Seller Reveals Rare Glimpse of Shadow Bribery Market - Bloomberg Law News",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbXRtbUtVRGRFa0wwc1lmM1dtRm5ZN2hJMExGUWRBdzcwdGFIbjc5WmRzV3hZSlJOT09iOEMwQUN1WVNNUnA5NVV3cTNDaUhHenhiTjZiTzhkRDV0U2d5b1VVSGFXWTA5V2M5eTBlWXByYUI4aWJtZjI0dFpKbEtjdXhVdWxRdkpsamhwenlDdGpta0tDdTdBYlZwU1I5UzRnTWthOVg0aHdLekp2a1Vv?oc=5",
       "source": "Bloomberg Law News",
@@ -157,9 +143,9 @@
       "query": "Amazon sellers news"
     },
     {
-      "title": "Amazon Faces $90,000 Seller-Funds Scrutiny - TradingView",
+      "title": "Amazon Faces $90,000 Seller-Funds Scrutiny - tradingview.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORjBZT1l5TnpXTFAyaGhMSEV4UHp6Sko5ZGNwdHBZSGx6Y1I3YU1tcW9BUlZMZ3JJakppNFF4RGFidHVtdXpKWmZUZENvcHBLX2VMbkJ2a0xsTDRFWUh1X1dPNXUzaVUya1lZZmVLNThKSnh2MmxQa1B5RU9DcmFXM3FTN1QtRmVYQmFBSHE5aFNDU0w1ZFNTczV2eGQwNnVLVFBJ?oc=5",
-      "source": "TradingView",
+      "source": "tradingview.com",
       "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
       "query": "Amazon sellers news"
     },
@@ -171,9 +157,16 @@
       "query": "amazon.com marketplace"
     },
     {
-      "title": "Amazon’s New Shenzhen Site Cuts Cross-Border Costs for Chinese Sellers - finance.yahoo.com",
+      "title": "Amazon extends holiday return window through January 2026 - PPC Land",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX3RYSHcxUVZvY2pzMURSV2tJM2huUXUzRDVsVUo5bUtkd2RCOE9yb3JwOGtMd1dDX0pEc0tiNDJqSFNlSUppaFlQUlJjU1NwVE5ZWDQ0OVdsdjhkRDZrQmIyVHJ2UTFYWUVpV1E3cHpyUDVFNGQ0cDRmUE81MkU0Yg?oc=5",
+      "source": "PPC Land",
+      "pubDate": "Wed, 22 Oct 2025 07:00:00 GMT",
+      "query": "Amazon Seller Central"
+    },
+    {
+      "title": "Amazon’s New Shenzhen Site Cuts Cross-Border Costs for Chinese Sellers - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN0pqT1o5WGtWa0hDR0lyWDgzRDV4dHdtNlcyR3F5d1MtdVJyU3F5dGZ4MnBpZTlkQndMLWJYUk5TVXdpdWN3OUxEZEZvakE5NFE1Y3g3Wms2QUdqOXlUYlJhOFR3WnRJZWh6X1ltVGV6M0FBcUJvOUlTSFNxamNJaGM0OTdMVGMxWnlFRXppdzhpWVFIa3BMR3BFT0x2bVk?oc=5",
-      "source": "finance.yahoo.com",
+      "source": "Yahoo Finance",
       "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
       "query": "Amazon sellers news"
     },
@@ -199,25 +192,11 @@
       "query": "Amazon FBA update"
     },
     {
-      "title": "Amazon launches a powerful new generative AI-based selling assistant codenamed Project Amelia - About Amazon",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdkNYTjlhUktFUV81aERHQXhTSThPa2QtNk91SzJQMXVKd3ZnbmxLd0JYcXY1bWt1M3FqbE9tRVVOQVVPZXhHNXRrRGhWaTl1M3laNFVab2hhUE9faW9PeTBXZHBLckMwZ3FiSmFZbmgzbl9WTW5VTmRydEV2UlU3bQ?oc=5",
-      "source": "About Amazon",
-      "pubDate": "Wed, 18 Sep 2024 07:00:00 GMT",
-      "query": "Amazon Seller Central"
-    },
-    {
       "title": "Amazon Cracks Down on Third-Party Apps Over Privacy Violations - WIRED",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fdHdpaFltVU1GVm1CakxKWmFjNXBzbTlBTlV2Z1oydllYcHBEaTF0eVp4WGxFQll3ZkFOSlpmcVZ0MTVaUWFNcl9sMlU2US1tYjAxc0Q5WV9oM2xNMnV6UXNIMloyR1pNUTROSw?oc=5",
       "source": "WIRED",
       "pubDate": "Wed, 18 Sep 2019 07:00:00 GMT",
       "query": "Amazon seller policy"
-    },
-    {
-      "title": "Amazon resumes intake of ‘all products’ into fulfillment centers - Retail Dive",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWVpHQW5LdUpqS0h3MGN6T1Ytd2pLa05nQm1ZdDR2bHNKclNZb1V3X0htOXgyLXdFUG4ySlBEeUFrWE9GM2VRLUlHOFBtSGRTa3JNZzRrTjB5eW04d3RxSU8tYXRwTEhEemJlYVJVNnFUWjB3eHJoU3lCdVVfaVUtNVBCUUxxOXZQU3JQZDNJX0ZXSk1vLVlEaG1Cb2pzdUNtMmpDeUY1Z1pqU1FCN18zSUM1Z1NUZw?oc=5",
-      "source": "Retail Dive",
-      "pubDate": "Wed, 18 Mar 2020 07:00:00 GMT",
-      "query": "Amazon FBA update"
     },
     {
       "title": "eBay Beats Amazon For 81% Of Marketplace Sellers - Retail TouchPoints",
@@ -255,18 +234,11 @@
       "query": "Amazon FBA update"
     },
     {
-      "title": "CEO Andy Jassy says Amazon’s partnership with independent sellers is the most 'substantial collaboration in the history of retail' - About Amazon",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPUUhSVUJNWm9aMVptTmVmYmRleGxYd2I1QUtYaTBFeUxGczhIZ3g1SFB2QTJTdTJkdGdkdzh4T3FYUjlXUG5hcHR2MkdUWVdNb1hNaHd3eGlfalg0Z3Jsam8xaFNYSnprRWI3eWNabTZpWk9pY3JZUg?oc=5",
-      "source": "About Amazon",
-      "pubDate": "Wed, 17 Sep 2025 07:00:00 GMT",
-      "query": "Amazon sellers news"
-    },
-    {
       "title": "Amazon introduces agentic AI across the seller experience, transforming how sellers manage their businesses - About Amazon",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZmJXblB2NFlQSF9zbjNfSVVHSWpBajQ3MVBGandHMmt1UGtiaFpCRFpfbUU0MWNoZ1hmWVV6RF83MzBsbnhrQ0daMVlaS21aeHprZGVZN0xXSEtULVg1U0VfVmxnTHQwVFF3YTZWY1o2TTRSS3FDT3Q4Uk94WWc2aDhrLXZNdEhq?oc=5",
       "source": "About Amazon",
       "pubDate": "Wed, 17 Sep 2025 07:00:00 GMT",
-      "query": "Amazon sellers news"
+      "query": "Amazon Seller Central"
     },
     {
       "title": "Amazon launches AI agent to help sellers complete tasks and manage their businesses - TechCrunch",
@@ -304,6 +276,13 @@
       "query": "amazon.com marketplace"
     },
     {
+      "title": "Liquid I.V. climbs higher on Amazon Prime Day sellers list - Digital Commerce 360",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN1czU2V4SzBCZEwya1BhNFBJNFgwNk5adlJOUkRtSTNibWtEM241a1g5VUd3QWV5eUZrNFNHaDJxNW5QNEwtcC1GZDRWcFdIQzRiN0NabVREc2JFUnNHamo5U2FHejNBN284dGFmcjdCV2p1cVljREpXTGNtMm94OWVlZi1vSUh2N19kZ3RiRUVDTlhRV0HSAZsBQVVfeXFMT0tkV1J6Qng5YWVrYU0wd1RNMnRjZE0xNVUxT1dqN3BmRGRrRjdVZ0tyanpYZTVvbEs5RkI3TVRDVVhCUUlfN2ZhVmV6SGlOaEF4aXF4bTR4N1Q5bmZXazhuVWxuYXpzSS1aYU9PMmVrQkVDQ2RDellrMlF2S1IxVVAxbm9NSEJLYnd4eGtMeHlndWlYa1ZCczdfX0E?oc=5",
+      "source": "Digital Commerce 360",
+      "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+      "query": "Amazon sellers news"
+    },
+    {
       "title": "Amazon tacks on sneaky fees for the upcoming ‘peak season’ — advising customers to buy early - New York Post",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX0pnZHhzTU9OTTRBZVdIdGFTdTFEWkN5NU9TbGNIWHFKaVJBSm9HV2l2THRDblJuemNhNXd0UEJOMGEyZ01qd0o4bWphVFZCNmpyX1dUUGhXcmdVbjVBYW8yMjlsel92Z2ZlRGlJUF92azFuVWcwc0VNN3J1VmJGbVZQc2RBVlFzcmJZVjNHQTAycEJWZTkzTg?oc=5",
       "source": "New York Post",
@@ -315,7 +294,7 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPazQxOW1lU2twMHcyd2g1bUhaUjVaVFhMWnBwd0lnbS1rMFlGaGFMR2h1RnEwVVNlaUxoS1BXMTdUTjRnZ3hmNmh0MDRwT1YzN2pNMnA5WEx0WnB1X2xBMm5URHVHWTJkcDdCMVVtaUNjTGtsVTFNTEJ6RmMwY1laeklvX1FwSHFScDVoZG5n?oc=5",
       "source": "MediaPost",
       "pubDate": "Wed, 15 Apr 2026 23:19:13 GMT",
-      "query": "Amazon sellers news"
+      "query": "Amazon seller policy"
     },
     {
       "title": "Amazon Sellers Protest Policy Changes With One-Day Ad Boycott - PYMNTS.com",
@@ -328,6 +307,20 @@
       "title": "Amazon sellers boycott ads in policy change revolt: 'We're running out of f---ing margin' - CNBC",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWjktb0kwRUIyZy1XX2JPSlFmUUR0N2FjMy1mREdBSk9Wc01jVEVvb3owYmMzZERNVzBielowVkFjY1BzX2hiNU9XRnFrbUROdDVoMVlNMTBhY2UzSThnYTRkZHczN1BJTmRVb01kTUFWUjF2RFhueERfbmJydWVyN3p0aGFTQdIBiwFBVV95cUxQX0gtbTNxRkVsbXBxU3FrdUlBa1BpOUlwcFdIWmJUVm1sakY5TWdBbkRiOGFIQzBMcEU2c2RxTmd0YTdjUzQyVlRHcko3NVZibE15UWk2NWJOWFBpOWd2OW01ODJhbG9zUmRzaXJBVTVrS1NQOEFRS2lTdy1iYkx3bWxQXzVwaDJYQ0Zn?oc=5",
       "source": "CNBC",
+      "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
+      "query": "Amazon sellers news"
+    },
+    {
+      "title": "Amazon.com announces first quarter results - About Amazon",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcmlXNUY0YkNobmFkeEhiaEVvRDJfZXhCUTNIUnF3YUN5c011VlhPdngxdWZmcWRMM3hfWnlibXdvYWRmYl95WkdSaUw3aFRZUDdFR0FkRjNuQ24zazAxSENzUEtCRGh5TXJ1bW9taG1Mb2ZQdWhucTVZc3VyR3hrNTRn?oc=5",
+      "source": "About Amazon",
+      "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
+      "query": "Amazon sellers news"
+    },
+    {
+      "title": "Amazon sellers boycott ads for a day to protest new payout and fee policies - Pluang",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWUZRZ0R3QzhqbHh5U01RMnZVS1h5aWVJbWN6Ym9QaExvSFJ1VlZETmFLQXpiZ2tvLVA5NUhHRHRDZVhtbVVuTHVTc1ZNb0dmX1NUVDIyMTMwcnBEMFQzZWFad1ZVbHllaFVjZ3czcVNCNk5SSVItZl91UFlNTlVMRFdmZkNWak12T19LV2FFeTMzU2VULXlMUGpxcTU1SFlncG5QY2pn?oc=5",
+      "source": "Pluang",
       "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
       "query": "Amazon sellers news"
     },
@@ -350,6 +343,13 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdFA1QjBZUUF5S0NOcWdYOGw5V3hpdl9NSFZlaHNvc0RrMjdBUWhiUVhxT1RwbWpIcWJkVVJxaWNfSndJbEhqc05GS3laM3Y3aWVNSW5KVDJZeURfRTNtcExwdThVc19sUGNFVWJGUV9EdVBZbnlTcGRLMEc4Ny10LVF6NjBFdzM4Tld1dUd3?oc=5",
       "source": "Practical Ecommerce",
       "pubDate": "Wed, 13 Dec 2017 08:00:00 GMT",
+      "query": "amazon.com marketplace"
+    },
+    {
+      "title": "‘Amazon’ for the Military: US Army Set to Unveil Online Marketplace for Drones - The Defense Post",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRTkZyaHhmVU1pX1BJQTZsa3pfZlF2TGU0Ql91MmVMNVlsQ1BfYWVqam5tUGExNkNzQWZ4ZVRBdnVHczhZbG1VbGIyZUJwR1RpM3c0TUctLUdtZmoyNHhjRHdOWm4zRGpVeV9mWlA1UGZQd9IBd0FVX3lxTE1rZmJKODdyWGktbFg5UnQzbHhMSURBNm1idk1kQ2JaY3F5ckt5ZGd2WDdyVmhscDNTcGlCd3FnMHdSU2x2andRR095cVdFV1JscVdGRC16bEZBLWNzZl91NklpcEFZWW1sSTZwbDVTZ1o5QldiZUY0?oc=5",
+      "source": "The Defense Post",
+      "pubDate": "Wed, 13 Aug 2025 07:00:00 GMT",
       "query": "amazon.com marketplace"
     }
   ]

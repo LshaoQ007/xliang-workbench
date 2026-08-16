@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15 23:57",
+  "updated": "2026-08-16 23:57",
   "count": 50,
   "items": [
     {
@@ -12,6 +12,13 @@
     {
       "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RdURTcDByN0NKcGZ6RzBEWmk1SjV5T1hEOG82MXp2cmRCc09ZLUxUV1JjX0dtYUlxTEVfLXVyUHI3dWIxMnNydzIxR0hwb1kxbU15dlQ1bThHYmc2M1lyeFM2eXpENWRKUlE?oc=5",
+      "source": "OpenAI",
+      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
+      "query": "OpenAI"
+    },
+    {
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwcE5jLW96SjBBYTNYYnFQcnM1OFFCYWR5N0R0LVBza3N5WE42YUNfV0NiQTVOZmc4Vl9ZMUdneWNoTVZfOGphbmJlS044Mmw3cWtzVDRKdnhyTWNIYVVoYXJSX3h6cnNVZ1QtUXQxOFBfYnRXcHN0ZExVaw?oc=5",
       "source": "OpenAI",
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
       "query": "OpenAI"
@@ -45,16 +52,16 @@
       "query": "AI model update"
     },
     {
-      "title": "MUSC Health expands use of SoundHound’s AI agent platform to retail and specialty pharmacies, surpasses 2.2 million patient calls - finance.yahoo.com",
+      "title": "MUSC Health expands use of SoundHound’s AI agent platform to retail and specialty pharmacies, surpasses 2.2 million patient calls - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaUNscElzeWcwMmh6eWRRR3NrcFgzaUVQVVFZVDFtYlhEcDJFTUwwUF9pa0U1OFNFbGN4UnNaVkFObUtKSjduYkdTbzQ1TkJxdURmMFRkNmxfelhqSzhLM3Z3OThHRUx5Vl90VTJ4R1dJMWhQSVJMUS1KMzFNYlJsUlRpVTVuWFNESXlQLTdPRXBKUHhJQmNjSWhB?oc=5",
-      "source": "finance.yahoo.com",
+      "source": "Yahoo Finance",
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
       "query": "AI agent platform"
     },
     {
-      "title": "MUSC Health Patients Can Use AI for Refills and Real-Time Updates - stocktitan.net",
+      "title": "MUSC Health Patients Can Use AI for Refills and Real-Time Updates - Stock Titan",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZVdBNGVIRlM0TE1UbUZjSWZqTE9JQXFmMzlrS3p0NXFFTThHR2ZTa2c2VExsTHR3a0JRQ2RvWVNaam9Kem9WMzRuX0Y3ZXpnMERLVkVwQmEzeS1TYmNZQ3M4dkpXcEtVSW9teTIxdzVrR1dDUDhwNnEtLVBxU1BuNEg3RXN6T2VCRUpBY01KaDdoTGhSbzZqbUluWmFPSzg3RnN6LWEwM0lLQTVfVmZGVzMtN0w4d3NoZmZsUWVJZnE?oc=5",
-      "source": "stocktitan.net",
+      "source": "Stock Titan",
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
       "query": "AI agent platform"
     },
@@ -66,9 +73,9 @@
       "query": "AI agent platform"
     },
     {
-      "title": "FDA Real-Time Clinical Trials: Why AI Systems That Update Themselves Are Breaking Clinical Trial Design - The Clinical Trial Vanguard",
+      "title": "FDA Real-Time Clinical Trials: Why AI Systems That Update Themselves Are Breaking Clinical Trial Design - clinicaltrialvanguard.com",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNX0xMWDBKWHNMZE1DTnlpTkxhUWhzVV9aQmotcG9UMlFzeWhNRGtUcnAxVjloOHRpTExDeTdJUmtlU0h0T1pBM1M5UVk1TFgzeGxxQVBpd3JsVXpqNkFqNExkQzFEWUZlM2F2RS1hWnhoQWZhYzVMMWhGTmo0c0ZVSnlzaGpfbzFUX0hQYnVnM0NMZ3VzQ3VLWTBDQkRtUG5hOGU0blpXSDNvMVU4UWZTR2JGY1N0RXhfRUFhTWpXc1RoODJRQk9SS2ZzX2tXeGVRTVpzcXR5aC1iVzFCYVFhV01yZw?oc=5",
-      "source": "The Clinical Trial Vanguard",
+      "source": "clinicaltrialvanguard.com",
       "pubDate": "Wed, 29 Apr 2026 07:00:00 GMT",
       "query": "AI model update"
     },
@@ -85,13 +92,6 @@
       "source": "TechCrunch",
       "pubDate": "Wed, 28 Jan 2026 08:00:00 GMT",
       "query": "LLM release"
-    },
-    {
-      "title": "How to use AI for video title ideas: Getting started with Meta AI - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQmU1ZElTSmR4SWQ3MVlRdVFjVGVnYV9oVDZvZDdHdTZ5R1BvdkZMelgybDN6VkgzNENTaW9hdG8tMjlYZG5kSElBNy1FVF9UXzN4Y3ZkZFFzWG0tVThqOXlya0NCbV95TWpyQnFCVG5razJZM2tNMVdEVzBxRkl6b0t3?oc=5",
-      "source": "AI at Meta",
-      "pubDate": "Wed, 27 May 2026 20:00:31 GMT",
-      "query": "AI video generation"
     },
     {
       "title": "NVIDIA Blackwell Sets STAC-AI Record for LLM Inference in Finance | NVIDIA Technical Blog - NVIDIA Developer",
@@ -143,16 +143,9 @@
       "query": "LLM release"
     },
     {
-      "title": "Midjourney unveils medical scanner that maps your body in 60 seconds using sound waves - - Happy Mag",
+      "title": "Midjourney unveils medical scanner that maps your body in 60 seconds using sound waves - - happymag.tv",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3UWd4SUpuMlE2d1FZRGwwa19CeDh5RG94Q0xPZnhiSk9MR294WjY0XzJYSWxlT3dnM0NGTHBBT1hURTNMM29vVEpaNmRaZVd4eG1KTDM0TUR5dEU?oc=5",
-      "source": "Happy Mag",
-      "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-      "query": "Midjourney"
-    },
-    {
-      "title": "Midjourney Wants to Scan Your Body in 60 Seconds - TechRepublic",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUXFNemxDbXVrSWotemFJVFk0aVY4dERoekE3MThLRXp1RkhSNndHMEdJc0lWU2pyN1VJWHFNRW5mZFhhZ21HWWZTeDlzSUczN1JkQmZ3QjNXSkhERmJ4Zi1IbGI1TTJXdEx1ZjFYd3ZnajJUZmtTRlRZT3dzLTlmdlNaeVBBWjM2VUE?oc=5",
-      "source": "TechRepublic",
+      "source": "happymag.tv",
       "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
       "query": "Midjourney"
     },
@@ -185,11 +178,11 @@
       "query": "AI video generation"
     },
     {
-      "title": "Affinity Launches Ascend AI Agent Platform for Private Capital - MarTech Cube",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSFFPdE04NFlvSG9uaHZBQlV6TEhFckt2U3JBMWVxeVVjSzVGN0VwUS10bFlzQkpmYmZiWnVFMG5vS0dFT203LURnRFViNW1tckhSMk1HdkxaLUJyVTQwRzA5dG9MZGYwU3llc1lzVkZYNnpWUzRjRHRMLTJ6WFNKUjNWcG5LOV85ODVVcklvMGlESjRNd0E?oc=5",
-      "source": "MarTech Cube",
-      "pubDate": "Wed, 22 Jul 2026 10:27:33 GMT",
-      "query": "AI agent platform"
+      "title": "Building AI infrastructure with the Effingham County community - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORmNkUXk3TTVKaXRtOE1ubjFXcEtUMFM3SU5nQW5QY2hRRWxvYm0tbWVNVHVJSXZicTdEQi15RnpvSEh1dEVCT0tZZWtpZmdMdjk1bC1NNzNBY3JCWV8yTmJ4amZDNFBjX3hYVGRyanFXY0lyMkV4S29zTzIwWnlabFpyb3VGV1FJUDZ3MVdnTlQwUQ?oc=5",
+      "source": "OpenAI",
+      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+      "query": "OpenAI"
     },
     {
       "title": "The Anthropic Economic Index connector - Anthropic",
@@ -206,9 +199,9 @@
       "query": "Midjourney"
     },
     {
-      "title": "How to Play BABA Stock as Alibaba Unveils New Qwen AI Model - finance.yahoo.com",
+      "title": "How to Play BABA Stock as Alibaba Unveils New Qwen AI Model - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYVk0cTZwbm10d19sVkNwcU93WHZaaEhHdjk4MlQzaXRqMURQZUYwM04tMUlwWHN0RGFzLUoxN1hFN0Q3RDNlUGlaRHhHX3A0eUpqUUxvOTBhS3VPeVFSa2xnWmJWSFRnNWhqV080NmlEaVRBcEZZSjJ1eF9sZ0FWeVpKRE1YVGpnMDBYbnE2Y0s5M29VUWZlaENNWQ?oc=5",
-      "source": "finance.yahoo.com",
+      "source": "Yahoo Finance",
       "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
       "query": "Qwen Alibaba"
     },
@@ -227,13 +220,6 @@
       "query": "Google DeepMind"
     },
     {
-      "title": "groundcover Expands AI Observability to Support Agentic Workflows in Google Cloud - businesswire.com",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONUpMbUN4WUxHamliRzlmWk5ieV9HWmkwVFNEZy1fY0o4eENsYlNidjliWVQ2ZF84SGcxVEdGNkg5NHFyZ3M5S3Z5MVZJUmNHNXh1allLemo2Q3BnQ0laTl8tXzItM2YxSUs1TVJMQzQ4NmwzWnZRdnRfUElfUkhzbElLamJPTTl6cHhOdGd3bVgyZjFSY254bEE0QXBSUDd5cS0xYTZHYTNBWGp4ZzU1eFZsVjJrNFV4MEtwN3VPTDM0TEtPSkNnZDlEei1JZl9ETXVlaw?oc=5",
-      "source": "businesswire.com",
-      "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
-      "query": "LLM release"
-    },
-    {
       "title": "Intel LLM-Scaler vllm-0.14.0-b8.2 Released With Official Arc Pro B70 Support - Phoronix",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KdXVuYjRDeEhJTklyWWF6TGw4dFNDQlJWT3dBMktfVkcxY2xPcXFwRW1oanhWZHVKUnZtZUh0SThpcm1zemdBU0p1eElUYlBTdFkxTHZLTWdKTWNmb2xzVFpzdFRIYm1VQm1Gd21R?oc=5",
       "source": "Phoronix",
@@ -241,9 +227,16 @@
       "query": "LLM release"
     },
     {
-      "title": "Google just launched its agentic enterprise play, and it runs from chip to inbox - The Next Web",
+      "title": "groundcover Expands AI Observability to Support Agentic Workflows in Google Cloud - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONUpMbUN4WUxHamliRzlmWk5ieV9HWmkwVFNEZy1fY0o4eENsYlNidjliWVQ2ZF84SGcxVEdGNkg5NHFyZ3M5S3Z5MVZJUmNHNXh1allLemo2Q3BnQ0laTl8tXzItM2YxSUs1TVJMQzQ4NmwzWnZRdnRfUElfUkhzbElLamJPTTl6cHhOdGd3bVgyZjFSY254bEE0QXBSUDd5cS0xYTZHYTNBWGp4ZzU1eFZsVjJrNFV4MEtwN3VPTDM0TEtPSkNnZDlEei1JZl9ETXVlaw?oc=5",
+      "source": "Business Wire",
+      "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "query": "LLM release"
+    },
+    {
+      "title": "Google just launched its agentic enterprise play, and it runs from chip to inbox - thenextweb.com",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xU3BoLXpWUmNXeGFMeVROS2RqTXBQSXdSZVVYbVpMekdPakRpMnRGUGJ1TFQ2aXItQ3lPYUlRNEMxVFhUSEQ0LUx0VDctMEttQVZJZkc4VDBvUUpqOWt4MG80aHZhQWRvVkxUX1VBZ2FuVFN0Y3c?oc=5",
-      "source": "The Next Web",
+      "source": "thenextweb.com",
       "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
       "query": "AI agent platform"
     },
@@ -260,13 +253,6 @@
       "source": "Phoronix",
       "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
       "query": "LLM release"
-    },
-    {
-      "title": "Google Shifts to AI Search, Heralding Major Change in How People Use the Internet - Time Magazine",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55VFlTZV9SSURGVzRTWXEwWWNqcmFKTUhIeUwwLTBCbjZrbDZRVXc3ZlVKT18ybnpXYXBRNVFMeWlXWWF3c3pyYnBqMTJYREJVNUpEVGhJYmYxNW5Bb1hQUHJMZGpqbEcwLXZNd0dCbw?oc=5",
-      "source": "Time Magazine",
-      "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-      "query": "AI model update"
     },
     {
       "title": "Midjourney's TPU regret is a warning for AI startups - Startup Fortune",
@@ -288,6 +274,13 @@
       "source": "VentureBeat",
       "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
       "query": "LLM release"
+    },
+    {
+      "title": "Midjourney V8 rolls out with 5x faster generation but charges 4x more for its best features - the-decoder.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMzNzQzc3RGtZby1xMzBVRXBqd3ExYnB1RDdFN1pUTGpKUi1BNHA0bTczNXFZN1FCQTlEUHpBTGV0bXJZaFlQbWI4VzhNTzBTekh0ZHN2cVNQaUluTlZfbTZxZUk0ZmEtem1sZnRsa0NtbDFFMlZTMzljcUxNekhEWnRVcVQ1VWxYLU16RWxPMGwydnZIMWoxZ3BpTm9UTmdrMmFtUmRnS2VxandpVnVHVkZYVlhSOUU?oc=5",
+      "source": "the-decoder.com",
+      "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
+      "query": "Midjourney"
     },
     {
       "title": "Admanager Launches Site LLM -- A Private AI Built to Keep Healthcare Publishers in Control - PR Newswire",
@@ -337,6 +330,13 @@
       "source": "The Business Journals",
       "pubDate": "Wed, 17 Jun 2026 07:00:00 GMT",
       "query": "Midjourney"
+    },
+    {
+      "title": "The Case Against Building Your Own Agent Platform - O'Reilly Media",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSlVmdDRqVi00Z3IzSlFJb0ZaNEZFMzRKLS1jTHp0UTIzMkoxWU5NSEdGUFVLZ2FrZkUtenVCRnhLTFRvaEpoZnNKS2hTZGhNQ2ZLM2RqeGNHRy1TUDNWMTFVX2ZWY21YTFo5elRzdGZ5ZmZkQy0yWmFUV0lySlV6SWxJM0ZIQ0U?oc=5",
+      "source": "O'Reilly Media",
+      "pubDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "query": "AI agent platform"
     },
     {
       "title": "How AI Agents are transforming scientific discovery - Google DeepMind",

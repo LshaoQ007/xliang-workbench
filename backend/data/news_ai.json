@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21 00:03",
+  "updated": "2026-08-22 00:02",
   "count": 50,
   "items": [
     {
@@ -15,13 +15,6 @@
       "source": "Pangram",
       "pubDate": "Wed, 29 Jul 2026 15:13:46 GMT",
       "query": "AI model update"
-    },
-    {
-      "title": "Google Reshuffles Nobel-Winning DeepMind AI Team - PYMNTS.com",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUGhEeDQ2eGJPOHdYblVXdjNKLWNJc0ViSFFmZ29EM1IxMFg0a0pHOHFNT1JVSzFzX2dHRGFjY3VuMy16d2ZHUFM1dkRiekhEd0tGdHN2bWU0UFJCVzNWd2JNQWM0MkVnYWtWbm1XVjlpSzU4Sml1SEw4WDlseTdoUnJFVlZWWGh3aVVlbg?oc=5",
-      "source": "PYMNTS.com",
-      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
-      "query": "Google DeepMind"
     },
     {
       "title": "Introducing Gemini Spark: Your 24/7 personal AI agent in India - blog.google",
@@ -50,6 +43,20 @@
       "source": "Stock Titan",
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
       "query": "AI agent platform"
+    },
+    {
+      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV2FlcTM4S2JHVkw0Z1F6OGtSOVBPaFF3a1dqNFFtcF9raEtsV3BqZy1SOW01b0hmRGRiVFhvaXl3a2V2OE1SVEJNZFhuU01HREk2RE80VDFGZ1RsRlVfMkJOa3JCYlBXUElCTk5ic3BoYVpkeDNNUHRRTjE3alp6WkpoTjBOLWZCWGpiV0hWeGt2bUdnOHJKd05wR1V3MGVFMUhkYUJCT2NPZE01ZTh2Q3RqX0RPbDVBb3NYSEFBNnJsYllB?oc=5",
+      "source": "TechCrunch",
+      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
+      "query": "AI agent platform"
+    },
+    {
+      "title": "Demand surges for AI video editors - Global Times",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aaTBPZGRIUERhQzM4ZW9YYnJRcEtRWTZsaVByZld1RGhxVmRGQ3FEOHJ1S3Q0cUhTRGhQbXVHbDBvOWhsMWduVmlxWnowX2NJdS01WW5RT0xxRHE5dzRlQkZB?oc=5",
+      "source": "Global Times",
+      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
+      "query": "AI video generation"
     },
     {
       "title": "FDA Real-Time Clinical Trials: Why AI Systems That Update Themselves Are Breaking Clinical Trial Design - The Clinical Trial Vanguard",
@@ -97,13 +104,6 @@
       "title": "Updates to our Privacy Statement and Terms of Service: How we use your data - The GitHub Blog",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUt0WEJpT0VFNzVWYkxPbE9wUTVSdUVldG9aaVBpbU9WaHg3OUNLcWlKZHVQUVYtX2Vpblk0dENvM3AzekpLTkplRi1aUXItWGFmRU5fTW5vSDhyRzh2RVgtdy1vbHhZQmtTMlY2aTR6SkFhTGZaczRONk55eWpqN1VsWldwUDZqRHhOM3lBX2szMnR0eEN5bC1TV1Z2T0lVbXp0SGd0RlBma0ZMMlJ2UFFpMWpRY28?oc=5",
       "source": "The GitHub Blog",
-      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
-      "query": "AI model update"
-    },
-    {
-      "title": "Inside our approach to the Model Spec - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ReXBhMS1ONTNtWWtRVDN0aVRkMThHS3NjV1dNRFNaR0J2TDdHdWFLRkw5ZGdNcGR0OEpJV05QSGJONjBXVncyZ3RURzg1WFpmblBtb21JMDBPWk9rRmNGOTk0bTlYTzQ?oc=5",
-      "source": "OpenAI",
       "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
       "query": "AI model update"
     },
@@ -185,11 +185,11 @@
       "query": "Google DeepMind"
     },
     {
-      "title": "Image Generators are Generalist Vision Learners - Google DeepMind",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvWFFJVUhfNW44NlhzRnE4cm96Q1FzSEQzbFJ0YnZqR3N0TFNCdVRlc3BHUUpHNVRmQndJOElGVzV6dVdfNWNheUR5WVpnbVlEZlQ3MV9EN3M2UDdpR3RXSnBhUQ?oc=5",
-      "source": "Google DeepMind",
+      "title": "Intel LLM-Scaler vllm-0.14.0-b8.2 Released With Official Arc Pro B70 Support - Phoronix",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KdXVuYjRDeEhJTklyWWF6TGw4dFNDQlJWT3dBMktfVkcxY2xPcXFwRW1oanhWZHVKUnZtZUh0SThpcm1zemdBU0p1eElUYlBTdFkxTHZLTWdKTWNmb2xzVFpzdFRIYm1VQm1Gd21R?oc=5",
+      "source": "Phoronix",
       "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
-      "query": "Google DeepMind"
+      "query": "LLM release"
     },
     {
       "title": "groundcover Expands AI Observability to Support Agentic Workflows in Google Cloud - Business Wire",
@@ -199,11 +199,11 @@
       "query": "LLM release"
     },
     {
-      "title": "Intel LLM-Scaler vllm-0.14.0-b8.2 Released With Official Arc Pro B70 Support - Phoronix",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KdXVuYjRDeEhJTklyWWF6TGw4dFNDQlJWT3dBMktfVkcxY2xPcXFwRW1oanhWZHVKUnZtZUh0SThpcm1zemdBU0p1eElUYlBTdFkxTHZLTWdKTWNmb2xzVFpzdFRIYm1VQm1Gd21R?oc=5",
-      "source": "Phoronix",
+      "title": "Google just launched its agentic enterprise play, and it runs from chip to inbox - The Next Web",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xU3BoLXpWUmNXeGFMeVROS2RqTXBQSXdSZVVYbVpMekdPakRpMnRGUGJ1TFQ2aXItQ3lPYUlRNEMxVFhUSEQ0LUx0VDctMEttQVZJZkc4VDBvUUpqOWt4MG80aHZhQWRvVkxUX1VBZ2FuVFN0Y3c?oc=5",
+      "source": "The Next Web",
       "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
-      "query": "LLM release"
+      "query": "AI agent platform"
     },
     {
       "title": "Anthropic releases new AI ‘constitution’ for Claude - SiliconANGLE",
@@ -234,6 +234,13 @@
       "query": "Midjourney"
     },
     {
+      "title": "The Best AI Video Generator Tools This Year - The AI Journal",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE42WkZ1NGVWRDJ0Z3Y1WFRLZjgwSW1udE1MOEZPM1pfMHlXNEV0LTVsQkJpOVlOUU1scnR0djZOTXNIeGgyQkhheXlxVzV2NEZ0TmNDclJNZWp5emNxdzFqZlJ6UEV0dU9LSWNXWV9ldU9zQQ?oc=5",
+      "source": "The AI Journal",
+      "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
+      "query": "AI video generation"
+    },
+    {
       "title": "Xpander Raises $7.5M to Accelerate Enterprise AI and AI Agents - The Fast Mode",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQTJPeU9MODRqbldKbTBud1RfaE1Kc0hnRVNwNTJQRXZUbnY0U19Vc2luR2FqbG5RQnNsVFQ4dGRYWkJYcFRpTzQzU2RtUFVKdGFpWnU1ZThLSmlhNjlNX1N2VGhiWFRpd1I2X2l4enBpYzZVOUpBRUl0SmtESlAzLWg5TFgtd2EtZm1STG0wSHlmZmpXZl9pbzkzMnN2ZDRkazNiSENUcHFYeG80T0k1dE9meDRfSTg?oc=5",
       "source": "The Fast Mode",
@@ -246,13 +253,6 @@
       "source": "techi.com",
       "pubDate": "Wed, 19 Aug 2026 23:24:43 GMT",
       "query": "Google DeepMind"
-    },
-    {
-      "title": "Shinhan Securities Builds AX Platform on Google Gemini Enterprise - thelec.net",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tU0VGdEV5UGI2UkdUQnBsT0N1bE9yUmRWNjlZX0VnZTlRSE9ta3oydlZyWFdSdldRNy1ZOWxuUUtra2JOanFvN0JYeVBBYTFtXzQycXZRaXJpdjFQanpfazFSVG5vdzQ?oc=5",
-      "source": "thelec.net",
-      "pubDate": "Wed, 19 Aug 2026 23:23:24 GMT",
-      "query": "AI agent platform"
     },
     {
       "title": "Protoface Launches Protoface Studio and API for AI Video Creation - The National Law Review",
@@ -326,7 +326,7 @@
     },
     {
       "title": "Google Pixel 11 Pro XL Review: Unmatched Gemini AI in a Refined Design - PCMag UK",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Ed0ZvVEVlXy1KUTdoWk1QeGk4REZlZERzZWF1Z29KbGc1Z29IeG1NXzJQMk1lbWg4ZkRaSXAzcFY5Ry0zR3VVNEJOaFdHY3A1a1BRR1h6UTlZaXI1LXhPOUNNeVBNeDYtZnI3WHlSV1cyUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRU5mOTVBcS1ZcGtPcmhoYnRMajBDc1ZzeVhxYjRvRlpyRmdPbDY3RG5uZmREaGUySG50aEIzLUxsNUV0S1NiTFVjbkdwdHNZYnA2dkYtMjdYb1JpaTBTNWg1S1huZE1ELU4xWTBqS2pjNEFBR0FRZ3BRd1dQRmtqTXkwaDM1N0ZQejcxNk9vQmFrZk96SE5EOFptbnFkTThZY09BdE1hcENSZEExZkF3aQ?oc=5",
       "source": "PCMag UK",
       "pubDate": "Wed, 19 Aug 2026 19:28:50 GMT",
       "query": "Gemini AI"

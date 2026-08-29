@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28 06:12",
+  "updated": "2026-08-29 04:16",
   "count": 50,
   "items": [
     {
@@ -45,20 +45,6 @@
       "query": "LLM release"
     },
     {
-      "title": "Kuaishou beats estimates as Kling AI video tool’s revenue jumps 300% - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcDFoaVhXT1EyYzlZMXNnaHpqOWc2WHo1WXBkaE5fOTJpTVFRaEN2RXZTbnkzWFczR3ZfZl9aZXhEbDFHUHY0Mk9iRzg4eFhwQmticW1PWGtHTlE0SFI5am5zVW83ZmtXcDZyT0hKQUZHbW9pcGNEbi0yOE03ZWtjSEpNZjdzekM4TnR2OThVZkRLMHdKaFlVQ2g0aG9peHdYX05HTGJ4NFRfdkV5alJR0gGvAUFVX3lxTE01RkRKLWNSY0RyTVAxX0pNZWk0d0J6T3ZaTUtuRXV5NVRFMUFXWEpNS1FhWlZhbXQ3b09HR1Jzd0tERnAzaDhaWFlWYmZhaXdhd3A4NEJ3YWxWMUtJbVhIZWhlRzFhNXh3aTdFQzZSUWlTRjJfX2VFNGVrX3NtVWM3b1RLWlRMTVdIYThfTVV2VHhBNXNoREk5ZGR6b1VSN2x1LXk1c25lSl9ZeVJnWHM?oc=5",
-      "source": "South China Morning Post",
-      "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
-      "query": "AI video generation"
-    },
-    {
-      "title": "OpenAI Is the Sole Investor in Its Latest Venture Fund - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWXNOQnRueFRNZWFzNnhTZVBUSWpuOUV5VVhyS2d2VV84bXM5TTBwcTRoVzY4TG5ER2RqWmlZc0Z2dlgxeXA1YmVudVFlU3Y0Tl9XTy05MmlqOTY4eW1OcDZjcGNQMld5UlBGcGhFcmtEazJoUlRJeEZVdXZDV1BSSzdvWUJHV2JfTXZlZndiWWFFZGZ3cjloaVZPWDFJdWVYSXRoaUl3?oc=5",
-      "source": "WSJ",
-      "pubDate": "Wed, 26 Aug 2026 23:57:50 GMT",
-      "query": "OpenAI"
-    },
-    {
       "title": "Google Shifts AI Safety Unit Out of DeepMind Lab to Global Affairs - PYMNTS.com",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcGd3Yld0Z1IzZUVZazNlZF93MWxzSTVTRkk0MGs0em9kQ3dmMHdieFg3NUQ3QnA2aU5FRnBBRHluYVNNcnNwb1dONUtEMWVZWnBRalBTSnA0UjJBTDRxZlczVzZadGtmODVNOWI0Qll3V25hRWtrVnNvNm05SWNDWTdvUkxzR3Zva0lodm80S1J2QkU1WExkcTZtS0xFaVRTc0ZMaQ?oc=5",
       "source": "PYMNTS.com",
@@ -80,11 +66,11 @@
       "query": "Anthropic Claude"
     },
     {
-      "title": "OpenAI reveals its AI agents cheated, hacked systems and tried to conceal their actions - SmartCompany",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT0kzLTJWaVZDdXFkbDVSenJQR2l0X2Z6ZURkanNkd1VQUFhZX3h2QUtwOGFmN0FGMDF0b3JCVkhSNHc4MlQtcmVkd0Z4LXpRYl9zdjAxVTZRamswQkVtMEJ4ek1tNUhvZlo2V0FhNHlFNmozQnJSblk5SGhHX3JES2NrYnBvOEJiY3BWYWNSTjhoSFhlak5ESVcxWlNsVzNBVzJwQnhIMkVxNjc0Ym92bnFwMlQ4TlVqNlF0dg?oc=5",
-      "source": "SmartCompany",
-      "pubDate": "Wed, 26 Aug 2026 23:19:36 GMT",
-      "query": "AI agent platform"
+      "title": "OpenAI Is the Sole Investor in Its Latest Venture Fund - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWXNOQnRueFRNZWFzNnhTZVBUSWpuOUV5VVhyS2d2VV84bXM5TTBwcTRoVzY4TG5ER2RqWmlZc0Z2dlgxeXA1YmVudVFlU3Y0Tl9XTy05MmlqOTY4eW1OcDZjcGNQMld5UlBGcGhFcmtEazJoUlRJeEZVdXZDV1BSSzdvWUJHV2JfTXZlZndiWWFFZGZ3cjloaVZPWDFJdWVYSXRoaUl3?oc=5",
+      "source": "WSJ",
+      "pubDate": "Wed, 26 Aug 2026 23:41:00 GMT",
+      "query": "OpenAI"
     },
     {
       "title": "Claude Desktop can now easily run Qwen, DeepSeek and Kimi models - after Ollama's first effort stalled - The New Stack",
@@ -92,13 +78,6 @@
       "source": "The New Stack",
       "pubDate": "Wed, 26 Aug 2026 22:40:46 GMT",
       "query": "DeepSeek"
-    },
-    {
-      "title": "Exclusive | Google Moves AI-Responsibility Team Out of DeepMind Lab in Latest Shake-Up - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVhUck1oeDZzYU9nRTZWZTBRSERrb2pNWVk3aTZOMVFuZG5ubjFGbld4QXRLdThLQ1JuS0h0S0Q2ZjdsX1Y0Qm0xQjA3T3hLV014MzVqWTRNWGtjVWlyQ2otd1pIUjBqUjZBM3k5TTVpcnIxSngyTkk1eVNZU2hxcnR0MHJad1J0ZmtSN3dpR2p2N3pSRmNORnNPQzV5VUgxNGM0dE5DaGF5Y0FqUkd3eg?oc=5",
-      "source": "WSJ",
-      "pubDate": "Wed, 26 Aug 2026 22:28:00 GMT",
-      "query": "Google DeepMind"
     },
     {
       "title": "Anthropic’s Claude now has a browser of its own - The New Stack",
@@ -115,20 +94,6 @@
       "query": "OpenAI"
     },
     {
-      "title": "CRM Stock Soars 13% After-Hours — Salesforce Crushes Earnings, Raises Guidance And Expands Partnership With Anthropic’s Claude - Stocktwits",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNV1lQbkM4UEI3aU9CZ3BoajNucXd3eU5hUElYaGYxMEFhcTBsT01lSGF4emdaSExvaVlRaHpKc0ZhZFdoc3IzbzhKLWcwNlFBVDl2ekMxc24wTzVFWU1ESjh3Tm5EaHVwRmJGbGhLQXZMMFFkb1JnS3hNV3BoeWNSOURqWkdCQXBTVENyUjdMYUVsR0NhWVBjYkRweDEwQl9sRXFFU3hGSnRtTWtLbGpSajZWQzBVZTNsN1Rzbm9VRlFNTmNmeE5XZ194VWlNaEJkR0J1d04wWTJtVFExRW0zY2d3dWtLMDJxdGF2RmpxZFlNR2xEUTBhZGcxQ3JvTWJyeHJNWGtvcXo1QlNQQ0tfNm5tYzY0RzNoMUdTaw?oc=5",
-      "source": "Stocktwits",
-      "pubDate": "Wed, 26 Aug 2026 22:03:00 GMT",
-      "query": "Anthropic Claude"
-    },
-    {
-      "title": "Perplexity and Nvidia launch \"Portable Computer,\" a local AI agent for Nvidia GPUs - TechSpot",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2xvWjNlemQ2bU9WcVU0MHByX2JVUjhscmIzNmRvbXc3SXpXNVA2OTlkeW44R1h6VWc2UG9iRU9yN2ZUcEZLdFN1MGdwbWI0Nk45TFd6NGgwZFlHa2l4NnUybWZaS1dKNWhrektWbnMtTndhaC1Vd0tHTG1IRUFLVk1EOFBjQ19uQkVoS2s4ZDhzTFk5MnFCSUpzclZMWGM?oc=5",
-      "source": "TechSpot",
-      "pubDate": "Wed, 26 Aug 2026 21:55:21 GMT",
-      "query": "AI agent platform"
-    },
-    {
       "title": "Salesforce Profit, Revenue Rise, Expands Partnership with Anthropic’s Claude - WSJ",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSFpqV2tQWnJEcXhJRUJhZVFIblRMOWV2NDBCenVXcFh0M3N6YWpCcXZ2MGZueXowZWlaQy1uUXdEY3JVUzBHcVk4dHZKWHNkSHh4d0NEZ0RIVUQwZXZhdjZYLVdWNy1lZjNSRXR4akhmRTZSaEo1dTVIQlAyeVByMV9UX0V2aE9LNzRCUDBqaGNzLWY3Z2xibWFHbTF1amM4akhRZGlpWUFKQWtkWmZuWXhKU3QzTExPaWFQRQ?oc=5",
       "source": "WSJ",
@@ -143,6 +108,13 @@
       "query": "DeepSeek"
     },
     {
+      "title": "On-Device AI Smartphones: Google Pixel 11 Runs Gemini AI Faster with Tensor G6 - Trend Hunter",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Uc1hvU1NCUzAxekVMTnY1dXZscmJMV0pmRkNsNWJvVTAwZE52UUN3d05SRnpTT2pld3FOT1BuQlRwa1VyWnV4MDhsRjFLbHVkTGk0RTNreHI4VFBYaERpQTJocm1XMnhyQUtB?oc=5",
+      "source": "Trend Hunter",
+      "pubDate": "Wed, 26 Aug 2026 20:38:44 GMT",
+      "query": "Gemini AI"
+    },
+    {
       "title": "7 ways to kick-start back to school using Gemini in Workspace - blog.google",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZDdWaGhha3MtV1Q3MlhwcFAwRUowR2xMdFZfdDNRSWZiQUdpS3ExeTE2ZjlrbzB0dHJjX2FzNkt5VDlncldPYllSZ0RvVnVFZmJnRGNETkNIMGJvU3JhYXoySkJORjRCWEx4NkptYVdlbFlBZ0VQTFh6UGFXLWR3b0JDLUlHS0JyTU1oUXFJbXV6dE1GUGlvbGJYdkM0TDlwVnU4?oc=5",
       "source": "blog.google",
@@ -155,13 +127,6 @@
       "source": "Pulse 2.0",
       "pubDate": "Wed, 26 Aug 2026 20:31:30 GMT",
       "query": "AI agent platform"
-    },
-    {
-      "title": "OpenAI’s Astra can do a researcher’s week of work. That’s the problem. - The New Stack",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53cWMxMExPcDUzNGdGMmR4NllkSm9hZ1drRUlrcmd6d1JRQXhvcDFSZjRfM0tvdk5OcEszT1VZdXBIVjZUMndENmp5Skw2dDE3WGZFTGgxZENwWWRzZV9MZXNwSGc?oc=5",
-      "source": "The New Stack",
-      "pubDate": "Wed, 26 Aug 2026 20:29:19 GMT",
-      "query": "OpenAI"
     },
     {
       "title": "Salesforce, Anthropic partner to deliver Claudeforce - cio.com",
@@ -189,13 +154,6 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcklqU2RlQWZLY3c5dG9uaF83Z0xHSHNuQzNHSGZOTWw3c2wzSmtGTE45VzlWaF80R2tON1JfcFhFVC1walRFUmRyVDA1UkdoQ3pydUdKc1hPTm9SQTV0akl4aWV6NlVqR3ZtSEhCYjJlRTJTOTJYWHU2aDJIWjl0c21ReTJDRVlKb0pwRVE3MTJLdUdVeE9tSGJuQ2hoN3RBbFMtTGJrdw?oc=5",
       "source": "Salesforce",
       "pubDate": "Wed, 26 Aug 2026 20:13:05 GMT",
-      "query": "Anthropic Claude"
-    },
-    {
-      "title": "Anthropic’s Claude Study Reveals Surprising Shift in How Humans Work With AI - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNFQ4SFBSOS00MXFpMUJIMUpPN01WY3A1emV5V0ZrTzZkbDM5UXdIRVdQamxhZ0NyWDMwWWJud1NaVzE2NU1LclpEbFNvSHZiMGpJSjVpVTBHLUtLM0pxMTFzYjRLVlM4em0zMl9QR0d4Qk5tVVBzVWdMajB2WkhOWnYydVNyRkY3d3gzSThrdFQxZUt1TWJjS2UtQVZPdnNfSXlnU0oxWXJORHFQRl8tQVVUem5KaHBkQU5zTWt2dmUtclVDdmJacVBEY0FscGZlRVRyd2t3?oc=5",
-      "source": "Benzinga",
-      "pubDate": "Wed, 26 Aug 2026 20:10:04 GMT",
       "query": "Anthropic Claude"
     },
     {
@@ -227,18 +185,18 @@
       "query": "Anthropic Claude"
     },
     {
-      "title": "OpenAI had warnings before its agents broke out - Axios",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeHhOcFhHZEZ1NXpmMnhPWmFpa1ZJZkZLdXRYMWdEcW92ZGs0QXpHX1REdlFkUUhNZXhfMHBURDluR1M5TS1LOVppa2Y2ZWNKTGJRRGN0a1RBdkpwOXVqVzBuemJ6aTNWZHVsZEN6X2d0b2dqcEdhTGl2WUFxMFZvVWtkTQ?oc=5",
-      "source": "Axios",
-      "pubDate": "Wed, 26 Aug 2026 19:40:56 GMT",
-      "query": "OpenAI"
-    },
-    {
       "title": "Google’s Gemini has a branding problem, and so does the rest of AI - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN3VsNlpTbmJSN1YyV3NHYVZJTWpoaUhlc1RrQUExckxscVo4TElBMzY5d0VpMm01a3NVdnNaOFIxWGhmUUp0dHUxVkZtVWN3TWpYTXZkc1hkZDJwNVlBM0RIMWY5NnlicENFV0xTWTcxdW9HZHFSRjg5a1FyVS1tb1YwMVhHU1l5cnVoS1dzVjVuN01LZzIxa3M2ekRzbW1h?oc=5",
       "source": "TechCrunch",
       "pubDate": "Wed, 26 Aug 2026 19:37:34 GMT",
       "query": "Gemini AI"
+    },
+    {
+      "title": "Exclusive | Google Moves AI-Responsibility Team Out of DeepMind Lab in Latest Shake-Up - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVhUck1oeDZzYU9nRTZWZTBRSERrb2pNWVk3aTZOMVFuZG5ubjFGbld4QXRLdThLQ1JuS0h0S0Q2ZjdsX1Y0Qm0xQjA3T3hLV014MzVqWTRNWGtjVWlyQ2otd1pIUjBqUjZBM3k5TTVpcnIxSngyTkk1eVNZU2hxcnR0MHJad1J0ZmtSN3dpR2p2N3pSRmNORnNPQzV5VUgxNGM0dE5DaGF5Y0FqUkd3eg?oc=5",
+      "source": "WSJ",
+      "pubDate": "Wed, 26 Aug 2026 19:37:27 GMT",
+      "query": "Google DeepMind"
     },
     {
       "title": "How do we explain OpenAI’s executive exodus? - TechCrunch",
@@ -248,11 +206,25 @@
       "query": "OpenAI"
     },
     {
+      "title": "Google unveils flexible billing for Gemini Enterprise AI agents - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWUdfaWNZd25sMFZmclM4SWF3OUF0aU5KUk9ZUzRMSi1GTEt0WnZFYml2a2t1THd3ZlRlT21WNTFxcm1jODFJV2NrQ3RsaXJISjVRQnJhQk5QQ2pNQWs5M2hNNjd2M3JwQ0lSYjUwVzhoSjl2S0dNQXRvRmJkbndleFFfSkRBM3gtV3NIcVQ2eUdKeWc4dWlGSFJaOXFrcjRMMXdXRV9VZGVRQk9TdXZPUWxweHFydU9Pa1p6aFE0LU9kN2c?oc=5",
+      "source": "Investing.com",
+      "pubDate": "Wed, 26 Aug 2026 19:27:00 GMT",
+      "query": "Gemini AI"
+    },
+    {
       "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text - Ars Technica",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSGx5ZU85MkhfYTUweHk3X2NteExrRTRxRUlGOTZ5QVVIalBjcDlVSGhKRkJzV1BuMG5RSm9ZXzhqYlNBMU1HYW9TS0JpZ1F6dGV2a3EyRC1qTk50Z0dxWDJ0MzBZQ1g4OXEzbThidVcxUFRHeWhvLXBUcC1yUUx6ZG9GOFZpVGdxN2h5YmtBTDVFd1ZyY1NSdUV2TDc5cmpZdnctREN1Yw?oc=5",
       "source": "Ars Technica",
       "pubDate": "Wed, 26 Aug 2026 19:19:22 GMT",
       "query": "Gemini AI"
+    },
+    {
+      "title": "What We Still Don’t Know About OpenAI’s Hugging Face Hack - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRktLai11VkEzY0RtS0NlRUlLZWZnNE5KcWx4amhHZzh5ekU3QXFqcFFhdFVlejByTU1LU3hVV3dDczNBMU5nNDcwYlI1MUN4YjBuUTRud0JvcndMQndPNG9XbnE3bS13ZEpzQmJKeGVoNXhoSWRWMWlCQmI5RW5LcFZhMmZBUmhHM0FaWTM2REVvVVI5MUQydEE4LS15S2ZFOFE?oc=5",
+      "source": "WIRED",
+      "pubDate": "Wed, 26 Aug 2026 19:16:00 GMT",
+      "query": "OpenAI"
     },
     {
       "title": "Google unveils agentic AI platform for lawyers - ABA Journal",
@@ -286,13 +258,6 @@
       "title": "The inside story on why OpenAI agents hacked Hugging Face - MIT Technology Review",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUlpFV0p4Rk82akJhZFhRaFJib2RWRUFKdVJZajJmdG5yUWxkU3hTZE9tcm4xSFhjTVVzYnVQYlZROTREOE5RdDgwaXJNLWhpS1R2TU9DZ2RrZHFxSWJMTkg4a3YxOVJsRHBKVTRhR2FzZjdxbW5EQVl4MEZpR29nWTJVbElDWHVXemt3QkUzcTY4UGx1VG8zazVuVG9EeDhKMk95WUJ0T08xaEVSemZn0gG0AUFVX3lxTE9sUGNMb3RGQ3RxTmtmaGlBYUU3S01EcTM0dTNQZGhGWkpMY3FpZXAzTDFkTnZwNldDWm9FdjZDYl9RZkE0RTRWMVJmdUduV0VDN1p5bklLbFdDVjZURE1rLUhDZkdnTm95d3FmZGl2c1Zzd21GbEMzVlRQNC03bGRUUWl1OGpfTE92RkV5ZC0waGlKVl9URnIxN1FHX0tBOE1JSGwtQTNCOUNnd3RaZXBHYkRISw?oc=5",
       "source": "MIT Technology Review",
-      "pubDate": "Wed, 26 Aug 2026 19:00:00 GMT",
-      "query": "OpenAI"
-    },
-    {
-      "title": "OpenAI staff observed warning signs before AI agent hacking crusade caused global alarm - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeDNua1VDVWkwRFBlcWpMa2dfSXZDemVBZHJjTHh6cW9IUng0RUJoNjI0YU1lSThrMUVObVF2aC05WjdMZURuUHJPdDBvZnJqUFc4U2luQ1hhNzllWjY2RVBSRG9HU2FiOEg5bmpGMkNyWFVJaGlWaFlOWUZEWmduNWRIOG1WV1BfSl9DOWZNMGpRN05kdC1kdW1qVVNNdlh2bldjbjV5VXZ5UlJJTENjemlNZ1FwVEU1UUR3YlVsbHh2VFZveEtrQ3B0eWUybG40Rk9GVg?oc=5",
-      "source": "The Guardian",
       "pubDate": "Wed, 26 Aug 2026 19:00:00 GMT",
       "query": "OpenAI"
     },
@@ -332,6 +297,13 @@
       "query": "Gemini AI"
     },
     {
+      "title": "Gemini Live Gains Agentic Spark Tasks, Daily Brief and Voice Inbox Control - Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdUw4ejk5V1U3bExNMW82aFVZZ2pVSzNnaF9oSW5WVGNaTFc2SlJDM1JoVHNrYXF5cG5wLVRZNFZiZ3l5cnM5WURZUVo2eV9OcGxmcVJabF9Eem9qTTF1aW1XenU5b1h0S0F0VmM0TVFpajY4OHUtZ3V0clZXSnctMEY3QmcySW1ZVkI3cEQ2WUY3cEN5T1pjUVU1dw?oc=5",
+      "source": "Unite.AI",
+      "pubDate": "Wed, 26 Aug 2026 17:35:02 GMT",
+      "query": "Gemini AI"
+    },
+    {
       "title": "Alibaba Stock Rises After New Qwen AI Model Takes Aim at Costs - TradingView",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVDhUcFZwb01JQy1MYUhZZ3VVYmliMTVBVUJCZ3ZvdkNHNTI0WEljSFZlazZLdXdienlhYTR0T2IxWjZBNzQyUHJMT0lnNl80VUI2LVlVN1BCQXlQS1k3UmNjbVdwYm8tMkVDclpQRGc5VDdpd3pNdkFlVEpWUzNjMnBVX2ozTDZWSFpwaVJ1RjFfVThJdG1jcHZUR1lpckN5ZHlFLXNMWHBPZ2ZrYzAzMlBLc0g1Z3dXLWEwbnFDOA?oc=5",
       "source": "TradingView",
@@ -351,6 +323,34 @@
       "source": "findarticles.com",
       "pubDate": "Wed, 26 Aug 2026 17:09:54 GMT",
       "query": "AI video generation"
+    },
+    {
+      "title": "Enabling independent research on how people use Claude - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CRjkzdEN0ME9DVFA2cHQzWkE1X1FfREdHaDF0UlhvY2xkbHBib3BIUlFyYzFtaE9hSVJ1MXNFMnR0UVJjSEprTEtCQUtmTVpMTng1eDNFY1lObDMwMl9KVVhCM3YyenVKdlNHTVlhLVZadw?oc=5",
+      "source": "Anthropic",
+      "pubDate": "Wed, 26 Aug 2026 17:07:12 GMT",
+      "query": "Anthropic Claude"
+    },
+    {
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMTJMdTYyV1ZHdllkS0pjRjB3UG91b3ZZZ05EdnpHbGNEZGU4RXJxb19GSnByVmZCdmVEdGNiNUVNbzVvYV9HQk5fd0k2cTZFVWwyMERnQWlsMWo5dVZBTmdVV3NtTlVNSEFpSVZrOEQxbTVwX1BRNHhOZTVwMWVVT1BUSl9tU1dLUks4?oc=5",
+      "source": "OpenAI",
+      "pubDate": "Wed, 26 Aug 2026 17:05:26 GMT",
+      "query": "OpenAI"
+    },
+    {
+      "title": "Learning never stops: How AI makes learning continuous - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LLU5lQTlLWkdOZGJTQnNkWHVUWWdYZXpjYUJmT0N2VXlEM04wdUhnbEw2cFZaaFYxdmtUQnlaT0xWRVhjRXplNk9acFF5Ql9WZXZGNGxyM2xmZw?oc=5",
+      "source": "OpenAI",
+      "pubDate": "Wed, 26 Aug 2026 17:05:26 GMT",
+      "query": "OpenAI"
+    },
+    {
+      "title": "Intelligent transcription with Gemini 3.5 Transcribe - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYVdaMzFHdEV4UEVtOUFac1BLQnUwVlg3NTZFa1BXM2xheWt5bkVtSWhNZkdONEJNN1ZtYzgtSnNaNGZRZG05eTEtX3RNaUd1NEZuU2piMHdQZnEyUzNDSWc4OTdQNW1qTkhvNGhNSlFSeGZaQ0Z3eHZzM3BIUEZwQjM5N1hUR3plTVN6c0t2VUl5Ykx0Q0RLcFhB?oc=5",
+      "source": "blog.google",
+      "pubDate": "Wed, 26 Aug 2026 17:05:01 GMT",
+      "query": "Gemini AI"
     }
   ]
 }

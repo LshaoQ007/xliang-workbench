@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29 04:16",
+  "updated": "2026-08-30 01:30",
   "count": 50,
   "items": [
     {
@@ -8,6 +8,13 @@
       "source": "understandingai.org",
       "pubDate": "Wed, 31 Dec 2025 08:00:00 GMT",
       "query": "LLM release"
+    },
+    {
+      "title": "MUSC Health expands use of SoundHound’s AI agent platform to retail and specialty pharmacies, surpasses 2.2 million patient calls - markets.businessinsider.com",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNMmN4aGZCZWxNUTNmV2hYLU9zSlo2STB5REhUb3h0N2FLQTg5VXZ2dm1ZcER0LUd5Z1BxR1c2N3I4ZEtHY29vMExZRzhCa1R1TW9Wc2hRbVdHRGw4R3lZOXB1Q3JzMVVSY3RnQXhTQnQwR2ZhLVRQTGQwWHRIeG5FSTA4bVh4LU1CSmRpZmV2YXdmUUVUNUlyaUwzRnZhSEhubGkzb3VRVEl1TlM2a0V4OW9fZlVtbzBWc2huU3lJLU9nbmpUUmhmZDFGa3ZveWIwVWcwN2JYc3lJSVlnd1Z2RFBIRGVTNjJ6WFhaM21EblJhS3JnTmVLWTBMbS1vQ21UejJmYmtYN2Rpamp4U2NheU1XQXc5dw?oc=5",
+      "source": "markets.businessinsider.com",
+      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
+      "query": "AI agent platform"
     },
     {
       "title": "FDA Real-Time Clinical Trials: Why AI Systems That Update Themselves Are Breaking Clinical Trial Design - The Clinical Trial Vanguard",
@@ -52,20 +59,6 @@
       "query": "Google DeepMind"
     },
     {
-      "title": "Salesforce raises annual forecasts, expands AI partnership with Anthropic - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeDN3Q0RQRENZTDF5TE95YURuRTZiczNvdTJ3ZzBRQjBGNkxRUnBlSWpSd2p3MUpJQzJoamNOR084RzU2dXRFM3ZEUXVBYWRLaVc5UXFza0VRcWNvS3ZvZGowVWdkbG9ROGVIVUt6bE9nN05VRk8zVng2b3JHT0Vub000Y2lDMzBMaWdBd1RmYVlJdw?oc=5",
-      "source": "Reuters",
-      "pubDate": "Wed, 26 Aug 2026 23:50:26 GMT",
-      "query": "Anthropic Claude"
-    },
-    {
-      "title": "CNBC Exclusive: Transcript: Salesforce Chair & CEO Marc Benioff and Anthropic Co-Founder & CEO Dario Amodei Speak with CNBC’s Jim Cramer on “Closing Bell: Overtime” Today - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxObW1iOEpzT2dpUUlYU2RHaGpLWjdmd1g5cnFvbWZQVldOTVNqT1F5Skk1alFibjJKT2Jkam4xdm54VEVHRVM2UEJEekZnQ3cwLU9lNHNHa0pWVG4yRkFkZ2FqNlUtVFVYSk1hYXVXcTFVNVRmOU9jRFZNcEdVZzR5eDdHRzl4NENjb2hpS014eWxyUXhEbTFDZHFBY1hGNnZ2bi1rVG5uTU9FQ1JrckNON05FRkxtZFNzYUtsUFdZWF9ZODZPR2lBYmVhSW9jSG9xM2wtdDE0ci0wOU5LZVJmaWRPM3pUOWkzZUw5ZERERTlVSHZqVk9BdUdUY2dZYnlzQXlmaUxJZmNCd2ZSTjhtdHZvMXg0ZEo4WG00R0ZxQktDdG_SAagCQVVfeXFMTzRCVTAyVV9wN0tuWnpkbHd6TWVUREM2c3V4UWc4OTU0LTA2dG5wVmppeEx6WHRCSkoyS2xiV2kyVkEwdkQzUVZqT0JKVFkzaWhMUl9WbTVaaDRaUl8xS2hxS0RXQmFTVDhkdlQzZ3VzWHRLV1JzTzFnOGw4TGJybks5SVRMU0FzWTNoRVV5SVJwOFptWXpDY0tCV3gyX1FMNExzS1dqOEJNWEthS0Y0TFRNN3lBcFZGeTBxN3hDQVhpT0sycTA1MkZuN0lvZFMyVkJiVTU5RE0wNVg4TExHSk9UVWs0MHVBOHBKX2p6SEQ1YnYzZ2ZuX3Q0RElESmJTZC1ZeGtNMXRiMDhEVnI0d1ZRdW5wX3Z6RzJTT3VQcWRXOGU1QU44WHc?oc=5",
-      "source": "CNBC",
-      "pubDate": "Wed, 26 Aug 2026 23:43:20 GMT",
-      "query": "Anthropic Claude"
-    },
-    {
       "title": "OpenAI Is the Sole Investor in Its Latest Venture Fund - WSJ",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWXNOQnRueFRNZWFzNnhTZVBUSWpuOUV5VVhyS2d2VV84bXM5TTBwcTRoVzY4TG5ER2RqWmlZc0Z2dlgxeXA1YmVudVFlU3Y0Tl9XTy05MmlqOTY4eW1OcDZjcGNQMld5UlBGcGhFcmtEazJoUlRJeEZVdXZDV1BSSzdvWUJHV2JfTXZlZndiWWFFZGZ3cjloaVZPWDFJdWVYSXRoaUl3?oc=5",
       "source": "WSJ",
@@ -80,6 +73,13 @@
       "query": "DeepSeek"
     },
     {
+      "title": "Exclusive | Google Moves AI-Responsibility Team Out of DeepMind Lab in Latest Shake-Up - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVhUck1oeDZzYU9nRTZWZTBRSERrb2pNWVk3aTZOMVFuZG5ubjFGbld4QXRLdThLQ1JuS0h0S0Q2ZjdsX1Y0Qm0xQjA3T3hLV014MzVqWTRNWGtjVWlyQ2otd1pIUjBqUjZBM3k5TTVpcnIxSngyTkk1eVNZU2hxcnR0MHJad1J0ZmtSN3dpR2p2N3pSRmNORnNPQzV5VUgxNGM0dE5DaGF5Y0FqUkd3eg?oc=5",
+      "source": "WSJ",
+      "pubDate": "Wed, 26 Aug 2026 22:28:00 GMT",
+      "query": "Google DeepMind"
+    },
+    {
       "title": "Anthropic’s Claude now has a browser of its own - The New Stack",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjX0FJTVBVb1hqLXh1NTdpVmttQ0FSb2NCX2UwWXBkUGlmckFqclVzcWZPMlBVblpJMmtrRi1LZVV3MVBOU18xUHY2R21BSTlEd3ZuMXRNZkpmeVF2TXlubVB1bXI?oc=5",
       "source": "The New Stack",
@@ -91,6 +91,13 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQTc3SXJuMW9sUUxKakNwamQ3c1l1RWFRM3I1WjhJWk5HdGxrSGl4NVdQVGs2RHRQUDFsSzVCRkEzLXVTTGRKaUVHMUFURDVHd2ZzQUNrNW9MbGh2eDFZbDVqeVdPNW91MTVHUjVmMmJsdW5yeVk4dG5NWGp4MmJYN3YyYXIxd0RveW5tNklVTXVrVy1fbHZqNGU4bmM4MmZ2a0lUVGpLNC1VUWJLLXVrM243UQ?oc=5",
       "source": "Reuters",
       "pubDate": "Wed, 26 Aug 2026 22:07:43 GMT",
+      "query": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s rogue AI model incident was worse than we thought - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb1plTFExM3lLRkRCZ3ZLb0FobHM5R1ZyTVREaWxOWnJfcG5ZRlE4NHpXNjBQRTl3ZTVKQkVfWUY0YjhsMnIyUnRTZlBZNm0yTVQ4Z1dhZkU3TVc2eWFuNnF4N1hZSHhwTGNFaFh6M0c3em9qWnpxd1NJS3J0TWh2U0wtcHRGNmlFV3MyTU1iYTJuLXlETUl6Mi04VVZvZS03TXRud1NsUk1GZk9QNm9YMGxxQ1ladHpUbnlrVFlQcVBFY3BRamNRakVn?oc=5",
+      "source": "The Verge",
+      "pubDate": "Wed, 26 Aug 2026 21:36:06 GMT",
       "query": "OpenAI"
     },
     {
@@ -129,25 +136,11 @@
       "query": "AI agent platform"
     },
     {
-      "title": "Salesforce, Anthropic partner to deliver Claudeforce - cio.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbldIcUlSZW5scy1Cc0NCVU9sUGhyQm9qRUN0Y080X0M1U0JTbGN2b2EtQUpsY1RnMUlGNFp6NXJ0UlFtYXRsbGMyemJBalctLVZlWUpoQ0drY2p4M3BQY0lBY1pmdEsyYkw1VDZZUml2aWFOeTFiYUxfNTZYZDJOTXFWR19wRUphLTNpRG5jU25NN0J3LVY0?oc=5",
-      "source": "cio.com",
-      "pubDate": "Wed, 26 Aug 2026 20:28:41 GMT",
-      "query": "Anthropic Claude"
-    },
-    {
       "title": "Qwen 3.8 Flash-Next is Cheap, But There Are Complicating Factors - AI Business",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3Fzel8wMmpCU2t1dzdxVmZxcnVTVFkxWTRxSUNHOGZxU05ZN2JVRXdjR3R5eThDd0ZGSFVFZ0hjUXUtM09WNkJfMDJqQ0ZrcndIZGhEemtueHowYWhXbWF4RkNMbEJKd1k4ckxVNTh3SWhnZEJaS05meVRwZnpCZFJGTDhhcS11aF9VVlRERFZ6OVM5Q2lCcw?oc=5",
       "source": "AI Business",
       "pubDate": "Wed, 26 Aug 2026 20:27:12 GMT",
       "query": "Qwen Alibaba"
-    },
-    {
-      "title": "Liner Raises $36.1 Million Series C As AI Platform Reaches 14 Million Users And 500 Million-Record Database - Pulse 2.0",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQUNxUWhEV3paeGJQVUhrZktLcjUzMHNCYlRDNVNQSVJ2dDV6dWxiYzQyQWJyM21OeG16TG5kazVpLTJGTmk0aTV0QzR1YVB6QzJ0SVg2OEtPUS1wTnBneEJBQ0FwMG9ORXRQRXlZQTRTQ2p1NWY4TVZpcWxIQnlNbkEzMTE0VEdEbDRVMXlvYXNYd3pWYUxnY0ZYQXpQQmFKdXBncF9yRmUzQmRYRnhFT0p4RkhlSWJmMEZzMDMzaHNTWHNx0gHKAUFVX3lxTFBfdEY4UUNDNmVDUE5VdXp5VVdBWjJwR1RPSzV6U0FqTXViZG5Jc1JDVWU4X0JSNTlqY19hRllGRjhBYjZ0eTFNMVBZOE5TQmZ5OE8yUmhZRWVsQ3JFUW45ZmZVYVBVZF9TV01mRmh4cFVVX1FxOWF4d3N0TllqazdzTHFkSnZNOEJESlNZMnhoeXBjUHVJSkJlbXgwMWpWSVZXcGtpZGFZZWdVNXpWWGRGZENJUldfMWplUDBPakFVd0I4TEo1NmlWUUE?oc=5",
-      "source": "Pulse 2.0",
-      "pubDate": "Wed, 26 Aug 2026 20:13:16 GMT",
-      "query": "AI agent platform"
     },
     {
       "title": "Salesforce and Anthropic Announce Claudeforce: The #1 AI Meets the #1 AI CRM - Salesforce",
@@ -165,17 +158,10 @@
     },
     {
       "title": "I Spent Hours Testing NSFW AI Video Generators. These 5 Are the Best - PCMag Australia",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE96VEllemFFN3M4VEoyMS0yVWhqX1ZPNjE0dUw2QmVzUnZOMjdiWlpkRS1GWWFRVHkyUGphWEhJOVdkM3YwUVJhMzIwUnp3eklWRmxkVkpVd0M3RXZpNVNhQVkxSWpKTkNNV2tEVElJckl0UQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xb19EbmRFMmE0Rlhyajh1RV9YTTZaQ254aXcxMDZ4TGxrTGNBcjVIRjVnd2IzZVNJbHVUY0FIbGlJU3haZWg5b3dYUEV5bDFsVUtxWmo4ODc5WDFJQlMyeFEzb29fTXlFcXRoSUxUWVZSOEJMSW1Z?oc=5",
       "source": "PCMag Australia",
       "pubDate": "Wed, 26 Aug 2026 20:04:55 GMT",
       "query": "AI video generation"
-    },
-    {
-      "title": "How to Play Meta Platforms Stock Before It Launches a Consumer AI Agent - Barchart.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR2VMelNmZUhzcVVtNVI3SXdLd0dxeUQ4TlZtLVJ6Um9tdXU1ZWFZdUtLUWhIeDViR0Z5V2JIeWhnYTRRNEp4TGRQU05MX3RyTnlNeWpkNXpQdU9FM3BxWnY4SUg4WWc3U3o4QkFWbnE1VkZtYzhmVThrcnBhWFl4TVUtT04zZjRoZGh6bEpTSjNUOWgwZlNjZ3lDcFhfOGRPS0tiUU45MTZqZmJWeTgyaEx6X255QQ?oc=5",
-      "source": "Barchart.com",
-      "pubDate": "Wed, 26 Aug 2026 20:01:04 GMT",
-      "query": "AI agent platform"
     },
     {
       "title": "Salesforce just put its entire CRM inside Claude — and says you’ll never need its app again - VentureBeat",
@@ -192,25 +178,11 @@
       "query": "Gemini AI"
     },
     {
-      "title": "Exclusive | Google Moves AI-Responsibility Team Out of DeepMind Lab in Latest Shake-Up - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVhUck1oeDZzYU9nRTZWZTBRSERrb2pNWVk3aTZOMVFuZG5ubjFGbld4QXRLdThLQ1JuS0h0S0Q2ZjdsX1Y0Qm0xQjA3T3hLV014MzVqWTRNWGtjVWlyQ2otd1pIUjBqUjZBM3k5TTVpcnIxSngyTkk1eVNZU2hxcnR0MHJad1J0ZmtSN3dpR2p2N3pSRmNORnNPQzV5VUgxNGM0dE5DaGF5Y0FqUkd3eg?oc=5",
-      "source": "WSJ",
-      "pubDate": "Wed, 26 Aug 2026 19:37:27 GMT",
-      "query": "Google DeepMind"
-    },
-    {
       "title": "How do we explain OpenAI’s executive exodus? - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSnVHRnFsUmo5Tk0tOHJVQnFNaWpqOFFvNTNGMkpjVWVSTURwd092RzMxcXBLNlVPcUh5LUhRT0lTRktQMVRteGcweXBrai16a3U2WDN6VE1KdXozay1LeEFvaU5HWFRNaElzOUZfb21zZE9NSjJjSDFUSTdjei1xZUhTbw?oc=5",
       "source": "TechCrunch",
       "pubDate": "Wed, 26 Aug 2026 19:34:04 GMT",
       "query": "OpenAI"
-    },
-    {
-      "title": "Google unveils flexible billing for Gemini Enterprise AI agents - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWUdfaWNZd25sMFZmclM4SWF3OUF0aU5KUk9ZUzRMSi1GTEt0WnZFYml2a2t1THd3ZlRlT21WNTFxcm1jODFJV2NrQ3RsaXJISjVRQnJhQk5QQ2pNQWs5M2hNNjd2M3JwQ0lSYjUwVzhoSjl2S0dNQXRvRmJkbndleFFfSkRBM3gtV3NIcVQ2eUdKeWc4dWlGSFJaOXFrcjRMMXdXRV9VZGVRQk9TdXZPUWxweHFydU9Pa1p6aFE0LU9kN2c?oc=5",
-      "source": "Investing.com",
-      "pubDate": "Wed, 26 Aug 2026 19:27:00 GMT",
-      "query": "Gemini AI"
     },
     {
       "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text - Ars Technica",
@@ -248,6 +220,13 @@
       "query": "OpenAI"
     },
     {
+      "title": "OpenAI had warnings before its agents broke out - Axios",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeHhOcFhHZEZ1NXpmMnhPWmFpa1ZJZkZLdXRYMWdEcW92ZGs0QXpHX1REdlFkUUhNZXhfMHBURDluR1M5TS1LOVppa2Y2ZWNKTGJRRGN0a1RBdkpwOXVqVzBuemJ6aTNWZHVsZEN6X2d0b2dqcEdhTGl2WUFxMFZvVWtkTQ?oc=5",
+      "source": "Axios",
+      "pubDate": "Wed, 26 Aug 2026 19:03:14 GMT",
+      "query": "OpenAI"
+    },
+    {
       "title": "OpenAI releases sweeping report on Hugging Face AI agent hack - CNBC",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YOTJIY1dTeGxzcnlfOTNaY1ZZNW5IR19EcDRvWm04V1VVelZmeU9YalBHU3lLV1JKUXR2Q05JT041YlAyX09OeTd1T05PZFg4Y2NFNHBwbnE0VzVGMU5KUTBHbHgyMktRTzV6RFN5QdIBdEFVX3lxTE80azdfcnVsNFhGSXFQTC0yWGdkckFkTlpDVi1EQlRoSDRneG94YjVVWXhzMTM1aHdPckJ6VDF6SXpUTC11YURWa0JMYWhsWEp1U1JuX0JQWDhFa0liTzNWS3ZmRkwxREJTV3hfQ2lRYmRDOW4y?oc=5",
       "source": "CNBC",
@@ -265,6 +244,13 @@
       "title": "OpenAI, independent firms publish reports on rogue AI agent attack on Hugging Face - Fortune",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQd3l3NkZUZmhPT1FGRzZ4YTc2dzN1bU5icXVFWkJQYVZiNFBnd1JuQnF2T0FRZWdnNzAwdS1Ya29LRUVNZnpkeHRpOW9fVE9UczVINURINzU3X0NrMjBDWTB1VVJmT0l4ZFZpVXlmWS12TW1rT3dXaDVjZi1na1ljTWZDVURUaUVFSWw2cXNKeFRVLWpzWndvd2tIcXhJT2NDYTNjNkJkUks2T0tVVFlwazFYSHNDT3NSNC1Rd0RuNnN2VnRRMkRXSWY2Z0VqSnloVGhVdHBvblNwVHV4MnFRZDcyN0l0UWYyNHQ0Rw?oc=5",
       "source": "Fortune",
+      "pubDate": "Wed, 26 Aug 2026 19:00:00 GMT",
+      "query": "OpenAI"
+    },
+    {
+      "title": "OpenAI staff observed warning signs before AI agent hacking crusade caused global alarm - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeDNua1VDVWkwRFBlcWpMa2dfSXZDemVBZHJjTHh6cW9IUng0RUJoNjI0YU1lSThrMUVObVF2aC05WjdMZURuUHJPdDBvZnJqUFc4U2luQ1hhNzllWjY2RVBSRG9HU2FiOEg5bmpGMkNyWFVJaGlWaFlOWUZEWmduNWRIOG1WV1BfSl9DOWZNMGpRN05kdC1kdW1qVVNNdlh2bldjbjV5VXZ5UlJJTENjemlNZ1FwVEU1UUR3YlVsbHh2VFZveEtrQ3B0eWUybG40Rk9GVg?oc=5",
+      "source": "The Guardian",
       "pubDate": "Wed, 26 Aug 2026 19:00:00 GMT",
       "query": "OpenAI"
     },
@@ -297,13 +283,6 @@
       "query": "Gemini AI"
     },
     {
-      "title": "Gemini Live Gains Agentic Spark Tasks, Daily Brief and Voice Inbox Control - Unite.AI",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdUw4ejk5V1U3bExNMW82aFVZZ2pVSzNnaF9oSW5WVGNaTFc2SlJDM1JoVHNrYXF5cG5wLVRZNFZiZ3l5cnM5WURZUVo2eV9OcGxmcVJabF9Eem9qTTF1aW1XenU5b1h0S0F0VmM0TVFpajY4OHUtZ3V0clZXSnctMEY3QmcySW1ZVkI3cEQ2WUY3cEN5T1pjUVU1dw?oc=5",
-      "source": "Unite.AI",
-      "pubDate": "Wed, 26 Aug 2026 17:35:02 GMT",
-      "query": "Gemini AI"
-    },
-    {
       "title": "Alibaba Stock Rises After New Qwen AI Model Takes Aim at Costs - TradingView",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVDhUcFZwb01JQy1MYUhZZ3VVYmliMTVBVUJCZ3ZvdkNHNTI0WEljSFZlazZLdXdienlhYTR0T2IxWjZBNzQyUHJMT0lnNl80VUI2LVlVN1BCQXlQS1k3UmNjbVdwYm8tMkVDclpQRGc5VDdpd3pNdkFlVEpWUzNjMnBVX2ozTDZWSFpwaVJ1RjFfVThJdG1jcHZUR1lpckN5ZHlFLXNMWHBPZ2ZrYzAzMlBLc0g1Z3dXLWEwbnFDOA?oc=5",
       "source": "TradingView",
@@ -332,13 +311,6 @@
       "query": "Anthropic Claude"
     },
     {
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMTJMdTYyV1ZHdllkS0pjRjB3UG91b3ZZZ05EdnpHbGNEZGU4RXJxb19GSnByVmZCdmVEdGNiNUVNbzVvYV9HQk5fd0k2cTZFVWwyMERnQWlsMWo5dVZBTmdVV3NtTlVNSEFpSVZrOEQxbTVwX1BRNHhOZTVwMWVVT1BUSl9tU1dLUks4?oc=5",
-      "source": "OpenAI",
-      "pubDate": "Wed, 26 Aug 2026 17:05:26 GMT",
-      "query": "OpenAI"
-    },
-    {
       "title": "Learning never stops: How AI makes learning continuous - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LLU5lQTlLWkdOZGJTQnNkWHVUWWdYZXpjYUJmT0N2VXlEM04wdUhnbEw2cFZaaFYxdmtUQnlaT0xWRVhjRXplNk9acFF5Ql9WZXZGNGxyM2xmZw?oc=5",
       "source": "OpenAI",
@@ -350,6 +322,34 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYVdaMzFHdEV4UEVtOUFac1BLQnUwVlg3NTZFa1BXM2xheWt5bkVtSWhNZkdONEJNN1ZtYzgtSnNaNGZRZG05eTEtX3RNaUd1NEZuU2piMHdQZnEyUzNDSWc4OTdQNW1qTkhvNGhNSlFSeGZaQ0Z3eHZzM3BIUEZwQjM5N1hUR3plTVN6c0t2VUl5Ykx0Q0RLcFhB?oc=5",
       "source": "blog.google",
       "pubDate": "Wed, 26 Aug 2026 17:05:01 GMT",
+      "query": "Gemini AI"
+    },
+    {
+      "title": "Google’s new AI transcription edits out your ‘ums’ and ‘ahs’ - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vLXhKVjRXQnEtLXZyWGZGbkU1OEF3RU55dUJlYjVGbVZMQkJJblVrX2hINVNudjhXNHQ4dzNNS1o2T0d3S2xGMmFKMDJpejhmQ3ZubldHSXBPTUNQYkRtUEJLeVpYTkNzcmRrTS0zV2d3eVowNG8zTVNjb0hxMFE?oc=5",
+      "source": "The Verge",
+      "pubDate": "Wed, 26 Aug 2026 17:00:00 GMT",
+      "query": "Gemini AI"
+    },
+    {
+      "title": "Morningstar’s Pitchbook Teams with Gemini Enterprise AI for Investment Intelligence - 401k Specialist",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb1NOSHlQY3pmdHdxeDFXWHF1LXMzbDIwRG5LZDlfeDdjMTQ1UHoyTDM3azNUTWJ4QVlmVjZaLUJ6bXJPUXNLUDA1ZFhtQTJQaGZqUEtIbDI4SjdzdVU5OExXYXJrZE5sSS04Rkx5VkdKbDhzRzJxX0g4NjF5UW82YmR5Q0RlNGJpMVVJa1JYV0ZSeFJBeTlodTNSeEhGdWNNTkpmNFFWX3dMUlNBWkZ2NUJlUQ?oc=5",
+      "source": "401k Specialist",
+      "pubDate": "Wed, 26 Aug 2026 16:42:23 GMT",
+      "query": "Gemini AI"
+    },
+    {
+      "title": "Nooks Acquires FullyRamped; Founder Aaron Marks Joins Nooks to Advance Revenue Agent Platform - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcW9zSmU1RHpLN2hsRkxSLXBXbVN2M2RtQkRwaS1XaTF3TTFhUXNFMzloZVV3LW5TMEZZdGw3VExNWEFDWko2UVg4ODV4M1VBQXdiaWs4OHpZUExURmhwamNWZFRYQlhQSzlpa19QbHJyNkZzck1TLVEyal9rWDhPUEg3NEN2aVlaV2Q3QUdXb0NzN3kxUUtxZnQzdmVnbmFvQlp2MV8yVFV0TEZXeHlhd1NPY0o1ajRjazh4S1JTZnI0MFh5eS1aMkhJdzZqemZOaTlubDF4YXA2Q0k0bTZrSlFB?oc=5",
+      "source": "PR Newswire",
+      "pubDate": "Wed, 26 Aug 2026 16:35:00 GMT",
+      "query": "AI agent platform"
+    },
+    {
+      "title": "What Alphabet (GOOGL)'s Gemini Enterprise Push Into Regulated Industries Means For Shareholders - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWk9NRmVTN1FOMVcwOHpHMjlZdTNyMVZ4UFNZYzRmbGtITWc2WUYwVjVSZXRqbXhlSUdSalBUVkkzZjR1M1lJdGJHUWZlRzdNZVoyVURINGZtNUl4YnVpNVJlWndWRW1fT05pREJHSXptTS1abU4zazhIeGFMTFFFX29UWk9mbWZiNFJjcFJzLVFna3JkUlB2RDdmcnRQOVFRSXFj?oc=5",
+      "source": "Yahoo Finance",
+      "pubDate": "Wed, 26 Aug 2026 16:18:47 GMT",
       "query": "Gemini AI"
     }
   ]

@@ -1,35 +1,35 @@
 {
-  "date": "2026-08-29",
+  "date": "2026-08-31",
   "items": [
     {
       "tag": "专八词汇",
-      "title": "procrastination",
-      "body": "专八高频名词，动词形式为 procrastinate，真题常考搭配 procrastination on/over sth。实用语境：写论文、备考时可用 “I’m struggling with procrastination.” 破解方法：用“两分钟法则”（2-minute rule）降低行动阻力，将“我要背单词”改为“我只需打开App”。同义替换：dawdling、temporization。"
+      "title": "equivocate",
+      "body": "v. 含糊其辞，说模棱两可的话，推诿。常指故意使用模糊语言逃避明确表态。例句：When asked about his involvement, he equivocated for weeks before finally confessing. 记忆点：equi(相等)+voc(声音)→两边声音一样→模棱两可。专八阅读中常见于政治、法律文本，注意与 prevaricate(支吾) 区分。"
     },
     {
       "tag": "专八词汇",
-      "title": "ephemeral",
-      "body": "专八核心形容词，意为“短暂的、朝生暮死的”。词源来自希腊语 ephēmeros（只持续一天）。文学与评论写作高频词：ephemeral pleasure（短暂的快乐）、ephemeral trend（昙花一现的潮流）。在描述社交媒体热点更迭时尤为精准，可替换常用词 short-lived。记忆锚点：epi-（在...之上）+ hemera（天），字面即“只活一天”。"
+      "title": "perspicacious",
+      "body": "adj. 敏锐的，有洞察力的，颖悟的。尤指在理解人或局势方面极具洞察力。例句：Her perspicacious analysis of the market trend saved the company from bankruptcy. 搭配：perspicacious remark/observation。近义词：astute, shrewd, discerning。专八写作中可替换 clever/bright，提升学术性。"
     },
     {
       "tag": "口语跟读",
-      "title": "I’m running a little behind.",
-      "body": "地道迟到表达，比直接说 “I’m late” 更委婉礼貌。连读技巧：running a 读作 /ˈrʌnɪŋə/，little 的 /t/ 可发闪音 /ɾ/。场景延展：会议、约会、聚餐迟到时均可使用。跟读步骤：1. 盲听原声3遍；2. 模仿语调（前半句降调、behind 微扬表歉意）；3. 用手机录音比对原声差异，修正口型与气息。"
+      "title": "委婉拒绝邀请",
+      "body": "跟读句：「I'd love to, but I'm already tied up that evening. How about we do it another time?」技巧解析：1) \"I'd love to\" 先肯定对方好意， soften the blow；2) \"tied up\" 比 busy 更地道；3) 结尾用反问给出替代方案，避免生硬拒绝。跟读时注意 \"love to\" 连读成 /lʌv tə/，\"tied up\" 重读。适用场景：同事约饭、朋友聚会等不便直接拒绝的场合。"
     },
     {
       "tag": "口语跟读",
-      "title": "Could you run that by me again?",
-      "body": "请求对方重复或解释的礼貌句式，比 “Pardon?” 更自然、更职场化。语音重点：run that by 连读为 /rʌn ðæt baɪ/，again 重读。场景覆盖：课堂没听懂、会议遗漏信息、电话信号不佳。训练法：观看 TED 演讲时，每遇生僻观点即暂停，用此句型自问自答，同时训练信息抓取与复述能力。"
+      "title": "不确定时的积极回应",
+      "body": "跟读句：「I'm not entirely sure how this will pan out, but I'm willing to give it a shot.」技巧解析：1) \"pan out\" 意为\"成功、产生结果\"，源自淘金时代，非常地道；2) \"give it a shot\" 比 try it 更口语化、更随意；3) 语调在 \"willing\" 处上扬表积极。适合工作场景中接受新任务、尝试新方案时使用，展现开放心态。"
     },
     {
       "tag": "影视句段",
-      "title": "I guess it comes down to a simple choice, really. Get busy living or get busy dying.",
-      "body": "出处：《肖申克的救赎》。语言点：come down to 归结为；get busy doing 忙着做某事。语音技巧：guess 的 /s/ 轻读，choice 重读，living 与 dying 形成对比重音。背诵价值：口语考试或写作中讨论人生选择时可作升华引用。建议跟读原声10遍，重点模仿 Andy 平静克制下的坚定语气，注意句间停顿节奏。"
+      "title": "\"You've got this.\" (from Modern Family)",
+      "body": "原句语境：Phil 在女儿 Haley 面试前紧张时说的鼓励。解析：1) \"You've got this\" 是美式口语中最有力的鼓励语之一，比 \"You can do it\" 更自然；2) 可变形：\"He's got this\" / \"We've got this\"；3) 语调重点在 \"got\"，短促有力。延伸：对方焦虑时也可以说 \"Take a breath. You've got this.\" 适合日常鼓励朋友、家人或自我打气。"
     },
     {
       "tag": "影视句段",
-      "title": "Smart is the new sexy.",
-      "body": "出处：《生活大爆炸》第二季。语言点：“X is the new Y” 为英语万能句式，表示“X 已成为新的潮流标准”。语音技巧：Smart 尾音 /t/ 与 is 连读，sexy 重读且尾音上扬。学习延展：掌握该句式后可自由替换，如 “Pink is the new black.” “40 is the new 30.” 适合作为社交媒体英文文案，也可用于口语描述时代观念变迁。"
+      "title": "\"It's an entire world of just 64 squares.\" (from The Queen's Gambit)",
+      "body": "原句语境：Beth 描述国际象棋对她的意义。解析：1) 句式 \"an entire world of just...\" 可用于描述任何让你沉浸其中的小天地；2) \"squares\" 此处指棋盘格，但日常可替换；3) 发音注意 \"entire\" 的 /ɪnˈtaɪər/ 要饱满。仿写示例：It's an entire world of just 26 letters.（形容英语学习）适合表达专注与热爱，用于口语话题：hobby / passion。"
     }
   ]
 }

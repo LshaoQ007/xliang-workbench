@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30 01:30",
+  "updated": "2026-08-31 01:30",
   "count": 50,
   "items": [
     {
@@ -24,6 +24,13 @@
       "query": "AI model update"
     },
     {
+      "title": "Ramp Launches Fleet of AI Agents Across Its Procurement Platform - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUXZLcy0xa2hRRHgzOUlmaFVPUi1FLUNPX1hic3JLellvaWoxSWFncDFibV83eGZycnZXdG1hbU9zRU1aZzRTb1NEYWdHNEtmVFgyY3RmelRDWm54OXY4WnFOX2dsZi1GRC1mMmR5ZWRoTE9ISG4zRmE0RlJHY29HT3VtYTBjMnp2SHVQd1RpOFpOMWRZWWx6Uy1CYkEyeW5uMWFVSGxDTU8ycGYxZzNQYW5jQmZNVlA0a1RjbA?oc=5",
+      "source": "PR Newswire",
+      "pubDate": "Wed, 29 Apr 2026 07:00:00 GMT",
+      "query": "AI agent platform"
+    },
+    {
       "title": "Tiny startup Arcee AI built a 400B-parameter open source LLM from scratch to best Meta's Llama - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLVFYNGZyckh2M29xNjctTlhkeGgyVmFEQjREc1UtTjdwTEtqWVpZdnhKdXlUVXFaQ2RHQkdvajJuRGtkRkhHVDVnUU5GTlNMMmVqY2YyQ2hCZ2J2ZlcwN25IZEc2Rmh4a3IxbFFLUjN3a3hVTUFKcE5fc1h4T210X3VLMU5oTUt2VGFFbmZGTWwxVXowMGxHUjkwNkxrUnY4czB5VjNFWDJoUjRURjlaOUMyWHUxRWtJb3c?oc=5",
       "source": "TechCrunch",
@@ -34,13 +41,6 @@
       "title": "NVIDIA Blackwell Sets STAC-AI Record for LLM Inference in Finance | NVIDIA Technical Blog - NVIDIA Developer",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbUVpUWZtZEhQUFdtQm5kUVlTWk5PbVM2aTUwaVJrTFpycUZkUHA4YUhrbTJRb1FyQjgxV3lmNzRMVjQ0dWNCU1RndUJZb0RiQV9ObEx4M1ZTVXV0dzMxZnJFZEg4WWlCZGpFR1JWd0ZUWk5UVmNreTZrYVp6VV9IZ3piS2JXcEhpbnVMbUNnMU9XeXhrY1lHRnlCak5JNlRYOEE?oc=5",
       "source": "NVIDIA Developer",
-      "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
-      "query": "LLM release"
-    },
-    {
-      "title": "Finnish Newsroom’s AI tool Wrongly Suggests Russian Drones Entered Airspace - Generative AI in the Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR1V3TFVfRkRXWGg3MGVULW1xWEJQYUpjUnBTVjhTVkFxeVlVWnVwdUhlbjFoUWJfSzgwTmpqZ0R5YkhLczJnTWVVZFNZU2JGcG0wVzd2OERsWXFMdVZWSy1aMFZNSUcxTDg4UkVFeHJHUXBKN2l4cTNlYk9FNkt5RkZvNFdhYUlBNzg3aTE4dnUyb3dWRUlYOVBtc1FhMDh2aWxOU0Jvdk5WWGFRVHZhMUM4dlBPT00xVlZqRWdkOA?oc=5",
-      "source": "Generative AI in the Newsroom",
       "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
       "query": "LLM release"
     },
@@ -57,13 +57,6 @@
       "source": "PYMNTS.com",
       "pubDate": "Wed, 26 Aug 2026 23:51:53 GMT",
       "query": "Google DeepMind"
-    },
-    {
-      "title": "OpenAI Is the Sole Investor in Its Latest Venture Fund - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWXNOQnRueFRNZWFzNnhTZVBUSWpuOUV5VVhyS2d2VV84bXM5TTBwcTRoVzY4TG5ER2RqWmlZc0Z2dlgxeXA1YmVudVFlU3Y0Tl9XTy05MmlqOTY4eW1OcDZjcGNQMld5UlBGcGhFcmtEazJoUlRJeEZVdXZDV1BSSzdvWUJHV2JfTXZlZndiWWFFZGZ3cjloaVZPWDFJdWVYSXRoaUl3?oc=5",
-      "source": "WSJ",
-      "pubDate": "Wed, 26 Aug 2026 23:41:00 GMT",
-      "query": "OpenAI"
     },
     {
       "title": "Claude Desktop can now easily run Qwen, DeepSeek and Kimi models - after Ollama's first effort stalled - The New Stack",
@@ -129,13 +122,6 @@
       "query": "Gemini AI"
     },
     {
-      "title": "Runable Raises $21 Million Series A As AI Agent Hits $2 Million ARR In 3 Weeks And 1.5 Million Users - Pulse 2.0",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUVI2b2xlSG5lMFlfZzVBbjhDaV9MbWxmaTd3T0JGT0o3U1duTHlQYXdOM2JrLURzM21pRF92SVhZdllGdmxHRTc5ZmxHTDFob2pvb2d0WjhMZk1yZzZMU25xSW85V2xXRHc1QzlLUzVIUkpsN3NZaTFJWk5MelV2NWZteUFZWlBOY1dxMkhFVVR5MUVFdUdWSGJvQUp2eHllMEtwOGJGRWlGdXVkM2d6bTk2VnI4YTIwOGfSAb8BQVVfeXFMT3hzQUlKaTBycFlGTHRWZ3JSS1pZR3EyQWs1Q3RRczVZQ2JtUER0dkdOZkU0REVnaHA2ajJKblJEOEREeHZIVkdqeWllZkE3SFBrRlMxZnhLdDI5QVI1Vmx3VHBoaGZIOUNhZnJNZXlHT2VlWjV0YXNLZXlFSDVxNkd3Z1FPeVFsZWpIWHlJZ29PNk1sVDg0dmU4MWVrc0xBc2w2V0d6NmNObzVXUlpCLXg3R1ZybFI4MC1QTmhvMWs?oc=5",
-      "source": "Pulse 2.0",
-      "pubDate": "Wed, 26 Aug 2026 20:31:30 GMT",
-      "query": "AI agent platform"
-    },
-    {
       "title": "Qwen 3.8 Flash-Next is Cheap, But There Are Complicating Factors - AI Business",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3Fzel8wMmpCU2t1dzdxVmZxcnVTVFkxWTRxSUNHOGZxU05ZN2JVRXdjR3R5eThDd0ZGSFVFZ0hjUXUtM09WNkJfMDJqQ0ZrcndIZGhEemtueHowYWhXbWF4RkNMbEJKd1k4ckxVNTh3SWhnZEJaS05meVRwZnpCZFJGTDhhcS11aF9VVlRERFZ6OVM5Q2lCcw?oc=5",
       "source": "AI Business",
@@ -164,9 +150,9 @@
       "query": "AI video generation"
     },
     {
-      "title": "Salesforce just put its entire CRM inside Claude — and says you’ll never need its app again - VentureBeat",
+      "title": "Salesforce just put its entire CRM inside Claude — and says you’ll never need its app again - Venturebeat",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeHNVM0h3ZEh3dWZScXFOc1BnSURpY1UtdlEzdG5CTTAzQ2phejc5TGZXS3NydFNmTDIyRTZiaEtwWGpLOG1yaGdleUNXY0loQXRyOHZVM2tLWGtoM1ZHVDFITHdTcFBoYVNLa29FTFJrbXF2M3hadDZJYzFWWUE0ZUFzQkNuNUVzczNpYkJsd25uUXh5NlM3a21nRFdpSDhzYVF0by1jdDlUQlhzcmhfbktDTkd3bjBNdFN4WFNLUXo3Rmdo?oc=5",
-      "source": "VentureBeat",
+      "source": "Venturebeat",
       "pubDate": "Wed, 26 Aug 2026 20:00:00 GMT",
       "query": "Anthropic Claude"
     },
@@ -189,20 +175,6 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSGx5ZU85MkhfYTUweHk3X2NteExrRTRxRUlGOTZ5QVVIalBjcDlVSGhKRkJzV1BuMG5RSm9ZXzhqYlNBMU1HYW9TS0JpZ1F6dGV2a3EyRC1qTk50Z0dxWDJ0MzBZQ1g4OXEzbThidVcxUFRHeWhvLXBUcC1yUUx6ZG9GOFZpVGdxN2h5YmtBTDVFd1ZyY1NSdUV2TDc5cmpZdnctREN1Yw?oc=5",
       "source": "Ars Technica",
       "pubDate": "Wed, 26 Aug 2026 19:19:22 GMT",
-      "query": "Gemini AI"
-    },
-    {
-      "title": "What We Still Don’t Know About OpenAI’s Hugging Face Hack - WIRED",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRktLai11VkEzY0RtS0NlRUlLZWZnNE5KcWx4amhHZzh5ekU3QXFqcFFhdFVlejByTU1LU3hVV3dDczNBMU5nNDcwYlI1MUN4YjBuUTRud0JvcndMQndPNG9XbnE3bS13ZEpzQmJKeGVoNXhoSWRWMWlCQmI5RW5LcFZhMmZBUmhHM0FaWTM2REVvVVI5MUQydEE4LS15S2ZFOFE?oc=5",
-      "source": "WIRED",
-      "pubDate": "Wed, 26 Aug 2026 19:16:00 GMT",
-      "query": "OpenAI"
-    },
-    {
-      "title": "Google unveils agentic AI platform for lawyers - ABA Journal",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSUZaaFh6b0drV2JuR0ZjcVpCY182WnUtRDJXRG5sOEczWXZLUGlLZVRTdC1zdTYyd0lOYTBMRkFpMWdyX2UwM09OVEJYSHBEWmJucG9tNnRWZDFzZF9Uc1JPMGk1WWNCZjVkMGJheDRVNXFNNS1fbjQxX1hpdGNpa0U1QWdsU0MyaUpsRzd4Vkd6d1hqRThPZE8zdXhaS01Da1I4Y3Fab1JLUQ?oc=5",
-      "source": "ABA Journal",
-      "pubDate": "Wed, 26 Aug 2026 19:07:00 GMT",
       "query": "Gemini AI"
     },
     {
@@ -241,13 +213,6 @@
       "query": "OpenAI"
     },
     {
-      "title": "OpenAI, independent firms publish reports on rogue AI agent attack on Hugging Face - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQd3l3NkZUZmhPT1FGRzZ4YTc2dzN1bU5icXVFWkJQYVZiNFBnd1JuQnF2T0FRZWdnNzAwdS1Ya29LRUVNZnpkeHRpOW9fVE9UczVINURINzU3X0NrMjBDWTB1VVJmT0l4ZFZpVXlmWS12TW1rT3dXaDVjZi1na1ljTWZDVURUaUVFSWw2cXNKeFRVLWpzWndvd2tIcXhJT2NDYTNjNkJkUks2T0tVVFlwazFYSHNDT3NSNC1Rd0RuNnN2VnRRMkRXSWY2Z0VqSnloVGhVdHBvblNwVHV4MnFRZDcyN0l0UWYyNHQ0Rw?oc=5",
-      "source": "Fortune",
-      "pubDate": "Wed, 26 Aug 2026 19:00:00 GMT",
-      "query": "OpenAI"
-    },
-    {
       "title": "OpenAI staff observed warning signs before AI agent hacking crusade caused global alarm - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeDNua1VDVWkwRFBlcWpMa2dfSXZDemVBZHJjTHh6cW9IUng0RUJoNjI0YU1lSThrMUVObVF2aC05WjdMZURuUHJPdDBvZnJqUFc4U2luQ1hhNzllWjY2RVBSRG9HU2FiOEg5bmpGMkNyWFVJaGlWaFlOWUZEWmduNWRIOG1WV1BfSl9DOWZNMGpRN05kdC1kdW1qVVNNdlh2bldjbjV5VXZ5UlJJTENjemlNZ1FwVEU1UUR3YlVsbHh2VFZveEtrQ3B0eWUybG40Rk9GVg?oc=5",
       "source": "The Guardian",
@@ -269,9 +234,9 @@
       "query": "Qwen Alibaba"
     },
     {
-      "title": "I Tested the Top NSFW AI Image Generators. These Are the 7 Best - PCMag UK",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OYlNNdnpMSW4xZ3NCajFyRGV6Wi1jcVQ4V2FRMXVSRHBzNFlPVHhHVlh0aFpvTmhjdEFNQWp1d1phbGx4cGFyb3NZaVNwVDdtLXpMV2dXZjJ6ckkzQThpZDRBd0c4OHQxTU4yTmY1TVdmdm4tcVUw?oc=5",
-      "source": "PCMag UK",
+      "title": "I Tested the Top NSFW AI Image Generators. These Are the 7 Best - PCMag Australia",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IWVZqSndvd2M0UWdEYTFfNjVUWUppM1QyczBOMHhWOGdFeTV4WUNfaUE2OXlTZUZYY2h5dnVvYV91czNPejhrRVFWMWdJbDQwQlVpNWtpakpWNEs5bFZ1MV9hY01JSk9DcDliYVRHSl8xd2E5bm00?oc=5",
+      "source": "PCMag Australia",
       "pubDate": "Wed, 26 Aug 2026 18:41:55 GMT",
       "query": "AI video generation"
     },
@@ -311,24 +276,10 @@
       "query": "Anthropic Claude"
     },
     {
-      "title": "Learning never stops: How AI makes learning continuous - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LLU5lQTlLWkdOZGJTQnNkWHVUWWdYZXpjYUJmT0N2VXlEM04wdUhnbEw2cFZaaFYxdmtUQnlaT0xWRVhjRXplNk9acFF5Ql9WZXZGNGxyM2xmZw?oc=5",
-      "source": "OpenAI",
-      "pubDate": "Wed, 26 Aug 2026 17:05:26 GMT",
-      "query": "OpenAI"
-    },
-    {
       "title": "Intelligent transcription with Gemini 3.5 Transcribe - blog.google",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYVdaMzFHdEV4UEVtOUFac1BLQnUwVlg3NTZFa1BXM2xheWt5bkVtSWhNZkdONEJNN1ZtYzgtSnNaNGZRZG05eTEtX3RNaUd1NEZuU2piMHdQZnEyUzNDSWc4OTdQNW1qTkhvNGhNSlFSeGZaQ0Z3eHZzM3BIUEZwQjM5N1hUR3plTVN6c0t2VUl5Ykx0Q0RLcFhB?oc=5",
       "source": "blog.google",
       "pubDate": "Wed, 26 Aug 2026 17:05:01 GMT",
-      "query": "Gemini AI"
-    },
-    {
-      "title": "Google’s new AI transcription edits out your ‘ums’ and ‘ahs’ - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vLXhKVjRXQnEtLXZyWGZGbkU1OEF3RU55dUJlYjVGbVZMQkJJblVrX2hINVNudjhXNHQ4dzNNS1o2T0d3S2xGMmFKMDJpejhmQ3ZubldHSXBPTUNQYkRtUEJLeVpYTkNzcmRrTS0zV2d3eVowNG8zTVNjb0hxMFE?oc=5",
-      "source": "The Verge",
-      "pubDate": "Wed, 26 Aug 2026 17:00:00 GMT",
       "query": "Gemini AI"
     },
     {
@@ -346,11 +297,60 @@
       "query": "AI agent platform"
     },
     {
-      "title": "What Alphabet (GOOGL)'s Gemini Enterprise Push Into Regulated Industries Means For Shareholders - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWk9NRmVTN1FOMVcwOHpHMjlZdTNyMVZ4UFNZYzRmbGtITWc2WUYwVjVSZXRqbXhlSUdSalBUVkkzZjR1M1lJdGJHUWZlRzdNZVoyVURINGZtNUl4YnVpNVJlWndWRW1fT05pREJHSXptTS1abU4zazhIeGFMTFFFX29UWk9mbWZiNFJjcFJzLVFna3JkUlB2RDdmcnRQOVFRSXFj?oc=5",
-      "source": "Yahoo Finance",
-      "pubDate": "Wed, 26 Aug 2026 16:18:47 GMT",
-      "query": "Gemini AI"
+      "title": "DeepSeek Looks to Raise $7 Billion as Revenues Jump Tenfold - PYMNTS.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaEZpbmRuZTk0XzlYRzFpWVdhdTdNSmU4SjBfNXhBQndjeTVlQkk4MTlESUVEeDNxVFRtVjZ4RWlhcVkyVkhHLW92TTBsRUROdW1IVV85WXRRSklUdWdlNjF4ODhLYVVDcTEwQ1Rpc1UwbkJfS1d2cUxxVVh5eC1MQ0Vac1M1bzU1MzZpOHpkRTk0VTJuNHo5bzM1RFpCdjcwZ2h4RDNCcF9zQU9PazlVYmpjU0x4eHl3ck1uUg?oc=5",
+      "source": "PYMNTS.com",
+      "pubDate": "Wed, 26 Aug 2026 15:55:01 GMT",
+      "query": "DeepSeek"
+    },
+    {
+      "title": "Entagl Launches Mirror, Expanding Its AI Agent Platform to Seven Products - EIN News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZi13QzhXd0tobnFOTWFLQXVTMzZYRnRQTzNQZzlMVTg2Skg3dndfNXRVTk9TcE5QRUxvdlZaVWx6cXgyUGhZelpjTDVZd0FTaHM3ZkxQUW5iRHBHWFVtRlBpZlFtRHEzcWdQcXZaX2JXV0hQMi1oZ3BpRlhlSVVuM0VMRmNNWGpIdWxTTDFJSS1zRm9tNFJCTWluQUg1YUR2SXNwbTNhZU9fTnliODNLV1BuTnU?oc=5",
+      "source": "EIN News",
+      "pubDate": "Wed, 26 Aug 2026 15:41:00 GMT",
+      "query": "AI agent platform"
+    },
+    {
+      "title": "Z.AI Reveals It Secretly Built Ox Alpha, the Model That Beat DeepSeek - Startup Fortune",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSGoxOVVuODZPZURKUmtOS004OTRxME1TZ3lQN2s5aU9PSDlVeXFvVS1PcWd1clF5TC02eUZDWGM2MmVjbUY0d2t4ZEgzTDF6MG5vV05hbzFrZWFOeXk3cXJLeE9RbTZtSG5RallEWTZRMXllX1B6TzM0VF9RNlRGb1luNWNBcGV4dl9rTlU3YW1JcW96S05uR3lNTQ?oc=5",
+      "source": "Startup Fortune",
+      "pubDate": "Wed, 26 Aug 2026 15:35:52 GMT",
+      "query": "DeepSeek"
+    },
+    {
+      "title": "Alibaba’s Qwen Team Releases Qwen3.8-Flash-Next: A 125B Multimodal MoE With 6B Active Parameters Previewing the Qwen4 Architecture - MarkTechPost",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPakVUSFIxS2RRQWRUVWdUelZaLS15VmdBbUhXRDdXMHRnWEdTbDdhSXNlQUtqMk1RRkhmVlNMV3duaGJPRTdfQTZyYlB4OVhjaklUanVRSjhBOWJ0OWpJNUZ5MGRtVTJDUEVBdldmVVVzeDg3bGFiR1dabFJfdWZHa1pTTXJ6NEpxS05WRlJ1S0RzSzFfOVM1RXA3U2xTWm1CMVRucV9Xel9nSXBHQ3QwUmU3RmJzLXZoaDRGVERZMGpHbDdCSUxibHFxalBHX20yZzlsODNMYmozalZGSUVwVG8wWFR1bzJDTU8teldBcEtSNEplTlFrRGw4ZE84d9IBgwJBVV95cUxNZkhrWEYzbU5yMmZadkNGRUZ6ekFBSkVtU2xKV0NGSGdkR2NZNWtjZERNUHdLMzNPZVdPZjY1dl9lMTI5aV9YZC1fQUJpYllwTV9pdmNIRnAyUHRrTGkxbEUzX1VWdkJ3b0Qwc21UNXh6Zi1ZektUS0U1ZXVtSG1tLUlaTTdwWlZBQ0w3dW41b2N3V3piU3lBeHdlSlJMc01lMGhiM1JTQ1ZGUzNXSDdyejVQTTFFNFRBNTMzeXV6QUx5NmljSEM5VGpvN1o4em5JcmZPSU9WZldvNF9SMzA2c0NJUmtHRW96ek9wNjlMNlVPVVd3cXdUMlFycVpBSTJMdUYw?oc=5",
+      "source": "MarkTechPost",
+      "pubDate": "Wed, 26 Aug 2026 15:20:00 GMT",
+      "query": "Qwen Alibaba"
+    },
+    {
+      "title": "Runable Raises $21 Million To Expand AI Agent Platform Capabilities - Rediff",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZUtPMUR3c3MwdXA1NTBYV1h4VmR1T194T20xNk1tcHVINlJsZGtQWlNHTC13cnF2OHVGdHc1NFBVRlB0djFZMERMeDNEa2ppNlhLdnpsVC1pRVhFbzR6NjlCcjVWck15YzdoVHUya2FpQWM3NzJYcmYtQmxfVUtzNFphMFFncEhZNFYxSjQxU2JJZ3NqU0dkemhxZkZWX3FPYWp3eHppVnI1UTTSAa4BQVVfeXFMTmYteFU3eDc1SEJmbzl2djNKVWZGWlgtb0RqUWtJTTdRb0xzU3pXdlFKbkFRVmVKZEFhMGFPU0Q1Rk55MHNwTmMtWlRIM2x1aGxvWUw5b2dwbXAyeTlNVW5kOUdKMElEU2t1NTB3LVhxTC1sNWE0QkEwLTR3SGpmUkEyRFE5V2FVeVNjdU41ZTh6Yk1uZ1V3bm9PYjBqZWJQekFTYURaaTRxN2xsSEhB?oc=5",
+      "source": "Rediff",
+      "pubDate": "Wed, 26 Aug 2026 15:15:36 GMT",
+      "query": "AI agent platform"
+    },
+    {
+      "title": "Alibaba’s Qwen Unveils A Cheaper, Longer-Context AI Model - Finimize",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT2tOOHR3ZEZDb0xYeG1sM1N3a0picURlMWdpODNaOEk0VjkyVUVtN1JrWk52OElSdkM5ZWFjVTRfdWpncUdDY0kyYnZUMXV6MDNLcVAwaTFNR0RpVG1vREFVUm5uOVdnSHVURjZaNTN5WkdpNTBGUGJQSHlMWDg1ajJSNzc2UnQwUHZJdg?oc=5",
+      "source": "Finimize",
+      "pubDate": "Wed, 26 Aug 2026 15:12:50 GMT",
+      "query": "Qwen Alibaba"
+    },
+    {
+      "title": "Alibaba's Qwen launches Qwen3.8-Flash AI model with lower training costs - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNFBiN0MydXZkUlB3UHdHb0xzNGNqVVhKdzZVMkQwalM4WWozbUxWSkZuRTljSXdfdjdOUjZkMWN2SEVRSnBXTEJwSlJfdkNqNzJreVp5MDNULVdDZ1ozSzE1YXp6dWR6MzZsOFBlRllhdlZEQmVBa1Eyb1hpQWlMWmdUaGlzeFpUZFlDZUszLU5KRG9SblF0VTNFT092TllTQnVqVlZHY2J3Uk1WblBfOUJGRmFob041dzEwRV9WaU5TWjlxbkswcTVJRQ?oc=5",
+      "source": "Reuters",
+      "pubDate": "Wed, 26 Aug 2026 15:03:43 GMT",
+      "query": "Qwen Alibaba"
+    },
+    {
+      "title": "Alibaba's Qwen launches Qwen3.8-Flash AI model with lower training costs - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaEtBRWphTnBZd2k3dWlNelhZcWRiVWl5SnFrdUVVbGl1YmJNbjhWdGstVXU1WDdhd3JsSWtWOTF1TkNvUGdJbXRSbWF0eGcyNWQ4TEl5WkFUQ0xCMDBrX3FNTlgxOFhfeWk4em9fYjBsMmV5RFB1M1o0RzlhbF82WThrcXNGSFlTdjhGVjBNcy1raGVpYVJ1blp2MF9RU2VLbk83RHp3bUNPelp4X0NtbW00Zl8wYmtrelVNRE9XQ1l5eGN1M1JWbWk2QmU4NDJRWmxqXzVUOHRjdw?oc=5",
+      "source": "TradingView",
+      "pubDate": "Wed, 26 Aug 2026 14:59:56 GMT",
+      "query": "Qwen Alibaba"
     }
   ]
 }

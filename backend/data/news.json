@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30 01:31",
+  "updated": "2026-08-31 01:30",
   "count": 50,
   "items": [
     {
@@ -29,20 +29,6 @@
       "source": "Global Sources",
       "pubDate": "Wed, 29 Oct 2025 07:00:00 GMT",
       "query": "Amazon Seller Central"
-    },
-    {
-      "title": "Easily deploy SaaS products with new Quick Launch in AWS Marketplace - Amazon Web Services (AWS)",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPekFISmdEek5lcEFJNkdaNEtjTGR3Yzd4a2lzM3pXcFBKQmdlaGxJOV9CcE9oa3pQcElYeENrbnpJZ3hYLXRGMlJ3R0ZPSEMwWGlDLWo0QVNzUzZ4WjNXcHV6ejRDTWVXU0Uwd0JOYlVrellzSXZGSGcwRWpfWVFMYWRqTi05aE94VnkwaFFyejRKYmpiR1U2OFFZVnlkWDNSRk1HTQ?oc=5",
-      "source": "Amazon Web Services (AWS)",
-      "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
-      "query": "amazon.com marketplace"
-    },
-    {
-      "title": "Amazon’s Bezos cannot guarantee third-party seller policy wasn’t violated - Fox Business",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTWI4cFJQcnFFalhJUTdjNHc3d2YtSkxIUVBwS0ZBLWhqQ1VFamZoajZmT2xZVmw5NTFGOENGRDE3MDUwLTlISERjOEZzTXJpbFFiLU9scW1pZkhoeG5WcGl0UmE0RnV4c3ZhRWJ4OG5fTUZzQkRRX2taWW9XUWxvV3hjbUjSAYoBQVVfeXFMT3Z1eFlXVDZvdDJqaUVTN3JIbjJ5OTg4OXdJTlhKWVo2TkZaTkxvVkYzaVpGMFVKbjZhQmxUd2psVE00MmpDOXBTdERneXNWLU8yelV6OUNROWNJZXNEZ3YxSkdYcmRYRjg3ZU1JR19PUGJxRDd1ZmNMTGdPbnlxWGV5Q1NPb0NXQk1R?oc=5",
-      "source": "Fox Business",
-      "pubDate": "Wed, 29 Jul 2020 07:00:00 GMT",
-      "query": "Amazon seller policy"
     },
     {
       "title": "Amazon.com, Inc. - Amazon.com Announces First Quarter Results - Amazon Investor Relations",
@@ -115,11 +101,25 @@
       "query": "Amazon seller policy"
     },
     {
+      "title": "CMA: Amazon Commits to Fair Competition in UK Marketplace - PYMNTS.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU1pHVnJ5X3I3UC12Vl9Qbk9TNVZJcUFyb2NtaUlSSlZMZVZlUGRtb3VodDkzVVF0ZGtwTWVPVG5sdWxtZXB4Wlo3aTdjTVJqeUxDT0lpRjE0R3lGX00wUmNqcGpaUFNsWlJUemJvSExWYi1KUm91T291ZWtHSUhRSG1wUDJoejVIa21JbmhLTm9JalNYNHVYZDJVLUtyNWdraGt4SEFJMmlXTFpUTkZkNFRB?oc=5",
+      "source": "PYMNTS.com",
+      "pubDate": "Wed, 26 Jul 2023 07:00:00 GMT",
+      "query": "amazon.com marketplace"
+    },
+    {
       "title": "Amazon's suspended third-party sellers aren't receiving the 30-day notice period they thought Amazon inked - Business Insider",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdEtobVV4dEhuXzlzdXJ0Rm1ETU1iVVZmZnFOSTBSdmNqazE1Z2daRnlGTXp2RFBka3MtSWE0ejFyeC1EaFItN3ZqYW83aEZrcWlmRXBvQUJYZm9mMG9LRkRkSHpUcUZGclozQlN3akQtai1QVWJFcUwwVkJDcnphZWl1aGVnYXM?oc=5",
       "source": "Business Insider",
       "pubDate": "Wed, 25 Sep 2019 07:00:00 GMT",
       "query": "Amazon seller policy"
+    },
+    {
+      "title": "Amazon Counterfeiters a Problem for Artists and Small Businesses - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbkF5dFF2bEFPMEdXbzFGUWM1UkNha3lEV19Zam1RT19FdHN1Y1VxREpkVDJhbmpEMHRmNG13Wnc5QW10d0d3MXlTZ2hVZ24yRDNDcXp0eWJWY19aaUt1b2txblNWbzlJQUhYeWhIZ2JUZEt4d2lsRVQ2V3QzdEYtQUNYR0J2OWM2RWhfSklib3Z3Qmh1Z0lXZVYyMjlpTXVvV0wxb3RUQQ?oc=5",
+      "source": "NBC News",
+      "pubDate": "Wed, 25 May 2016 07:00:00 GMT",
+      "query": "amazon.com marketplace"
     },
     {
       "title": "Prime Video Leaders Pitch the Benefits of Amazon Channels Marketplace - Variety",
@@ -129,25 +129,11 @@
       "query": "amazon.com marketplace"
     },
     {
-      "title": "Amazon - statistics & facts - Statista",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PRHRLcnpmUzBlckpCMzdyWUlMTFdHdlIzRWVSX3FycHZZX203a095ODRXVjctOVdUZ3VfUGdQMm4ySkVENHJnRHJoM3JJU1ExY002Z3dR?oc=5",
-      "source": "Statista",
-      "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT",
-      "query": "amazon.com marketplace"
-    },
-    {
       "title": "Why Amazon is now pledging to make good on bad third-party products - GeekWire",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNHRuSEFkWkQtNWxQYUdrOVEycUVtVm84eFp0NUlWdDlic05TRy1rWTFNZDNQanRBdG9KdS1wX1pMalJZVk1SX1YyS2hqdnFCemlIbXIyaHEwTldRVUNoOER6OEhqamVTSXZwUlQzUFJYOThzRklQaUp5b0d6ck1QUXllVWQ2VjhhdXNyRFd3?oc=5",
       "source": "GeekWire",
       "pubDate": "Wed, 25 Aug 2021 07:00:00 GMT",
       "query": "Amazon seller policy"
-    },
-    {
-      "title": "Global Master Data Management Market Size 2030 - Amazon Web Services (AWS)",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1V2s2T2VaQ3lVQ1hyZlFOcTVBLWh2TVFJbTRkYWpZdEQ1X19OT2RBQWN0b081U3dIQUZlN05KVmJZcTJmS0tpMEVuS3BhUnpCdVVIbTF3OGcwQ29NSUJDbDl1WGdBaDg2VVJuOA?oc=5",
-      "source": "Amazon Web Services (AWS)",
-      "pubDate": "Wed, 24 May 2023 20:02:30 GMT",
-      "query": "amazon.com marketplace"
     },
     {
       "title": "Amazon seller reveals rare glimpse of shadow bribery market - The Mercury News",
@@ -178,11 +164,32 @@
       "query": "Amazon sellers news"
     },
     {
-      "title": "Online Sellers’ Bill Of Rights Targets Marketplace Holds, Suspensions And Policy Changes - Value Added Resource",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sM1BFdEZhWlk2MHd2N0tnY0FieTQ3cjBvdUNCR1JZd0xwZFFtZzFUR295VnRGcHlzMHVScGhMOWl4MFBOdV9LcjNLbldjVGM0U1hIb2RvUlVoc3cydXl0NHBqbWRpQ3ZPbURKT2JIMlU3c3M?oc=5",
-      "source": "Value Added Resource",
+      "title": "Amazon marketplace enables sellers to sell their products on Amazon - About Amazon Australia",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5abUJDcmZlVXA3b25ZQzhaUlFxQzY0cjYxa3JEU1JWYTJPVGtiQWZwZHRKbVFCTlp2d2ltUmpwUXNmZTNsS0FPRnd1Rld0aXN6R09CMW13Sy0xbGt5b0l5bjhfVENtMGRNOExvNUgxbGV2R0hEV3YzNQ?oc=5",
+      "source": "About Amazon Australia",
+      "pubDate": "Wed, 23 May 2018 07:00:00 GMT",
+      "query": "amazon.com marketplace"
+    },
+    {
+      "title": "Amazon extends holiday return window through January 2026 - PPC Land",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX3RYSHcxUVZvY2pzMURSV2tJM2huUXUzRDVsVUo5bUtkd2RCOE9yb3JwOGtMd1dDX0pEc0tiNDJqSFNlSUppaFlQUlJjU1NwVE5ZWDQ0OVdsdjhkRDZrQmIyVHJ2UTFYWUVpV1E3cHpyUDVFNGQ0cDRmUE81MkU0Yg?oc=5",
+      "source": "PPC Land",
+      "pubDate": "Wed, 22 Oct 2025 07:00:00 GMT",
+      "query": "Amazon Seller Central"
+    },
+    {
+      "title": "Ukraine built a military marketplace that's become 'Amazon for drones' — here's why the USA wants its own version of Brave1 - Tom's Guide",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObU9mMHdWWnppR2JPM0RsdFBhNnIxSC03TDBoZkNKZTVERjluNGtERkZIQVF4bVhYaTZwaE9SMUpLQ2cwdldFR01leEEzdVk3M1JnT2JYUm16eGM4Ny1lTFR5aS1ROWdUSFdwYWgxVzZuYzgtSEVrN2N4VXpkbVY2Wm5qcXZQalJjZU5rRkthZEQ3bGpBWDhFbE9MRXZGcTM0bndVaElhbTRBTjhrZnZQbTlrZXNNWHFjYnRIN2M5NE5IaW9pTV96RDZKTFd2SjhnWGNyd3o4NFFfM2FRdnFROF9TbW41eFNkUFc4?oc=5",
+      "source": "Tom's Guide",
       "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-      "query": "Amazon seller policy"
+      "query": "amazon.com marketplace"
+    },
+    {
+      "title": "Amazon’s New Shenzhen Site Cuts Cross-Border Costs for Chinese Sellers - WWD",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPX3FVVGEzSGN5TDI0V1lBemIweGIxVGl2TVJmQ0k0akx0QUQtak5mLVc3LUk3RlNnMG1JOW1pQi10anQ3Z3JybUFoSGxsX2dya3VYNXB1dW1VaEZ3SHI2MlBVS2IzSTZGcGpsSWNZSXRtbF9LUjlGM1JMcTRxd3ZMNnNGbk9kS0o1c1lNNGhfNUh1Ti1iTFZKblBWYjZoM3JtLXF0YzNySExWTlpWSGpDVmI2R2hnZUZRb1hYdnpWNy1wQ1htQzd0cUJOYTBQV2N5ZFM1YnNyQmRFa2NLYl9aS0ZDT3NTTDZGNzlWckM5VHZpQ3FyeHc?oc=5",
+      "source": "WWD",
+      "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "query": "Amazon sellers news"
     },
     {
       "title": "Amazon Autos adds dealers despite sluggish sales reports - Automotive News",
@@ -199,18 +206,11 @@
       "query": "Amazon sellers news"
     },
     {
-      "title": "Amazon’s New Shenzhen Site Cuts Cross-Border Costs for Chinese Sellers - WWD",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPX3FVVGEzSGN5TDI0V1lBemIweGIxVGl2TVJmQ0k0akx0QUQtak5mLVc3LUk3RlNnMG1JOW1pQi10anQ3Z3JybUFoSGxsX2dya3VYNXB1dW1VaEZ3SHI2MlBVS2IzSTZGcGpsSWNZSXRtbF9LUjlGM1JMcTRxd3ZMNnNGbk9kS0o1c1lNNGhfNUh1Ti1iTFZKblBWYjZoM3JtLXF0YzNySExWTlpWSGpDVmI2R2hnZUZRb1hYdnpWNy1wQ1htQzd0cUJOYTBQV2N5ZFM1YnNyQmRFa2NLYl9aS0ZDT3NTTDZGNzlWckM5VHZpQ3FyeHc?oc=5",
-      "source": "WWD",
-      "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
-      "query": "Amazon sellers news"
-    },
-    {
-      "title": "An update on Amazon India leadership - About Amazon India",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOU9jUGZ3cDFlR2ozSEhZelg4Y2dPZmNNRDh0SGdJOVFfUE1RSjFEQ2lZN0Z3VlpTaGc3N3hQTEJXYmpRVDA2ODNEUTVtV0E5RTNJYmF2YnRGUTRyNlY3QUpqUjFHcHo3ajJoQ0YtT2hPY1NCSHhWMDR3MjVRX19yakIxSUlSd1o4?oc=5",
-      "source": "About Amazon India",
-      "pubDate": "Wed, 18 Sep 2024 07:00:00 GMT",
-      "query": "Amazon FBA update"
+      "title": "Boro Park and Lakewood Have Most Amazon Sellers - Anash.org",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfbnZIcWRYZUw2SERVZ1A3Qzh2d1M1Y2lsRC1SV2pWdFk1SkZ2dGxFVThHVjJQT3ZmRWpzVzhFZFFoMHRKbHJsYnJvdVVOTWZubk5MTmRXcC1KcHNKVm50dVVfMkhQWVJnbE9zbW5nQzRSTDVM?oc=5",
+      "source": "Anash.org",
+      "pubDate": "Wed, 20 Nov 2019 08:00:00 GMT",
+      "query": "amazon.com marketplace"
     },
     {
       "title": "Amazon launches a powerful new generative AI-based selling assistant codenamed Project Amelia - About Amazon",
@@ -220,16 +220,16 @@
       "query": "Amazon Seller Central"
     },
     {
+      "title": "Amazon Cracks Down on Third-Party Apps Over Privacy Violations - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fdHdpaFltVU1GVm1CakxKWmFjNXBzbTlBTlV2Z1oydllYcHBEaTF0eVp4WGxFQll3ZkFOSlpmcVZ0MTVaUWFNcl9sMlU2US1tYjAxc0Q5WV9oM2xNMnV6UXNIMloyR1pNUTROSw?oc=5",
+      "source": "WIRED",
+      "pubDate": "Wed, 18 Sep 2019 07:00:00 GMT",
+      "query": "Amazon seller policy"
+    },
+    {
       "title": "Amazon raises pay, lowers health insurance costs for US fulfillment and transportation employees - About Amazon",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY1A5QWRPbVJKeHo5ZFBrNzRBYkxELWxoWnlKNHQzQ1M0WjhLZk5GZURqdi1kVmhidF9hUlNJV05YU1N4NXZhRnFKRS02ZHlYcGEzVDlmMTdCQ0ZndDYtd0FtZ2xEYVZRZG56TG1LaTY1TlJBeGloWEtTVWw1ZHA3RFVRckZWcGM4V08wV25oeFl3cm54Yk9ibmg0Z2VYak93M2FTR3JvQ1M?oc=5",
       "source": "About Amazon",
-      "pubDate": "Wed, 17 Sep 2025 07:00:00 GMT",
-      "query": "Amazon FBA update"
-    },
-    {
-      "title": "Amazon Now Offers AI Agents to Help You Sell Online - tech.co",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAybFAwRFItaUVLMWVfQ0Q3RlpDUDd0akh1WlJfOFVEOVhLUG1KdnRwNkZwVFVRU3BFSERMUnJxaFF3cXhBNktvbThBSFc1ZXBrNjhKTzZHdWRoWjhq?oc=5",
-      "source": "tech.co",
       "pubDate": "Wed, 17 Sep 2025 07:00:00 GMT",
       "query": "Amazon FBA update"
     },
@@ -241,16 +241,16 @@
       "query": "Amazon FBA update"
     },
     {
-      "title": "Amazon introduces AI agent to help sellers with tedious tasks - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93U212bURvSDFhZ2swWlhBMWlUUmdhOUVnc1dzWUs0emU4RFVwUF9na18zeHJnUjdSMVJ2TVNlZUQ2aXFFSF9zT3J2eEZ6UTR2UVlWbGoyUGxveHV5bE1xd1dKVHktU1Q4Y21ZY9IBckFVX3lxTFB2eWs4SDFzR05HeWNVaFdjcmRwZnk5My03aE1WMUdQSXlEazdBT0dHdEI4cGg3c010QUJuOU9pUDlVLW1yU1VRUXoyZGlwRFpKTi1lVmVDUGh2MzFVQ1RWMEtaVTRqVzQ2TTdzX0FHYVYzdw?oc=5",
-      "source": "CNBC",
-      "pubDate": "Wed, 17 Sep 2025 07:00:00 GMT",
-      "query": "Amazon FBA update"
-    },
-    {
       "title": "Amazon introduces agentic AI across the seller experience, transforming how sellers manage their businesses - About Amazon",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZmJXblB2NFlQSF9zbjNfSVVHSWpBajQ3MVBGandHMmt1UGtiaFpCRFpfbUU0MWNoZ1hmWVV6RF83MzBsbnhrQ0daMVlaS21aeHprZGVZN0xXSEtULVg1U0VfVmxnTHQwVFF3YTZWY1o2TTRSS3FDT3Q4Uk94WWc2aDhrLXZNdEhq?oc=5",
       "source": "About Amazon",
+      "pubDate": "Wed, 17 Sep 2025 07:00:00 GMT",
+      "query": "Amazon Seller Central"
+    },
+    {
+      "title": "Amazon introduces AI agent to help sellers with tedious tasks - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93U212bURvSDFhZ2swWlhBMWlUUmdhOUVnc1dzWUs0emU4RFVwUF9na18zeHJnUjdSMVJ2TVNlZUQ2aXFFSF9zT3J2eEZ6UTR2UVlWbGoyUGxveHV5bE1xd1dKVHktU1Q4Y21ZY9IBckFVX3lxTFB2eWs4SDFzR05HeWNVaFdjcmRwZnk5My03aE1WMUdQSXlEazdBT0dHdEI4cGg3c010QUJuOU9pUDlVLW1yU1VRUXoyZGlwRFpKTi1lVmVDUGh2MzFVQ1RWMEtaVTRqVzQ2TTdzX0FHYVYzdw?oc=5",
+      "source": "CNBC",
       "pubDate": "Wed, 17 Sep 2025 07:00:00 GMT",
       "query": "Amazon Seller Central"
     },
@@ -269,17 +269,24 @@
       "query": "Amazon Seller Central"
     },
     {
-      "title": "AWS Partner Guide to AI Agents and Tools in AWS Marketplace | Amazon Web Services - Amazon Web Services (AWS)",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM1NWUDl6YW1xQ0p0bnh6ei0tSTdlSTk5aXpoaTNfWUNSLW9MOENsSU9NcEdhM3BWT2VwWUR5OThjUVVjTUhGVEFnRHd6aXB6OEFpMXZFSXNnVnVBLW1xTzg1dHIxSjlfWDBmMHRSbHlkQkdWRWF2Y2w5QUh4eGg1ODlWY0ZvME1GUG5VcTlpTE53S3RqUGxQNQ?oc=5",
-      "source": "Amazon Web Services (AWS)",
+      "title": "EPAM DIAL is Now Available in the New AWS Marketplace AI Agents and Tools Category - EPAM",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeFplRlM0Y2tabzZZX1RGVVFFN0RIR1J3QWttNkU1dU40RHlPNUVkbUlXd2tQc014VVlqdGtlUm14ZGh5dXlHeDlIRl9CWU9zMjVjYmpBSHJTN3RhaXFCNFIwUm1weVh1eWlSQXJhdXkySEJvOW8yUEUyRmxaVWlNTXBCNkZPc2VWMFhoNEdnTU9SSjVmYTZtTUtEdmZBNVFvZ25QWmVscUtlV0dMdzVycVlHZDd1R0tPV2VtVjFZeDlKM0RwcFQ4Rnpqam1jUTB3Zzk4cw?oc=5",
+      "source": "EPAM",
       "pubDate": "Wed, 16 Jul 2025 07:00:00 GMT",
       "query": "amazon.com marketplace"
     },
     {
-      "title": "Simplified model access in Amazon Bedrock - Amazon Web Services (AWS)",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZFNWVEFOZ2NXbi1nMnBNeU9ZRmx4dWk2V2tJVkpzSjlwTUU3N200dWZCWHcwZXdtbW51eGd3OVJiY2piNXR4R0UweHFlektxSDNIN2x5MmdQbjlTYkdsbThOSTFULWZxM2JINkVtVVJPSlhseFQ1SmNLbkN4cTl0Mnc5QQ?oc=5",
-      "source": "Amazon Web Services (AWS)",
-      "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT",
+      "title": "Brave Software announces availability of the Brave Search API in the new AWS Marketplace AI Agents and Tools category - Brave",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kbGFndXkwTnZmYUdVdlp3VnN6M1ZFVzJxOHdUOGhfd3hmanhiNVNZcjhXcFg3c2NNNVRnSElrVzMxWkZtSVBGcGxJUWFhSWg3dFJUWDFIRlNZekZlMlFJ?oc=5",
+      "source": "Brave",
+      "pubDate": "Wed, 16 Jul 2025 07:00:00 GMT",
+      "query": "amazon.com marketplace"
+    },
+    {
+      "title": "AWS announces new innovations for building AI agents at AWS Summit New York 2025 - About Amazon",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZU91RU1EUXdTanBma3lMeTd3cXlaMzlfdlJTdUkyUWVnR09TVWl3WXRubWlFZVE1cE5YV0gxbEd0c29hdjg1a2VBWXBObDNxNlFGaWE1dzlOakEza21PcEFvZmFaQThpa2hjemFha2hNZ3FNendtV0Z3VU9OWFBYUw?oc=5",
+      "source": "About Amazon",
+      "pubDate": "Wed, 16 Jul 2025 07:00:00 GMT",
       "query": "amazon.com marketplace"
     },
     {
@@ -318,6 +325,13 @@
       "query": "Amazon sellers news"
     },
     {
+      "title": "A Decade of Fulfillment by Amazon (FBA) - Marketplace Pulse",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNenU1VW1oTEhHdjQxRkFRX1N6MGhBZW9uN0J4ZkZWa0lTbGlIVVM1dUNkSTdMVUhNMzNVOW4xVFEtYmc1QnJybFZqMDhQVWJ1QmFrSVRYV3hta0I4aS13ZXRETExBRU5hdUhoYlZXTHNaeHdMUTdQYVF6MWVsTXdXWEpqMEhUQQ?oc=5",
+      "source": "Marketplace Pulse",
+      "pubDate": "Wed, 14 Mar 2018 07:00:00 GMT",
+      "query": "amazon.com marketplace"
+    },
+    {
       "title": "You're No Longer Required to Sell Products for Less on Amazon. The Problem? If You Don't, You've Got Another Penalty Coming - inc.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSk9kamt6NERybThMSC14ZDlrRDhFcmVSWEFzU3ZyNF9rV016aG1kS3dNVHR0NlV4dWlrNEVOcnVuc3VQM3FZeGgzYWE4aG9wcmdkN2ZfZXZwVXVaVW1Xb0lQeWtEdjBBU3U5VmJubVVGbVp1bWQ5R01faXFjdGhDRXpkNTl3allLRnZ4Z1RaRUpuVldpbkFZdUhCR3pJbXRnbnhLS1JRRUcyY3pVZXBhWnU3RDhfVmwzY0dyTFpReGNUN2gtREdma1U0UGo?oc=5",
       "source": "inc.com",
@@ -332,25 +346,11 @@
       "query": "amazon.com marketplace"
     },
     {
-      "title": "Amazon is chockfull of products promoting the far-right QAnon conspiracy theory even as fellow tech giants like Facebook, TikTok, Google, and Twitter crack down - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSmZXT2RFQWs3N3lHZVpydHZYVDA1bi1rbVl0ZkFzZmRfZWQ0bWRBOVUzSTFYR0hIYjFlV2U4YXlhZWNWdWVZOVBJYkwtSkEwRHI5ZzE0c2h4WFRhNGZvalNfZXFwcXMzRWhhOW9qY0U3QnZOdFFwUjZTZHhGdEU2dEQ5bUlFbnU4?oc=5",
-      "source": "Business Insider",
-      "pubDate": "Wed, 12 Aug 2020 07:00:00 GMT",
-      "query": "Amazon seller policy"
-    },
-    {
-      "title": "New Amazon Guidance on Brand Compatibility - EcommerceBytes",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUEFEbzJrZ05UNnhMZmtUTlZSYTl3eHFnQVBhT3ladl9iSEIyVVBNQmh0eGlnclZlR3FKYkY2NFFlcVJyMEFqc1EtdUxjZmV2OG5fa3FSQkFwbE40V2Q3RlJ1emp1a1FDTVZsdExVQk5MVnUtRXFMYnF6VEdhdFpNckRjSDJ1V1JYZXJvRDVB?oc=5",
-      "source": "EcommerceBytes",
-      "pubDate": "Wed, 11 Nov 2020 08:00:00 GMT",
-      "query": "Amazon seller policy"
-    },
-    {
-      "title": "Amazon introduces feeds to make it easier for merchants to reach more customers through AI-powered Shop Direct - About Amazon",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53ZThOQTZBa04zOUE2NlR4V1dhTldjUnlRQzVTdEg3YmdWbXVON0JNVjZDMndUYnJTazlOT25IdW1DdUR1SGdvZmVQdXRIeGl6NU1fbUhOZHB0N3JJaDZqb1FwYlROcW9kMWsyVEJYdllGWWFrdEt1OG5uQXF2cWM?oc=5",
-      "source": "About Amazon",
-      "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-      "query": "Amazon sellers news"
+      "title": "‘Amazon’ For the Military: US Army Set to Unveil Online Marketplace for Drones - NextGen Defense",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pNEhGQnN2NW1lUXJXd3U5WmNoVXVxWHNsVVR3RTNQVHcyNVQ4UWVGV21qdnBENlI0bDNMRExpdnVocFJQMm9NRU9YWHZfS1ViaHRFM3FzOGhOeURKNTV4bndvZw?oc=5",
+      "source": "NextGen Defense",
+      "pubDate": "Wed, 13 Aug 2025 07:00:00 GMT",
+      "query": "amazon.com marketplace"
     }
   ]
 }

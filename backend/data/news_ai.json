@@ -1,13 +1,20 @@
 {
-  "updated": "2026-09-01 01:58",
+  "updated": "2026-09-02 01:15",
   "count": 50,
   "items": [
     {
-      "title": "17 predictions for AI in 2026 - understandingai.org",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PR29QZDE4VkptMDZLRWhnRU1TZU8wN1BVa1lmZVAzb0VpR2RnbHJic3NsZDB2SmJjZS1abFB1ZlhWamxITjFwYnE0TWNTY3RhNVhnR2JYal84OHdzRmxSNmNMOXRCanV6Q2NYOU5DYVE?oc=5",
-      "source": "understandingai.org",
-      "pubDate": "Wed, 31 Dec 2025 08:00:00 GMT",
-      "query": "LLM release"
+      "title": "Google Reshuffles Nobel-Winning DeepMind AI Team - PYMNTS.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUGhEeDQ2eGJPOHdYblVXdjNKLWNJc0ViSFFmZ29EM1IxMFg0a0pHOHFNT1JVSzFzX2dHRGFjY3VuMy16d2ZHUFM1dkRiekhEd0tGdHN2bWU0UFJCVzNWd2JNQWM0MkVnYWtWbm1XVjlpSzU4Sml1SEw4WDlseTdoUnJFVlZWWGh3aVVlbg?oc=5",
+      "source": "PYMNTS.com",
+      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
+      "query": "Google DeepMind"
+    },
+    {
+      "title": "Demand surges for AI video editors - Global Times",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aaTBPZGRIUERhQzM4ZW9YYnJRcEtRWTZsaVByZld1RGhxVmRGQ3FEOHJ1S3Q0cUhTRGhQbXVHbDBvOWhsMWduVmlxWnowX2NJdS01WW5RT0xxRHE5dzRlQkZB?oc=5",
+      "source": "Global Times",
+      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
+      "query": "AI video generation"
     },
     {
       "title": "FDA Real-Time Clinical Trials: Why AI Systems That Update Themselves Are Breaking Clinical Trial Design - The Clinical Trial Vanguard",
@@ -52,13 +59,6 @@
       "query": "LLM release"
     },
     {
-      "title": "Introducing Our First Proprietary AI Model to Deliver Personalized, Clinically Grounded Women’s Health Guidance - Oura Ring",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1Y0RsUDh6SEd2MUpXemFXaHc3ZnVReUJlRXpDb2I0OThaak96R3lnZHFMNkpiZHQyUVlYd1ZEdTJocERMTmJGckNmdzdCRWRnX0NkZDZQS3BfLXE0amc?oc=5",
-      "source": "Oura Ring",
-      "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
-      "query": "LLM release"
-    },
-    {
       "title": "Kuaishou beats estimates as Kling AI video tool’s revenue jumps 300% - South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcDFoaVhXT1EyYzlZMXNnaHpqOWc2WHo1WXBkaE5fOTJpTVFRaEN2RXZTbnkzWFczR3ZfZl9aZXhEbDFHUHY0Mk9iRzg4eFhwQmticW1PWGtHTlE0SFI5am5zVW83ZmtXcDZyT0hKQUZHbW9pcGNEbi0yOE03ZWtjSEpNZjdzekM4TnR2OThVZkRLMHdKaFlVQ2g0aG9peHdYX05HTGJ4NFRfdkV5alJR0gGvAUFVX3lxTE01RkRKLWNSY0RyTVAxX0pNZWk0d0J6T3ZaTUtuRXV5NVRFMUFXWEpNS1FhWlZhbXQ3b09HR1Jzd0tERnAzaDhaWFlWYmZhaXdhd3A4NEJ3YWxWMUtJbVhIZWhlRzFhNXh3aTdFQzZSUWlTRjJfX2VFNGVrX3NtVWM3b1RLWlRMTVdIYThfTVV2VHhBNXNoREk5ZGR6b1VSN2x1LXk1c25lSl9ZeVJnWHM?oc=5",
       "source": "South China Morning Post",
@@ -73,20 +73,6 @@
       "query": "Google DeepMind"
     },
     {
-      "title": "Claude Desktop can now easily run Qwen, DeepSeek and Kimi models - after Ollama's first effort stalled - The New Stack",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6OW11NmlEYlFBNFFMR0R0bTl3SmVfV0xlLTBOMkxvbkRhU0ZsMzFzMk14RjVYRUduUzBBRGZqaFd0Yzk0am1HSTVKQmhwNzZYeGlVMkNxYVdNVURmNXhGVG5ZZ1hWOHoy?oc=5",
-      "source": "The New Stack",
-      "pubDate": "Wed, 26 Aug 2026 22:40:46 GMT",
-      "query": "DeepSeek"
-    },
-    {
-      "title": "Exclusive | Google Moves AI-Responsibility Team Out of DeepMind Lab in Latest Shake-Up - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVhUck1oeDZzYU9nRTZWZTBRSERrb2pNWVk3aTZOMVFuZG5ubjFGbld4QXRLdThLQ1JuS0h0S0Q2ZjdsX1Y0Qm0xQjA3T3hLV014MzVqWTRNWGtjVWlyQ2otd1pIUjBqUjZBM3k5TTVpcnIxSngyTkk1eVNZU2hxcnR0MHJad1J0ZmtSN3dpR2p2N3pSRmNORnNPQzV5VUgxNGM0dE5DaGF5Y0FqUkd3eg?oc=5",
-      "source": "WSJ",
-      "pubDate": "Wed, 26 Aug 2026 22:28:00 GMT",
-      "query": "Google DeepMind"
-    },
-    {
       "title": "Anthropic’s Claude now has a browser of its own - The New Stack",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjX0FJTVBVb1hqLXh1NTdpVmttQ0FSb2NCX2UwWXBkUGlmckFqclVzcWZPMlBVblpJMmtrRi1LZVV3MVBOU18xUHY2R21BSTlEd3ZuMXRNZkpmeVF2TXlubVB1bXI?oc=5",
       "source": "The New Stack",
@@ -94,39 +80,25 @@
       "query": "Anthropic Claude"
     },
     {
-      "title": "OpenAI agents hacked Hugging Face in 700-strong swarm, tried to cover tracks, investigations find - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQTc3SXJuMW9sUUxKakNwamQ3c1l1RWFRM3I1WjhJWk5HdGxrSGl4NVdQVGs2RHRQUDFsSzVCRkEzLXVTTGRKaUVHMUFURDVHd2ZzQUNrNW9MbGh2eDFZbDVqeVdPNW91MTVHUjVmMmJsdW5yeVk4dG5NWGp4MmJYN3YyYXIxd0RveW5tNklVTXVrVy1fbHZqNGU4bmM4MmZ2a0lUVGpLNC1VUWJLLXVrM243UQ?oc=5",
-      "source": "Reuters",
-      "pubDate": "Wed, 26 Aug 2026 22:07:43 GMT",
-      "query": "OpenAI"
+      "title": "Chinese State Hackers Doubled Attack Volume by Outsourcing to DeepSeek - Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYngxQ1E3MEYwVDAxaFlqdXdYSmJIRjRocFRtVFZaaWJxXzZENUNjdHlVMGF2Y3RpTk1XOGtCanluN2V3dGNteElHSm5wSFVlTlJnUkdlbnJHRk54eVhjU1NGblpPcExMX25adUpqX190ZE5sQWtkc0t5OGJ1T3NEazNsREVsRlZxTmtIdkZpREV1aFpCVExIR0ZIVy1Scjh2UDJUNjBMSVFhM3J6VVF4ajItTTFrZzBiaVNJ?oc=5",
+      "source": "Tech Times",
+      "pubDate": "Wed, 26 Aug 2026 21:18:12 GMT",
+      "query": "DeepSeek"
     },
     {
-      "title": "Qwen 3.8 Flash-Next is Cheap, But There Are Complicating Factors - AI Business",
+      "title": "Qwen 3.8 Flash-Next is Cheap, But There Are Complicating Factors - aibusiness.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3Fzel8wMmpCU2t1dzdxVmZxcnVTVFkxWTRxSUNHOGZxU05ZN2JVRXdjR3R5eThDd0ZGSFVFZ0hjUXUtM09WNkJfMDJqQ0ZrcndIZGhEemtueHowYWhXbWF4RkNMbEJKd1k4ckxVNTh3SWhnZEJaS05meVRwZnpCZFJGTDhhcS11aF9VVlRERFZ6OVM5Q2lCcw?oc=5",
-      "source": "AI Business",
-      "pubDate": "Wed, 26 Aug 2026 20:27:12 GMT",
+      "source": "aibusiness.com",
+      "pubDate": "Wed, 26 Aug 2026 20:27:37 GMT",
       "query": "Qwen Alibaba"
     },
     {
-      "title": "Salesforce and Anthropic Announce Claudeforce: The #1 AI Meets the #1 AI CRM - Salesforce",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcklqU2RlQWZLY3c5dG9uaF83Z0xHSHNuQzNHSGZOTWw3c2wzSmtGTE45VzlWaF80R2tON1JfcFhFVC1walRFUmRyVDA1UkdoQ3pydUdKc1hPTm9SQTV0akl4aWV6NlVqR3ZtSEhCYjJlRTJTOTJYWHU2aDJIWjl0c21ReTJDRVlKb0pwRVE3MTJLdUdVeE9tSGJuQ2hoN3RBbFMtTGJrdw?oc=5",
-      "source": "Salesforce",
-      "pubDate": "Wed, 26 Aug 2026 20:13:05 GMT",
-      "query": "Anthropic Claude"
-    },
-    {
-      "title": "Salesforce, Anthropic expand partnership as Benioff responds to ‘SaaSpocalypse’ concerns - cnbc.com",
+      "title": "Salesforce, Anthropic expand partnership as Benioff responds to ‘SaaSpocalypse’ concerns - CNBC",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeDU0UHo4UERDMHZlcjVyV1I4S0dWWEQ1SGhYOXFURmJmZUJiZHpud1pGVXRKQmx1ZXl6Sy01NjBkTlkyQXFRWEJfeTVkYXVHODNvZ0p3YTVudnVSNEN4WTJQLWpad0JJa09WZ1Roay1JZ3JUZDlNdFJNRGNZYzMyNHd1TmRzTVJQ0gGOAUFVX3lxTE5oWUF2YXIzVjUzOE5zUzVNT05nemItSm9rdm1OMmRvQWFPc05NRWVteG5mNnM3dmtzSHZOYlowYTNFTnNFT0M0UmY3ZTRhN1FGTUV1U1NKcnZhcUp0LUpVU2dMa1ZCazZvSUFWNTNBNWhzNlUtekUwR1J1a2UtZ25wT3JaVzUzZGFWV1BpX1E?oc=5",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "pubDate": "Wed, 26 Aug 2026 20:05:14 GMT",
       "query": "Anthropic Claude"
-    },
-    {
-      "title": "I Spent Hours Testing NSFW AI Video Generators. These 5 Are the Best - PCMag Australia",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xb19EbmRFMmE0Rlhyajh1RV9YTTZaQ254aXcxMDZ4TGxrTGNBcjVIRjVnd2IzZVNJbHVUY0FIbGlJU3haZWg5b3dYUEV5bDFsVUtxWmo4ODc5WDFJQlMyeFEzb29fTXlFcXRoSUxUWVZSOEJMSW1Z?oc=5",
-      "source": "PCMag Australia",
-      "pubDate": "Wed, 26 Aug 2026 20:04:55 GMT",
-      "query": "AI video generation"
     },
     {
       "title": "Google’s Gemini has a branding problem, and so does the rest of AI - TechCrunch",
@@ -136,11 +108,11 @@
       "query": "Gemini AI"
     },
     {
-      "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSGx5ZU85MkhfYTUweHk3X2NteExrRTRxRUlGOTZ5QVVIalBjcDlVSGhKRkJzV1BuMG5RSm9ZXzhqYlNBMU1HYW9TS0JpZ1F6dGV2a3EyRC1qTk50Z0dxWDJ0MzBZQ1g4OXEzbThidVcxUFRHeWhvLXBUcC1yUUx6ZG9GOFZpVGdxN2h5YmtBTDVFd1ZyY1NSdUV2TDc5cmpZdnctREN1Yw?oc=5",
-      "source": "Ars Technica",
-      "pubDate": "Wed, 26 Aug 2026 19:19:22 GMT",
-      "query": "Gemini AI"
+      "title": "Exclusive | Google Moves AI-Responsibility Team Out of DeepMind Lab in Latest Shake-Up - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVhUck1oeDZzYU9nRTZWZTBRSERrb2pNWVk3aTZOMVFuZG5ubjFGbld4QXRLdThLQ1JuS0h0S0Q2ZjdsX1Y0Qm0xQjA3T3hLV014MzVqWTRNWGtjVWlyQ2otd1pIUjBqUjZBM3k5TTVpcnIxSngyTkk1eVNZU2hxcnR0MHJad1J0ZmtSN3dpR2p2N3pSRmNORnNPQzV5VUgxNGM0dE5DaGF5Y0FqUkd3eg?oc=5",
+      "source": "WSJ",
+      "pubDate": "Wed, 26 Aug 2026 19:37:27 GMT",
+      "query": "Google DeepMind"
     },
     {
       "title": "OpenAI had warnings before its agents broke out - Axios",
@@ -164,39 +136,11 @@
       "query": "Qwen Alibaba"
     },
     {
-      "title": "I Tested the Top NSFW AI Image Generators. These Are the 7 Best - PCMag Australia",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IWVZqSndvd2M0UWdEYTFfNjVUWUppM1QyczBOMHhWOGdFeTV4WUNfaUE2OXlTZUZYY2h5dnVvYV91czNPejhrRVFWMWdJbDQwQlVpNWtpakpWNEs5bFZ1MV9hY01JSk9DcDliYVRHSl8xd2E5bm00?oc=5",
-      "source": "PCMag Australia",
-      "pubDate": "Wed, 26 Aug 2026 18:41:55 GMT",
-      "query": "AI video generation"
-    },
-    {
-      "title": "Alibaba’s Qwen Unveils A Cheaper, Longer-Context AI Model - Finimize",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT2tOOHR3ZEZDb0xYeG1sM1N3a0picURlMWdpODNaOEk0VjkyVUVtN1JrWk52OElSdkM5ZWFjVTRfdWpncUdDY0kyYnZUMXV6MDNLcVAwaTFNR0RpVG1vREFVUm5uOVdnSHVURjZaNTN5WkdpNTBGUGJQSHlMWDg1ajJSNzc2UnQwUHZJdg?oc=5",
-      "source": "Finimize",
-      "pubDate": "Wed, 26 Aug 2026 18:12:50 GMT",
-      "query": "Qwen Alibaba"
-    },
-    {
       "title": "Alibaba Stock Rises After New Qwen AI Model Takes Aim at Costs - TradingView",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVDhUcFZwb01JQy1MYUhZZ3VVYmliMTVBVUJCZ3ZvdkNHNTI0WEljSFZlazZLdXdienlhYTR0T2IxWjZBNzQyUHJMT0lnNl80VUI2LVlVN1BCQXlQS1k3UmNjbVdwYm8tMkVDclpQRGc5VDdpd3pNdkFlVEpWUzNjMnBVX2ozTDZWSFpwaVJ1RjFfVThJdG1jcHZUR1lpckN5ZHlFLXNMWHBPZ2ZrYzAzMlBLc0g1Z3dXLWEwbnFDOA?oc=5",
       "source": "TradingView",
       "pubDate": "Wed, 26 Aug 2026 17:28:33 GMT",
       "query": "Qwen Alibaba"
-    },
-    {
-      "title": "Enabling independent research on how people use Claude - Anthropic",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CRjkzdEN0ME9DVFA2cHQzWkE1X1FfREdHaDF0UlhvY2xkbHBib3BIUlFyYzFtaE9hSVJ1MXNFMnR0UVJjSEprTEtCQUtmTVpMTng1eDNFY1lObDMwMl9KVVhCM3YyenVKdlNHTVlhLVZadw?oc=5",
-      "source": "Anthropic",
-      "pubDate": "Wed, 26 Aug 2026 17:07:12 GMT",
-      "query": "Anthropic Claude"
-    },
-    {
-      "title": "Intelligent transcription with Gemini 3.5 Transcribe - blog.google",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYVdaMzFHdEV4UEVtOUFac1BLQnUwVlg3NTZFa1BXM2xheWt5bkVtSWhNZkdONEJNN1ZtYzgtSnNaNGZRZG05eTEtX3RNaUd1NEZuU2piMHdQZnEyUzNDSWc4OTdQNW1qTkhvNGhNSlFSeGZaQ0Z3eHZzM3BIUEZwQjM5N1hUR3plTVN6c0t2VUl5Ykx0Q0RLcFhB?oc=5",
-      "source": "blog.google",
-      "pubDate": "Wed, 26 Aug 2026 17:05:01 GMT",
-      "query": "Gemini AI"
     },
     {
       "title": "DeepSeek Looks to Raise $7 Billion as Revenues Jump Tenfold - PYMNTS.com",
@@ -206,9 +150,9 @@
       "query": "DeepSeek"
     },
     {
-      "title": "Entagl Launches Mirror, Expanding Its AI Agent Platform to Seven Products - EIN Presswire",
+      "title": "Entagl Launches Mirror, Expanding Its AI Agent Platform to Seven Products - einpresswire.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX2kzVkk5cFBORTV2U0FpcktIR1R5LWxqU0RwdXhSMW5Ka1ZrQ2tTejdWR0lwWFJNN3dyRUF1b3VRM01zVG5laDdtVmpTbDlzYmxkNW1tYWxGRWJCdVBoSExfRERqdUR2cklzaE9zMkNlczV2STdVOEJQR0tidHEyMjVNTWxxdGY3dV91bWR2SkI2NzRzRl9JdXJ5OVFpNVYtNFpSMF92OVJteWFZR2EzTUlIajhQN1VzRVB3?oc=5",
-      "source": "EIN Presswire",
+      "source": "einpresswire.com",
       "pubDate": "Wed, 26 Aug 2026 15:41:00 GMT",
       "query": "AI agent platform"
     },
@@ -234,6 +178,13 @@
       "query": "AI agent platform"
     },
     {
+      "title": "Alibaba’s Qwen Unveils A Cheaper, Longer-Context AI Model - Finimize",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT2tOOHR3ZEZDb0xYeG1sM1N3a0picURlMWdpODNaOEk0VjkyVUVtN1JrWk52OElSdkM5ZWFjVTRfdWpncUdDY0kyYnZUMXV6MDNLcVAwaTFNR0RpVG1vREFVUm5uOVdnSHVURjZaNTN5WkdpNTBGUGJQSHlMWDg1ajJSNzc2UnQwUHZJdg?oc=5",
+      "source": "Finimize",
+      "pubDate": "Wed, 26 Aug 2026 15:12:50 GMT",
+      "query": "Qwen Alibaba"
+    },
+    {
       "title": "Alibaba's Qwen launches Qwen3.8-Flash AI model with lower training costs - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNFBiN0MydXZkUlB3UHdHb0xzNGNqVVhKdzZVMkQwalM4WWozbUxWSkZuRTljSXdfdjdOUjZkMWN2SEVRSnBXTEJwSlJfdkNqNzJreVp5MDNULVdDZ1ozSzE1YXp6dWR6MzZsOFBlRllhdlZEQmVBa1Eyb1hpQWlMWmdUaGlzeFpUZFlDZUszLU5KRG9SblF0VTNFT092TllTQnVqVlZHY2J3Uk1WblBfOUJGRmFob041dzEwRV9WaU5TWjlxbkswcTVJRQ?oc=5",
       "source": "Reuters",
@@ -255,6 +206,13 @@
       "query": "DeepSeek"
     },
     {
+      "title": "Alibaba releases Qwen3.8-Flash-Next, targeting \"ultimate cost efficiency\" - the-decoder.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVGNjSDJ6WGFXZ0tVSXZzME1XOWhuS0VGX1lpTmcxMWNFSENKOE5JNUYtUHNtWXFIZDFzZHJRQktENzZZQVlTeWhPaUh2R2lKLUxpeXVBa3BjZEFVcjFmdDNJczJnTzR4MXZjWmxreTA5VkM5SUJYTlY3UGtBQ3piT3E3VHpidFJ1WWVVVUktcm1CSXdXRDZKV2hFbw?oc=5",
+      "source": "the-decoder.com",
+      "pubDate": "Wed, 26 Aug 2026 14:44:57 GMT",
+      "query": "Qwen Alibaba"
+    },
+    {
       "title": "Alibaba Targets Coding and Office Tasks With Low-Cost AI Model - PYMNTS.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbWdsQzZCNVlaMV9CSTNVbXMtOGtGSEVIUUdBSllwTGJxcmlNZUVKREFnS3MyLUZuczJQMWhFR1VRVGhqaHZvRXBCVUpYVUVtRnpTc21KRUdaTmlmdTlFSlJyejByWm40b0t5QTNYVmlSTUZla2xVbjF0ODQzODhSYXA5cWd2aWRIVC1ZODFzZnRJd1B3ZGN6VWM5QXhsS0lfTjB2SDc5RDZHOU8xSEdTMnRDa2xncGc?oc=5",
       "source": "PYMNTS.com",
@@ -262,9 +220,9 @@
       "query": "Qwen Alibaba"
     },
     {
-      "title": "Alibaba Releases Smaller, Cost-Effective Qwen AI Model - bloomberg.com",
+      "title": "Alibaba Releases Smaller, Cost-Effective Qwen AI Model - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVFN2VVNaUWE0bXJiNjQ2VWJlbngtWlpzcnY3RG44VlB1eVVhMWNiT21wYmVKSDJnQ0JkNXMycVg5bWRqQ2RIZ3E0d0hzdkEzUlNPV05aUjRUTFhzaXlNdVhVSHFXNGRuZFlPWUhEeEtKemMwdWJValR0MFpZM19OMVRpS1piVVhZWEI3ZmdJZmlDR1B5d2JMRU5DcENuSUktd01Ra0J6Zw?oc=5",
-      "source": "bloomberg.com",
+      "source": "Bloomberg.com",
       "pubDate": "Wed, 26 Aug 2026 12:35:50 GMT",
       "query": "DeepSeek"
     },
@@ -276,39 +234,18 @@
       "query": "AI agent platform"
     },
     {
-      "title": "Inside OpenAI’s Reboot - Time Magazine",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VV0QxTTNlaWk2MXdtUVRzbzV5Nmp2VXRDaHdYeVZlRWkxcVBadXQtOGRlTU9EVW01RUtEYlZqdFExNTFOaDVSV1ctb1lrMXo1azlTRWJBNWdPejVMa1RTbmZ5OVZCMEpJdmQ3cVZBYlphdw?oc=5",
-      "source": "Time Magazine",
-      "pubDate": "Wed, 26 Aug 2026 11:00:04 GMT",
-      "query": "OpenAI"
-    },
-    {
-      "title": "The Sequence Learning Loop - Issue #921: Learn About DeepSeek New Model, the Env Harness Paper and the Amazing Etched - TheSequence | Jesus Rodriguez",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vWEYtWFRIX0dmVGNoMTNOQk5GazJkMUVmMm9fR2tDbVJ0ZjVQTVJKSGk2MW5UbHV0VFJPV1ZFazZVWlFNRHprMm1oRm1KSUYyaC1sc0Y3UnFONmVTNWhxNTBaZTNhOW1pMUdIV2o3SExpNmVIc2c?oc=5",
-      "source": "TheSequence | Jesus Rodriguez",
-      "pubDate": "Wed, 26 Aug 2026 10:50:34 GMT",
-      "query": "DeepSeek"
-    },
-    {
-      "title": "Deutsche Bank Deployed AI Agents to Improve the Loan Portfolio - bloomberg.com",
+      "title": "Deutsche Bank Deployed AI Agents to Improve the Loan Portfolio - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNTFOLTd1TVZtTWNZRjR2WlRlZWg1QkxTdHp1Q2tSTUdVWXBVOGltUFhXaUMtTGN1Z0lmZnZFYmNZeUxrWFkxZWhjcHZjb1hQOGpHb1VfNThmZDBfSjdLUHFMejQtOHJjdzRTNk9LN3lrd3ZtZEpLSElkQ2dwUm1hZzY3YzM0eWJGWXpHVjZjQ3N6RUY5WkJ2enkzYkl5UHdCaDZHdC0xUDVrNFpKc1ByVTNCU3UtbEtBTHhkMkVVbkg?oc=5",
-      "source": "bloomberg.com",
+      "source": "Bloomberg.com",
       "pubDate": "Wed, 26 Aug 2026 10:30:00 GMT",
       "query": "Gemini AI"
     },
     {
-      "title": "Microsoft, Alibaba Qwen, Plaud, KIRI: \"Silicon-based Employees\" Are Here – Is Your Organization Ready in 2025? - 36 Kr",
+      "title": "Microsoft, Alibaba Qwen, Plaud, KIRI: \"Silicon-based Employees\" Are Here – Is Your Organization Ready in 2025? - 36氪",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43U1hINGdQbWlrWXdPN3V3dFQ4WFZJRmRnU3VId1RwVzdtbUJWU0c2WUhMMlBYc0cwRnJBQ3F3S3J6ZEQ4RkM2a09lZEFCYVJiRE9N?oc=5",
-      "source": "36 Kr",
+      "source": "36氪",
       "pubDate": "Wed, 26 Aug 2026 09:34:44 GMT",
       "query": "Qwen Alibaba"
-    },
-    {
-      "title": "AI: the CNIL updates its traceability tool for open-weights AI models - CNIL",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaXZsR2pkY0FSZ2NDN2hrdW5ZY2ZIN1ROOTBacGFyZW1oQ292RHVUbVBfel9tVWVqNkpXUF9hNzVSYWpKeHMzZi1jOGxEdWFEampFNFQ0dk00T1pfdlZoYlFqOEprTHFVd1FhQlV3NlJUSFdrSGxIeGdHZXVlVGJFVW9MR1I1cjczalhJ?oc=5",
-      "source": "CNIL",
-      "pubDate": "Wed, 26 Aug 2026 09:10:34 GMT",
-      "query": "AI model update"
     },
     {
       "title": "China’s Z.AI Made Ox Alpha Stealth Model That Rivals DeepSeek - Yahoo Finance",
@@ -339,18 +276,81 @@
       "query": "AI video generation"
     },
     {
-      "title": "AI agent platform Ringg raises $10 million in Series A extension led by Peak XV Partners - indianstartupnews.com",
+      "title": "AI agent platform Ringg raises $10 million in Series A extension led by Peak XV Partners - Indian Startup News",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSGFXcmJWeTFTb1hqMUxkZ3ZZa084WVBMdzVYQkNnb0dZU0wxUEZuX2huUDBsRTkyc0VReEJEdUdKN2pBejh1Wl80RG03TXoxaFJ6RGl6M3d0V21FcGhYOEV2bGRFTFJTQjQtRzFuQlEyMG5lZGNyQWgzUzc0NkZwbVY5M05tdXppTjJESGdyaEZGTWo3d3AyZXFzNXUwZm5LTmVlNU5tMGRJYlBjZmtNeE9GYnhodFVHdE9BTERRbHgta0pxeFV3ZXhfdm9NMEnSAc8BQVVfeXFMUEhhV3JiVnkxU29YajFMZGd2WWtPOFlQTHc1WEJDZ29HWVNMMVBGbl9oblAwbEU5MnNFUXhCRHVHSjdqQXo4dVpfNERtN016MWhSekRpejN3dFdtRXBoWDhFdmxkRUxSU0I0LUcxbkJRMjBuZWRjckFoM1M3NDZGcG1WOTNObXV6aU4yREhncmhGRk1qN3dwMmVxczV1MGZuS05lZTVObTBkSWJQY2ZrTXhPRmJ4aHRVR3RPQUxEUWx4LWtKcXhVd2V4X3ZvTTBJ?oc=5",
-      "source": "indianstartupnews.com",
+      "source": "Indian Startup News",
       "pubDate": "Wed, 26 Aug 2026 07:25:36 GMT",
       "query": "AI agent platform"
     },
     {
-      "title": "Google DeepMind, Amazon Web Services, Kling AI Join Busan Market Tech Program InnoAsia - variety.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbzh5ajlrNFFWUUJoaTNtOGNyT201emZVeW1LS3dFTGJwTXFFaUEwWHZCNzIxNDhNVEFTdm9xM0kyVG9naW40T09NZXJoX1dJNFVvOEtxSUZldGNjNmNNS0s3ZV9rZEJTaUk3M3R2djBibjZMMjhWekxkUE5kalpEUHR1alNsdTZhRXZxZHplU0pfWENmNnEtaUwyM3hkMnYwWXkwN2xIRQ?oc=5",
-      "source": "variety.com",
+      "title": "Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident - metr.org",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZE1kUzg3T3Y3cDgybGRTT1pzbHlyQnEydlVnc0lMZzNPUlQ0ZHN4WmFxRWppVEJYYVFmMDdfa0FRQkNXRnBZOUhtMTBEeWw5VldnUFRmRmY0d3I3V2JPZHhROVNnaDh4OXl0UWlSYzFwRkk3bkh6ZURkelQ2YVpzS1VR?oc=5",
+      "source": "metr.org",
       "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "query": "Google DeepMind"
+      "query": "OpenAI"
+    },
+    {
+      "title": "I Spent Hours Testing NSFW AI Video Generators. These 5 Are the Best - PCMag",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zV3VPQS1oSl91WTM1cHYzRlk3d25pVU8wU0ZDS29HM1ZLT2Vrek13TXA3THc5YVdFT2dYc3REOEFSeFRERlhFR2MtY1lHOFJOZkVkM3M5bkVUMkdDWnZnZ3pPMWNoUzFaWG9wbnNR?oc=5",
+      "source": "PCMag",
+      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "query": "AI video generation"
+    },
+    {
+      "title": "DeepSeek’s Revenue Reaches $70 Million as of July, Tenfold Jump from 2025 - The Information",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSy0tcEswZzRDRWxKTTRlRGdrdk1mWU04a0FMcUpjLWlVVlduTlZHUi1KQUVFRFNvTmRlekpuczYtaFlvZEx4RjlodlZ6YWF6SjZpWEhualN4aDRDekxhT2FtRmVtSXNFSi1aVkxleUsxNDY2OE0xNXFuV2N1QnpSQ2hyN2RDc3ZrbGhiQVU3ZHJCbkFnRjF5NzZqRzJrcDZ0?oc=5",
+      "source": "The Information",
+      "pubDate": "Wed, 26 Aug 2026 06:50:00 GMT",
+      "query": "DeepSeek"
+    },
+    {
+      "title": "Alibaba’s Qwen to open-source Qwen3.8-Flash-Next, previewing Qwen4 architecture - TechNode",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSUhsa0NLbFEyR1VOSlFpZXJuOUpuUjZfX0gxSXhaUHRQV2hsa3BHcUdmUUhWVE1GYWV3YUJFcE9BSmZQbm9PQ2Z1enJvZHpLSWFBenBoOFFqUWRzOWRBM19UdDIwYVgwR3VsNWlfTTFYcVVWZlgtc0U1eXZMZ0p2bUhGdlFYTDZKZWRZRHcycUV5MzhXbTEwR1JFeUdweFlGSm82UXpMZkZYd0I2MVJR?oc=5",
+      "source": "TechNode",
+      "pubDate": "Wed, 26 Aug 2026 06:46:22 GMT",
+      "query": "Qwen Alibaba"
+    },
+    {
+      "title": "AI Video Generation Forgets Where the Camera Was. Here's the Screen-Direction Workflow That Fixes It - HackerNoon",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT0NTV1EzM0xNVkoyRlNpdFROd1RNYTlWN3prTGhIWnpmYktVUVotemE0SmF5RlNMT3ZTWlI2LW1ZTVl5VGdYNXM4TW9sSjRrczZfVUREWG9NMnZJeXVGYkVaZFdkZVluZXpHbG1kOUVNNVhkYzk2RjVTdHJNcXpKR0c4X2hRZ1kya2NYVFgzdVdfdDViWjl3OWJXOEZyNHV3MVUzVlBydmtKbXNTdGloU3YzZGNTbEFTcWdyTFdR?oc=5",
+      "source": "HackerNoon",
+      "pubDate": "Wed, 26 Aug 2026 06:02:45 GMT",
+      "query": "AI video generation"
+    },
+    {
+      "title": "DeepSeek targets 2027 listing as pre-IPO funding nears close: sources - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS3BJdEpkWjdMV0RWcmxrc19KSEpLd1NDR3NzazQ2NElVR1ZwSmdROERtaTZEMW5rQ0lfOGxrTUJVbXg4XzFwUEtmTktfaDVwbU55SktBZE5GV3R5NkFNa3UzSE10bUtLdFotcVNScTRZYkRIdnAwRVhvaU5vaXlHVExDYzF0Z0V1Q1RjMlNIT0hObmgxM3MtZFlYVG5tRTNsbEZuOXhLVjVxS09nYzFlbGY2SDl5RFVWMHZDNUt4S1U5QWfSAcMBQVVfeXFMTXhUajBNRUVuWTg5aVhXbWtIMnFTNlp3WExCNkEyRFRoeVlMbTNMUkZzSlB6TF9hNlc4bldhTzhwNmVlTklfXzhxRXgzYWMtSzFWRGs1TndUZS1uc241VUZMdjEzTFh3R0gybndDYjVDU3g4SFFjN0FqYlJrbFo0eXVZcjY3SkJLaDhCQm1ubV9VckJ6OUNJY1ZPOFhhZUNtRTZuV0xaclIyRmMzUXVMZ0FMOHhwbzF5R3VqSFBTLUhzQzh3?oc=5",
+      "source": "South China Morning Post",
+      "pubDate": "Wed, 26 Aug 2026 05:01:09 GMT",
+      "query": "DeepSeek"
+    },
+    {
+      "title": "Alibaba's Qwen3.8-Flash-Next Gives Builders An Early Look At Qwen4 - Startup Fortune",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ2pwbTIyTk1jN2hUREJhZkw3Y1ZIT0VtZFJXa2ZpeTh6ZjI2NFE2Z1ItOWdyT1VIb0FWZ2o5Zk5zTnEtOHV6am51MG1IcG1Md2I3T0lkcjVob3Z6d2NISFUwQXVoVURYVkpYOUI1Rmd4Y21mcEZEYk1TS1pkaHlwdzA2alZkT2djTTBDa0ZsZUkzVUZLUUNr?oc=5",
+      "source": "Startup Fortune",
+      "pubDate": "Wed, 26 Aug 2026 04:54:50 GMT",
+      "query": "Qwen Alibaba"
+    },
+    {
+      "title": "Gartner Predicts That by 2030, Performing Inference on an LLM With 1 Trillion Parameters Will Cost GenAI Providers Over 90% Less Than in 2025 - gartner.com",
+      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPRVFDdFQyQjFONHBWSHdzQW1uanBiWTVsaWlwaldtTDdWUUdId1lLSWVXVktvV0Y2aWNqdXlMR3o2OU0tbG1EMVExWFM4NTJLWDJ6Z2tWaGlXYndwYkpSRHpuY2lSekRnZW41a1ZyY19fUXhTUFlEZ2dXVW1FZGlYT1lDUzFRNXBrZW44TERTUHkwUVRDOU9UUHB2WGp0aGlQVmMybnV0NVNZb3VXZkFxZ1BnQ0g3OEl1SnE1c2FMLVNvbml4a2t4dEpRNnVlVUFYejRvcGtGcXkyZTlOLUlDR3Vpb0MzTnJ0V2Z4U0tqUVNwX0pubWNBV2prQ04wYUZsbmRmV0ZkRjdSYUl4UEZkVnVOMjhkQXJCV3BOZWJOWl82V1g2WkkyUmpQRmtFdlp6MDJN?oc=5",
+      "source": "gartner.com",
+      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
+      "query": "LLM release"
+    },
+    {
+      "title": "Updates to our Privacy Statement and Terms of Service: How we use your data - The GitHub Blog",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUt0WEJpT0VFNzVWYkxPbE9wUTVSdUVldG9aaVBpbU9WaHg3OUNLcWlKZHVQUVYtX2Vpblk0dENvM3AzekpLTkplRi1aUXItWGFmRU5fTW5vSDhyRzh2RVgtdy1vbHhZQmtTMlY2aTR6SkFhTGZaczRONk55eWpqN1VsWldwUDZqRHhOM3lBX2szMnR0eEN5bC1TV1Z2T0lVbXp0SGd0RlBma0ZMMlJ2UFFpMWpRY28?oc=5",
+      "source": "The GitHub Blog",
+      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
+      "query": "AI model update"
+    },
+    {
+      "title": "Updates to GitHub Copilot interaction data usage policy - The GitHub Blog",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWUsteGlqR3FkVjlaUmVlOFRoeVh6Nl90c3MtWUEwZjV2MXFVblpNTVoySFdzRW1lZU52UW1paFRVcW1XMnUzRnY3Yk1INzA0TlNoVTNJZ2lUUEF0M2llMmFVOFBUTlhoZE4yNGxUd29TQTBZUUJrcGlGT2w5b21DeVRxX1FyWjNlVWxWakM0clZ3bW41dUVKaXBiS2x0RUNCNVN1Mmp3?oc=5",
+      "source": "The GitHub Blog",
+      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
+      "query": "AI model update"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07 01:13",
+  "updated": "2026-09-08 01:19",
   "count": 50,
   "items": [
     {
@@ -45,9 +45,9 @@
       "query": "DeepSeek"
     },
     {
-      "title": "Tiny startup Arcee AI built a 400B-parameter open source LLM from scratch to best Meta's Llama - techcrunch.com",
+      "title": "Tiny startup Arcee AI built a 400B-parameter open source LLM from scratch to best Meta's Llama - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLVFYNGZyckh2M29xNjctTlhkeGgyVmFEQjREc1UtTjdwTEtqWVpZdnhKdXlUVXFaQ2RHQkdvajJuRGtkRkhHVDVnUU5GTlNMMmVqY2YyQ2hCZ2J2ZlcwN25IZEc2Rmh4a3IxbFFLUjN3a3hVTUFKcE5fc1h4T210X3VLMU5oTUt2VGFFbmZGTWwxVXowMGxHUjkwNkxrUnY4czB5VjNFWDJoUjRURjlaOUMyWHUxRWtJb3c?oc=5",
-      "source": "techcrunch.com",
+      "source": "TechCrunch",
       "pubDate": "Wed, 28 Jan 2026 08:00:00 GMT",
       "query": "LLM release"
     },
@@ -80,24 +80,10 @@
       "query": "AI video generation"
     },
     {
-      "title": "Qwen 3.8 Flash-Next is Cheap, But There Are Complicating Factors - aibusiness.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3Fzel8wMmpCU2t1dzdxVmZxcnVTVFkxWTRxSUNHOGZxU05ZN2JVRXdjR3R5eThDd0ZGSFVFZ0hjUXUtM09WNkJfMDJqQ0ZrcndIZGhEemtueHowYWhXbWF4RkNMbEJKd1k4ckxVNTh3SWhnZEJaS05meVRwZnpCZFJGTDhhcS11aF9VVlRERFZ6OVM5Q2lCcw?oc=5",
-      "source": "aibusiness.com",
-      "pubDate": "Wed, 26 Aug 2026 20:27:37 GMT",
-      "query": "Qwen Alibaba"
-    },
-    {
       "title": "Alibaba’s Qwen Unveils A Cheaper, Longer-Context AI Model - Finimize",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT2tOOHR3ZEZDb0xYeG1sM1N3a0picURlMWdpODNaOEk0VjkyVUVtN1JrWk52OElSdkM5ZWFjVTRfdWpncUdDY0kyYnZUMXV6MDNLcVAwaTFNR0RpVG1vREFVUm5uOVdnSHVURjZaNTN5WkdpNTBGUGJQSHlMWDg1ajJSNzc2UnQwUHZJdg?oc=5",
       "source": "Finimize",
       "pubDate": "Wed, 26 Aug 2026 18:12:50 GMT",
-      "query": "Qwen Alibaba"
-    },
-    {
-      "title": "Alibaba Qwen and Z.ai GLM-5.3-Flash Put Two Frontier-Adjacent Open-Weight Models on Hugging Face in One Day — and That Cadence Is the Story - FourWeekMBA",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM041RDk0V255N1o2MXJZcG5uRUVzdGplUHpjUzc5WUhTU2QxUEloWkd0MTV2WDI4TDVCbThsRVBQTGVTZlFPanlEaWpxZk9GSlQ0eFRuRDRiTXpqSTlNTHRBZjhZRVRrZzl3Z25FcUZlSzM2NURDTlY1Wk9qQmJ1TktyV1piUWd0dGZDVkFZbVhxUQ?oc=5",
-      "source": "FourWeekMBA",
-      "pubDate": "Wed, 26 Aug 2026 16:05:32 GMT",
       "query": "Qwen Alibaba"
     },
     {
@@ -115,9 +101,9 @@
       "query": "Qwen Alibaba"
     },
     {
-      "title": "Microsoft, Alibaba Qwen, Plaud, KIRI: \"Silicon-based Employees\" Are Here – Is Your Organization Ready in 2025? - 36 Kr",
+      "title": "Microsoft, Alibaba Qwen, Plaud, KIRI: \"Silicon-based Employees\" Are Here – Is Your Organization Ready in 2025? - 36Kr",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43U1hINGdQbWlrWXdPN3V3dFQ4WFZJRmRnU3VId1RwVzdtbUJWU0c2WUhMMlBYc0cwRnJBQ3F3S3J6ZEQ4RkM2a09lZEFCYVJiRE9N?oc=5",
-      "source": "36 Kr",
+      "source": "36Kr",
       "pubDate": "Wed, 26 Aug 2026 09:34:44 GMT",
       "query": "Qwen Alibaba"
     },
@@ -125,6 +111,13 @@
       "title": "Anthropic’s Claude now has a browser of its own - The New Stack",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjX0FJTVBVb1hqLXh1NTdpVmttQ0FSb2NCX2UwWXBkUGlmckFqclVzcWZPMlBVblpJMmtrRi1LZVV3MVBOU18xUHY2R21BSTlEd3ZuMXRNZkpmeVF2TXlubVB1bXI?oc=5",
       "source": "The New Stack",
+      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "query": "Anthropic Claude"
+    },
+    {
+      "title": "Salesforce and Anthropic Announce Claudeforce: The #1 AI Meets the #1 AI CRM - Salesforce",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcklqU2RlQWZLY3c5dG9uaF83Z0xHSHNuQzNHSGZOTWw3c2wzSmtGTE45VzlWaF80R2tON1JfcFhFVC1walRFUmRyVDA1UkdoQ3pydUdKc1hPTm9SQTV0akl4aWV6NlVqR3ZtSEhCYjJlRTJTOTJYWHU2aDJIWjl0c21ReTJDRVlKb0pwRVE3MTJLdUdVeE9tSGJuQ2hoN3RBbFMtTGJrdw?oc=5",
+      "source": "Salesforce",
       "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
       "query": "Anthropic Claude"
     },
@@ -150,20 +143,6 @@
       "query": "Google DeepMind"
     },
     {
-      "title": "Google DeepMind, Kling AI & Alibaba Join Busan Market’s InnoAsia 2026 Program - Deadline",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZVVQX2I0cnBqTk1GNDliZjlKLVkySDVJT3NXcFdLR3dWTUNNSGpLY1lnQzJEZ2lPelFocHl0YzVXSUZvWEhBU3R1eWpiaWJZbUZmeW5oajVnNkJQRDhMTXVoT0VXVVRFQi1yQ2RCdGQzR1FqaWNfeDZZczdhdTRxU1NLWE5wSmVzYzZGOXJORVp6b1NUZ19oZA?oc=5",
-      "source": "Deadline",
-      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "query": "Google DeepMind"
-    },
-    {
-      "title": "Google DeepMind, Amazon Web Services, Kling AI Join Busan Market Tech Program InnoAsia - Variety",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbzh5ajlrNFFWUUJoaTNtOGNyT201emZVeW1LS3dFTGJwTXFFaUEwWHZCNzIxNDhNVEFTdm9xM0kyVG9naW40T09NZXJoX1dJNFVvOEtxSUZldGNjNmNNS0s3ZV9rZEJTaUk3M3R2djBibjZMMjhWekxkUE5kalpEUHR1alNsdTZhRXZxZHplU0pfWENmNnEtaUwyM3hkMnYwWXkwN2xIRQ?oc=5",
-      "source": "Variety",
-      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "query": "Google DeepMind"
-    },
-    {
       "title": "Deutsche Bank Deployed AI Agents to Improve the Loan Portfolio - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNTFOLTd1TVZtTWNZRjR2WlRlZWg1QkxTdHp1Q2tSTUdVWXBVOGltUFhXaUMtTGN1Z0lmZnZFYmNZeUxrWFkxZWhjcHZjb1hQOGpHb1VfNThmZDBfSjdLUHFMejQtOHJjdzRTNk9LN3lrd3ZtZEpLSElkQ2dwUm1hZzY3YzM0eWJGWXpHVjZjQ3N6RUY5WkJ2enkzYkl5UHdCaDZHdC0xUDVrNFpKc1ByVTNCU3UtbEtBTHhkMkVVbkg?oc=5",
       "source": "Bloomberg.com",
@@ -171,16 +150,16 @@
       "query": "Gemini AI"
     },
     {
-      "title": "AI Agent Platform Runable Raises $21 Mn To Help Small Businesses Grow - Inc42",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMXJlUHBKZzJSamJGcFU4YUV0OGFFR19Ob1NQWVMxYjMyYzRBYTBnTllpRFJ4VUxqeW5CVm44SGowRmpZTllkUHB3bUd0NnNEMW9sdmpvRG4yRVRHTFQ4VW44Y0I0aVM4aTNkakRPRnFoSkpRX3EyUFhoX29QWTVSVHdMMGJSb2llNTNYUUlrcm9LeGJmdWdn?oc=5",
-      "source": "Inc42",
+      "title": "Google’s Gemini has a branding problem, and so does the rest of AI - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN3VsNlpTbmJSN1YyV3NHYVZJTWpoaUhlc1RrQUExckxscVo4TElBMzY5d0VpMm01a3NVdnNaOFIxWGhmUUp0dHUxVkZtVWN3TWpYTXZkc1hkZDJwNVlBM0RIMWY5NnlicENFV0xTWTcxdW9HZHFSRjg5a1FyVS1tb1YwMVhHU1l5cnVoS1dzVjVuN01LZzIxa3M2ekRzbW1h?oc=5",
+      "source": "TechCrunch",
       "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "query": "AI agent platform"
+      "query": "Gemini AI"
     },
     {
-      "title": "Runable Raises $21 Million To Expand AI Agent Platform Capabilities - Rediff",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZUtPMUR3c3MwdXA1NTBYV1h4VmR1T194T20xNk1tcHVINlJsZGtQWlNHTC13cnF2OHVGdHc1NFBVRlB0djFZMERMeDNEa2ppNlhLdnpsVC1pRVhFbzR6NjlCcjVWck15YzdoVHUya2FpQWM3NzJYcmYtQmxfVUtzNFphMFFncEhZNFYxSjQxU2JJZ3NqU0dkemhxZkZWX3FPYWp3eHppVnI1UTTSAa4BQVVfeXFMTmYteFU3eDc1SEJmbzl2djNKVWZGWlgtb0RqUWtJTTdRb0xzU3pXdlFKbkFRVmVKZEFhMGFPU0Q1Rk55MHNwTmMtWlRIM2x1aGxvWUw5b2dwbXAyeTlNVW5kOUdKMElEU2t1NTB3LVhxTC1sNWE0QkEwLTR3SGpmUkEyRFE5V2FVeVNjdU41ZTh6Yk1uZ1V3bm9PYjBqZWJQekFTYURaaTRxN2xsSEhB?oc=5",
-      "source": "Rediff",
+      "title": "AI Agent Platform Runable Raises $21 Mn To Help Small Businesses Grow - inc42.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMXJlUHBKZzJSamJGcFU4YUV0OGFFR19Ob1NQWVMxYjMyYzRBYTBnTllpRFJ4VUxqeW5CVm44SGowRmpZTllkUHB3bUd0NnNEMW9sdmpvRG4yRVRHTFQ4VW44Y0I0aVM4aTNkakRPRnFoSkpRX3EyUFhoX29QWTVSVHdMMGJSb2llNTNYUUlrcm9LeGJmdWdn?oc=5",
+      "source": "inc42.com",
       "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
       "query": "AI agent platform"
     },
@@ -192,13 +171,6 @@
       "query": "AI agent platform"
     },
     {
-      "title": "Alibaba's Qwen launches Qwen3.8-Flash AI model with lower training costs - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNFBiN0MydXZkUlB3UHdHb0xzNGNqVVhKdzZVMkQwalM4WWozbUxWSkZuRTljSXdfdjdOUjZkMWN2SEVRSnBXTEJwSlJfdkNqNzJreVp5MDNULVdDZ1ozSzE1YXp6dWR6MzZsOFBlRllhdlZEQmVBa1Eyb1hpQWlMWmdUaGlzeFpUZFlDZUszLU5KRG9SblF0VTNFT092TllTQnVqVlZHY2J3Uk1WblBfOUJGRmFob041dzEwRV9WaU5TWjlxbkswcTVJRQ?oc=5",
-      "source": "Reuters",
-      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "query": "Qwen Alibaba"
-    },
-    {
       "title": "Alibaba Releases Smaller, Cost-Effective Qwen AI Model - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVFN2VVNaUWE0bXJiNjQ2VWJlbngtWlpzcnY3RG44VlB1eVVhMWNiT21wYmVKSDJnQ0JkNXMycVg5bWRqQ2RIZ3E0d0hzdkEzUlNPV05aUjRUTFhzaXlNdVhVSHFXNGRuZFlPWUhEeEtKemMwdWJValR0MFpZM19OMVRpS1piVVhZWEI3ZmdJZmlDR1B5d2JMRU5DcENuSUktd01Ra0J6Zw?oc=5",
       "source": "Bloomberg.com",
@@ -206,9 +178,16 @@
       "query": "Qwen Alibaba"
     },
     {
-      "title": "Alibaba unveils cheaper Qwen AI model: is this what its stock needed? - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOakhlbXhLUUd2QTdWV0ptV2poYm1PbGhOSVllUkRuSlZOSndNOEhxQjVuaW9RaldSWlpPYjU0UEczbHBoU1E3R0V4eXd6RVRSVVp3eXVjMVN0VktoeEM2aTZsWG1leFBKTXlWSWxPdDEyVGRFVV9QUW1qcUFPcmZaOGJqVWRzQkJQaU00RzdndUVMVlhkazRxOHd5R0l2MVNWWTFCZXZYbDI5WUkxaFJVTUx1dFRfbWJrNjVhaUhUZy1ndw?oc=5",
-      "source": "TradingView",
+      "title": "Alibaba's Qwen launches Qwen3.8-Flash AI model with lower training costs - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNFBiN0MydXZkUlB3UHdHb0xzNGNqVVhKdzZVMkQwalM4WWozbUxWSkZuRTljSXdfdjdOUjZkMWN2SEVRSnBXTEJwSlJfdkNqNzJreVp5MDNULVdDZ1ozSzE1YXp6dWR6MzZsOFBlRllhdlZEQmVBa1Eyb1hpQWlMWmdUaGlzeFpUZFlDZUszLU5KRG9SblF0VTNFT092TllTQnVqVlZHY2J3Uk1WblBfOUJGRmFob041dzEwRV9WaU5TWjlxbkswcTVJRQ?oc=5",
+      "source": "Reuters",
+      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "query": "Qwen Alibaba"
+    },
+    {
+      "title": "Qwen 3.8 Flash-Next is Cheap, But There Are Complicating Factors - AI Business",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3Fzel8wMmpCU2t1dzdxVmZxcnVTVFkxWTRxSUNHOGZxU05ZN2JVRXdjR3R5eThDd0ZGSFVFZ0hjUXUtM09WNkJfMDJqQ0ZrcndIZGhEemtueHowYWhXbWF4RkNMbEJKd1k4ckxVNTh3SWhnZEJaS05meVRwZnpCZFJGTDhhcS11aF9VVlRERFZ6OVM5Q2lCcw?oc=5",
+      "source": "AI Business",
       "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
       "query": "Qwen Alibaba"
     },
@@ -220,9 +199,9 @@
       "query": "Qwen Alibaba"
     },
     {
-      "title": "I Spent Hours Testing NSFW AI Video Generators. These 5 Are the Best - PCMag UK",
+      "title": "I Spent Hours Testing NSFW AI Video Generators. These 5 Are the Best - uk.pcmag.com",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKbXlqaTdiSHBkUzdmYWtHblhXaVBSOGpfTmpndGJrd3ZTVGpqY1lsaW1MQjk2cDZhbE05NVZVRW1yOVZ5RlJzWlVEREYzdUNRTkNZMl8xSmRhUGtPd1VrcEVZSVhqd2pqTmp6UnhsNU4xUy1QeEpn?oc=5",
-      "source": "PCMag UK",
+      "source": "uk.pcmag.com",
       "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
       "query": "AI video generation"
     },
@@ -269,13 +248,6 @@
       "query": "AI video generation"
     },
     {
-      "title": "OpenAI pulls the plug on Sora, the viral AI video app that sparked deepfake concerns - NPR",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNXNqYVpXc2FsNlhIMzZDRUQxNFVhYzFlRDdDQlJHS0ZibHRMQmVITnUyMDZja29DemZ2UktkX040V1kweHh4cUFXWVJQTTNPbi1pSzhYTHMzeGQ5R2U4MWF2SWJQLXlhQW45RkM0TUptVUhueEJzQkRua0huS2FIZWZIOVVuYmtVd1F5ZWFVZTMxejZlOTNzcG9IbEU0YV9JYVdKVjJMbHg0VmtLakJlaFhkTHA0WjQ3eHFBSVlZSGlaQjlv?oc=5",
-      "source": "NPR",
-      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
-      "query": "AI video generation"
-    },
-    {
       "title": "OpenAI closes Sora video-making app and cancels $1bn Disney deal - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13Y2g4d0sxSGwxaEF4UkY4ZjZwelRCWFB0anAtRXdmVUY3c0ZwQjhBWkVqWHVIdC1VelM2TWMzY0p1SWEySW5zSHYyWjlmWHhyNHJ6c0R4YlJjUQ?oc=5",
       "source": "BBC",
@@ -283,9 +255,23 @@
       "query": "AI video generation"
     },
     {
+      "title": "OpenAI pulls the plug on Sora, the viral AI video app that sparked deepfake concerns - NPR",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNXNqYVpXc2FsNlhIMzZDRUQxNFVhYzFlRDdDQlJHS0ZibHRMQmVITnUyMDZja29DemZ2UktkX040V1kweHh4cUFXWVJQTTNPbi1pSzhYTHMzeGQ5R2U4MWF2SWJQLXlhQW45RkM0TUptVUhueEJzQkRua0huS2FIZWZIOVVuYmtVd1F5ZWFVZTMxejZlOTNzcG9IbEU0YV9JYVdKVjJMbHg0VmtLakJlaFhkTHA0WjQ3eHFBSVlZSGlaQjlv?oc=5",
+      "source": "NPR",
+      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
+      "query": "AI video generation"
+    },
+    {
       "title": "An update on our model deprecation commitments for Claude Opus 3 - Anthropic",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xbjF4a3FWLXdtUmxfZ1R4SkdpNXBhcHQwUmdZRzNoekVfSmlPSXlxV0JXVWNnaDd4dlpFa3Y3TGJPZk9hQlU5ZXlYVC1JaHFyWkdEVnJoVDBycEpScFVlM2hHREoyakx1VVUzbTBB?oc=5",
       "source": "Anthropic",
+      "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT",
+      "query": "AI model update"
+    },
+    {
+      "title": "Disrupting malicious uses of AI - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRUUM3VFYtbG5Ed2l2WTQyX2xYZXQ5U1VuU0tCWmp3V2w3TlZmd05kMXNLWVhVZ3BxSXQtYVhpdUNkeXpqUVR6V2Z5RGgtTnZYSFpTazl6YURLbUZUdWVnc2NNTk8?oc=5",
+      "source": "OpenAI",
       "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT",
       "query": "AI model update"
     },
@@ -351,6 +337,20 @@
       "source": "Law360",
       "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
       "query": "Midjourney"
+    },
+    {
+      "title": "DeepSeek founder Liang Wenfeng in His Own Words: 64 Quotes from DeepSeek's Investor Call - Geopolitechs",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uS2pseC1JTlRrSE9XcXhSeGVsb3ozYmRXQThWRlNSRl9JWFl2aXRTWHZ1VWpFLVk4UTBiS2JUWXVWSGdKMDg5QnZPZml1SkczaUJGNkp5MzNkdVlHVjdacmdsTjFPUU9IaHFzMVRzSWwwUQ?oc=5",
+      "source": "Geopolitechs",
+      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+      "query": "DeepSeek"
+    },
+    {
+      "title": "Alibaba's New Qwen Image 3 AI Wants to Be Useful, Not Just Pretty - Decrypt",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HWVRFWXFWYkFhZW5zYm13U2hZbkY0Yk03RVp6Ni1oN2RpakJNWGJ6RXFVU3ROelZsbnY2cVdJcU1nS1UteWZNSk0xQ2NQeUthdGtaRm9MNWxFVjlORVYyVEVBU010S1RMVDVJaWpIdFZqeFUzMGdPRDVkcmLSAYQBQVVfeXFMUDRGVWNfYzlVaUpLXzdTSFJYRVhjUW1CVklhaXIxNzFoNkFrRk1lX3piVWd2RE4tMW1ZMzctbDBUX0N6TEcwbFN4ajgxcHlJTUt6bjcxbVYxUUI2ZW82ZGdZT1dSSGxfNHRjeEhmWnFTcVJ5YjRxaTdfSl9heXh1RzUzSzRQ?oc=5",
+      "source": "Decrypt",
+      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+      "query": "Qwen Alibaba"
     }
   ]
 }

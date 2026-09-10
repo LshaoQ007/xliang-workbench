@@ -1,35 +1,35 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "items": [
     {
       "tag": "专八词汇",
-      "title": "serendipity",
-      "body": "n. 意外发现珍奇事物的运气；机缘凑巧。例句：Many scientific breakthroughs are the result of pure serendipity.（许多科学突破纯粹是意外之喜。）记忆法：拆分为 se-ren-di-pi-ty 五音节，联想\"宁静中偶然拾得一片（pi）天地（ty）\"。写作中可用于描述意外收获、机缘巧合，比 luck 更高级且精准。"
+      "title": "ubiquitous",
+      "body": "adj. 无所不在的，十分普遍的。专八高频学术词汇，常用来描述科技、文化现象的普遍性。例句：Smartphones have become ubiquitous in modern life. 搭配：ubiquitous presence / computing。记忆点：ubi-（哪里都有）+ quitous，联想‘哪里都 quit（离开）不了’。"
     },
     {
       "tag": "专八词汇",
       "title": "paradigm",
-      "body": "n. 典范；范例；范式。高频搭配 paradigm shift（范式转移 / 根本性转变）。例句：The epidemic triggered a paradigm shift in remote working.（疫情触发了远程办公的范式转变。）注意发音 /ˈpærədaɪm/，词尾 -digm 中 g 不发音。专八阅读科技与社会类文章时高频出现，掌握其搭配可快速定位主旨。"
+      "body": "n. 典范，范例；思维模式。在学术写作中极为常用，比 example 更正式。例句：The discovery caused a paradigm shift in biology. 搭配：paradigm shift（范式转移）。注意发音 /ˈpærədaɪm/，结尾的 d 不发音。可用于描述方法论或世界观的重大转变。"
     },
     {
       "tag": "口语跟读",
-      "title": "\"I'm down.\" 不是\"我沮丧\"",
-      "body": "在美式口语中，\"I'm down\" 常表示\"我同意 / 我加入\"，等同于 \"I'm in\"。例如：\"We're grabbing hotpot tonight. You in?\" \"Yeah, I'm down.\" 注意与 \"I'm feeling down\"（情绪低落）区分。跟读要点：down 用降调短促收尾，传递爽快、随性的语气，不要拖长。"
+      "title": "I’m down for whatever.",
+      "body": "地道美式口语，表示‘我随意，我都可以，奉陪到底’。适用场景：朋友聚会、团队活动征求意见时。跟读要点：down 重读，whatever 语调上扬表示轻松。连读：I’m down~for~whatever. 替换表达：I’m game / Anything goes. 注意语气要随意自然，不要逐词生硬。"
     },
     {
       "tag": "口语跟读",
-      "title": "\"Let's call it a day.\"",
-      "body": "意为\"今天就到这里吧\"，用于工作、学习或运动结束时自然收尾。例句：\"We've been at this for eight hours. Let's call it a day.\" 语调：call 和 day 轻微重读，整体呈下降语调。同类表达：Let's wrap it up. / Let's knock off. 适合下班、下课或结束自习时无缝使用。"
+      "title": "Let’s call it a day.",
+      "body": "职场高频句，意为‘今天就到这里，收工吧’。适用场景：会议收尾、加班结束、学习打卡。跟读要点：call~it~a 连读，day 降调表结束感。可灵活替换：Let’s call it a night（晚上收工）/ Let’s wrap it up. 建议配合手势或收拾动作记忆，增强情境感。"
     },
     {
       "tag": "影视句段",
-      "title": "《后翼弃兵》The Queen's Gambit",
-      "body": "原句：\"It's an entire world of just 64 squares. I feel safe in it. I can control it. I can dominate it.\" 译文：这不过是个只有64个格子的世界。我在其中感到安全，我能控制它，我能主宰它。学习点：entire world of just...（只不过……的整个世界），dominate 较 control 情感递进。建议模仿女主冷静坚定的节奏，注意 safe、control、dominate 的依次递进重音。"
+      "title": "《The Pursuit of Happyness》— You got a dream... you gotta protect it.",
+      "body": "出自威尔·史密斯对儿子的对话。原句：Don't ever let somebody tell you you can't do something. Not even me. You got a dream, you gotta protect it. 语言点：got a 连读 /ɡɑːtə/；gotta = got to；protect it 连读。学习建议：先慢速跟读情感，再原速模仿停顿与重音，用于自我激励场景复述。"
     },
     {
       "tag": "影视句段",
-      "title": "《心灵奇旅》Soul",
-      "body": "原句：\"I'm not sure, but I do know... I'm going to live every minute of it.\" 译文：我不太确定，但我知道……我会珍惜活着的每一分钟。学习点：be going to 表决心；live every minute of it（尽情享受每一刻）。注意 Joe 说这句话时的停顿与情感释放，适合练习情感到位的发音与连读：gonna、live every 的 /v/ 与 /e/ 衔接。"
+      "title": "《Flipped》— Some of us get dipped in flat...",
+      "body": "出自2010年电影《怦然心动》经典旁白：Some of us get dipped in flat, some in satin, some in gloss. But every once in a while you find someone who's iridescent, and when you do, nothing will ever compare. 语言点：dip（浸染）、satin（缎子）、gloss（光泽）、iridescent（彩虹般绚烂的）。建议分段跟读：前半段排比练节奏，后半段练情感升华。适合背诵用于写作或表白的高级修辞。"
     }
   ]
 }

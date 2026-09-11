@@ -1,35 +1,35 @@
 {
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "items": [
     {
       "tag": "专八词汇",
-      "title": "ubiquitous",
-      "body": "adj. 无所不在的，十分普遍的。专八高频学术词汇，常用来描述科技、文化现象的普遍性。例句：Smartphones have become ubiquitous in modern life. 搭配：ubiquitous presence / computing。记忆点：ubi-（哪里都有）+ quitous，联想‘哪里都 quit（离开）不了’。"
+      "title": "relegate",
+      "body": "把…降级；使降职；将…归类。专八阅读与写作高频动词，常接介词 to。例句：She was relegated to a minor role in the project. 写作中可用 relegate 替换 put aside / downgrade，提升学术感。记忆锚点：re（往回）+ leg（送）+ ate → 往下送 → 降级、边缘化。"
+    },
+    {
+      "tag": "口语跟读",
+      "title": "Could use some + 名词",
+      "body": "委婉表达\"需要/想要\"，比 I need 更地道自然。核心跟读句：I could use some fresh air right now. 发音要点：could 尾音 /d/ 轻读，use /juz/，some 弱读 /səm/。实用场景：加班时点外卖、想休息、求帮忙都可以说。试着用 coffee / help / advice 替换跟读三遍。"
+    },
+    {
+      "tag": "影视句段",
+      "title": "The Pursuit of Happyness",
+      "body": "原句：You got a dream, you gotta protect it. People can't do something themselves, they wanna tell you you can't do it. 语言点：got = have（口语弱读）；gotta = got to；wanna = want to。跟读技巧：模仿 Will Smith 语速偏快但咬字清晰，注意 protect it 的连读 /prəˈtɛktɪt/。中文语境可化用：You got a goal, you gotta chase it."
     },
     {
       "tag": "专八词汇",
-      "title": "paradigm",
-      "body": "n. 典范，范例；思维模式。在学术写作中极为常用，比 example 更正式。例句：The discovery caused a paradigm shift in biology. 搭配：paradigm shift（范式转移）。注意发音 /ˈpærədaɪm/，结尾的 d 不发音。可用于描述方法论或世界观的重大转变。"
+      "title": "rhetoric",
+      "body": "修辞学；辞令；（常含贬义）空话、花言巧语。专八作文高频搭配：empty rhetoric（空洞 rhetoric）、political rhetoric。例句：The plan sounds promising, but it is mere rhetoric. 辨析：rhetoric 可褒可贬，视语境而定；而 oratory（演讲术）多偏褒义。阅读中遇到需结合上下文判断感情色彩。"
     },
     {
       "tag": "口语跟读",
-      "title": "I’m down for whatever.",
-      "body": "地道美式口语，表示‘我随意，我都可以，奉陪到底’。适用场景：朋友聚会、团队活动征求意见时。跟读要点：down 重读，whatever 语调上扬表示轻松。连读：I’m down~for~whatever. 替换表达：I’m game / Anything goes. 注意语气要随意自然，不要逐词生硬。"
-    },
-    {
-      "tag": "口语跟读",
-      "title": "Let’s call it a day.",
-      "body": "职场高频句，意为‘今天就到这里，收工吧’。适用场景：会议收尾、加班结束、学习打卡。跟读要点：call~it~a 连读，day 降调表结束感。可灵活替换：Let’s call it a night（晚上收工）/ Let’s wrap it up. 建议配合手势或收拾动作记忆，增强情境感。"
+      "title": "It is what it is.",
+      "body": "事已至此，无能为力，只能接受。面对无法改变的糟糕局面时的自我宽慰口头禅。语调关键：前半降调，后半升调再降，两个 is 均需重读。弱读连读版：/ɪt ɪz wʌt ɪt ɪz/。实用场景：航班取消、计划泡汤、比赛失利时安慰同伴。注意语气平和，避免显得敷衍。"
     },
     {
       "tag": "影视句段",
-      "title": "《The Pursuit of Happyness》— You got a dream... you gotta protect it.",
-      "body": "出自威尔·史密斯对儿子的对话。原句：Don't ever let somebody tell you you can't do something. Not even me. You got a dream, you gotta protect it. 语言点：got a 连读 /ɡɑːtə/；gotta = got to；protect it 连读。学习建议：先慢速跟读情感，再原速模仿停顿与重音，用于自我激励场景复述。"
-    },
-    {
-      "tag": "影视句段",
-      "title": "《Flipped》— Some of us get dipped in flat...",
-      "body": "出自2010年电影《怦然心动》经典旁白：Some of us get dipped in flat, some in satin, some in gloss. But every once in a while you find someone who's iridescent, and when you do, nothing will ever compare. 语言点：dip（浸染）、satin（缎子）、gloss（光泽）、iridescent（彩虹般绚烂的）。建议分段跟读：前半段排比练节奏，后半段练情感升华。适合背诵用于写作或表白的高级修辞。"
+      "title": "Friends",
+      "body": "原句：We were on a break! 出处：《老友记》第三季。语言点：be on a break 指\"暂停恋爱关系\"。发音拆解：were /wər/ 弱读，on a /əˈnə/ 连读，break 重读拖长。文化梗：英语世界最经典的 relationship 借口之一。跟读建议：配合摊手动作，模仿 Ross 既委屈又着急的语调，感受美式口语的韵律感。"
     }
   ]
 }

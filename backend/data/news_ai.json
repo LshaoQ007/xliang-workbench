@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22 01:44",
+  "updated": "2026-09-23 01:41",
   "count": 50,
   "items": [
     {
@@ -13,6 +13,13 @@
       "title": "Introducing Pangram 4 - Pangram",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zUlNBWVZWLVc2VTNkV2NoNzRhaDVnUm00U2lpVktsd1ZHTFNMZkxpMldOeHdxeTRGa3dJcXE2UDBZeDNzanFqYkZtYkwtbmJ0MWVibzFPWXVLZkdaXzhJ?oc=5",
       "source": "Pangram",
+      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
+      "query": "AI model update"
+    },
+    {
+      "title": "Windows 11 August 2026 Update Adds AI Model Uninstall, Windows Hello ESS for External Sensors, and Touchpad Gestures - gHacks",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZGlVcHBxS2pZS0VVdUdaTjUyMTZvckFwbWFJT25OSmhSS214ckhyV29DNXA4WHEwbmlvN2Rna1JvOGFjaWdmQ2tKSHVtRkNscmstdFRzbWRyZldjOGdmMDBOTC04T2FDZm5nMG5zb1VhYlRiYVE0WEhWVndxWXZ2OHVTN2xMZ3dUVUNKU2FpcUVGVTB3ZlluSlJXYnNkbm9IU21rSnlDbFlkT3BTYkN5Nm9rdmFDcVlLV09jeGxZQjNZOWg3MWFZcjdEakxLU2RKTHlvOW9aZ1phd2lRb2MteDdsbw?oc=5",
+      "source": "gHacks",
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
       "query": "AI model update"
     },
@@ -52,39 +59,11 @@
       "query": "LLM release"
     },
     {
-      "title": "Kuaishou beats estimates as Kling AI video tool’s revenue jumps 300% - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcDFoaVhXT1EyYzlZMXNnaHpqOWc2WHo1WXBkaE5fOTJpTVFRaEN2RXZTbnkzWFczR3ZfZl9aZXhEbDFHUHY0Mk9iRzg4eFhwQmticW1PWGtHTlE0SFI5am5zVW83ZmtXcDZyT0hKQUZHbW9pcGNEbi0yOE03ZWtjSEpNZjdzekM4TnR2OThVZkRLMHdKaFlVQ2g0aG9peHdYX05HTGJ4NFRfdkV5alJR?oc=5",
-      "source": "South China Morning Post",
+      "title": "Kuaishou beats estimates as Kling AI video tool’s revenue jumps 300% - scmp.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcDFoaVhXT1EyYzlZMXNnaHpqOWc2WHo1WXBkaE5fOTJpTVFRaEN2RXZTbnkzWFczR3ZfZl9aZXhEbDFHUHY0Mk9iRzg4eFhwQmticW1PWGtHTlE0SFI5am5zVW83ZmtXcDZyT0hKQUZHbW9pcGNEbi0yOE03ZWtjSEpNZjdzekM4TnR2OThVZkRLMHdKaFlVQ2g0aG9peHdYX05HTGJ4NFRfdkV5alJR0gGvAUFVX3lxTE01RkRKLWNSY0RyTVAxX0pNZWk0d0J6T3ZaTUtuRXV5NVRFMUFXWEpNS1FhWlZhbXQ3b09HR1Jzd0tERnAzaDhaWFlWYmZhaXdhd3A4NEJ3YWxWMUtJbVhIZWhlRzFhNXh3aTdFQzZSUWlTRjJfX2VFNGVrX3NtVWM3b1RLWlRMTVdIYThfTVV2VHhBNXNoREk5ZGR6b1VSN2x1LXk1c25lSl9ZeVJnWHM?oc=5",
+      "source": "scmp.com",
       "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
       "query": "AI video generation"
-    },
-    {
-      "title": "Microsoft, Alibaba Qwen, Plaud, KIRI: \"Silicon-based Employees\" Are Here – Is Your Organization Ready in 2025? - eu.36kr.com",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43U1hINGdQbWlrWXdPN3V3dFQ4WFZJRmRnU3VId1RwVzdtbUJWU0c2WUhMMlBYc0cwRnJBQ3F3S3J6ZEQ4RkM2a09lZEFCYVJiRE9N?oc=5",
-      "source": "eu.36kr.com",
-      "pubDate": "Wed, 26 Aug 2026 09:34:44 GMT",
-      "query": "Qwen Alibaba"
-    },
-    {
-      "title": "AI Photo to Video Generator: How AI Is Changing the Way We Experience Images - findarticles.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMG1yYUVlZmdPcldJc3Z4UVYzaE93NDFTWko1U3FSNmsxMENJV0N3NFJTWkZDQlQtejlRb0JzMkxUaTJpaVpKcHg2RFlqdldRZnJ6ZDY4cHlWZVFZWGVrTWV0a3o5cS1INEJVNHFPOURJdDc5dHNIRTVxclJiNTBqdGNZcGdSNG5zZmRzZExvZnFkTmZkUXlpTS1qY2JDdFNVU0VvenJscGTSAbABQVVfeXFMTWFMcWpTV3NNQXhzUERUbTItcWRlcTNkcmFQMGFmaTVyQkVnQWc0U2E0d1lTWUNRWFpnVVA3LXV1WFJVX3p1VjJLNmlvcS1kTFFLdTM5NXJOSDJ2MC1aRDBSRzQtV3lFT2lHWjFiQVFxaDRIYjdSN1pINzkwUExBdENzdnBMbmlDUHhKX1p2T0NiTGhrMGxNY1dkTWwxdGF4MFRNSEdNNERscVpnTzhSUXM?oc=5",
-      "source": "findarticles.com",
-      "pubDate": "Wed, 26 Aug 2026 07:36:29 GMT",
-      "query": "AI video generation"
-    },
-    {
-      "title": "Salesforce and Anthropic Announce Claudeforce: The #1 AI Meets the #1 AI CRM - Salesforce",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcklqU2RlQWZLY3c5dG9uaF83Z0xHSHNuQzNHSGZOTWw3c2wzSmtGTE45VzlWaF80R2tON1JfcFhFVC1walRFUmRyVDA1UkdoQ3pydUdKc1hPTm9SQTV0akl4aWV6NlVqR3ZtSEhCYjJlRTJTOTJYWHU2aDJIWjl0c21ReTJDRVlKb0pwRVE3MTJLdUdVeE9tSGJuQ2hoN3RBbFMtTGJrdw?oc=5",
-      "source": "Salesforce",
-      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "query": "Anthropic Claude"
-    },
-    {
-      "title": "Salesforce, Anthropic expand partnership as Benioff responds to ‘SaaSpocalypse’ concerns - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeDU0UHo4UERDMHZlcjVyV1I4S0dWWEQ1SGhYOXFURmJmZUJiZHpud1pGVXRKQmx1ZXl6Sy01NjBkTlkyQXFRWEJfeTVkYXVHODNvZ0p3YTVudnVSNEN4WTJQLWpad0JJa09WZ1Roay1JZ3JUZDlNdFJNRGNZYzMyNHd1TmRzTVJQ0gGOAUFVX3lxTE5oWUF2YXIzVjUzOE5zUzVNT05nemItSm9rdm1OMmRvQWFPc05NRWVteG5mNnM3dmtzSHZOYlowYTNFTnNFT0M0UmY3ZTRhN1FGTUV1U1NKcnZhcUp0LUpVU2dMa1ZCazZvSUFWNTNBNWhzNlUtekUwR1J1a2UtZ25wT3JaVzUzZGFWV1BpX1E?oc=5",
-      "source": "CNBC",
-      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "query": "Anthropic Claude"
     },
     {
       "title": "Exclusive | Google Moves AI-Responsibility Team Out of DeepMind Lab in Latest Shake-Up - WSJ",
@@ -94,25 +73,11 @@
       "query": "Google DeepMind"
     },
     {
-      "title": "Hundreds of AI agents went rogue in OpenAI’s Hugging Face hack - politico.com",
+      "title": "Hundreds of AI agents went rogue in OpenAI’s Hugging Face hack - Politico",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVF5Q3hJemxqUXVJd2M2OHpKZ3RPVmY4SEU0VUNpZmVtYWxabk1Mdy1lXzh3czEtUTFHbVZaNjAyZmpicG11X1ZPYzBTSWQxdWlCQlpnTmROWWtETlNCTk5SUDVYZHZWRzgtWnFJV3h1Qm5Ud284NDJWcmtmTmEtX2hnMmZQMXJqZFlkbnBwbzJqVVlKdEsyUXdrSVJuNDdjamFMZnNDRlI1Z2Q0X29EbQ?oc=5",
-      "source": "politico.com",
+      "source": "Politico",
       "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
       "query": "AI agent platform"
-    },
-    {
-      "title": "Nooks Acquires FullyRamped; Founder Aaron Marks Joins Nooks to Advance Revenue Agent Platform - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcW9zSmU1RHpLN2hsRkxSLXBXbVN2M2RtQkRwaS1XaTF3TTFhUXNFMzloZVV3LW5TMEZZdGw3VExNWEFDWko2UVg4ODV4M1VBQXdiaWs4OHpZUExURmhwamNWZFRYQlhQSzlpa19QbHJyNkZzck1TLVEyal9rWDhPUEg3NEN2aVlaV2Q3QUdXb0NzN3kxUUtxZnQzdmVnbmFvQlp2MV8yVFV0TEZXeHlhd1NPY0o1ajRjazh4S1JTZnI0MFh5eS1aMkhJdzZqemZOaTlubDF4YXA2Q0k0bTZrSlFB?oc=5",
-      "source": "PR Newswire",
-      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "query": "AI agent platform"
-    },
-    {
-      "title": "DeepSeek targets 2027 listing as pre-IPO funding nears close: sources - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS3BJdEpkWjdMV0RWcmxrc19KSEpLd1NDR3NzazQ2NElVR1ZwSmdROERtaTZEMW5rQ0lfOGxrTUJVbXg4XzFwUEtmTktfaDVwbU55SktBZE5GV3R5NkFNa3UzSE10bUtLdFotcVNScTRZYkRIdnAwRVhvaU5vaXlHVExDYzF0Z0V1Q1RjMlNIT0hObmgxM3MtZFlYVG5tRTNsbEZuOXhLVjVxS09nYzFlbGY2SDl5RFVWMHZDNUt4S1U5QWfSAcMBQVVfeXFMTXhUajBNRUVuWTg5aVhXbWtIMnFTNlp3WExCNkEyRFRoeVlMbTNMUkZzSlB6TF9hNlc4bldhTzhwNmVlTklfXzhxRXgzYWMtSzFWRGs1TndUZS1uc241VUZMdjEzTFh3R0gybndDYjVDU3g4SFFjN0FqYlJrbFo0eXVZcjY3SkJLaDhCQm1ubV9VckJ6OUNJY1ZPOFhhZUNtRTZuV0xaclIyRmMzUXVMZ0FMOHhwbzF5R3VqSFBTLUhzQzh3?oc=5",
-      "source": "South China Morning Post",
-      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "query": "DeepSeek"
     },
     {
       "title": "Alibaba's Qwen launches Qwen3.8-Flash AI model with lower training costs - Reuters",
@@ -129,9 +94,9 @@
       "query": "Qwen Alibaba"
     },
     {
-      "title": "Alibaba’s Qwen Team Releases Qwen3.8-Flash-Next: A 125B Multimodal MoE With 6B Active Parameters Previewing the Qwen4 Architecture - marktechpost.com",
+      "title": "Alibaba’s Qwen Team Releases Qwen3.8-Flash-Next: A 125B Multimodal MoE With 6B Active Parameters Previewing the Qwen4 Architecture - MarkTechPost",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPakVUSFIxS2RRQWRUVWdUelZaLS15VmdBbUhXRDdXMHRnWEdTbDdhSXNlQUtqMk1RRkhmVlNMV3duaGJPRTdfQTZyYlB4OVhjaklUanVRSjhBOWJ0OWpJNUZ5MGRtVTJDUEVBdldmVVVzeDg3bGFiR1dabFJfdWZHa1pTTXJ6NEpxS05WRlJ1S0RzSzFfOVM1RXA3U2xTWm1CMVRucV9Xel9nSXBHQ3QwUmU3RmJzLXZoaDRGVERZMGpHbDdCSUxibHFxalBHX20yZzlsODNMYmozalZGSUVwVG8wWFR1bzJDTU8teldBcEtSNEplTlFrRGw4ZE84d9IBgwJBVV95cUxNZkhrWEYzbU5yMmZadkNGRUZ6ekFBSkVtU2xKV0NGSGdkR2NZNWtjZERNUHdLMzNPZVdPZjY1dl9lMTI5aV9YZC1fQUJpYllwTV9pdmNIRnAyUHRrTGkxbEUzX1VWdkJ3b0Qwc21UNXh6Zi1ZektUS0U1ZXVtSG1tLUlaTTdwWlZBQ0w3dW41b2N3V3piU3lBeHdlSlJMc01lMGhiM1JTQ1ZGUzNXSDdyejVQTTFFNFRBNTMzeXV6QUx5NmljSEM5VGpvN1o4em5JcmZPSU9WZldvNF9SMzA2c0NJUmtHRW96ek9wNjlMNlVPVVd3cXdUMlFycVpBSTJMdUYw?oc=5",
-      "source": "marktechpost.com",
+      "source": "MarkTechPost",
       "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
       "query": "Qwen Alibaba"
     },
@@ -139,20 +104,6 @@
       "title": "Qwen 3.8 Flash-Next is Cheap, But There Are Complicating Factors - AI Business",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3Fzel8wMmpCU2t1dzdxVmZxcnVTVFkxWTRxSUNHOGZxU05ZN2JVRXdjR3R5eThDd0ZGSFVFZ0hjUXUtM09WNkJfMDJqQ0ZrcndIZGhEemtueHowYWhXbWF4RkNMbEJKd1k4ckxVNTh3SWhnZEJaS05meVRwZnpCZFJGTDhhcS11aF9VVlRERFZ6OVM5Q2lCcw?oc=5",
       "source": "AI Business",
-      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "query": "Qwen Alibaba"
-    },
-    {
-      "title": "Alibaba's Qwen launches Qwen3.8-Flash AI model with lower training costs - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaEtBRWphTnBZd2k3dWlNelhZcWRiVWl5SnFrdUVVbGl1YmJNbjhWdGstVXU1WDdhd3JsSWtWOTF1TkNvUGdJbXRSbWF0eGcyNWQ4TEl5WkFUQ0xCMDBrX3FNTlgxOFhfeWk4em9fYjBsMmV5RFB1M1o0RzlhbF82WThrcXNGSFlTdjhGVjBNcy1raGVpYVJ1blp2MF9RU2VLbk83RHp3bUNPelp4X0NtbW00Zl8wYmtrelVNRE9XQ1l5eGN1M1JWbWk2QmU4NDJRWmxqXzVUOHRjdw?oc=5",
-      "source": "TradingView",
-      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "query": "Qwen Alibaba"
-    },
-    {
-      "title": "Alibaba’s Qwen Unveils A Cheaper, Longer-Context AI Model - Finimize",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT2tOOHR3ZEZDb0xYeG1sM1N3a0picURlMWdpODNaOEk0VjkyVUVtN1JrWk52OElSdkM5ZWFjVTRfdWpncUdDY0kyYnZUMXV6MDNLcVAwaTFNR0RpVG1vREFVUm5uOVdnSHVURjZaNTN5WkdpNTBGUGJQSHlMWDg1ajJSNzc2UnQwUHZJdg?oc=5",
-      "source": "Finimize",
       "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
       "query": "Qwen Alibaba"
     },
@@ -178,39 +129,18 @@
       "query": "LLM release"
     },
     {
-      "title": "Updates to our Privacy Statement and Terms of Service: How we use your data - github.blog",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUt0WEJpT0VFNzVWYkxPbE9wUTVSdUVldG9aaVBpbU9WaHg3OUNLcWlKZHVQUVYtX2Vpblk0dENvM3AzekpLTkplRi1aUXItWGFmRU5fTW5vSDhyRzh2RVgtdy1vbHhZQmtTMlY2aTR6SkFhTGZaczRONk55eWpqN1VsWldwUDZqRHhOM3lBX2szMnR0eEN5bC1TV1Z2T0lVbXp0SGd0RlBma0ZMMlJ2UFFpMWpRY28?oc=5",
-      "source": "github.blog",
-      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
-      "query": "AI model update"
-    },
-    {
-      "title": "Updates to GitHub Copilot interaction data usage policy - github.blog",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWUsteGlqR3FkVjlaUmVlOFRoeVh6Nl90c3MtWUEwZjV2MXFVblpNTVoySFdzRW1lZU52UW1paFRVcW1XMnUzRnY3Yk1INzA0TlNoVTNJZ2lUUEF0M2llMmFVOFBUTlhoZE4yNGxUd29TQTBZUUJrcGlGT2w5b21DeVRxX1FyWjNlVWxWakM0clZ3bW41dUVKaXBiS2x0RUNCNVN1Mmp3?oc=5",
-      "source": "github.blog",
-      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
-      "query": "AI model update"
-    },
-    {
-      "title": "Inside our approach to the Model Spec - openai.com",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ReXBhMS1ONTNtWWtRVDN0aVRkMThHS3NjV1dNRFNaR0J2TDdHdWFLRkw5ZGdNcGR0OEpJV05QSGJONjBXVncyZ3RURzg1WFpmblBtb21JMDBPWk9rRmNGOTk0bTlYTzQ?oc=5",
-      "source": "openai.com",
-      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
-      "query": "AI model update"
-    },
-    {
-      "title": "Model deprecation update for Claude Opus 3 - Anthropic",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xbjF4a3FWLXdtUmxfZ1R4SkdpNXBhcHQwUmdZRzNoekVfSmlPSXlxV0JXVWNnaDd4dlpFa3Y3TGJPZk9hQlU5ZXlYVC1JaHFyWkdEVnJoVDBycEpScFVlM2hHREoyakx1VVUzbTBB?oc=5",
-      "source": "Anthropic",
-      "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT",
-      "query": "AI model update"
-    },
-    {
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip - openai.com",
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IcjFBSWc3NkotMVUzaDNHaWJBcWVtQXZHbnhpUVZrekpPWENRNEZrQ2hOdTFnejg2WTdvWFNQeFI3RGJnRE9qTFI3czJQX28tQUd3OC1ncFlEMnJtQmdONE8ya1NOa1BVOHhVTGNjdUkxbDg?oc=5",
-      "source": "openai.com",
+      "source": "OpenAI",
       "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
       "query": "LLM release"
+    },
+    {
+      "title": "Here’s How to Opt Out of Google Search’s New AI Data Training Feature - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaERtekhaOHY1UnZxUVhXV2dGTzVqYk5VQlQybU1jVXdtM3hpTHNGVTVTZ1MtUThtY190MXVFN2R2VXV1Ykp6ZDVWX3k5T25kNFp6U2dNd0xpNFYxUi1halgxQ25VQVJBc1NBT1dNQmVDWmEwVGw2TE5NRXFTeENQSkRSU2hEcmFr?oc=5",
+      "source": "WIRED",
+      "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "query": "AI model update"
     },
     {
       "title": "Midjourney Wants to Scan Your Body in 60 Seconds - TechRepublic",
@@ -227,9 +157,16 @@
       "query": "Midjourney"
     },
     {
-      "title": "Alibaba slashes Qwen AI model price during US working hours in fight for users - South China Morning Post",
+      "title": "Assort Health scores $120M series C to scale voice AI agent platform for healthcare - Fierce Healthcare",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOREx2eWZCQkFpNzl2WnBsMUh3clllRFpVdkhhZ2l4Qzg1WXM4Y2tZaGhET2hNd3VQRDNIX1RHb01VbHlzX1BRV1JaMkpPMkhOdjUwb0FZa0RSS3hleGkwcndBWXZRSlI4Ul9uMm10YVQxQzFqZFFwbklkSmxtZ1IyMUhQSDJrSU05M2tvSmNlT25YeGFCUmFYWkZtRDdiRVJHZ3NjQkRzbF9IZWVobGRYVkVUeEVvQ0RGWVBMTGhSTVF4dDBLZ2hDcTdXTHA?oc=5",
+      "source": "Fierce Healthcare",
+      "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "query": "AI agent platform"
+    },
+    {
+      "title": "Alibaba slashes Qwen AI model price during US working hours in fight for users - scmp.com",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMno4RkJQQXQ0TS1IeFJGbnVCbGFiYUNWakg4amY1cjFSV0lUMmxJVXRreGRUdHpsb3JSY2RWbk9OdmNmaEJpRHV4aUpkbjh0WFlXb0R3ZHlQOTZ5OU0tTnVSU3ktZnAwbXZUbURfZEVtNENscmV6dklKVHVuZU44Y2ROMHkwbEVOSUN6Uklsb2Z1ZWpuRDdEUFNfaHVhd0RsSklxaUlLNF9VeEMzaXZSa2xMNmhxQjNEa0xKYWRhbUJ2ZVhnVENtRmdoc9IBywFBVV95cUxOb29qSkhUTWlwdnlsRXg3Z2o2LWFfZVA5bmRyODBrTmE1VDRueUxEYzZVNnZjV29QcVpIV1JzSWI5QXF5cHBISDdNM0hhZUhVUkpFOFI1LUZaTmh1Unc4N0NIcXk3cVZidE5VbXRzT3lKZEZmQldzYmx0S1d6c2dZLXNnY21zV3V3YTRWemVBSFI5dmVUSTRaX1RXZElfdzBBQUhtWHN6QVRzX1NFU3pVSkVFeGlVYmdsdDh2LW9ld2dCUHlaOXVCcEtucw?oc=5",
-      "source": "South China Morning Post",
+      "source": "scmp.com",
       "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
       "query": "Qwen Alibaba"
     },
@@ -246,6 +183,111 @@
       "source": "Trend Hunter",
       "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
       "query": "AI video generation"
+    },
+    {
+      "title": "China’s AI firms join UN talks as Altman urges global safety standards - CHOSUNBIZ - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU1Q4MVNTY2JlY2hjNGFZVTRFSkhZRHc0UER2UnhVRWFiZllhSHF1Xy00cFF4eXFWNjFEVS1zaUo4cEtZN29zaHpSZG9QVHc3MmFTUkY0N3lYR0hNM1hBNy12NzVfQzdvcjJiSmRIUHhWT3Y0UTBIWklaaldQdWgwdHZXclNoR1N30gGcAUFVX3lxTE9RcW9qZDNfS28xWEpDQTNYMjhmRHNYZllMUFlSOW5JS3JxN3M2eWxjOFp3M0tuRXZKTHo4YUMwWlRycVFVY2tyOWQ5X0pKWVgtOVEyZ1dIak1kdURPVVBONDR3MnRrWXVBQVJuQmFOUHZCaFVweFZTdjhyenNIMUF5SkhUUlJ5bXJPWDRqZkdQX0g2S1NndWFsT1pGSw?oc=5",
+      "source": "Chosunbiz",
+      "pubDate": "Wed, 23 Sep 2026 01:03:00 GMT",
+      "query": "DeepSeek"
+    },
+    {
+      "title": "Google Launches Googlebook Premium Laptops with Gemini AI - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84S2ljbkVGSHkwSG5aaERXX0tnS2NIQ3RQVXhLMUt5VG93Qkx6bUxmZzgwZGJ5QUlJTGRmTU1zQnVjSXRRYlMyeWpWSlpXTEwwc2NjM2NrVQ?oc=5",
+      "source": "x.com",
+      "pubDate": "Wed, 23 Sep 2026 00:53:44 GMT",
+      "query": "Gemini AI"
+    },
+    {
+      "title": "Reuters: China's AI Startups DeepSeek and Moonshot to Attend UN Security Council AI Meeting - news.sbs.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pYkhrMXNtZ2V3QmNrRUNBTk5YdXNBOUZhYzYtakgxeDdSeV9sbnk3TmlQS0lGWWcyLWFPRWJpd3RXMjN0SG85dnd3QUlLNDl5dEFaRXYxNXlVOFRfb08tNUFEWHAwXzRWX2lhWDRR?oc=5",
+      "source": "news.sbs.co.kr",
+      "pubDate": "Wed, 23 Sep 2026 00:45:30 GMT",
+      "query": "DeepSeek"
+    },
+    {
+      "title": "AI staff complain of mental toll over fears of threat to society - Financial Post",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYXY2MEQ0NC1aTWtZQldjcUxFelBSVTUzaUxqVDROV1Jsb3ktY19TbmdMejZ2OG1FdHJDSGNZTlBmR2ZMZEFIcl9pSVYwdjNIZEVQZ1NPbkUyMm5BTHJZMENQRWR3U1ZuZlBfVnNTNU1Ka0VIcXdJN3Bkd05FVEZGRmFrcExtc0xRNkJMVg?oc=5",
+      "source": "Financial Post",
+      "pubDate": "Wed, 23 Sep 2026 00:42:50 GMT",
+      "query": "Google DeepMind"
+    },
+    {
+      "title": "Measurements for understanding the pace of AI development inside frontier labs - anthropic.com",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5",
+      "source": "anthropic.com",
+      "pubDate": "Wed, 23 Sep 2026 00:37:36 GMT",
+      "query": "Anthropic Claude"
+    },
+    {
+      "title": "Anthropic makes things more uncomfortable for OpenAI ahead of IPO - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb3pxTjB6NVFUQjFyNVZPal94Y3VnR3E2S2cwVnBCLUg4eWtoMjEwVkdsd0FqQ2lvcjR3R0tENVpoVVFEUUxCVk5paFpkYTYtQVUzSFVWYWdVSHktc0tCU1NLRmNaUXdjUHRuT3hGQkliX3l5WEpERDRCOXNkeUtKWkpqZnhFdG9VbzlKbjhULXVLYUp0RHNzTlgtV3R6Um9VcURrcjRZVEw?oc=5",
+      "source": "Yahoo Finance",
+      "pubDate": "Wed, 23 Sep 2026 00:37:00 GMT",
+      "query": "OpenAI"
+    },
+    {
+      "title": "GAISS 1.0 – OpenAI’s call for AI safety standards. - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNE1qdkxXZjRvX051aVZJTzlqTjFXSXl6TVRaUlpMck1ncFRWMVZkZW9KSklBdFB0eDByWlRtbnlsMFpTN1dMZ1h1VmxWMTBsb1h3akJFcktOSHVoVXdHcFlwbE1vM0ZiUVBjbkpkR1EwMjFCRkFKeDVlRDNlSDZCSWhFUXRjZw?oc=5",
+      "source": "The Times of Israel",
+      "pubDate": "Wed, 23 Sep 2026 00:21:00 GMT",
+      "query": "OpenAI"
+    },
+    {
+      "title": "Anthropic unveils Opus 5.5: powerful performance, still premium price - TechTarget",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMHNETE1yWmNpLWRncTh6UVc5UEM3Z1BHNGFQVEZpR2s2ZDFBZzc3d1FWRmlRbVdrNnNGWXRJOUJKZmJKV0xKWFZWWVJhQW05RUlHaldIejdLWWh5SGtyRVFrOUNERGhLN2tVRm9VV21INXZLS3lpTGlwNDJTbmZ2enVEOFVJbFFmZUdtY05FbHZDOHBTaWhSYVJpZ0VWaTdQVGU3c0pERVNreC1McnVlWQ?oc=5",
+      "source": "TechTarget",
+      "pubDate": "Wed, 23 Sep 2026 00:19:41 GMT",
+      "query": "Anthropic Claude"
+    },
+    {
+      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWFd2bjVXZGlMRVdRR1J6OUlqcmtPM3dELXhRT29zeHFvVUY3cjJBNTdVWnRRZWJ3aGpXRVNRcVZySlFWYVFnX0FrVGhZQmZtcDh0YTBtNGRKaDByMVJxZE4tdzJDSElBRDF3T2swTkp0ZFRsc0J3bVQxQkpuNFJTVlB0dTlSdExOM1RZMEZ0Yk50QlNIcGhB?oc=5",
+      "source": "The Verge",
+      "pubDate": "Wed, 23 Sep 2026 00:17:00 GMT",
+      "query": "OpenAI"
+    },
+    {
+      "title": "OpenAI Recruits External Watchdogs to Police AI Risk - PYMNTS.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWVdvb0xBdlB3bzZKaGlTeWxVMGtiMGs0NUxOMGxHTjBNWkpidlh1VjdoMml4OVFUandoVUctN1IzMm9pSlJ1MlpCTFNUUmI2SmlkZnFQU1p1R1lSNXRYUkg3Sk9GUUEzZ2RBZTZwQ2JVY3dWOGhMbEJ3UHhDcURNcEs4UThwN0NBV2Exd1VmVlk2ajNfMFBZNUstVURiVmh4NGNvTGwtZzJ0dDJ5bExB?oc=5",
+      "source": "PYMNTS.com",
+      "pubDate": "Wed, 23 Sep 2026 00:14:08 GMT",
+      "query": "OpenAI"
+    },
+    {
+      "title": "'China's most powerful AI chip': Alibaba's Zhenwu V900 - The Next Web",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObGdRclZiUFNkRzZEWks5MWdJYW1xY2JNbkloSVByV0hvcGhZWmNoT0ljU1dFYWlmMDhqUUJvR052ZTRKWFdGa2oxQ2dDbFZTNldvM1gxT2FqeEVidXRIV3pLTTVsd0dsTkxLcVcxS1JHZWJBdzRFTUJkTF9BZU1aMXpRNmhNcW8?oc=5",
+      "source": "The Next Web",
+      "pubDate": "Wed, 23 Sep 2026 00:08:26 GMT",
+      "query": "Qwen Alibaba"
+    },
+    {
+      "title": "OpenAI executive addresses AI development in Minneapolis - kare11.com",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPV0pZa0l4ZXNJRHQ4M1NKUGtSYzl1WTZTcmtudWJoRkVOSEN4WG52R1kzWUsyOXIxV3FGQkdzZDlUUThhSmNtZ2RRaktBczlrWUQ1RHpTcGtVaWlYQ3gzcGItQXo5b01sSHlyMDJraXZPcV9lOEU4MkdId0dXbTViaWlZOWtaVVlPYTFYUlFqV1piNTdxM0phcWtoU1JBSHFFRmkxOEdoSUNOdWJhZWJOQ1Y4dU10c1BscGUzT0ZNZHNyaG90TzBzSjE1R3FQaE1zWThCTVNadTZGeWI2ZFVEcm5CNnk5REJLNXc?oc=5",
+      "source": "kare11.com",
+      "pubDate": "Wed, 23 Sep 2026 00:08:00 GMT",
+      "query": "OpenAI"
+    },
+    {
+      "title": "Anthropic Launches Claude Opus 5.5 With 40% Lower Costs Ahead of $2T IPO - CoinGape",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcXc3NmRMM1h3cmh2WEZoYlhVSlFscFhvYUxEdktvbWpXejZiNFdyNmlPZDhBT2ROSE56M1hEcTJvWUlHQTByYl9PZ1BuRUM0VzdlWUZQSENNc2locGoxaEozQldfMWJMNGVqTndnV3BmTnV1TTd4Y1RaRVh2dGdzRER6UzRKYjdSMVQ1bWM5ZGpxREE5Njhr?oc=5",
+      "source": "CoinGape",
+      "pubDate": "Wed, 23 Sep 2026 00:04:59 GMT",
+      "query": "Anthropic Claude"
+    },
+    {
+      "title": "Frontier AI keeps racing despite calls to slow down - The Register",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeTFwQ1U5Y2NKTmM3QW0zd2V6a3I0SUphMWJsQ3I1SUNoVFpEb3VkU19MaUNraHZKOEJSRE92clgzS1hPNHFvaG1vODF4OFMwT1ZFMFFuLWd3TjUyRjEwR3NkM1J5REJCU2NXLUxTcElvVXc1SDhMTjRDN01DVm9MaWx2VU5sM2FVRjlnaU85NXFHeXFEb0JuY1A1c28yMHlpdjdnSGtHN1EyeEVr?oc=5",
+      "source": "The Register",
+      "pubDate": "Wed, 23 Sep 2026 00:02:47 GMT",
+      "query": "OpenAI"
+    },
+    {
+      "title": "Security researchers used Claude to break into OpenAI systems in under 72 hours - Tech Edition",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObE5WME45U0RWRDhzR0tLZjFhRXVnVVVYajdtVTNHOFBMQ083SGp2azI0MnR5NkREOXRaSE9tRXVOanAzaWdLU2k0R3VCdmpQWEYyb3JfMGdFSGEyb0t1enZtSEt1ZjJ3RURlNngwVVdwMk9MLVhOZzVjcUJEQTBPNlhtRDI4VjlyeWM5RFpxaXdZTmZrWTliSUJQTHJaWWxEak9mMGd3?oc=5",
+      "source": "Tech Edition",
+      "pubDate": "Wed, 23 Sep 2026 00:00:00 GMT",
+      "query": "Anthropic Claude"
     },
     {
       "title": "EU releases multilingual AI model for all 24 official languages - Digital Watch Observatory",
@@ -272,13 +314,6 @@
       "title": "Alibaba's New Qwen Image 3 AI Wants to Be Useful, Not Just Pretty - Decrypt",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HWVRFWXFWYkFhZW5zYm13U2hZbkY0Yk03RVp6Ni1oN2RpakJNWGJ6RXFVU3ROelZsbnY2cVdJcU1nS1UteWZNSk0xQ2NQeUthdGtaRm9MNWxFVjlORVYyVEVBU010S1RMVDVJaWpIdFZqeFUzMGdPRDVkcmLSAYQBQVVfeXFMUDRGVWNfYzlVaUpLXzdTSFJYRVhjUW1CVklhaXIxNzFoNkFrRk1lX3piVWd2RE4tMW1ZMzctbDBUX0N6TEcwbFN4ajgxcHlJTUt6bjcxbVYxUUI2ZW82ZGdZT1dSSGxfNHRjeEhmWnFTcVJ5YjRxaTdfSl9heXh1RzUzSzRQ?oc=5",
       "source": "Decrypt",
-      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-      "query": "Qwen Alibaba"
-    },
-    {
-      "title": "How to Play BABA Stock as Alibaba Unveils New Qwen AI Model - Barchart.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcDVseDlCYzNkOHZPWFF4N1VXci1jeExCNjhZd2w3NlpDMnRDbkI5SWhVeEpHMzhZQmRWN3hYWjNySHR5UEw3VmRCbmpwV2tXTS01cmdiMnBEY19uYW5fNUp3OXlUWjFpVkRMM3N0LVlCN3YtcDc0ZGtodVJrMlV0S3FUc3pycUlSZ1FnR0hvTG1PLW4tNXBDUktZNEJvOW5peXZwLW1R?oc=5",
-      "source": "Barchart.com",
       "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
       "query": "Qwen Alibaba"
     },
@@ -311,46 +346,11 @@
       "query": "LLM release"
     },
     {
-      "title": "AI-powered defense for an AI-accelerated threat landscape - Microsoft",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTU4wMXJBcTVPRmpKblh6WDE5QVlPN0lfMHpsMmlWOF9UM3RnQ09GX1VxWTBNVkVvMzBEbFBZTlV3dGJvand4S3M0U2ttS1NlVy1weXpUR2hKZDNIUFRtZ0Q4bWxpRTdPanQxODdUQjZoYUNDT1AxTGtjRFhoWTA2MTBibHA5NzhQU1dlUjExZ202VXhiYWpTamkwWW1IaXdXV2FwOTZZQkRyQmRtWThlSzcyUzM4QQ?oc=5",
-      "source": "Microsoft",
-      "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
-      "query": "AI model update"
-    },
-    {
       "title": "Google just launched its agentic enterprise play, and it runs from chip to inbox - The Next Web",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xU3BoLXpWUmNXeGFMeVROS2RqTXBQSXdSZVVYbVpMekdPakRpMnRGUGJ1TFQ2aXItQ3lPYUlRNEMxVFhUSEQ0LUx0VDctMEttQVZJZkc4VDBvUUpqOWt4MG80aHZhQWRvVkxUX1VBZ2FuVFN0Y3c?oc=5",
       "source": "The Next Web",
       "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
       "query": "AI agent platform"
-    },
-    {
-      "title": "Strengthening Singapore’s AI Future: A New National Partnership - Google DeepMind",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVERnRXI0TW9hNk54SWVWdzR2STc4T1pXM1pYMFJXMkI5bmN0R3FtNnFrRE1YS3FDVEZ1TDVzWEhoemtzT0tQZU9FeFQxT0VvWmJCb2k2dnVOVUhKQjdnT01uQTM5NTBNbFd4Zmo5emp2Y0xCaUk1V0NJR1VIR2Q0WUxWVk1Ec05icmtYNVQybTNtUEtxeFE?oc=5",
-      "source": "Google DeepMind",
-      "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-      "query": "Google DeepMind"
-    },
-    {
-      "title": "Intel llm-scaler-vllm PV 1.4 Released With Updated Components, Arc Pro B70 Support - Phoronix",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5ZFhhR0EwMWl5NE5RQ3pQWEIxaHQwZDhyUGJOZWItaUJGQ0hBdW5FY3cwYktBeWdoSmpvN25XcWFOOTg3UGxKNEhWeHRlQmxKN3U2RFBxRE93S0poaWJLN0dfdXhZSzAwQWc?oc=5",
-      "source": "Phoronix",
-      "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-      "query": "LLM release"
-    },
-    {
-      "title": "Google Shifts to AI Search, Heralding Major Change in How People Use the Internet - Time Magazine",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55VFlTZV9SSURGVzRTWXEwWWNqcmFKTUhIeUwwLTBCbjZrbDZRVXc3ZlVKT18ybnpXYXBRNVFMeWlXWWF3c3pyYnBqMTJYREJVNUpEVGhJYmYxNW5Bb1hQUHJMZGpqbEcwLXZNd0dCbw?oc=5",
-      "source": "Time Magazine",
-      "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-      "query": "AI model update"
-    },
-    {
-      "title": "Midjourney's TPU regret is a warning for AI startups - Startup Fortune",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNUFJaW9taFg5V3hGbDdhWU5tODVjb2c3amZ1R2pWczRhZHVSaGVtUkJ2Z05kUVZ0R2ViUC16YllBeU40MUpuWGZFMjlablFMbFZKOF9obEJZa0ZySmFKQkNwVk5ib3RvczhkaXRkRUF0dUk1U2tPd3ZxLVdqZVF3b3hsOUpQZw?oc=5",
-      "source": "Startup Fortune",
-      "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-      "query": "Midjourney"
     }
   ]
 }

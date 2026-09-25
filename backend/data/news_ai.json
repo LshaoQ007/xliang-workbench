@@ -1,11 +1,18 @@
 {
-  "updated": "2026-09-24 01:35",
+  "updated": "2026-09-25 01:45",
   "count": 50,
   "items": [
     {
       "title": "17 predictions for AI in 2026 - understandingai.org",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PR29QZDE4VkptMDZLRWhnRU1TZU8wN1BVa1lmZVAzb0VpR2RnbHJic3NsZDB2SmJjZS1abFB1ZlhWamxITjFwYnE0TWNTY3RhNVhnR2JYal84OHdzRmxSNmNMOXRCanV6Q2NYOU5DYVE?oc=5",
       "source": "understandingai.org",
+      "pubDate": "Wed, 31 Dec 2025 08:00:00 GMT",
+      "query": "LLM release"
+    },
+    {
+      "title": "Everything Apple Is Releasing in 2026: iPhone Fold, LLM Siri, Low-Cost MacBook and More - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84NWhTWHpSaVNVQTEyam93dGxKdlYyQzZwOWtaeFF6LTZDeXMtMldfZHd6bF93RGgxeW9CZTY3NTU0Q3ZMblExWDgxYVNQY1JMbWh3QTBXVnFYS2l6X1ZYOENCOWZCTGZqXzQwWFpZMU0?oc=5",
+      "source": "MacRumors",
       "pubDate": "Wed, 31 Dec 2025 08:00:00 GMT",
       "query": "LLM release"
     },
@@ -17,6 +24,13 @@
       "query": "AI model update"
     },
     {
+      "title": "Windows 11 August 2026 Update Adds AI Model Uninstall, Windows Hello ESS for External Sensors, and Touchpad Gestures - gHacks",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZGlVcHBxS2pZS0VVdUdaTjUyMTZvckFwbWFJT25OSmhSS214ckhyV29DNXA4WHEwbmlvN2Rna1JvOGFjaWdmQ2tKSHVtRkNscmstdFRzbWRyZldjOGdmMDBOTC04T2FDZm5nMG5zb1VhYlRiYVE0WEhWVndxWXZ2OHVTN2xMZ3dUVUNKU2FpcUVGVTB3ZlluSlJXYnNkbm9IU21rSnlDbFlkT3BTYkN5Nm9rdmFDcVlLV09jeGxZQjNZOWg3MWFZcjdEakxLU2RKTHlvOW9aZ1phd2lRb2MteDdsbw?oc=5",
+      "source": "gHacks",
+      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
+      "query": "AI model update"
+    },
+    {
       "title": "MUSC Health expands use of SoundHound's AI agent platform to retail and specialty pharmacies, surpasses 2.2 million patient calls - SoundHound",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZEd1bWdHQ0FOYzhKNzhvY3NtYWh0Tzl3UkpNdlBsNEpvbE5tMm8zUlBtRmFCV0RaanJKaHBKZ2plbFozYkVjdkJ1S0liOE1JMHdRaERySzJESmxqOWE5N1g1b0ZheTI3NGRtVVlwUGZrakE1SWpLVG0tVzFwNnpzU3FsTVdoZ1Y0VUhSeEotbUtrSUxqdkN3dHdQQ0RqUnZINnBoV0xYajFXckdjNHNUd0FDeTRzdjMyT05aVXgzLTU0RWJYWEtvR1VhMTdfRE1BUnc4WnIxSUx6eGJDQTdkS1ZQdmRfNkFuWVA4VU5OZEFnZkRsMGc?oc=5",
       "source": "SoundHound",
@@ -24,9 +38,9 @@
       "query": "AI agent platform"
     },
     {
-      "title": "Fusion AI Agents: Secure by Design Best-Practice Considerations - blogs.oracle.com",
+      "title": "Fusion AI Agents: Secure by Design Best-Practice Considerations - Oracle Blogs",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaENaUjlZV3lrSXVFUl9XZzBGaW05cUI1TkpuOUVkVUJhUHNqSkVKdlNXNjRVZUYxdnZVQjRrV1BDeWFrOXh2Q0JJamFrRzFZdG1YRDhaWGFQVnZ5aFJRYVJNLV9zV3FNR3h3aVNxWlA5N09ORnA1NVlqRUFxSV9SbW5seUpsdw?oc=5",
-      "source": "blogs.oracle.com",
+      "source": "Oracle Blogs",
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
       "query": "AI agent platform"
     },
@@ -66,23 +80,23 @@
       "query": "Google DeepMind"
     },
     {
-      "title": "Alibaba's Qwen launches Qwen3.8-Flash AI model with lower training costs - reuters.com",
+      "title": "Hundreds of AI agents went rogue in OpenAI’s Hugging Face hack - politico.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVF5Q3hJemxqUXVJd2M2OHpKZ3RPVmY4SEU0VUNpZmVtYWxabk1Mdy1lXzh3czEtUTFHbVZaNjAyZmpicG11X1ZPYzBTSWQxdWlCQlpnTmROWWtETlNCTk5SUDVYZHZWRzgtWnFJV3h1Qm5Ud284NDJWcmtmTmEtX2hnMmZQMXJqZFlkbnBwbzJqVVlKdEsyUXdrSVJuNDdjamFMZnNDRlI1Z2Q0X29EbQ?oc=5",
+      "source": "politico.com",
+      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "query": "AI agent platform"
+    },
+    {
+      "title": "Alibaba's Qwen launches Qwen3.8-Flash AI model with lower training costs - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNFBiN0MydXZkUlB3UHdHb0xzNGNqVVhKdzZVMkQwalM4WWozbUxWSkZuRTljSXdfdjdOUjZkMWN2SEVRSnBXTEJwSlJfdkNqNzJreVp5MDNULVdDZ1ozSzE1YXp6dWR6MzZsOFBlRllhdlZEQmVBa1Eyb1hpQWlMWmdUaGlzeFpUZFlDZUszLU5KRG9SblF0VTNFT092TllTQnVqVlZHY2J3Uk1WblBfOUJGRmFob041dzEwRV9WaU5TWjlxbkswcTVJRQ?oc=5",
-      "source": "reuters.com",
+      "source": "Reuters",
       "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
       "query": "Qwen Alibaba"
     },
     {
-      "title": "Alibaba Releases Smaller, Cost-Effective Qwen AI Model - Bloomberg.com",
+      "title": "Alibaba Releases Smaller, Cost-Effective Qwen AI Model - bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVFN2VVNaUWE0bXJiNjQ2VWJlbngtWlpzcnY3RG44VlB1eVVhMWNiT21wYmVKSDJnQ0JkNXMycVg5bWRqQ2RIZ3E0d0hzdkEzUlNPV05aUjRUTFhzaXlNdVhVSHFXNGRuZFlPWUhEeEtKemMwdWJValR0MFpZM19OMVRpS1piVVhZWEI3ZmdJZmlDR1B5d2JMRU5DcENuSUktd01Ra0J6Zw?oc=5",
-      "source": "Bloomberg.com",
-      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "query": "Qwen Alibaba"
-    },
-    {
-      "title": "Alibaba’s Qwen Team Releases Qwen3.8-Flash-Next: A 125B Multimodal MoE With 6B Active Parameters Previewing the Qwen4 Architecture - MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPakVUSFIxS2RRQWRUVWdUelZaLS15VmdBbUhXRDdXMHRnWEdTbDdhSXNlQUtqMk1RRkhmVlNMV3duaGJPRTdfQTZyYlB4OVhjaklUanVRSjhBOWJ0OWpJNUZ5MGRtVTJDUEVBdldmVVVzeDg3bGFiR1dabFJfdWZHa1pTTXJ6NEpxS05WRlJ1S0RzSzFfOVM1RXA3U2xTWm1CMVRucV9Xel9nSXBHQ3QwUmU3RmJzLXZoaDRGVERZMGpHbDdCSUxibHFxalBHX20yZzlsODNMYmozalZGSUVwVG8wWFR1bzJDTU8teldBcEtSNEplTlFrRGw4ZE84d9IBgwJBVV95cUxNZkhrWEYzbU5yMmZadkNGRUZ6ekFBSkVtU2xKV0NGSGdkR2NZNWtjZERNUHdLMzNPZVdPZjY1dl9lMTI5aV9YZC1fQUJpYllwTV9pdmNIRnAyUHRrTGkxbEUzX1VWdkJ3b0Qwc21UNXh6Zi1ZektUS0U1ZXVtSG1tLUlaTTdwWlZBQ0w3dW41b2N3V3piU3lBeHdlSlJMc01lMGhiM1JTQ1ZGUzNXSDdyejVQTTFFNFRBNTMzeXV6QUx5NmljSEM5VGpvN1o4em5JcmZPSU9WZldvNF9SMzA2c0NJUmtHRW96ek9wNjlMNlVPVVd3cXdUMlFycVpBSTJMdUYw?oc=5",
-      "source": "MarkTechPost",
+      "source": "bloomberg.com",
       "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
       "query": "Qwen Alibaba"
     },
@@ -94,51 +108,23 @@
       "query": "AI video generation"
     },
     {
-      "title": "Updates to our Privacy Statement and Terms of Service: How we use your data - The GitHub Blog",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUt0WEJpT0VFNzVWYkxPbE9wUTVSdUVldG9aaVBpbU9WaHg3OUNLcWlKZHVQUVYtX2Vpblk0dENvM3AzekpLTkplRi1aUXItWGFmRU5fTW5vSDhyRzh2RVgtdy1vbHhZQmtTMlY2aTR6SkFhTGZaczRONk55eWpqN1VsWldwUDZqRHhOM3lBX2szMnR0eEN5bC1TV1Z2T0lVbXp0SGd0RlBma0ZMMlJ2UFFpMWpRY28?oc=5",
-      "source": "The GitHub Blog",
-      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
-      "query": "AI model update"
-    },
-    {
-      "title": "Updates to GitHub Copilot interaction data usage policy - The GitHub Blog",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWUsteGlqR3FkVjlaUmVlOFRoeVh6Nl90c3MtWUEwZjV2MXFVblpNTVoySFdzRW1lZU52UW1paFRVcW1XMnUzRnY3Yk1INzA0TlNoVTNJZ2lUUEF0M2llMmFVOFBUTlhoZE4yNGxUd29TQTBZUUJrcGlGT2w5b21DeVRxX1FyWjNlVWxWakM0clZ3bW41dUVKaXBiS2x0RUNCNVN1Mmp3?oc=5",
-      "source": "The GitHub Blog",
-      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
-      "query": "AI model update"
-    },
-    {
-      "title": "Inside our approach to the Model Spec - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ReXBhMS1ONTNtWWtRVDN0aVRkMThHS3NjV1dNRFNaR0J2TDdHdWFLRkw5ZGdNcGR0OEpJV05QSGJONjBXVncyZ3RURzg1WFpmblBtb21JMDBPWk9rRmNGOTk0bTlYTzQ?oc=5",
-      "source": "OpenAI",
-      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
-      "query": "AI model update"
-    },
-    {
-      "title": "OpenAI shutters AI video generator Sora in abrupt announcement - theguardian.com",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxSjhhNmprLUw4djBMbENiYnlqSjZ0c2lBR3ZEazNkMnlyTWFJZmlHWU1PLVdlRWx2enNxNkFOS041SWNfRTVsVHpnY2lJUVR6MFVISnU1MkI3dTJnWVVTb01ObDRPR3YwdTVHaTRDVnVWRUE3cVdnSUpTTQ?oc=5",
-      "source": "theguardian.com",
-      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
-      "query": "AI video generation"
-    },
-    {
-      "title": "OpenAI closes Sora video-making app and cancels $1bn Disney deal - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13Y2g4d0sxSGwxaEF4UkY4ZjZwelRCWFB0anAtRXdmVUY3c0ZwQjhBWkVqWHVIdC1VelM2TWMzY0p1SWEySW5zSHYyWjlmWHhyNHJ6c0R4YlJjUQ?oc=5",
-      "source": "BBC",
-      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
-      "query": "AI video generation"
-    },
-    {
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip - OpenAI",
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip - openai.com",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IcjFBSWc3NkotMVUzaDNHaWJBcWVtQXZHbnhpUVZrekpPWENRNEZrQ2hOdTFnejg2WTdvWFNQeFI3RGJnRE9qTFI3czJQX28tQUd3OC1ncFlEMnJtQmdONE8ya1NOa1BVOHhVTGNjdUkxbDg?oc=5",
-      "source": "OpenAI",
+      "source": "openai.com",
       "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
       "query": "LLM release"
     },
     {
-      "title": "Midjourney Wants to Scan Your Body in 60 Seconds - TechRepublic",
+      "title": "Here’s How to Opt Out of Google Search’s New AI Data Training Feature - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaERtekhaOHY1UnZxUVhXV2dGTzVqYk5VQlQybU1jVXdtM3hpTHNGVTVTZ1MtUThtY190MXVFN2R2VXV1Ykp6ZDVWX3k5T25kNFp6U2dNd0xpNFYxUi1halgxQ25VQVJBc1NBT1dNQmVDWmEwVGw2TE5NRXFTeENQSkRSU2hEcmFr?oc=5",
+      "source": "WIRED",
+      "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "query": "AI model update"
+    },
+    {
+      "title": "Midjourney Wants to Scan Your Body in 60 Seconds - techrepublic.com",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUXFNemxDbXVrSWotemFJVFk0aVY4dERoekE3MThLRXp1RkhSNndHMEdJc0lWU2pyN1VJWHFNRW5mZFhhZ21HWWZTeDlzSUczN1JkQmZ3QjNXSkhERmJ4Zi1IbGI1TTJXdEx1ZjFYd3ZnajJUZmtTRlRZT3dzLTlmdlNaeVBBWjM2VUE?oc=5",
-      "source": "TechRepublic",
+      "source": "techrepublic.com",
       "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
       "query": "Midjourney"
     },
@@ -164,24 +150,17 @@
       "query": "AI video generation"
     },
     {
-      "title": "AI Video Generators: Midjourney Video AI Creates Stunning Videos From Text For Free - Trend Hunter",
+      "title": "AI Video Generators: Midjourney Video AI Creates Stunning Videos From Text For Free - trendhunter.com",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WaGlOeFdVYVBDQ2xia0Zzcl8tWFJjcmtyZWx3U0hpZmg5bmEzRmFBZEs3QTliaC1XMDVvMzRKeF9TdmtJZGZKS0RiV0ZBWkxqdnh4RUdMMUhnZUJSMklMTUtFby0?oc=5",
-      "source": "Trend Hunter",
+      "source": "trendhunter.com",
       "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
       "query": "AI video generation"
     },
     {
-      "title": "OpenAI says Apple Intelligence users showed little interest in ChatGPT integration - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSTc4UW9TSjVMZmNmYS1pdmVCSTJhSWJ1TktUUkd2N3ducllMRnRsZ2hpZW5UMUY5bnFycWZtUXl1cEdiU2w0VFhZc25KTEs2aHU0aERGblNrSmFJV1BpcDQ2aHFjalJXNFotTXRJUkU2Uk12bjVNVzctX3VUSUZjMjJxOWF6S29BRWwxWDhadkJ6UmRnQXpTTjJHQTVFVnZqYUdRZkVMWjhrUEVwbFVzbVBUMGM?oc=5",
-      "source": "9to5Mac",
-      "pubDate": "Wed, 23 Sep 2026 23:58:00 GMT",
-      "query": "OpenAI"
-    },
-    {
-      "title": "Two years of OpenAI Academy - OpenAI",
+      "title": "Two years of OpenAI Academy - openai.com",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pTm1fMjdaS1JxMVFYTGo5Q2gxTVdWVmNRZWFsNmNLU2RnMWl6LTVlXzAwWWl1RnRjVEdxSG5NSHFzSkZodk8zNjk0ZmYwZjFkQXVhOGUyajF2LW5WOWx6MUZRTQ?oc=5",
-      "source": "OpenAI",
-      "pubDate": "Wed, 23 Sep 2026 23:48:45 GMT",
+      "source": "openai.com",
+      "pubDate": "Wed, 23 Sep 2026 23:54:57 GMT",
       "query": "OpenAI"
     },
     {
@@ -192,25 +171,18 @@
       "query": "AI agent platform"
     },
     {
-      "title": "OpenAI’s new priorities for third-party assessments are a fine start, but they lack teeth - cio.com",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc2Q1ZGlWa3A2a1dSanFxUGxwRkh2eEJiNWcyYmFGUFpiZ2RtRDRSbWNzNVo3R0pQVGtDUklSanVNT0pKTGlLcEtpYUYwOEFLcW80eUdFZ01Za09BV29LSzB1c0Z6Q0s2Y3F1Z0dHcURKLTgwckg5VWJJU1hzc2xNQTFBdWNWdUs3elg0RlhFMHZ1TDJIYVh4UkhKbV9CbUxMczhzWHhGTHUxT0xsdHJIU3FzOW5OdndPT2JfWm5HV2hEa19uLUU0?oc=5",
-      "source": "cio.com",
-      "pubDate": "Wed, 23 Sep 2026 23:44:13 GMT",
-      "query": "OpenAI"
-    },
-    {
-      "title": "OpenAI model breaches Australian government websites - Politico",
+      "title": "OpenAI model breaches Australian government websites - politico.com",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONDRpeU43MHdPbGZLOTU0OEg2RjZBU3dkbnRxdG1FbDFpMk1FcUFqTjV0VDRsRHprN2sxTUxOdVBBNWVTWGdPV3o3M0Fma2s0WTJVY1JXb3c1cEhRVVpkZUpadzN5QktmRkRTRzhudUNqUFhlVGVIREx4VGZOX19ZYkpoNGdQVHZjRDZROA?oc=5",
-      "source": "Politico",
+      "source": "politico.com",
       "pubDate": "Wed, 23 Sep 2026 23:43:00 GMT",
       "query": "OpenAI"
     },
     {
-      "title": "An OpenAI Agent Breached an Australian Government Data Portal - Gizmodo",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVDlJWGwtMFl1SHVfWlNtUDZQUXd5djhDdzFqTTZ0UnNNMFFmM1lFc1R4RFczMldWOWVXd1lUb1h0VF9Vb0JyWGJyUnJCSE4tVXBRSzc4Q0cyOE1MQlpYZ1gtWWdPUmFhSy1UaDk4TVJiQVI5U19TX3NuYWt6czFNeFhCNGUtckdrX0dZZGR1SkNqSE1KYzkxRXZnRmFna1U5N3Q3YmFEN1J0YWxJZEh1WEJaMDQtRlBCWGdUOVE2ZTZtZTR0aWllN195VFo?oc=5",
-      "source": "Gizmodo",
-      "pubDate": "Wed, 23 Sep 2026 23:32:23 GMT",
-      "query": "OpenAI"
+      "title": "DeepSeek's DSec blueprint aims to scale agentic AI with tighter guardrails and smarter resource use - Briefs Finance",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSEJ6S2NUZU9WUDAyb01jV2FZWnRzTVpjaWtsUjBTOE5hbXhfV2lvZXdXTFk0NkhQUHN5UnZaYTJFNUpCaDRXVllBbVRucWpGbnpEd2dDd002RjN6RWxGT29tQXVmVjdBWHQ2aTFpbTRyLTBHQlRzLS1iaHZkMTdNcUZocUdjNkltZ3BhQjJzMm83QQ?oc=5",
+      "source": "Briefs Finance",
+      "pubDate": "Wed, 23 Sep 2026 23:35:54 GMT",
+      "query": "DeepSeek"
     },
     {
       "title": "Okta enhances AI agent security with new platform features and Blueprint Alliance - SC Media",
@@ -220,13 +192,6 @@
       "query": "AI agent platform"
     },
     {
-      "title": "Australian PM says OpenAI hacked government health website - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSUFRcWp3U0Z6R2NmWFR6NjNsVng4UmZZcFIyU1NwM3dNOF9Yc25zZDVjODc0OVFqNFN5NkRrSHNFSzVtY1FNZXBvMlBrdFRQQlpkLXl1Ujdac0FkUWRiRlJWX05TY002LTIxQk1RRzhORWZSYTk0X1hXYVVnU25ObDJFX0YyZmF5SWJPS3VaMUxNYVE?oc=5",
-      "source": "Yahoo",
-      "pubDate": "Wed, 23 Sep 2026 23:27:12 GMT",
-      "query": "OpenAI"
-    },
-    {
       "title": "OpenAI Agent Hacked Australian Government Website - WSJ",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdUxmdkdyV2FyMzMwZGk1MjUxalc5aVhsSXF2T0ZrSWcxZW5nSDJTS2Z3cVVRNDVUdmZ3MkhJMi1mV0tGQjZyTDktazVFYXBxV0J1NVdUMGJJVUVNcENMZ3RucTNlRzNpenZKam40TEdxN08xTjVvdTJxNElTNUJDYUpFOVg4dW9oV2s3cjk3WQ?oc=5",
       "source": "WSJ",
@@ -234,23 +199,9 @@
       "query": "OpenAI"
     },
     {
-      "title": "DeepSeek bets on training AI models with Huawei chips, plans 8 trillion-parameter model - 디지털투데이",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQzBRUjdCNXRLaldJMFByMnJFNU5jWW1EU29VYUxYVndSQ0tqU2sxYVlPNWtkMy1GNzRxUFFjZUNULTlZQTdMLVhRZDJDRTNxQjFHM09KUHg0dm1aQ1pGRTR0bnF0ZWpuNmVVVDR3NWtyWWdqUmlubE5iNktCVy1TMUdYSENLTVZLRW9ISGhQQ09hNUNNUXY2cEF3MUtPQ3ItRW9vVkVNZ3BGQ21vV3J4cWNZc1M5cUM0Y1VPNTROY2dMaHJZYjAyMzFkWlU?oc=5",
-      "source": "디지털투데이",
-      "pubDate": "Wed, 23 Sep 2026 23:20:41 GMT",
-      "query": "DeepSeek"
-    },
-    {
-      "title": "OpenAI agent in first known hack of government system - CNN",
+      "title": "‘Extreme concern’ over first known AI hack of a government system - CNN",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcTdiLThTZ01pMEVNUm9GV2FoaFB2VGt4bE1jOUtsWmZnMm5tV3Q1aEZlc0lJbkJXTkhMd3pfY3REWXJkbVVhS1VvYWZkU2ZERThaYzM3S1dKYTlmbjFFMHU4QTRXTjNGN25laE5PZDFjMU80c3FrbnU2LThxYTBONjZ3?oc=5",
       "source": "CNN",
-      "pubDate": "Wed, 23 Sep 2026 23:19:23 GMT",
-      "query": "OpenAI"
-    },
-    {
-      "title": "OpenAI agent hacked into Australia’s national healthcare system - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNl9vcGpRVDlkUTZSUUhNeEFxZ2RzX1Q0cDdNQkpOWU92c0R6RGl6aDdJVHNhWHhtVHNLelNQa1Z0bkxjTnRHRzh1MGhpWURBcFpONnRBWjNKVU9YVlllWGxTaVAzWTFiSVppamU5OV9zQTRTeHNwNVp5LU9DUWsxU0JjYjBiYkhudDhaTWZ4OVVQRzFOSkJaZDJiQQ?oc=5",
-      "source": "Yahoo",
       "pubDate": "Wed, 23 Sep 2026 23:19:23 GMT",
       "query": "OpenAI"
     },
@@ -262,34 +213,6 @@
       "query": "AI model update"
     },
     {
-      "title": "Anthropic's AI finds an overlooked enzyme system hiding in phage DNA - FirstWord",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lQ0VQbDllbmZEMFBSMk1ESkNLeDVLamdRWUNIa1REbUhUTUJZQjVxc2J3eG1PeFNIMTRDZTJnNE9qd0pzbUFidFhyMHFMcjJPMmg4?oc=5",
-      "source": "FirstWord",
-      "pubDate": "Wed, 23 Sep 2026 23:06:56 GMT",
-      "query": "Anthropic Claude"
-    },
-    {
-      "title": "OpenAI agent breaches Australia’s government health data portal - staradvertiser.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYVNJLVZBbDhmMXBEQm5Ma1pCeWFfZl9Wdmx0aVZndGdVV05kLW1pZTNpWUUtdVZ0RkxxQkUzUW9lTnpqWUhvYlJVNnFmRFhWTkJjQ1FUUlRJVGJUZ3FGeHhWcF9QVTZEamFtSGFwS0tBWEsybzNlN2RuR19hMlc4cFpfb0YwWDBRMWtmMGZ5UHJXV09qRUZ1bE10UlcyMW5kZktxc1ZPd1l0c3BlWldYdHFnSzV3RE1IdWpF?oc=5",
-      "source": "staradvertiser.com",
-      "pubDate": "Wed, 23 Sep 2026 23:06:18 GMT",
-      "query": "OpenAI"
-    },
-    {
-      "title": "Google DeepMind’s Ayoub says companies can fence AI in, like banks did - The Next Web",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcXZRVVZVZkZSSnYwalo2LXdObFVBVkhUZHlQYXhiaDk2OGE0MEYyLXpPdEp0VkhaSV93RFNFZWdaTTZ5VDRoakE3R2ZfWGdHcWZfS2tuR3lMX3R5NHNjNDJiQUg2b0NVTXNkMDdab1M3VU5TNGE2cnozTmZ5RkdpNTZxVQ?oc=5",
-      "source": "The Next Web",
-      "pubDate": "Wed, 23 Sep 2026 23:04:51 GMT",
-      "query": "Google DeepMind"
-    },
-    {
-      "title": "OpenAI Foundation and Gates Foundation back five-year AI language access push for 3.4bn people - EdTech Innovation Hub",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR1Fob1JHaU56WWhpbG5UYVduQnpBSHNQZ0VoZ05lQVllS25jSHpKRzgycEVjWXdoZGVfYXVjaWV5UnU3Yl82WW9neURIZkxoZ1g3X29mMDRxeXJkUGFLWWJPTFZ1Q0VmdDNfcjhYR0t1MC0tUjhxRlB0dDVhYVh1a3lpb05BY1VvY1FDWEcwMU9YVVhkTTNkekdLT1gwVm1wa1JhT0JxbS1aSDZKbE9rcFEyZlg2TlRRUVRNMGtIR3Y3cTg5Yk5raDNFZlV1T3M?oc=5",
-      "source": "EdTech Innovation Hub",
-      "pubDate": "Wed, 23 Sep 2026 23:00:19 GMT",
-      "query": "OpenAI"
-    },
-    {
       "title": "Anthropic Says Claude Found Something Big in DNA. It Just Doesn't Know What - Decrypt",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOR3VKZjgwUDQzQlNUMWs1UlhEbDVhS3ZBcmVSVU9fNGNXdnY4Z2pMdEtXSzNTaVpYSkpadzRSOTdIakgzYVJkLW5MU2tMQWhWSURySVdEeVZzZFhWT0hHMXg2NklHRzNXOFo2NnQ3aEV2TXdFTHE3QUZVbWFaOTN3WEZoZHA3UXJOMElR0gGTAUFVX3lxTFBCLWFYbFJCaUE4ajd0bExjWGlNX3lZNTNYQnhfNWp6TXhCa05VZHlUcGloNWxXdWFFWXBKeGRiUUk5UVd5WTdXV1RhdnRQWFdtNmliUlMyMTVXVGl6QjFGcUFZRGlIQ2ZYY1hHdmc3V1ktX2xURmNLTi1HX0ZSSFN4WFJ5YkpwOWZQYjdqcm1SREV6QQ?oc=5",
       "source": "Decrypt",
@@ -297,60 +220,137 @@
       "query": "Anthropic Claude"
     },
     {
-      "title": "OpenAI Agent Hacked Australian Government Website, Albanese Says - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd2tybWMtVVZROXotMkJFNEZuN2QxVk00N1VQbGVzaUltWktQM2Q4Ql9QTk1UTlNRU3M0WS1OalpLc2swQmtHc3hnYXFsQy02YjZYYWZIUXBCd0VCSjlTS1JRSWQtcllEdFA2d19nSVQ1dXNhLVpDa3k2VHp0MDNxQi03eEpGOWxlM3N3d2JHLVFhaWtEZ09VaTVOQTEyS1YwWXJaSm9ITE9lcThTMmFHV1YzODE?oc=5",
-      "source": "Bloomberg.com",
-      "pubDate": "Wed, 23 Sep 2026 22:48:00 GMT",
-      "query": "OpenAI"
-    },
-    {
-      "title": "OpenAI, Anthropic CEOs at UN call for global cooperation on AI: 'We are at a crossroads' - abcnews.com",
+      "title": "OpenAI, Anthropic CEOs at UN call for global cooperation on AI: 'We are at a crossroads' - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbUc4amlnMXBwLUNfZ0MxQnRyeDV4dmt5dVFJdU13TXhIRFBmT2tpalJ0U2VqXzlBZUo2UmljOThwRS0wQUNwQk9oelN0MkpHQkkySUVSTXF0WEJYV0dsWUJOLVJtaXNaa2UzMUppM1FpM20wdnBEMzlqVTF1UFBjX1c0eFo0eTUwWGktMVBCdXdMcHBIMnoxNGZhbC1KZ1YzeUdpTllUVVRfQVHSAbABQVVfeXFMUE9GX3JBVGRfd3hhQVFsMXBqRHVvLUVRd2t6S0Q0cXhxbF9jVWtsS1JRS1JCZk05Q0o0aFJKRklIRnd2cFhTb2xfWWxIdV9hRjNGN0poQzk4Q1ZlR0c4U1lzZU45RHFhR3g1NGFud3dKZm85OWp3XzBFZEk4d0lBNkFFNzduNVBfMzB1ajIyRHRmQWZHQkR0ZnVQOGlpTFRSQXZ5dVR1TE02cVNNNGhNOVI?oc=5",
-      "source": "abcnews.com",
+      "source": "ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Wed, 23 Sep 2026 22:45:11 GMT",
       "query": "OpenAI"
     },
     {
-      "title": "Australia says OpenAI agent breached government health data portal - unionleader.com",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZXBHV1VOMFJ6SFRrWEJiNUZtZnJpOV9UZjhDQk50TXd3UnA5dHJTY0VLeFN4ZjhuMDFHVEQ3VmhMbm5BMFNuREFLMVZHdXE4anBVaElSRFo0eGpqMHpsVEdUWlFGTl9yRGRMeUFPMHdyc0xxQ2xuX2piTTc0ZVlDTXk2M1dXNjJkMFB4SHhRNGdNSEg1N0RZcXp0SzIwTGppd3R0aHNUazFDdUpDdWVPVlk5RktxZ0wzZ05fNjNiM3UzbW5QNnJveUVlTXFWZlJMc25WbnpyLTV5S280Qk51aXpEbnlDUUVWOXQ0UkVB?oc=5",
-      "source": "unionleader.com",
-      "pubDate": "Wed, 23 Sep 2026 22:42:40 GMT",
-      "query": "OpenAI"
-    },
-    {
-      "title": "OpenAI Agent Hacked Australian Government Website - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSU5ESjB2eUlfYTZSUkhMakwyMHFGakxwN0NqTmVMbVliVVlSaHJSbndySE1GbE5xWGVKbmpBUlNEZ1huNE5FQzU4S1hzV1BJUUdFa0ZBblJteTQxSWxDX1hkSUs4c1RXaFBpSXJkampDR2JtdkJUSFZfcE9GSkpuZHg4dU9HWGdsMURnc0JYUlRvcHR5OUo4ZHJJcFBkZWxLckJzOHNEZXRaWjhnLVdlUm8xU25Kd0I5VlNGTkxiSl9jWmM?oc=5",
-      "source": "Bloomberg.com",
-      "pubDate": "Wed, 23 Sep 2026 22:40:57 GMT",
-      "query": "OpenAI"
-    },
-    {
-      "title": "Sprinting The Frontier: Five New AI Models - Substack",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBZDROOG91bzd3TEtBN1NBMVZJOTBoQmk5ZzlXUldsa1JIM29LbDZqUTF5TTRKTlIxSW5jTzBtNWp5WFY1N0xkWFNhcGpXZFZkVzltQXlkMWNoT2gzWE9RQkpsYVRoX3l4WFRqMmhvSGpqS0hNMmNxSG90Zw?oc=5",
-      "source": "Substack",
-      "pubDate": "Wed, 23 Sep 2026 22:35:06 GMT",
+      "title": "Anthropic says its biology lab has already found something big - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMGNCdGw4Vk51RmJJd25GQTRmblZobmZfTFh1WjUzUXRTNHJtX2hhdXVVMkgxQ3lLYlRCaHV5aGtDTTY0cDBGNU1OZWhab3lHRU1ob1c2Z2VManlRUDNLMkVpazhsRGRrUWhmM2RoQmRqc243X2xrWE1IQWttY05WRk5CTkFvQWwyVUNrR0czcHMxNERxVVB2Q2RNZ1JFQQ?oc=5",
+      "source": "TechCrunch",
+      "pubDate": "Wed, 23 Sep 2026 22:17:39 GMT",
       "query": "Anthropic Claude"
     },
     {
-      "title": "Researchers found malware that lets AI models vote on how to attack you - TweakTown",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOHBPZVBmYVZhdlVoamJkdHItbU5CdFNIUG9tdjVBT2Y0eHIwcUx4MHBQR01ON1k5Ym9IdTQ1TTlFZm50S2sxV0Y0TnZudlM1UU9GbjZVb3l2ekpLaThSd2pLNjBuWUQ1M3VzTkxka1huX3ZCUnhRLTBsZkRlcXJYR1YzWmxiSC1MTS1sWkRKR082UGVZTU9aS0Q2dmszbWZjWGtqaWxVVFM4VGZDZWRXWm13dzlEZnhoQkhPOQ?oc=5",
-      "source": "TweakTown",
-      "pubDate": "Wed, 23 Sep 2026 22:32:08 GMT",
+      "title": "OpenAI ‘agent’ hacked an Australian health service website - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ0YxZkxLQWRjekpSbGs3ekx2RW1rVkZSWDNud2c5VHBWd1Zpb1Z1M3M5TGxFNUZKNkd1enNRT1pzVFlTR3dRclFjcGZkZ0RfMEx6d0M5dlVjZF91OTYzT0loWUdkZlZpckxzY2trYS1WVTRqRU9ZQ3JWVVVqcU1mYzJGSUg?oc=5",
+      "source": "Financial Times",
+      "pubDate": "Wed, 23 Sep 2026 21:42:41 GMT",
+      "query": "OpenAI"
+    },
+    {
+      "title": "China Probes DeepSeek and Moonshot Over Alleged Data Leaks to Anthropic's Claude - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLTZFZzN2SzY3d0J3UW1rSThPYlc3Z1Fkc3pDLXFFV0l3LXNSY3pfU2Z3YzJDa2ttWkdMaTBTblRtMW12VGk4Q00tdm5rRUo1RWpsR1hIY05aNVByR05uZ2poZXEtSmZsclAwejg5WG9qR3gxenlOSTVwWHdKNzNvZE1KQ2FkQXVZTWFqVEpSTjUzTzIwMGZR?oc=5",
+      "source": "Yahoo",
+      "pubDate": "Wed, 23 Sep 2026 21:31:03 GMT",
+      "query": "Anthropic Claude"
+    },
+    {
+      "title": "China Probes DeepSeek and Moonshot Over Alleged Data Leaks to Anthropic's Claude - Decrypt",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUzVMdEdTckVuMUl2UEJYdWpxOHVreWFtU1ZDcXdXT1U2Tkt0Vlc1TU5FUEdYVFVkY0tmRHVqMHo5djdfRFFTNVdxRjAzeTBBclFnZkFDRTVWN1hXWmt1MGJXLVFLbS1GbWRYMXVuakIxOThRZW5hcDRGOHNpV2JkM0xWVDBQSk8wWmhtY9IBlAFBVV95cUxPdzZBSXg3MEFHeWUweGdieDV0d0NvbmFaQVUwUTBCRzViZ2NydWZyUlltSHRSQ3cycXR2MkxlSk9CS3JJRUdrYjNQMkdiNTJ0Nkg1UzdPZFV5S2xtX2NQaVZqQzJMUXlSdmFMUGtGVWlmWDk1ZEpkcGFrLVJCSUplalFRZm1qbWw4LVNnTHp4c1pkdkJr?oc=5",
+      "source": "Decrypt",
+      "pubDate": "Wed, 23 Sep 2026 21:31:03 GMT",
+      "query": "Anthropic Claude"
+    },
+    {
+      "title": "Chinese tech stocks slide as China probes DeepSeek, Moonshot over data security - foxbusiness.com",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TLWY2am9ldjFMLTRWa0p2VTQ3T1F0emdqYVhlRjhrZ3RYVjVHMFQwZC1mdWF5UjNFVE1vaV9VVVhxMkp2bUxLbVp4dmRCYWNvN01aZXN6UmdNT0k?oc=5",
+      "source": "foxbusiness.com",
+      "pubDate": "Wed, 23 Sep 2026 21:20:30 GMT",
       "query": "DeepSeek"
     },
     {
-      "title": "OpenAI agent 'infiltrated' Australian government website, PM says - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS3JNMFpIVlI4aDdDM1AwMVNpOXdhS3BvQXVSTTNMZ0dMZ21EZ3BHQTJMVUpMT1k2akpJeUZDZUFOZXJWREdnd0IzeDlhWGZLQnB0dHpaVFpfNzBhekRJaXhhVFltWnZBaTBpVjBBVnZuLVhBcGVPTGU1SFVTTEFEcTFHMkZDa3RoZFpZWHM4aXhtLUhoT281WV9BbUtJbWtOQW5GS3BB?oc=5",
-      "source": "Yahoo",
-      "pubDate": "Wed, 23 Sep 2026 22:23:33 GMT",
+      "title": "OpenAI’s Altman and Anthropic’s Amodei address UN security council - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40TGtvSHVVUE1jRnZNbWU2TG1lNmllWWc5NDhDLWVSenItS0JyMGcxY2hwaEVjLVZZeWZxNTFTLUhWZmwxSG9LM0U0VVViWXNyaHN3WFhkYnZwVlk2OFhHcExhOUViMzRHWml0RW0xUXk5aXNFMkppenMzUE9QRFk?oc=5",
+      "source": "The Guardian",
+      "pubDate": "Wed, 23 Sep 2026 21:15:00 GMT",
       "query": "OpenAI"
     },
     {
-      "title": "OpenAI agent 'infiltrated' Australian government website, PM says - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kT2t4QWVHS3diRXpOWV90RFhEMTh5SWp0RU9TRFl1dmJENEtZMnJDWXNsdkNpSHd0MDQ5YzhCVDZBUzlrN00wUVY5Q2hMMUpyWlRVcW5NYnJXVDg?oc=5",
-      "source": "BBC",
-      "pubDate": "Wed, 23 Sep 2026 22:23:28 GMT",
+      "title": "Anthropic says Claude AI helped discover novel enzyme system - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSy1hZUZTdFRxVmt6XzZubm9GeGFET0hMaVBkaUh1aEpJVWRnbVgzdGlPZE5KQXFHOFdiRHZEQ2JZTmtaeTgzY25rY3Z6VFpMYVdkekp5SG81bEJ6Q2RRaF9VMUcwem1NS2N5dE5wcmI5ZkNoeE9TaGdNWFVtekFPVUN6eWRUeXluUFQwNVp0N18xanFEU0xwNVhiNUxnMF9xZHVMLVRwYU9LSWJmWERKSlBtdktoZ2RXbm8yY3BuRk1sSmYtX0xTSEY1M00?oc=5",
+      "source": "Reuters",
+      "pubDate": "Wed, 23 Sep 2026 21:12:38 GMT",
+      "query": "Anthropic Claude"
+    },
+    {
+      "title": "Sam Altman’s remarks at the United Nations Security Council - openai.com",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KSllHMS1Cb2QyZVQ5QVh2SEJzamI0N2tfSjE0OGJYQ2hzdERiMldGZnpGZ3AtYUk2NU1FNGVLNGEwcU9pQUJUa0F4V0lZVXVfd1RGbGZQZF81b29EMWFoYUp5X051YkNsYjJmclJLR3Z4dw?oc=5",
+      "source": "openai.com",
+      "pubDate": "Wed, 23 Sep 2026 20:56:16 GMT",
       "query": "OpenAI"
+    },
+    {
+      "title": "Australia says OpenAI agent hacked government website, checks for more breaches - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWZud0ZEMW9uYlUwVlpoRlBIbW82Tjc4Rjl3WW5jcWxVR25wSmZCTXlOdHkwR2VrQzdzZkUwX3lNMXBGUkZMZU1sYS13dzRRb1RMRzFOVjc5RmJIbXFfNy1ob1VZY1ItYS0tQW9XVHNLc3p3UEJwNy1QRWVSYVFjQnh0ellEX2JSZkpSdXlMYVI4UkV2VE05enVnZFJuV3BaS1pVczF5VE9vaTdZOGZyU2tjTk9oVVE5RVBjTnVWNGNUZzVEZDM0?oc=5",
+      "source": "Reuters",
+      "pubDate": "Wed, 23 Sep 2026 20:44:00 GMT",
+      "query": "OpenAI"
+    },
+    {
+      "title": "Anthropic, OpenAI CEOs warn AI could threaten humanity without safeguards - foxbusiness.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdjFrZFRXcFpzTFRlY0RRTnRqcERYdm1vTVpwY0dyNGdQQ29kSXJudkJDTmgyTXMtX2hKbzhxbnU0b2N1UDgzeDZ3MElIVld3clRvSGtiNTM4M0Q1eFA5bjRQbDV4NkVtX0RUYXRBblZfaUF0Q2l2R0doVkViMmFMNlNYQnBjMnFEdV9Kc1J2dFFUMjlFUHByQUtzbGd6ek5DUldOY05YdWlaZVo5MjNIQzR5d2rSAboBQVVfeXFMUFRYTTRfRzd0Z2hFZmpwcTMydTFFRUJRZ1BBODg5eDhIX0VTV19ZNllTbnF1Wk9KdE02UmZOWUF2c2xhY29WRGZpNGRndVhXSDhGNkY5TTJMSHdYakUyNV9EaE83dVZETXJmM0l2eHhKcG9FajR4OFRudU1NVzRzYnpzZGp6dnRLanRjTWhVZjJjSXlHaGQySWFlWHZYVmFzODdGNGxLck16d3N5TjJGcGZ3VUtiRkc2U1RR?oc=5",
+      "source": "foxbusiness.com",
+      "pubDate": "Wed, 23 Sep 2026 20:23:40 GMT",
+      "query": "OpenAI"
+    },
+    {
+      "title": "Accenture Ventures Bets on the ‘Work Brain’ as AI Agent Deployment Gets a Third Channel - forkast.news",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPemM2OVlvb3JOd0djZVlQWVA0N2dhZWlJUjlxVzdPbDcydWltcTZuX3pMVHJzUXR6cTVrajZJb2dzcm9WVFhuem1CdEN1TVJtLWN6YzR6aVBEcVBaSEN1QmRoaTJVNXVqejN0NzhyX3VUa0tGVnlURTJjSUUyXzZILXQ4alFGUFAtaUJOb0lwY0l6NHV6MzJVWlExd2t6ZDBBazlaUkpNRHNXcEk?oc=5",
+      "source": "forkast.news",
+      "pubDate": "Wed, 23 Sep 2026 20:11:57 GMT",
+      "query": "AI agent platform"
+    },
+    {
+      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models - openai.com",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JX21aTWVHSG9paXFVQ0hiajZqU095SWY3YVhRbzNPSWZmRWFYSXREY3NRTUp0U283dGhyTjVCUXdtNl9kUzZIeU1JbjhzdUtFRGhpREdZRQ?oc=5",
+      "source": "openai.com",
+      "pubDate": "Wed, 23 Sep 2026 20:07:15 GMT",
+      "query": "OpenAI"
+    },
+    {
+      "title": "Google expands free AI video generation in Google Vids (GOOG:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU09QN1FqQlZyWmRWQUhjcmxSS0dPMG5xdFJLTU80TFNsY290QTVXNGhHZ1RBTEcxSkJaaVY4WnhUWGRQclJnNDQ5aHY1ZW5vVVJHLVV1UzliVHVkRkprY1h1TnMwVUY3VDFaek9ncHR3bWY0eVNueFN1cFloSFpQUUcwTnpYRG81d1JseW9NbjFfQTAyOXRB?oc=5",
+      "source": "Seeking Alpha",
+      "pubDate": "Wed, 23 Sep 2026 20:02:57 GMT",
+      "query": "AI video generation"
+    },
+    {
+      "title": "Popularity of Google Gemini pop-up points to SDSU’s pro-AI stance - The Daily Aztec",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR3lJd3hXMjdUbS1tTTZKcTgyU0tHem1tSUd3Mmp1WXRwS1lLTFUzRHVDRjdLN0duZDRWWDVlbHBFaTNyN2pQSUhJQUZfZmhsMnFBaVViOFo3TW1xM2VzOFlWTWswdHA0RzJ1TktWeV9VSlBQV21RUW9vYndlbnRLNlNOZE1oeGlQdWI2cS1Nc2FsZmJkNDdUZUZIemt2cmpCSy15U1V3?oc=5",
+      "source": "The Daily Aztec",
+      "pubDate": "Wed, 23 Sep 2026 20:01:57 GMT",
+      "query": "Gemini AI"
+    },
+    {
+      "title": "From Chips to Laptops: Alibaba Accelerates Full-Stack AI Ambitions - Caixin Global",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbE9ydUZHc1NUYUg2X1lZa2Q3VUFaTTJzd0hJQUU3VmJ0cmNNWnI5Y1hSOVREdzFUdHJMVXV0RkhwZmlUdk9ocFdmN1pydTN4c2ZRazhIQ05kX19kU1hlWjJyRTdhMng2bm1vbUtJNHFWXzJEdFU0SElZcUN4Mk9UaTRSMnBIU1JyZFR5WWtEUFRYX3k5c2ZYeEpkdXh3bGdVMVhqdUFkbmxyQXE3SjZzczhvZms3ZGVLc193ZA?oc=5",
+      "source": "Caixin Global",
+      "pubDate": "Wed, 23 Sep 2026 19:56:00 GMT",
+      "query": "Qwen Alibaba"
+    },
+    {
+      "title": "OpenAI and Anthropic CEOs push for AI cooperation at UN after Trump rebuffs 'globalist scheme' to control it - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnYmxuWFJ2T3UxeFlEbFlOY3VvVjFzaHQ2U2Z2MHlPZ0Q5c01zQ19aQmlGNE1hcnBUQWk3WTlXSmk4cUI0ZFp3TTVndkNDa3Q1RFFWdjdjV1lZWDJVZkpmaldLdEowRXpkSEZid2piVUXSAXZBVV95cUxNMHZEbDdqaUUwYy1xbTYxQ1dSWTJBZGhRRS1BOThUWTVKQnpBSnl3aTktbkN3Vmx2WGR1clRVZExIdDF0TU5meWo2T0wzek1HZTNQZnQ1SjNhTm9PZTJOTkMxUkxiWVdjRnZ5R21ZR3dLTmZyeGRR?oc=5",
+      "source": "CNBC",
+      "pubDate": "Wed, 23 Sep 2026 19:53:12 GMT",
+      "query": "OpenAI"
+    },
+    {
+      "title": "Claude found a CRISPR-like enzyme system, and its job is still unknown - The Next Web",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNXzZleVVzZUd6bmVYQ196MF9aQjY5VXRYTHI2T1ZidmpHd2FRS2FsbTJZZlU3QjlfbGtHa2Vtcmh2ZFV1M2VRY0NfOUpkUzJHS2l5bjRxSkJSN3EwTDNQNnhkUkhGcFBpU1ZSZDNPa3A0SDNINTVnTEh5OWRxQkRyTEFYYnI?oc=5",
+      "source": "The Next Web",
+      "pubDate": "Wed, 23 Sep 2026 19:29:05 GMT",
+      "query": "Anthropic Claude"
+    },
+    {
+      "title": "Google Brings Free Gemini Omni 1.1 Video Generation to Google Vids - Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdVJwNk1ybnNabDJnVXd6TlFmU1BDVGQ4dXZzYXBGOWNPVTRDNzRlbmVSeEUyclFOSTRGbWRuOFNKTzFpU01JSUdGUlpwTElSZVB3Y2VORTdtWlFCTDAwNURwQUNOX3NTTVlIMFQ4Z0dWLWpNMll2bTIxQ0NZVjlmU3pCNkJMMW5iNG5JdkpqMjA4QQ?oc=5",
+      "source": "Unite.AI",
+      "pubDate": "Wed, 23 Sep 2026 19:17:01 GMT",
+      "query": "AI video generation"
     }
   ]
 }

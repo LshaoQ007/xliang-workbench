@@ -1,18 +1,11 @@
 {
-  "updated": "2026-09-25 01:45",
+  "updated": "2026-09-26 01:50",
   "count": 50,
   "items": [
     {
       "title": "17 predictions for AI in 2026 - understandingai.org",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PR29QZDE4VkptMDZLRWhnRU1TZU8wN1BVa1lmZVAzb0VpR2RnbHJic3NsZDB2SmJjZS1abFB1ZlhWamxITjFwYnE0TWNTY3RhNVhnR2JYal84OHdzRmxSNmNMOXRCanV6Q2NYOU5DYVE?oc=5",
       "source": "understandingai.org",
-      "pubDate": "Wed, 31 Dec 2025 08:00:00 GMT",
-      "query": "LLM release"
-    },
-    {
-      "title": "Everything Apple Is Releasing in 2026: iPhone Fold, LLM Siri, Low-Cost MacBook and More - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84NWhTWHpSaVNVQTEyam93dGxKdlYyQzZwOWtaeFF6LTZDeXMtMldfZHd6bF93RGgxeW9CZTY3NTU0Q3ZMblExWDgxYVNQY1JMbWh3QTBXVnFYS2l6X1ZYOENCOWZCTGZqXzQwWFpZMU0?oc=5",
-      "source": "MacRumors",
       "pubDate": "Wed, 31 Dec 2025 08:00:00 GMT",
       "query": "LLM release"
     },
@@ -38,30 +31,16 @@
       "query": "AI agent platform"
     },
     {
-      "title": "Fusion AI Agents: Secure by Design Best-Practice Considerations - Oracle Blogs",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaENaUjlZV3lrSXVFUl9XZzBGaW05cUI1TkpuOUVkVUJhUHNqSkVKdlNXNjRVZUYxdnZVQjRrV1BDeWFrOXh2Q0JJamFrRzFZdG1YRDhaWGFQVnZ5aFJRYVJNLV9zV3FNR3h3aVNxWlA5N09ORnA1NVlqRUFxSV9SbW5seUpsdw?oc=5",
-      "source": "Oracle Blogs",
-      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
-      "query": "AI agent platform"
-    },
-    {
-      "title": "Introducing the IBM Granite 4.1 family of models - IBM Research",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yRlAxQk5KX0s5eDRjci00ZU9CZXMyZ1k3UDRHeWdVQzhOOFQ5TzQxYWVGeGpLOFBuVHV5akg1MjZ4bDlIZXFzcjl1ejhROXZzdDlxYUxXLUE4cHdvbko1M01Ea0ZNLWV3MzN5ekFiSQ?oc=5",
-      "source": "IBM Research",
-      "pubDate": "Wed, 29 Apr 2026 07:00:00 GMT",
-      "query": "LLM release"
-    },
-    {
-      "title": "Tiny startup Arcee AI built a 400B-parameter open source LLM from scratch to best Meta's Llama - TechCrunch",
+      "title": "Tiny startup Arcee AI built a 400B-parameter open source LLM from scratch to best Meta's Llama - techcrunch.com",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLVFYNGZyckh2M29xNjctTlhkeGgyVmFEQjREc1UtTjdwTEtqWVpZdnhKdXlUVXFaQ2RHQkdvajJuRGtkRkhHVDVnUU5GTlNMMmVqY2YyQ2hCZ2J2ZlcwN25IZEc2Rmh4a3IxbFFLUjN3a3hVTUFKcE5fc1h4T210X3VLMU5oTUt2VGFFbmZGTWwxVXowMGxHUjkwNkxrUnY4czB5VjNFWDJoUjRURjlaOUMyWHUxRWtJb3c?oc=5",
-      "source": "TechCrunch",
+      "source": "techcrunch.com",
       "pubDate": "Wed, 28 Jan 2026 08:00:00 GMT",
       "query": "LLM release"
     },
     {
-      "title": "NVIDIA Blackwell Sets STAC-AI Record for LLM Inference in Finance | NVIDIA Technical Blog - NVIDIA Developer",
+      "title": "NVIDIA Blackwell Sets STAC-AI Record for LLM Inference in Finance | NVIDIA Technical Blog - developer.nvidia.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbUVpUWZtZEhQUFdtQm5kUVlTWk5PbVM2aTUwaVJrTFpycUZkUHA4YUhrbTJRb1FyQjgxV3lmNzRMVjQ0dWNCU1RndUJZb0RiQV9ObEx4M1ZTVXV0dzMxZnJFZEg4WWlCZGpFR1JWd0ZUWk5UVmNreTZrYVp6VV9IZ3piS2JXcEhpbnVMbUNnMU9XeXhrY1lHRnlCak5JNlRYOEE?oc=5",
-      "source": "NVIDIA Developer",
+      "source": "developer.nvidia.com",
       "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
       "query": "LLM release"
     },
@@ -80,13 +59,6 @@
       "query": "Google DeepMind"
     },
     {
-      "title": "Hundreds of AI agents went rogue in OpenAI’s Hugging Face hack - politico.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVF5Q3hJemxqUXVJd2M2OHpKZ3RPVmY4SEU0VUNpZmVtYWxabk1Mdy1lXzh3czEtUTFHbVZaNjAyZmpicG11X1ZPYzBTSWQxdWlCQlpnTmROWWtETlNCTk5SUDVYZHZWRzgtWnFJV3h1Qm5Ud284NDJWcmtmTmEtX2hnMmZQMXJqZFlkbnBwbzJqVVlKdEsyUXdrSVJuNDdjamFMZnNDRlI1Z2Q0X29EbQ?oc=5",
-      "source": "politico.com",
-      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "query": "AI agent platform"
-    },
-    {
       "title": "Alibaba's Qwen launches Qwen3.8-Flash AI model with lower training costs - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNFBiN0MydXZkUlB3UHdHb0xzNGNqVVhKdzZVMkQwalM4WWozbUxWSkZuRTljSXdfdjdOUjZkMWN2SEVRSnBXTEJwSlJfdkNqNzJreVp5MDNULVdDZ1ozSzE1YXp6dWR6MzZsOFBlRllhdlZEQmVBa1Eyb1hpQWlMWmdUaGlzeFpUZFlDZUszLU5KRG9SblF0VTNFT092TllTQnVqVlZHY2J3Uk1WblBfOUJGRmFob041dzEwRV9WaU5TWjlxbkswcTVJRQ?oc=5",
       "source": "Reuters",
@@ -94,23 +66,16 @@
       "query": "Qwen Alibaba"
     },
     {
-      "title": "Alibaba Releases Smaller, Cost-Effective Qwen AI Model - bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVFN2VVNaUWE0bXJiNjQ2VWJlbngtWlpzcnY3RG44VlB1eVVhMWNiT21wYmVKSDJnQ0JkNXMycVg5bWRqQ2RIZ3E0d0hzdkEzUlNPV05aUjRUTFhzaXlNdVhVSHFXNGRuZFlPWUhEeEtKemMwdWJValR0MFpZM19OMVRpS1piVVhZWEI3ZmdJZmlDR1B5d2JMRU5DcENuSUktd01Ra0J6Zw?oc=5",
-      "source": "bloomberg.com",
-      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "query": "Qwen Alibaba"
-    },
-    {
-      "title": "I Spent Hours Testing NSFW AI Video Generators. These 5 Are the Best - PCMag",
+      "title": "I Spent Hours Testing NSFW AI Video Generators. These 5 Are the Best - pcmag.com",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zV3VPQS1oSl91WTM1cHYzRlk3d25pVU8wU0ZDS29HM1ZLT2Vrek13TXA3THc5YVdFT2dYc3REOEFSeFRERlhFR2MtY1lHOFJOZkVkM3M5bkVUMkdDWnZnZ3pPMWNoUzFaWG9wbnNR?oc=5",
-      "source": "PCMag",
+      "source": "pcmag.com",
       "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
       "query": "AI video generation"
     },
     {
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip - openai.com",
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IcjFBSWc3NkotMVUzaDNHaWJBcWVtQXZHbnhpUVZrekpPWENRNEZrQ2hOdTFnejg2WTdvWFNQeFI3RGJnRE9qTFI3czJQX28tQUd3OC1ncFlEMnJtQmdONE8ya1NOa1BVOHhVTGNjdUkxbDg?oc=5",
-      "source": "openai.com",
+      "source": "OpenAI",
       "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
       "query": "LLM release"
     },
@@ -122,9 +87,9 @@
       "query": "AI model update"
     },
     {
-      "title": "Midjourney Wants to Scan Your Body in 60 Seconds - techrepublic.com",
+      "title": "Midjourney Wants to Scan Your Body in 60 Seconds - TechRepublic",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUXFNemxDbXVrSWotemFJVFk0aVY4dERoekE3MThLRXp1RkhSNndHMEdJc0lWU2pyN1VJWHFNRW5mZFhhZ21HWWZTeDlzSUczN1JkQmZ3QjNXSkhERmJ4Zi1IbGI1TTJXdEx1ZjFYd3ZnajJUZmtTRlRZT3dzLTlmdlNaeVBBWjM2VUE?oc=5",
-      "source": "techrepublic.com",
+      "source": "TechRepublic",
       "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
       "query": "Midjourney"
     },
@@ -136,13 +101,6 @@
       "query": "Midjourney"
     },
     {
-      "title": "Assort Health scores $120M series C to scale voice AI agent platform for healthcare - Fierce Healthcare",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOREx2eWZCQkFpNzl2WnBsMUh3clllRFpVdkhhZ2l4Qzg1WXM4Y2tZaGhET2hNd3VQRDNIX1RHb01VbHlzX1BRV1JaMkpPMkhOdjUwb0FZa0RSS3hleGkwcndBWXZRSlI4Ul9uMm10YVQxQzFqZFFwbklkSmxtZ1IyMUhQSDJrSU05M2tvSmNlT25YeGFCUmFYWkZtRDdiRVJHZ3NjQkRzbF9IZWVobGRYVkVUeEVvQ0RGWVBMTGhSTVF4dDBLZ2hDcTdXTHA?oc=5",
-      "source": "Fierce Healthcare",
-      "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-      "query": "AI agent platform"
-    },
-    {
       "title": "AI Video Generator/Editor Market Set for Explosive Growth as Generative AI Revolutionizes Content Creation - EIN Presswire",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVWpiM3VUdUZablNSVGV6Q0hhRE0wMnVSam5JSWQ1YWttMEZKcndCTF9SRjBVd2dSVVNlcjZLa0M0Q3d1THdJcVE3VDViMUlVMTkxMERKdnlKVmh5REFkcjJONlVnZDZ2SUZ4ZWZVY0JSUEJoaVZMSHUzMVhRS0xIRnNsNG10c012NXhqTTJxTUVmVHFiR2RrWURUSVZ3alVlNDMxczljVHpSMGF2a0tjLXV5OEFEdVNTYkJmX19CREZUZWxLdGVZRlBXSUFIUEpxbHhEOTVWOGxoYnNhb2ZKdjgtbENMczZt?oc=5",
       "source": "EIN Presswire",
@@ -150,16 +108,16 @@
       "query": "AI video generation"
     },
     {
-      "title": "AI Video Generators: Midjourney Video AI Creates Stunning Videos From Text For Free - trendhunter.com",
+      "title": "AI Video Generators: Midjourney Video AI Creates Stunning Videos From Text For Free - Trend Hunter",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WaGlOeFdVYVBDQ2xia0Zzcl8tWFJjcmtyZWx3U0hpZmg5bmEzRmFBZEs3QTliaC1XMDVvMzRKeF9TdmtJZGZKS0RiV0ZBWkxqdnh4RUdMMUhnZUJSMklMTUtFby0?oc=5",
-      "source": "trendhunter.com",
+      "source": "Trend Hunter",
       "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
       "query": "AI video generation"
     },
     {
-      "title": "Two years of OpenAI Academy - openai.com",
+      "title": "Two years of OpenAI Academy - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pTm1fMjdaS1JxMVFYTGo5Q2gxTVdWVmNRZWFsNmNLU2RnMWl6LTVlXzAwWWl1RnRjVEdxSG5NSHFzSkZodk8zNjk0ZmYwZjFkQXVhOGUyajF2LW5WOWx6MUZRTQ?oc=5",
-      "source": "openai.com",
+      "source": "OpenAI",
       "pubDate": "Wed, 23 Sep 2026 23:54:57 GMT",
       "query": "OpenAI"
     },
@@ -171,16 +129,16 @@
       "query": "AI agent platform"
     },
     {
-      "title": "OpenAI model breaches Australian government websites - politico.com",
+      "title": "OpenAI model breaches Australian government websites - Politico",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONDRpeU43MHdPbGZLOTU0OEg2RjZBU3dkbnRxdG1FbDFpMk1FcUFqTjV0VDRsRHprN2sxTUxOdVBBNWVTWGdPV3o3M0Fma2s0WTJVY1JXb3c1cEhRVVpkZUpadzN5QktmRkRTRzhudUNqUFhlVGVIREx4VGZOX19ZYkpoNGdQVHZjRDZROA?oc=5",
-      "source": "politico.com",
+      "source": "Politico",
       "pubDate": "Wed, 23 Sep 2026 23:43:00 GMT",
       "query": "OpenAI"
     },
     {
-      "title": "DeepSeek's DSec blueprint aims to scale agentic AI with tighter guardrails and smarter resource use - Briefs Finance",
+      "title": "DeepSeek's DSec blueprint aims to scale agentic AI with tighter guardrails and smarter resource use - briefs.co",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSEJ6S2NUZU9WUDAyb01jV2FZWnRzTVpjaWtsUjBTOE5hbXhfV2lvZXdXTFk0NkhQUHN5UnZaYTJFNUpCaDRXVllBbVRucWpGbnpEd2dDd002RjN6RWxGT29tQXVmVjdBWHQ2aTFpbTRyLTBHQlRzLS1iaHZkMTdNcUZocUdjNkltZ3BhQjJzMm83QQ?oc=5",
-      "source": "Briefs Finance",
+      "source": "briefs.co",
       "pubDate": "Wed, 23 Sep 2026 23:35:54 GMT",
       "query": "DeepSeek"
     },
@@ -199,9 +157,9 @@
       "query": "OpenAI"
     },
     {
-      "title": "‘Extreme concern’ over first known AI hack of a government system - CNN",
+      "title": "‘Extreme concern’ over first known AI hack of a government system - cnn.com",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcTdiLThTZ01pMEVNUm9GV2FoaFB2VGt4bE1jOUtsWmZnMm5tV3Q1aEZlc0lJbkJXTkhMd3pfY3REWXJkbVVhS1VvYWZkU2ZERThaYzM3S1dKYTlmbjFFMHU4QTRXTjNGN25laE5PZDFjMU80c3FrbnU2LThxYTBONjZ3?oc=5",
-      "source": "CNN",
+      "source": "cnn.com",
       "pubDate": "Wed, 23 Sep 2026 23:19:23 GMT",
       "query": "OpenAI"
     },
@@ -220,16 +178,16 @@
       "query": "Anthropic Claude"
     },
     {
-      "title": "OpenAI, Anthropic CEOs at UN call for global cooperation on AI: 'We are at a crossroads' - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbUc4amlnMXBwLUNfZ0MxQnRyeDV4dmt5dVFJdU13TXhIRFBmT2tpalJ0U2VqXzlBZUo2UmljOThwRS0wQUNwQk9oelN0MkpHQkkySUVSTXF0WEJYV0dsWUJOLVJtaXNaa2UzMUppM1FpM20wdnBEMzlqVTF1UFBjX1c0eFo0eTUwWGktMVBCdXdMcHBIMnoxNGZhbC1KZ1YzeUdpTllUVVRfQVHSAbABQVVfeXFMUE9GX3JBVGRfd3hhQVFsMXBqRHVvLUVRd2t6S0Q0cXhxbF9jVWtsS1JRS1JCZk05Q0o0aFJKRklIRnd2cFhTb2xfWWxIdV9hRjNGN0poQzk4Q1ZlR0c4U1lzZU45RHFhR3g1NGFud3dKZm85OWp3XzBFZEk4d0lBNkFFNzduNVBfMzB1ajIyRHRmQWZHQkR0ZnVQOGlpTFRSQXZ5dVR1TE02cVNNNGhNOVI?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Wed, 23 Sep 2026 22:45:11 GMT",
-      "query": "OpenAI"
+      "title": "Anthropic Says Claude Found Something Big in DNA. It Just Doesn't Know What - Yahoo Tech",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN1MwODdQeFVxb3ZRWHV5SE5uVG50aE1oZktQOUROelJDcHFCc2xWZG5KdTNNU1haTHdpcHNUaHhWZHZEVzJobTFIWHdIdHFHMmxJSmphNkZRRlB1UG1WY0wzWXFDRGR1ekpudGNmYUVnbVQzeGNrc2l5eUNPTkFlMzZQUzh5S2hBeHEtWmZiZGNqUEtFY0lwa1BR?oc=5",
+      "source": "Yahoo Tech",
+      "pubDate": "Wed, 23 Sep 2026 22:56:03 GMT",
+      "query": "Anthropic Claude"
     },
     {
-      "title": "Anthropic says its biology lab has already found something big - TechCrunch",
+      "title": "Anthropic says its biology lab has already found something big - techcrunch.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMGNCdGw4Vk51RmJJd25GQTRmblZobmZfTFh1WjUzUXRTNHJtX2hhdXVVMkgxQ3lLYlRCaHV5aGtDTTY0cDBGNU1OZWhab3lHRU1ob1c2Z2VManlRUDNLMkVpazhsRGRrUWhmM2RoQmRqc243X2xrWE1IQWttY05WRk5CTkFvQWwyVUNrR0czcHMxNERxVVB2Q2RNZ1JFQQ?oc=5",
-      "source": "TechCrunch",
+      "source": "techcrunch.com",
       "pubDate": "Wed, 23 Sep 2026 22:17:39 GMT",
       "query": "Anthropic Claude"
     },
@@ -241,9 +199,16 @@
       "query": "OpenAI"
     },
     {
-      "title": "China Probes DeepSeek and Moonshot Over Alleged Data Leaks to Anthropic's Claude - Yahoo",
+      "title": "Apple’s ChatGPT tools ‘dramatically underperformed’, OpenAI claims - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY0RBVWtrcjYxLUNKaEpsTDNmTE4xNFN4djRaRmx0eHR6VVB0Wm5oaVRzR19XaXZ5a0Jra3Byck12b1ZWTml6Q1Vranp1ZzYybTZXUkphRm5SbS1ZTzNGX2JKLXN2ZjR6S0lyTXd6Z2xibDJvVmo3V0ZFT0VYTW9BdV9WX1U?oc=5",
+      "source": "Financial Times",
+      "pubDate": "Wed, 23 Sep 2026 21:32:53 GMT",
+      "query": "OpenAI"
+    },
+    {
+      "title": "China Probes DeepSeek and Moonshot Over Alleged Data Leaks to Anthropic's Claude - yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLTZFZzN2SzY3d0J3UW1rSThPYlc3Z1Fkc3pDLXFFV0l3LXNSY3pfU2Z3YzJDa2ttWkdMaTBTblRtMW12VGk4Q00tdm5rRUo1RWpsR1hIY05aNVByR05uZ2poZXEtSmZsclAwejg5WG9qR3gxenlOSTVwWHdKNzNvZE1KQ2FkQXVZTWFqVEpSTjUzTzIwMGZR?oc=5",
-      "source": "Yahoo",
+      "source": "yahoo.com",
       "pubDate": "Wed, 23 Sep 2026 21:31:03 GMT",
       "query": "Anthropic Claude"
     },
@@ -255,18 +220,11 @@
       "query": "Anthropic Claude"
     },
     {
-      "title": "Chinese tech stocks slide as China probes DeepSeek, Moonshot over data security - foxbusiness.com",
+      "title": "Chinese tech stocks slide as China probes DeepSeek, Moonshot over data security - Fox Business",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TLWY2am9ldjFMLTRWa0p2VTQ3T1F0emdqYVhlRjhrZ3RYVjVHMFQwZC1mdWF5UjNFVE1vaV9VVVhxMkp2bUxLbVp4dmRCYWNvN01aZXN6UmdNT0k?oc=5",
-      "source": "foxbusiness.com",
+      "source": "Fox Business",
       "pubDate": "Wed, 23 Sep 2026 21:20:30 GMT",
       "query": "DeepSeek"
-    },
-    {
-      "title": "OpenAI’s Altman and Anthropic’s Amodei address UN security council - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40TGtvSHVVUE1jRnZNbWU2TG1lNmllWWc5NDhDLWVSenItS0JyMGcxY2hwaEVjLVZZeWZxNTFTLUhWZmwxSG9LM0U0VVViWXNyaHN3WFhkYnZwVlk2OFhHcExhOUViMzRHWml0RW0xUXk5aXNFMkppenMzUE9QRFk?oc=5",
-      "source": "The Guardian",
-      "pubDate": "Wed, 23 Sep 2026 21:15:00 GMT",
-      "query": "OpenAI"
     },
     {
       "title": "Anthropic says Claude AI helped discover novel enzyme system - Reuters",
@@ -276,37 +234,30 @@
       "query": "Anthropic Claude"
     },
     {
-      "title": "Sam Altman’s remarks at the United Nations Security Council - openai.com",
+      "title": "Sam Altman’s remarks at the United Nations Security Council - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KSllHMS1Cb2QyZVQ5QVh2SEJzamI0N2tfSjE0OGJYQ2hzdERiMldGZnpGZ3AtYUk2NU1FNGVLNGEwcU9pQUJUa0F4V0lZVXVfd1RGbGZQZF81b29EMWFoYUp5X051YkNsYjJmclJLR3Z4dw?oc=5",
-      "source": "openai.com",
+      "source": "OpenAI",
       "pubDate": "Wed, 23 Sep 2026 20:56:16 GMT",
       "query": "OpenAI"
     },
     {
-      "title": "Australia says OpenAI agent hacked government website, checks for more breaches - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWZud0ZEMW9uYlUwVlpoRlBIbW82Tjc4Rjl3WW5jcWxVR25wSmZCTXlOdHkwR2VrQzdzZkUwX3lNMXBGUkZMZU1sYS13dzRRb1RMRzFOVjc5RmJIbXFfNy1ob1VZY1ItYS0tQW9XVHNLc3p3UEJwNy1QRWVSYVFjQnh0ellEX2JSZkpSdXlMYVI4UkV2VE05enVnZFJuV3BaS1pVczF5VE9vaTdZOGZyU2tjTk9oVVE5RVBjTnVWNGNUZzVEZDM0?oc=5",
-      "source": "Reuters",
-      "pubDate": "Wed, 23 Sep 2026 20:44:00 GMT",
-      "query": "OpenAI"
-    },
-    {
-      "title": "Anthropic, OpenAI CEOs warn AI could threaten humanity without safeguards - foxbusiness.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdjFrZFRXcFpzTFRlY0RRTnRqcERYdm1vTVpwY0dyNGdQQ29kSXJudkJDTmgyTXMtX2hKbzhxbnU0b2N1UDgzeDZ3MElIVld3clRvSGtiNTM4M0Q1eFA5bjRQbDV4NkVtX0RUYXRBblZfaUF0Q2l2R0doVkViMmFMNlNYQnBjMnFEdV9Kc1J2dFFUMjlFUHByQUtzbGd6ek5DUldOY05YdWlaZVo5MjNIQzR5d2rSAboBQVVfeXFMUFRYTTRfRzd0Z2hFZmpwcTMydTFFRUJRZ1BBODg5eDhIX0VTV19ZNllTbnF1Wk9KdE02UmZOWUF2c2xhY29WRGZpNGRndVhXSDhGNkY5TTJMSHdYakUyNV9EaE83dVZETXJmM0l2eHhKcG9FajR4OFRudU1NVzRzYnpzZGp6dnRLanRjTWhVZjJjSXlHaGQySWFlWHZYVmFzODdGNGxLck16d3N5TjJGcGZ3VUtiRkc2U1RR?oc=5",
-      "source": "foxbusiness.com",
-      "pubDate": "Wed, 23 Sep 2026 20:23:40 GMT",
-      "query": "OpenAI"
-    },
-    {
-      "title": "Accenture Ventures Bets on the ‘Work Brain’ as AI Agent Deployment Gets a Third Channel - forkast.news",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPemM2OVlvb3JOd0djZVlQWVA0N2dhZWlJUjlxVzdPbDcydWltcTZuX3pMVHJzUXR6cTVrajZJb2dzcm9WVFhuem1CdEN1TVJtLWN6YzR6aVBEcVBaSEN1QmRoaTJVNXVqejN0NzhyX3VUa0tGVnlURTJjSUUyXzZILXQ4alFGUFAtaUJOb0lwY0l6NHV6MzJVWlExd2t6ZDBBazlaUkpNRHNXcEk?oc=5",
-      "source": "forkast.news",
-      "pubDate": "Wed, 23 Sep 2026 20:11:57 GMT",
+      "title": "Alibaba Unveils Roadmap on Full-Stack AI Strategy from Chips, Cloud Infrastructure, Models to Agents - HPCwire",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSDlLTjdkcEFUVFJOM0ljc0EyVW0wTjl6MW9CZUtqbmFzRDBVRG9Rc1FDVG9nMFZFQUJZZGVuT0xUZF9NalV3SjVjOWxSdW4zNEhNdUd2R2RkNWs3bE4tVlZyeTN2MGF0QmRYd3drc1M4bW5NS0gwWF9PeGZ4clVfcDV1aTB5Z3FfRFZoUWkwXzR1QjNlekM1QVVOX25pR1FuaDc3NkdCTlpjd09qd0lnSWZSQXpIc085OGZSdHhjaHJHT3lPTm1PZnJGbEhlTk5pb2c?oc=5",
+      "source": "HPCwire",
+      "pubDate": "Wed, 23 Sep 2026 20:45:56 GMT",
       "query": "AI agent platform"
     },
     {
-      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models - openai.com",
+      "title": "YC-backed insurtech Soteris launches AI profit platform for P&C insurers - Beinsure",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZmtDMjNJa3hiMHR6bEVDOW5oNWpHWHg5d3FlZjRCUEV6QnpTUmhfdE9LUDBVY2M0aDctZXRTN2F0bzl3OF85aGtUazViOEpwZXhQV3p2VkkzSER3dkEzeDdsSFdybXpVaUFHeGNtTkd4eGVzZVBaRC15Si1kb2FJczVMU1Y?oc=5",
+      "source": "Beinsure",
+      "pubDate": "Wed, 23 Sep 2026 20:17:05 GMT",
+      "query": "AI agent platform"
+    },
+    {
+      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JX21aTWVHSG9paXFVQ0hiajZqU095SWY3YVhRbzNPSWZmRWFYSXREY3NRTUp0U283dGhyTjVCUXdtNl9kUzZIeU1JbjhzdUtFRGhpREdZRQ?oc=5",
-      "source": "openai.com",
+      "source": "OpenAI",
       "pubDate": "Wed, 23 Sep 2026 20:07:15 GMT",
       "query": "OpenAI"
     },
@@ -318,11 +269,11 @@
       "query": "AI video generation"
     },
     {
-      "title": "Popularity of Google Gemini pop-up points to SDSU’s pro-AI stance - The Daily Aztec",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR3lJd3hXMjdUbS1tTTZKcTgyU0tHem1tSUd3Mmp1WXRwS1lLTFUzRHVDRjdLN0duZDRWWDVlbHBFaTNyN2pQSUhJQUZfZmhsMnFBaVViOFo3TW1xM2VzOFlWTWswdHA0RzJ1TktWeV9VSlBQV21RUW9vYndlbnRLNlNOZE1oeGlQdWI2cS1Nc2FsZmJkNDdUZUZIemt2cmpCSy15U1V3?oc=5",
-      "source": "The Daily Aztec",
-      "pubDate": "Wed, 23 Sep 2026 20:01:57 GMT",
-      "query": "Gemini AI"
+      "title": "Kastle raises $24 mn Series A for AI lending workforce - Beinsure",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORG9FZmVud0Y2clczUktxMUdidnNrNmtLMHFIOFBmamdfM0l5ZFFhOUhYbDM2QjhydWRxRmRkZ3JTeGFSRkpSaXFQWDRubzE4NWJmUHRYU1dYS3R5Vnk3d3JaS2F3bEVpOWtlWWtKZUwxTkJ3NzNlclp6YUJ4ZnFUTk1DS29LNVE?oc=5",
+      "source": "Beinsure",
+      "pubDate": "Wed, 23 Sep 2026 20:02:23 GMT",
+      "query": "AI agent platform"
     },
     {
       "title": "From Chips to Laptops: Alibaba Accelerates Full-Stack AI Ambitions - Caixin Global",
@@ -351,6 +302,55 @@
       "source": "Unite.AI",
       "pubDate": "Wed, 23 Sep 2026 19:17:01 GMT",
       "query": "AI video generation"
+    },
+    {
+      "title": "Chinese hacker deployed Anthropic and Deepseek and Moonshot AI agents in massive 100-company cyberattack - oodaloop.com",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNTZZYno2YXpVQjNEeFJlM3FDMDdiRlkzMjZYZV9hb2V4aWd2WGRPeERnUmwwdFRpNlRMWXNQdUhPSkVKNWdHSFJMel9MR3hrX3I5NmU5TnpGSXNOZGxtMElSNTlYMW13WHlwZlVZTl9mbTMwa3paNWtOSE1yOGVJUTB2R0tETzcweU9EcXhmcXg5bm5EOWlJdzM2V19oWGkwNU9HT2VsWVEza09fT3JXbnNfaGQta0tLMGFPMzQ3RnFaMlZHeG8ybWdudThNWi1jQ3Y5dHdR?oc=5",
+      "source": "oodaloop.com",
+      "pubDate": "Wed, 23 Sep 2026 19:11:04 GMT",
+      "query": "DeepSeek"
+    },
+    {
+      "title": "Anyone can make stunning HD videos with Gemini Omni in Google Vids - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMnNJNVpNRmFXYi01NzlvMFZBSDUxSXZuLTNDTm4zNGpCcjd1aUlNUkktc19sdndCYnMzS0tOVFRYZnp0TS1uLU1qRVRGeTRDenpYYlRUal9vYXFLY1VDMFBQeTE5U3VOZGFpUkN1WWVOQzhVSGhUYkxxd2N4MFRFN2RMclZ2eTFGWUZXWkFucU5DZ1U?oc=5",
+      "source": "blog.google",
+      "pubDate": "Wed, 23 Sep 2026 19:10:21 GMT",
+      "query": "Gemini AI"
+    },
+    {
+      "title": "Okta Unveils AI Agent Security Blueprint Alliance at Oktane - es.tradingview.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbW9EV245eWZ5LW1KYTRiZGM2eTNIWUdCWm9yVmx6QWpsMjFjLWd1SWJBNHhpZHhOMF9QRXN2N1dreFRlcUhkYTJwQVQ0UUZSX3ZrY3FMQ2pUNVctbFBUdHdSNGVPam01SXdlbGNoR0xxMC1hZk9fOThaTGlfUkNtZlNWU3FrTlVULTh0Ylp3bmFJOS15MGwzSWtnSXUtdzhiZjJVYWR0LXU3Ri04Q0QyLWdMMVdCN19EalZR?oc=5",
+      "source": "es.tradingview.com",
+      "pubDate": "Wed, 23 Sep 2026 19:02:42 GMT",
+      "query": "AI agent platform"
+    },
+    {
+      "title": "LIVE: OpenAI and Anthropic brief Security Council amid ‘real and imminent’ threat posed by runaway AI - UN News",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqVGZCZ3prNmhaQXp3bkxTeWlRWlpjYUkxV2V0UWJGTy01dTFZQ2NoLXlXQWtVQ3lySFJsZmNuMDRWMWZQbmhfUGpqN3VsbFlPZ1ltNl9HQQ?oc=5",
+      "source": "UN News",
+      "pubDate": "Wed, 23 Sep 2026 18:34:18 GMT",
+      "query": "OpenAI"
+    },
+    {
+      "title": "Anthropic’s Claude finds new enzyme system - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTy1TSDBoeVpLcUhpRHF4Z1VJM01VMFZxRmdsMTA4bWV2c01PUTAwTFpGZVVHZWZ1MzhRUzcxYUpKcl8wYWRqU19RbVBhUkZFYjJXUlF6TVZvdGtQOHdxb3djUGNQZ2g0dGh0M3RhSlJ4TU96ZnlrLU14LTdNVERyRFRvbnVzVmJEdkVUWlNzMmRNdkljcDd2WHZ2OVRZZkU?oc=5",
+      "source": "Investing.com",
+      "pubDate": "Wed, 23 Sep 2026 18:20:52 GMT",
+      "query": "Anthropic Claude"
+    },
+    {
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JT0FwTVctZXNkYnJXeW44aHhoZmJfbDYwN3B4a2tMTThJZm9XRklxMkEzdFlxb2Z6VGM2UnpDTGlaQ09PODJUMkJFWWl1UVZOTDJ0WU1UQ1pZMDlrbS0tM3FTS0RGWmNSeGt5QlJjZktQWkl4N0E?oc=5",
+      "source": "Anthropic",
+      "pubDate": "Wed, 23 Sep 2026 18:14:17 GMT",
+      "query": "Anthropic Claude"
+    },
+    {
+      "title": "Tech Stocks Slipped As DeepSeek Pitched Safer AI Agents - Finimize",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUldVekZrT3I3Qk5hX3ozdUthRmtRSDFaR01NZDlOQW9CTlQyaU9LTXJsci1vRXM0WDFTcFdaRmxvdG9DQWxMNmlwZ2ZUdUxqOUxxemVJTUZibnR5aEIxNDJBaFplOWx0YnVPd2dCMEQ2NnVIaFVFZU1JRDEwV3ZYbm5wcjJTWjNja1VVXw?oc=5",
+      "source": "Finimize",
+      "pubDate": "Wed, 23 Sep 2026 18:02:14 GMT",
+      "query": "DeepSeek"
     }
   ]
 }

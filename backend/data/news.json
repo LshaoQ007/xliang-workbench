@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27 01:39",
+  "updated": "2026-09-28 01:54",
   "count": 50,
   "items": [
     {
@@ -10,18 +10,11 @@
       "query": "Amazon seller policy"
     },
     {
-      "title": "Pardon the Disruption: Can Amazon be a grocer and a 3P delivery provider? - grocerydive.com",
+      "title": "Pardon the Disruption: Can Amazon be a grocer and a 3P delivery provider? - Grocery Dive",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPal9rREV5QlNTdDBCTHJQdDUwZVJmRUEtZEZxRHo1bXF3SnpORVRlQTYxR25SMldJU0dmY1p4N25UV2NBcENGbGw5SGtKQURvVDZXOG9NY1NxdXRnMV9OZjA1MXZsOUs4a2NGRjVTNUhjbkJRMXVaWEJxVHhpZVZObl9LaG8zVW5lYlRDNzBqaWFaMXZGcWtIQWFQXzJGR3ZEOWNUNjBxbkh4Q2pvdjNpNWRRQXppOXhSUzc0aQ?oc=5",
-      "source": "grocerydive.com",
+      "source": "Grocery Dive",
       "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
       "query": "amazon.com marketplace"
-    },
-    {
-      "title": "Amazon’s Bezos cannot guarantee third-party seller policy wasn’t violated - Fox Business",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTWI4cFJQcnFFalhJUTdjNHc3d2YtSkxIUVBwS0ZBLWhqQ1VFamZoajZmT2xZVmw5NTFGOENGRDE3MDUwLTlISERjOEZzTXJpbFFiLU9scW1pZkhoeG5WcGl0UmE0RnV4c3ZhRWJ4OG5fTUZzQkRRX2taWW9XUWxvV3hjbUjSAYoBQVVfeXFMT3Z1eFlXVDZvdDJqaUVTN3JIbjJ5OTg4OXdJTlhKWVo2TkZaTkxvVkYzaVpGMFVKbjZhQmxUd2psVE00MmpDOXBTdERneXNWLU8yelV6OUNROWNJZXNEZ3YxSkdYcmRYRjg3ZU1JR19PUGJxRDd1ZmNMTGdPbnlxWGV5Q1NPb0NXQk1R?oc=5",
-      "source": "Fox Business",
-      "pubDate": "Wed, 29 Jul 2020 07:00:00 GMT",
-      "query": "Amazon seller policy"
     },
     {
       "title": "Amazon.com Announces First Quarter Results - Amazon Investor Relations",
@@ -38,6 +31,13 @@
       "query": "Amazon sellers news"
     },
     {
+      "title": "Amazon’s Prime Day event is back this June - aboutamazon.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aN1plRy00UThuaFdrdUJCQ25lMmVCZERMWmt4RkxxX094Y0JkR3UyVlVvU0dMdEFqMHU1SjBVVktVaEQ5UGRwdWRwVU1Sa05DakVpdWFBODJnVlk1bnFzTC1teVFoUnctLXRwdk0tVXJyek0y?oc=5",
+      "source": "aboutamazon.com",
+      "pubDate": "Wed, 29 Apr 2026 07:00:00 GMT",
+      "query": "Amazon sellers news"
+    },
+    {
       "title": "Amazon requires testing for all supplements - SupplySide Supplement Journal",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdVpWbWJBNG1Yc0lHclB4dGJzaEpSOGRkWHZ6VXlReW9nRF9DUTlDOFhnQ3FEbDRiYlhyWHBpamYwd0g2by1uOHR1VlJnMl9GcG1BSmdoZnQ2TlFGYkVucHBrWWhqZHhpQkR1VWFfcWlBSFYtc2NVWDZESDdEMlRIekZ5YUk0dw?oc=5",
       "source": "SupplySide Supplement Journal",
@@ -45,9 +45,9 @@
       "query": "Amazon seller policy"
     },
     {
-      "title": "How AWS is helping retailers build their own AI-powered shopping experiences - About Amazon",
+      "title": "How AWS is helping retailers build their own AI-powered shopping experiences - aboutamazon.com",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbHNkSVpVTnJ0SGFrRXByRFUyTWpKa3NLbWJ3ck5sMGRTbHdreWhXU3FsSmkzb05EajBMTnJsZWF4MDlLd0d3NlU5dlR5RFUwVDJHd1RIRW9TVlVqVVphbFdXVC1DX2NZQXZaR3k1ak1CanAtX0dOVkotaUlZNnMtRUNPVQ?oc=5",
-      "source": "About Amazon",
+      "source": "aboutamazon.com",
       "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
       "query": "Amazon sellers news"
     },
@@ -143,9 +143,9 @@
       "query": "Amazon sellers news"
     },
     {
-      "title": "AWS GenAIIC Partner Agent Factory: New AI agents now in AWS Marketplace - Amazon Web Services (AWS)",
+      "title": "AWS GenAIIC Partner Agent Factory: New AI agents now in AWS Marketplace - aws.amazon.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeEhqRlBQSEJZUTBoeG9vRnBRNnVSTE9vYkVLYVRUajE4cGMybUFLRG9HY1FhbjA3LUlzZDN0RThBU284d1EzOXNnVWtDQ19Hc2p5SnNmYmRIWG9jVG9kYWFZblJPZjBHQnIxV0dyRENUck1RaWJLeTNJX1QzaGNJNndKQy02bkJweExqM21UTGJGeURncG5nSjNkNkxjNU8tU0lSZFFCeVRiLWl2VmhsNEE2NE1rZw?oc=5",
-      "source": "Amazon Web Services (AWS)",
+      "source": "aws.amazon.com",
       "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
       "query": "amazon.com marketplace"
     },
@@ -153,34 +153,20 @@
       "title": "Amazon Adds 24/7 AI Workflows to Seller Assistant - Modern Distribution Management",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOWhWUnZsNm5DcUxqbVFwQ2xhUk9TSFp5ZkdyeXZONGFIWlh2RDNNT200VVA0bjFta0FEa2NvdDBPTGNSNDhvQ2l5YmlGc2hZNGV4REh4T0hrYS1NVTI1aUlOc3ZISXpJVkNIRURhUE92a09vWWxRLXViV0FQUERKeDBOcXhKVmxSMnd5YkE3VHBBeDJ3MUhsS0ozaTlBcjduOXB3bFRB?oc=5",
       "source": "Modern Distribution Management",
-      "pubDate": "Wed, 23 Sep 2026 17:47:24 GMT",
+      "pubDate": "Wed, 23 Sep 2026 17:46:57 GMT",
       "query": "Amazon Seller Central"
-    },
-    {
-      "title": "Amazon introduces an AI integrated with Claude to advise its third-party sellers - FashionNetwork USA",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcGNGeWdDY2JKQTE5eE5hblE5dlo0cWQwbEJtZHhKLWxQNEd2NEJJc19yaVUtc1U2OVRES3hmbXdabTIzb3lyS25kdUpiWGNhckRnNTNia1F5ZTBTdjZzMXhtSV9iUG1PRUgtMFM1WEE3U2FmREJWakN2ZGRfdmlobmsxS2E1dWhTTE5MQzRoUHRFSFZYaEFlckVLb3k4Yi1xRnBXTUgzbk8ydGdwcmxMcGNTaUJfMXgxSkJSWDlKUUZTLWg0RnlJ?oc=5",
-      "source": "FashionNetwork USA",
-      "pubDate": "Wed, 23 Sep 2026 17:38:11 GMT",
-      "query": "Amazon sellers news"
-    },
-    {
-      "title": "Amazon Gives Sellers 12 Months of AI Software Quick Plus For Free - The Information",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdlpoQ0hOc2hKek1TaDBwc2g3SHlKUDdwVm94Ym1qTXR5YVpMMjlyLVpvZndBWmlwSEN1LVE2Z0lqcWVoMmxSLUNYVDFuaDNPcllpUXRMQUI1VmZJN2YwaGNDOFU2Q0laVWh6ZDJIaTE4TlBUSWRtalRXbTJHbmJYLWwxTnIxTC1mWlFZRVRHOU1Vd19kWkZMYk5R?oc=5",
-      "source": "The Information",
-      "pubDate": "Wed, 23 Sep 2026 17:37:00 GMT",
-      "query": "Amazon sellers news"
     },
     {
       "title": "Amazon adds pickup locations; enables seller tool with next-gen AI - Chain Store Age",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWE8wSjNjdmF5NDlFYUNFeVhrSUdHSU9aR3Z5dk1XNmFqYTVtWnRZTU9yaE82TWVva2twaWhBTHJnMTRqTFFTeW4xTThPV1BHd0Ytb3FvdjRINk5ITXJDUzJPeXlxU19VeEVLekstOV9fUzlJQTZCbTY0YjhzcGhGdEZJbVZSbXFmNWN0cTVYZw?oc=5",
       "source": "Chain Store Age",
       "pubDate": "Wed, 23 Sep 2026 17:05:44 GMT",
-      "query": "Amazon sellers news"
+      "query": "Amazon Seller Central"
     },
     {
-      "title": "Amazon Just Gave Sellers a New AI Superpower - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOXR1enlfQ1dNTzdaWmZMcERRVTB6d0JVRGs4OTFlNnJlWHlQZXNTT2RtcThkWE5CY01xTnBUekZacnZwOEF5Z1YwVGtqaE9VTFZ1OVVpOEJVQnh0WjZQVVJ4Q0draTZOa2UzSlpBelVXcU9wZEc5alJBc1ZXLU9fbFVkTkFKaTVjbnY3OENWUU9mQ0hRR3c?oc=5",
-      "source": "Yahoo Finance",
+      "title": "Amazon Just Gave Sellers a New AI Superpower - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT0xVNXVVNF90TUxadmtqNDdoQ3VEQXRKbEZTNDYxUHV5M0pqZGhteTBMRTd6MUE0ZFVnSHVwN25wMU9rR1Q5U0N5SnptTEo4Vmh1S2NOdkd6cFRCaUFBV2I2LVFfdXBtSnZJZFFzVmUtbGhsSWl1X2ZuMEUyOElVSGliTnFXOGs1cHQ2STBGSklZdC1hZ3dZUlRWYy1oY2h5dVNCZ1Vmaw?oc=5",
+      "source": "TradingView",
       "pubDate": "Wed, 23 Sep 2026 17:00:07 GMT",
       "query": "Amazon sellers news"
     },
@@ -203,7 +189,7 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN3NiSDBVdV9yclV2NmNsSHVlYWJndG02NGh6dVVDVGRBRnQyUzRaM2llWjhhWEtGQlVjRjV2MHFERDVTR3dhbUNqTE04RFdDYk05bm9JcC1OOWp2XzNlUUR1eDdKSWF0VmpPZUdSeDQtT2xuZm4wZUZnTG5MOTkwRDh4eGVvUQ?oc=5",
       "source": "Unite.AI",
       "pubDate": "Wed, 23 Sep 2026 15:30:02 GMT",
-      "query": "Amazon sellers news"
+      "query": "Amazon Seller Central"
     },
     {
       "title": "Amazon Seller Assistant plugin brings seller data to Claude - The Next Web",
@@ -213,39 +199,18 @@
       "query": "Amazon sellers news"
     },
     {
-      "title": "Amazon Introduces New Agentic AI Capabilities for Seller Assistant - marketscreener.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa203SnJtUjQ4SHkxalUxdjh3UHFkUTZoSkpodHN2Qks0ZmhCVzR2VW1qckg5WVF4bFdic3FVWlcwLWVCb1FaN253bmNLVGsyU2xCWnVkbzhIOUcxYzNSamdOeWt2bGw1MzZ3Z2tFQTZOMGw4RGFHTzZ6Y1d1WHlzZWt2bkFTUUk4VFNDbFktS0MxRzgtQXJfeExhQS1rQ1V2SXhkQ0tEUGhzemQtR1EzWDgxaV9wTWY1bkE4?oc=5",
-      "source": "marketscreener.com",
-      "pubDate": "Wed, 23 Sep 2026 14:52:48 GMT",
-      "query": "Amazon sellers news"
-    },
-    {
       "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - GeekWire",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ1pVeHhockdFWjl1eXJoYlJKZmZHT2JTOXlLalRYeHBKalY1RnNNdXBNY0ZIUmVSZnNCckVDMDJyLVI1LWFXLWxyTXB3Q1JWYnRmZXhjOFBfbkdLb3Jzcy1QUGhXaFA2Wm9pOUs1eHRWLURHeFFlVDJCbmE5bXRhRU5HbjVVMThHbXJNSTZTTnlQaTJwWWFtWWRha1RZRktWSG4xMi0ydFhHbUVNV2lDMHE4NA?oc=5",
       "source": "GeekWire",
       "pubDate": "Wed, 23 Sep 2026 14:10:52 GMT",
-      "query": "Amazon sellers news"
-    },
-    {
-      "title": "Amazon’s new agentic AI helps sellers automate listings and alerts - en.cryptonomist.ch",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SaEJscFMyN2hybF8xX2pFR3hZQ09MSWlBZ2hwZXBFMDRvVEpUVW9QZE1rQndTNlVWbEY4MGg2UF9TYlllQm54SVg4SFVoRlB5cG1wQ0R1Vk5UZnNrVE9lNlZualp6UDlNeE9Dc3ZuTFRCdnd1QkE?oc=5",
-      "source": "en.cryptonomist.ch",
-      "pubDate": "Wed, 23 Sep 2026 13:53:55 GMT",
-      "query": "Amazon sellers news"
-    },
-    {
-      "title": "Amazon Launches Agentic AI Workflows to Automate Third-Party Seller Tasks - konsulteer.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWlR4UUotVTNZMFhQYXlpUFVuYXNadWFxdGh5UWptT3dweWZIQl9ucHJETmFKb2xwdlF2MHhFNnQ2elNiT19XVlhIVnBxem4tTHhTb3lBcDhOdGpLY2l4VGQxNzJaM0VsMzJUb09iUjlCemdkUmw4TENDWnFfVmgzRkwyQnVfVU50OEx4TVNJZDZQcjNVQ19wd0oyZU1ua3UtdG1PX3huNWlwVlUy?oc=5",
-      "source": "konsulteer.com",
-      "pubDate": "Wed, 23 Sep 2026 13:44:35 GMT",
-      "query": "Amazon sellers news"
+      "query": "Amazon Seller Central"
     },
     {
       "title": "Amazon Seller Assistant Adds 24/7 Automation and Claude Integration - Small Business Trends",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbzh0ZXpMQ0xKNmhqRHIxSkRWbGNrN3hLNEFHX3lLQmJGak1qYVBsbjVJeVh1Y1JkZWhYZUpRMmd0QkhKSHhXUWxGSGRuSHFMblZvc0N1T25oODNOV2FkdXBONUMtZ2dHU3U4OEtuZmI5eXV2YjdWMFVmTjVuYXB1eVFwTW5feXVqYW5Lb25SRHNMcGpPNUxxYUNaMA?oc=5",
       "source": "Small Business Trends",
       "pubDate": "Wed, 23 Sep 2026 13:30:47 GMT",
-      "query": "Amazon sellers news"
+      "query": "Amazon Seller Central"
     },
     {
       "title": "Amazon Moves to Power the Agents That Power Commerce - PYMNTS.com",
@@ -255,9 +220,9 @@
       "query": "Amazon sellers news"
     },
     {
-      "title": "Amazon gives sellers an even smarter Seller Assistant and a new plugin for Amazon Quick and Anthropic’s Claude - About Amazon",
+      "title": "Amazon gives sellers an even smarter Seller Assistant and a new plugin for Amazon Quick and Anthropic’s Claude - aboutamazon.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaUJEMEhNVjVhWlBoRXNvX0FlWEtZMUxyRGZXekdwR2NVcjhTSWZYd0phakF5N3N3Q3FuN2F3UV91SW9McFY3c1REZmhpTmE0NVR0RkFVT1FJSFNBWFNEX0FJV2czQ0VvOWkxY2J3U0RVUjBSV3NzQzA5eUxXTTJ3SjdBQWNwQ2dJbklNWlkwV2N6SUJfSzhwTWdaU2p3Zw?oc=5",
-      "source": "About Amazon",
+      "source": "aboutamazon.com",
       "pubDate": "Wed, 23 Sep 2026 13:05:47 GMT",
       "query": "Amazon sellers news"
     },
@@ -290,6 +255,13 @@
       "query": "Amazon Seller Central"
     },
     {
+      "title": "California claims Amazon pressured sellers to boost prices on their sites - LiveNOW from FOX",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZTJlSzNYX0NZclp3VlYzN0pTcTh4cXpGdFN1YUsweklZdVE4TTc0NlNOSE9oYzlhTklyZ29nZUJwZWZiVjZxVE9rMkxMT3N0NG0tQndUd0dHaEJEY2xkTTZrSnJhSmg0MV9lMWd0c204WlV1LTRBend5aXdOUHppUHgxLUhFMksyOEJNMU9GUm9yLWl0Y2NuMQ?oc=5",
+      "source": "LiveNOW from FOX",
+      "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "query": "Amazon sellers news"
+    },
+    {
       "title": "An update on Amazon India leadership - aboutamazon.in",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOU9jUGZ3cDFlR2ozSEhZelg4Y2dPZmNNRDh0SGdJOVFfUE1RSjFEQ2lZN0Z3VlpTaGc3N3hQTEJXYmpRVDA2ODNEUTVtV0E5RTNJYmF2YnRGUTRyNlY3QUpqUjFHcHo3ajJoQ0YtT2hPY1NCSHhWMDR3MjVRX19yakIxSUlSd1o4?oc=5",
       "source": "aboutamazon.in",
@@ -304,9 +276,9 @@
       "query": "Amazon seller policy"
     },
     {
-      "title": "Independent sellers move 5 billion products annually through Amazon’s network of global logistics, domestic freight, and bulk warehousing - About Amazon",
+      "title": "Independent sellers move 5 billion products annually through Amazon’s network of global logistics, domestic freight, and bulk warehousing - aboutamazon.com",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdW5ibmx4NmRMUllkYVFhdzI3aTBZRC12dkMzSkxEUHczWU11a002THZFaE51dmMzaHd6X2JCOG8tUXEtMEVzd0F1NVFUd01aTGRsLVJUbkkyMUI5dkhzVUNyYnM5dThUODA5QXRFVVFwTjhmaE5ITjI4Wl84bl9ocTFxMDBxdDBmNTQwVjlTRQ?oc=5",
-      "source": "About Amazon",
+      "source": "aboutamazon.com",
       "pubDate": "Wed, 17 Sep 2025 07:00:00 GMT",
       "query": "Amazon FBA update"
     },
@@ -318,9 +290,9 @@
       "query": "Amazon FBA update"
     },
     {
-      "title": "Amazon introduces agentic AI across the seller experience, transforming how sellers manage their businesses - About Amazon",
+      "title": "Amazon introduces agentic AI across the seller experience, transforming how sellers manage their businesses - aboutamazon.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZmJXblB2NFlQSF9zbjNfSVVHSWpBajQ3MVBGandHMmt1UGtiaFpCRFpfbUU0MWNoZ1hmWVV6RF83MzBsbnhrQ0daMVlaS21aeHprZGVZN0xXSEtULVg1U0VfVmxnTHQwVFF3YTZWY1o2TTRSS3FDT3Q4Uk94WWc2aDhrLXZNdEhq?oc=5",
-      "source": "About Amazon",
+      "source": "aboutamazon.com",
       "pubDate": "Wed, 17 Sep 2025 07:00:00 GMT",
       "query": "Amazon Seller Central"
     },
@@ -339,18 +311,46 @@
       "query": "amazon.com marketplace"
     },
     {
-      "title": "Sources: Amazon to Close Its Domestic Marketplace in China - VOA - Voice of America English News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQzRxcW1vOWcyNnRoenFLdm5xNUl0SjQzNWVUSng1ci1qQ0NNeXhCQXZQZ0NOOFRKdXE4ak1tR3dzelEwOTZaeW9Xczg4U0kyTlliZ3AzcXhzYURMeXpUSTdhYmdYR1ZMNW56U2UxdjhnSThtNlBBUDJQWmlFbkx3OEtIV2ZEaFlNM0NHelBGVXZzQlNWNklOTFpyS2fSAZ8BQVVfeXFMTWFQT0NSNzBZY3c2TXd3RXlOUmQzeWpIQlhTN2VnRUN1RXhOenhlUF95VHFRRXFKSjdSYk5ocUsyajkwNm5LVWp1U193ZXFRMUtZeTREdU9HeEFsSmc2M19nMWtzcnRBWERwVVM1REpXNlQ5RC15bzliUXJNajY3OVpqUjNCM2tFaElkQkZhcEpsQ3BhWUxOeGhWZkF4UGVz?oc=5",
-      "source": "VOA - Voice of America English News",
-      "pubDate": "Wed, 17 Apr 2019 07:00:00 GMT",
+      "title": "Amazon is combining grocery and marketplace into one shopping experience - consumeraffairs.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLTNOQU8zdW53R2llVDVjMEZJZGRuY1dyT1RlYmlSaThOMFVpeG1rUmpNNGlfRml4UjhsaHUwQWVORUxJSVdwbFNiUm4tQkhwc3VpVi1KZllNM3U2bldCdVpZenFub3RsbFFwMWRYRUpKUzhKNUk3bnFDZE01aHlaU0dCQV9jWUx5dkxzUUItVmlXVk91SnkxNUFCZ1ZQS3QtRkFvQ0tIdGZKN1R2WFBPX1VHbVFBNU1QWEpWN1ZB?oc=5",
+      "source": "consumeraffairs.com",
+      "pubDate": "Wed, 16 Oct 2024 07:00:00 GMT",
       "query": "amazon.com marketplace"
     },
     {
-      "title": "Amazon is combining grocery and marketplace into one shopping experience - ConsumerAffairs",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLTNOQU8zdW53R2llVDVjMEZJZGRuY1dyT1RlYmlSaThOMFVpeG1rUmpNNGlfRml4UjhsaHUwQWVORUxJSVdwbFNiUm4tQkhwc3VpVi1KZllNM3U2bldCdVpZenFub3RsbFFwMWRYRUpKUzhKNUk3bnFDZE01aHlaU0dCQV9jWUx5dkxzUUItVmlXVk91SnkxNUFCZ1ZQS3QtRkFvQ0tIdGZKN1R2WFBPX1VHbVFBNU1QWEpWN1ZB?oc=5",
-      "source": "ConsumerAffairs",
-      "pubDate": "Wed, 16 Oct 2024 07:00:00 GMT",
+      "title": "AWS announces new innovations for building AI agents at AWS Summit New York 2025 - aboutamazon.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZU91RU1EUXdTanBma3lMeTd3cXlaMzlfdlJTdUkyUWVnR09TVWl3WXRubWlFZVE1cE5YV0gxbEd0c29hdjg1a2VBWXBObDNxNlFGaWE1dzlOakEza21PcEFvZmFaQThpa2hjemFha2hNZ3FNendtV0Z3VU9OWFBYUw?oc=5",
+      "source": "aboutamazon.com",
+      "pubDate": "Wed, 16 Jul 2025 07:00:00 GMT",
       "query": "amazon.com marketplace"
+    },
+    {
+      "title": "Liquid I.V. climbs higher on Amazon Prime Day sellers list - Digital Commerce 360",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN1czU2V4SzBCZEwya1BhNFBJNFgwNk5adlJOUkRtSTNibWtEM241a1g5VUd3QWV5eUZrNFNHaDJxNW5QNEwtcC1GZDRWcFdIQzRiN0NabVREc2JFUnNHamo5U2FHejNBN284dGFmcjdCV2p1cVljREpXTGNtMm94OWVlZi1vSUh2N19kZ3RiRUVDTlhRV0HSAZsBQVVfeXFMT0tkV1J6Qng5YWVrYU0wd1RNMnRjZE0xNVUxT1dqN3BmRGRrRjdVZ0tyanpYZTVvbEs5RkI3TVRDVVhCUUlfN2ZhVmV6SGlOaEF4aXF4bTR4N1Q5bmZXazhuVWxuYXpzSS1aYU9PMmVrQkVDQ2RDellrMlF2S1IxVVAxbm9NSEJLYnd4eGtMeHlndWlYa1ZCczdfX0E?oc=5",
+      "source": "Digital Commerce 360",
+      "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+      "query": "Amazon sellers news"
+    },
+    {
+      "title": "Amazon tacks on sneaky fees for the upcoming ‘peak season’ — advising customers to buy early - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX0pnZHhzTU9OTTRBZVdIdGFTdTFEWkN5NU9TbGNIWHFKaVJBSm9HV2l2THRDblJuemNhNXd0UEJOMGEyZ01qd0o4bWphVFZCNmpyX1dUUGhXcmdVbjVBYW8yMjlsel92Z2ZlRGlJUF92azFuVWcwc0VNN3J1VmJGbVZQc2RBVlFzcmJZVjNHQTAycEJWZTkzTg?oc=5",
+      "source": "New York Post",
+      "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+      "query": "Amazon Seller Central"
+    },
+    {
+      "title": "Amazon Sellers Protest Policy Changes With One-Day Ad Boycott - PYMNTS.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVlhfeUl0STBwdWQ4c2dVdDRIUDVkMzlXNHA5bTlfTTJDaDJOVTAzWlZSLU5CUjRKZ3JwMnhCa3F0cjBUSmpyNW02T3lLRXdaeUR3YkFIMlFpZG1tUzgtZFVkcl9GeDBGcmk4NTNzUHc2Yy1QRlZHMjlHSDI5azNibWpzTjZsNzhyT1BzRTJoM3dzd0szTWZGYWtUeEcwQQ?oc=5",
+      "source": "PYMNTS.com",
+      "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
+      "query": "Amazon seller policy"
+    },
+    {
+      "title": "Amazon sellers boycott ads in policy change revolt: 'We're running out of f---ing margin' - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWjktb0kwRUIyZy1XX2JPSlFmUUR0N2FjMy1mREdBSk9Wc01jVEVvb3owYmMzZERNVzBielowVkFjY1BzX2hiNU9XRnFrbUROdDVoMVlNMTBhY2UzSThnYTRkZHczN1BJTmRVb01kTUFWUjF2RFhueERfbmJydWVyN3p0aGFTQdIBiwFBVV95cUxQX0gtbTNxRkVsbXBxU3FrdUlBa1BpOUlwcFdIWmJUVm1sakY5TWdBbkRiOGFIQzBMcEU2c2RxTmd0YTdjUzQyVlRHcko3NVZibE15UWk2NWJOWFBpOWd2OW01ODJhbG9zUmRzaXJBVTVrS1NQOEFRS2lTdy1iYkx3bWxQXzVwaDJYQ0Zn?oc=5",
+      "source": "CNBC",
+      "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
+      "query": "Amazon sellers news"
     }
   ]
 }

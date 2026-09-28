@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27 01:39",
+  "updated": "2026-09-28 01:54",
   "count": 50,
   "items": [
     {
@@ -17,16 +17,16 @@
       "query": "AI model update"
     },
     {
-      "title": "MUSC Health expands use of SoundHound's AI agent platform to retail and specialty pharmacies - SoundHound",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZEd1bWdHQ0FOYzhKNzhvY3NtYWh0Tzl3UkpNdlBsNEpvbE5tMm8zUlBtRmFCV0RaanJKaHBKZ2plbFozYkVjdkJ1S0liOE1JMHdRaERySzJESmxqOWE5N1g1b0ZheTI3NGRtVVlwUGZrakE1SWpLVG0tVzFwNnpzU3FsTVdoZ1Y0VUhSeEotbUtrSUxqdkN3dHdQQ0RqUnZINnBoV0xYajFXckdjNHNUd0FDeTRzdjMyT05aVXgzLTU0RWJYWEtvR1VhMTdfRE1BUnc4WnIxSUx6eGJDQTdkS1ZQdmRfNkFuWVA4VU5OZEFnZkRsMGc?oc=5",
-      "source": "SoundHound",
+      "title": "Fusion AI Agents: Secure by Design Best-Practice Considerations - Oracle Blogs",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaENaUjlZV3lrSXVFUl9XZzBGaW05cUI1TkpuOUVkVUJhUHNqSkVKdlNXNjRVZUYxdnZVQjRrV1BDeWFrOXh2Q0JJamFrRzFZdG1YRDhaWGFQVnZ5aFJRYVJNLV9zV3FNR3h3aVNxWlA5N09ORnA1NVlqRUFxSV9SbW5seUpsdw?oc=5",
+      "source": "Oracle Blogs",
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
       "query": "AI agent platform"
     },
     {
-      "title": "Fusion AI Agents: Secure by Design Best-Practice Considerations - Oracle Blogs",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaENaUjlZV3lrSXVFUl9XZzBGaW05cUI1TkpuOUVkVUJhUHNqSkVKdlNXNjRVZUYxdnZVQjRrV1BDeWFrOXh2Q0JJamFrRzFZdG1YRDhaWGFQVnZ5aFJRYVJNLV9zV3FNR3h3aVNxWlA5N09ORnA1NVlqRUFxSV9SbW5seUpsdw?oc=5",
-      "source": "Oracle Blogs",
+      "title": "MUSC Health expands use of SoundHound’s AI agent platform - GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxObWJZQjI3NEkzUkl6UkZmTG9XUjUzYURfeDBpNVZnQXhLS2JFSnBkRFlxcFNfOVVRRzdXWjVBemdjOWQ4cWt6Y3lCVDFhaGJEM054a2dhX05qRG0tZGR4d1Y3bG5wTlpGVEJuRmJEN2c2THh4T24xSFlNVVdqc0hKTlN6TWo0RVgzMFBDaWtSZkNFWFlOX0poSm5GQVQtWjEwcG5DV1l0dlJNbTItNUtuLWZOSXdocC1xbEdkRW82c2tidEN6dXlkR0padExuTXZwOUZOXzU2cXVNVEdGOUVETmFuUWFic2pYS2Z6al92REZ2a1NWcmZrZWpzTDdfa0tRS3RzV1QyQ3hOU0N4eDJhWjdYcjU4MThIOFU4eDZyMnJibDN3MHZv?oc=5",
+      "source": "GlobeNewswire",
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
       "query": "AI agent platform"
     },
@@ -66,9 +66,16 @@
       "query": "Qwen Alibaba"
     },
     {
-      "title": "I Spent Hours Testing NSFW AI Video Generators. These 5 Are the Best - uk.pcmag.com",
+      "title": "Alibaba Stock Rises After New Qwen AI Model Takes Aim at Costs - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb2JzWVo3V2tLRWZSSTRaaDI4Y0dyOXFmZjRWNEhaQ2RmQXN1bkt0c2RLOXduSFVTLXlITEIwdlFqUE56dXNweWtTSHlwT294aFR6RzRobTN1QzdRVlZYQUd4WUFYZW1KS0RQYTlVajh3UGtNdjdtR1VPQzRETVFVb0h4LW1fSkhseDRCcVdiT2huTHJSeUE?oc=5",
+      "source": "Yahoo Finance",
+      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "query": "Qwen Alibaba"
+    },
+    {
+      "title": "I Spent Hours Testing NSFW AI Video Generators. These 5 Are the Best - PCMag UK",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKbXlqaTdiSHBkUzdmYWtHblhXaVBSOGpfTmpndGJrd3ZTVGpqY1lsaW1MQjk2cDZhbE05NVZVRW1yOVZ5RlJzWlVEREYzdUNRTkNZMl8xSmRhUGtPd1VrcEVZSVhqd2pqTmp6UnhsNU4xUy1QeEpn?oc=5",
-      "source": "uk.pcmag.com",
+      "source": "PCMag UK",
       "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
       "query": "AI video generation"
     },
@@ -94,6 +101,13 @@
       "query": "AI model update"
     },
     {
+      "title": "OpenAI shutters AI video generator Sora in abrupt announcement - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxSjhhNmprLUw4djBMbENiYnlqSjZ0c2lBR3ZEazNkMnlyTWFJZmlHWU1PLVdlRWx2enNxNkFOS041SWNfRTVsVHpnY2lJUVR6MFVISnU1MkI3dTJnWVVTb01ObDRPR3YwdTVHaTRDVnVWRUE3cVdnSUpTTQ?oc=5",
+      "source": "The Guardian",
+      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
+      "query": "AI video generation"
+    },
+    {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IcjFBSWc3NkotMVUzaDNHaWJBcWVtQXZHbnhpUVZrekpPWENRNEZrQ2hOdTFnejg2WTdvWFNQeFI3RGJnRE9qTFI3czJQX28tQUd3OC1ncFlEMnJtQmdONE8ya1NOa1BVOHhVTGNjdUkxbDg?oc=5",
       "source": "OpenAI",
@@ -108,16 +122,16 @@
       "query": "Midjourney"
     },
     {
-      "title": "Midjourney unveils medical scanner that maps your body in 60 seconds using sound waves - - happymag.tv",
+      "title": "Midjourney unveils medical scanner that maps your body in 60 seconds using sound waves - - Happy Mag",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3UWd4SUpuMlE2d1FZRGwwa19CeDh5RG94Q0xPZnhiSk9MR294WjY0XzJYSWxlT3dnM0NGTHBBT1hURTNMM29vVEpaNmRaZVd4eG1KTDM0TUR5dEU?oc=5",
-      "source": "happymag.tv",
+      "source": "Happy Mag",
       "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
       "query": "Midjourney"
     },
     {
-      "title": "Assort Health scores $120M series C to scale voice AI agent platform for healthcare - Fierce Healthcare",
+      "title": "Assort Health scores $120M series C to scale voice AI agent platform for healthcare - fiercehealthcare.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOREx2eWZCQkFpNzl2WnBsMUh3clllRFpVdkhhZ2l4Qzg1WXM4Y2tZaGhET2hNd3VQRDNIX1RHb01VbHlzX1BRV1JaMkpPMkhOdjUwb0FZa0RSS3hleGkwcndBWXZRSlI4Ul9uMm10YVQxQzFqZFFwbklkSmxtZ1IyMUhQSDJrSU05M2tvSmNlT25YeGFCUmFYWkZtRDdiRVJHZ3NjQkRzbF9IZWVobGRYVkVUeEVvQ0RGWVBMTGhSTVF4dDBLZ2hDcTdXTHA?oc=5",
-      "source": "Fierce Healthcare",
+      "source": "fiercehealthcare.com",
       "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
       "query": "AI agent platform"
     },
@@ -143,11 +157,11 @@
       "query": "OpenAI"
     },
     {
-      "title": "Meta Platforms (META) Faces New AI Agent Access Risk - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY2I5bmZhb2J0clBCLXA5akV0c2Qwd1V6aDVrN0lCMEI1amxjSmU0Z3U0bGFIQkNRLXIwTDM3QkJRY2c0cl9oQ1ZrcTI2RTR3UzJGcVA5M0UyeTg3THQ2aHlwMS1IcVFSdVB3TGtMVjljM3BibUNZX24tYmdzNkVlNkM2RGlzcnhVNzZ1MTVuMXNYbElubUZsUWVpalhKOWlpZGI4WGJ0RzJfNkowSXRtTmRVVlp4VFo1bEZxdNIBwgFBVV95cUxNWE1iNG9pbXphdDIzbWVBU3hVYVdZbzdqMHZDdnFOMTlZRHJHM3Z2d3M3ZFlKUVMySjcybTUxb2FIR0R4X2liR191Y25xUjlMTldnZC1fcXRxS01NQzlIS3oxZENDU3dmb2c1b0J3NW1FbFpEcklPOXp2R2Z6a0N3NHFpYlZoNlpLTU1rNzZTeEVVVTkzQkFBZGV6OFVHOERkNUQwLVRQWXcwcGJhNVFuamtlN3FQaXFQeThUTXViN2Jwdw?oc=5",
-      "source": "simplywall.st",
-      "pubDate": "Wed, 23 Sep 2026 23:44:30 GMT",
-      "query": "AI agent platform"
+      "title": "DeepSeek's DSec blueprint aims to scale agentic AI with tighter guardrails and smarter resource use - Briefs Finance",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSEJ6S2NUZU9WUDAyb01jV2FZWnRzTVpjaWtsUjBTOE5hbXhfV2lvZXdXTFk0NkhQUHN5UnZaYTJFNUpCaDRXVllBbVRucWpGbnpEd2dDd002RjN6RWxGT29tQXVmVjdBWHQ2aTFpbTRyLTBHQlRzLS1iaHZkMTdNcUZocUdjNkltZ3BhQjJzMm83QQ?oc=5",
+      "source": "Briefs Finance",
+      "pubDate": "Wed, 23 Sep 2026 23:35:54 GMT",
+      "query": "DeepSeek"
     },
     {
       "title": "Okta enhances AI agent security with new platform features and Blueprint Alliance - SC Media",
@@ -185,13 +199,6 @@
       "query": "AI model update"
     },
     {
-      "title": "Anthropic Says Claude Found Something Big in DNA. It Just Doesn't Know What - Decrypt",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOR3VKZjgwUDQzQlNUMWs1UlhEbDVhS3ZBcmVSVU9fNGNXdnY4Z2pMdEtXSzNTaVpYSkpadzRSOTdIakgzYVJkLW5MU2tMQWhWSURySVdEeVZzZFhWT0hHMXg2NklHRzNXOFo2NnQ3aEV2TXdFTHE3QUZVbWFaOTN3WEZoZHA3UXJOMElR0gGTAUFVX3lxTFBCLWFYbFJCaUE4ajd0bExjWGlNX3lZNTNYQnhfNWp6TXhCa05VZHlUcGloNWxXdWFFWXBKeGRiUUk5UVd5WTdXV1RhdnRQWFdtNmliUlMyMTVXVGl6QjFGcUFZRGlIQ2ZYY1hHdmc3V1ktX2xURmNLTi1HX0ZSSFN4WFJ5YkpwOWZQYjdqcm1SREV6QQ?oc=5",
-      "source": "Decrypt",
-      "pubDate": "Wed, 23 Sep 2026 22:56:03 GMT",
-      "query": "Anthropic Claude"
-    },
-    {
       "title": "Anthropic says its biology lab has already found something big - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMGNCdGw4Vk51RmJJd25GQTRmblZobmZfTFh1WjUzUXRTNHJtX2hhdXVVMkgxQ3lLYlRCaHV5aGtDTTY0cDBGNU1OZWhab3lHRU1ob1c2Z2VManlRUDNLMkVpazhsRGRrUWhmM2RoQmRqc243X2xrWE1IQWttY05WRk5CTkFvQWwyVUNrR0czcHMxNERxVVB2Q2RNZ1JFQQ?oc=5",
       "source": "TechCrunch",
@@ -204,20 +211,6 @@
       "source": "Financial Times",
       "pubDate": "Wed, 23 Sep 2026 21:42:41 GMT",
       "query": "OpenAI"
-    },
-    {
-      "title": "Apple’s ChatGPT tools ‘dramatically underperformed’, OpenAI claims - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY0RBVWtrcjYxLUNKaEpsTDNmTE4xNFN4djRaRmx0eHR6VVB0Wm5oaVRzR19XaXZ5a0Jra3Byck12b1ZWTml6Q1Vranp1ZzYybTZXUkphRm5SbS1ZTzNGX2JKLXN2ZjR6S0lyTXd6Z2xibDJvVmo3V0ZFT0VYTW9BdV9WX1U?oc=5",
-      "source": "Financial Times",
-      "pubDate": "Wed, 23 Sep 2026 21:32:53 GMT",
-      "query": "OpenAI"
-    },
-    {
-      "title": "China Probes DeepSeek and Moonshot Over Alleged Data Leaks to Anthropic's Claude - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLTZFZzN2SzY3d0J3UW1rSThPYlc3Z1Fkc3pDLXFFV0l3LXNSY3pfU2Z3YzJDa2ttWkdMaTBTblRtMW12VGk4Q00tdm5rRUo1RWpsR1hIY05aNVByR05uZ2poZXEtSmZsclAwejg5WG9qR3gxenlOSTVwWHdKNzNvZE1KQ2FkQXVZTWFqVEpSTjUzTzIwMGZR?oc=5",
-      "source": "Yahoo",
-      "pubDate": "Wed, 23 Sep 2026 21:31:03 GMT",
-      "query": "Anthropic Claude"
     },
     {
       "title": "China Probes DeepSeek and Moonshot Over Alleged Data Leaks to Anthropic's Claude - Decrypt",
@@ -241,27 +234,6 @@
       "query": "DeepSeek"
     },
     {
-      "title": "MacWhisper update brings real-time meeting transcripts, improved speaker recognition, more - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd3IwSTFYU1BrRkpVS2RVQi14aG9CWFRwQUdkd01pLVpDOTlSaFdqNkJKWU1IWC1STzcwZ19sYW9nbGdtdk5fSzVWUkYxZDREdnJaT2F2enI4OHhWbHBxWWt1dlotSU92REc2NFBzcENxdzdpNlJQTWNlb2dNcnpfT3drbEc0cFBEeHBOUkotUzBwa3VEYWNBM1A1eGotRFJzdE1DeUFudDJsZWtXdVVpVXA5T1lDbzZBTGhWdg?oc=5",
-      "source": "9to5Mac",
-      "pubDate": "Wed, 23 Sep 2026 21:17:00 GMT",
-      "query": "AI model update"
-    },
-    {
-      "title": "OpenAI’s Altman and Anthropic’s Amodei address UN security council - theguardian.com",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40TGtvSHVVUE1jRnZNbWU2TG1lNmllWWc5NDhDLWVSenItS0JyMGcxY2hwaEVjLVZZeWZxNTFTLUhWZmwxSG9LM0U0VVViWXNyaHN3WFhkYnZwVlk2OFhHcExhOUViMzRHWml0RW0xUXk5aXNFMkppenMzUE9QRFk?oc=5",
-      "source": "theguardian.com",
-      "pubDate": "Wed, 23 Sep 2026 21:15:00 GMT",
-      "query": "OpenAI"
-    },
-    {
-      "title": "Anthropic says Claude AI helped discover novel enzyme system - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSy1hZUZTdFRxVmt6XzZubm9GeGFET0hMaVBkaUh1aEpJVWRnbVgzdGlPZE5KQXFHOFdiRHZEQ2JZTmtaeTgzY25rY3Z6VFpMYVdkekp5SG81bEJ6Q2RRaF9VMUcwem1NS2N5dE5wcmI5ZkNoeE9TaGdNWFVtekFPVUN6eWRUeXluUFQwNVp0N18xanFEU0xwNVhiNUxnMF9xZHVMLVRwYU9LSWJmWERKSlBtdktoZ2RXbm8yY3BuRk1sSmYtX0xTSEY1M00?oc=5",
-      "source": "Reuters",
-      "pubDate": "Wed, 23 Sep 2026 21:12:38 GMT",
-      "query": "Anthropic Claude"
-    },
-    {
       "title": "Sam Altman’s remarks at the United Nations Security Council - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KSllHMS1Cb2QyZVQ5QVh2SEJzamI0N2tfSjE0OGJYQ2hzdERiMldGZnpGZ3AtYUk2NU1FNGVLNGEwcU9pQUJUa0F4V0lZVXVfd1RGbGZQZF81b29EMWFoYUp5X051YkNsYjJmclJLR3Z4dw?oc=5",
       "source": "OpenAI",
@@ -269,11 +241,11 @@
       "query": "OpenAI"
     },
     {
-      "title": "Alibaba Unveils Roadmap on Full-Stack AI Strategy from Chips, Cloud Infrastructure, Models to Agents - HPCwire",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSDlLTjdkcEFUVFJOM0ljc0EyVW0wTjl6MW9CZUtqbmFzRDBVRG9Rc1FDVG9nMFZFQUJZZGVuT0xUZF9NalV3SjVjOWxSdW4zNEhNdUd2R2RkNWs3bE4tVlZyeTN2MGF0QmRYd3drc1M4bW5NS0gwWF9PeGZ4clVfcDV1aTB5Z3FfRFZoUWkwXzR1QjNlekM1QVVOX25pR1FuaDc3NkdCTlpjd09qd0lnSWZSQXpIc085OGZSdHhjaHJHT3lPTm1PZnJGbEhlTk5pb2c?oc=5",
-      "source": "HPCwire",
-      "pubDate": "Wed, 23 Sep 2026 20:45:56 GMT",
-      "query": "AI agent platform"
+      "title": "Australia says OpenAI agent hacked government website, checks for more breaches - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWZud0ZEMW9uYlUwVlpoRlBIbW82Tjc4Rjl3WW5jcWxVR25wSmZCTXlOdHkwR2VrQzdzZkUwX3lNMXBGUkZMZU1sYS13dzRRb1RMRzFOVjc5RmJIbXFfNy1ob1VZY1ItYS0tQW9XVHNLc3p3UEJwNy1QRWVSYVFjQnh0ellEX2JSZkpSdXlMYVI4UkV2VE05enVnZFJuV3BaS1pVczF5VE9vaTdZOGZyU2tjTk9oVVE5RVBjTnVWNGNUZzVEZDM0?oc=5",
+      "source": "Reuters",
+      "pubDate": "Wed, 23 Sep 2026 20:50:52 GMT",
+      "query": "OpenAI"
     },
     {
       "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models - OpenAI",
@@ -297,18 +269,18 @@
       "query": "Qwen Alibaba"
     },
     {
-      "title": "Claude found a CRISPR-like enzyme system, and its job is still unknown - The Next Web",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNXzZleVVzZUd6bmVYQ196MF9aQjY5VXRYTHI2T1ZidmpHd2FRS2FsbTJZZlU3QjlfbGtHa2Vtcmh2ZFV1M2VRY0NfOUpkUzJHS2l5bjRxSkJSN3EwTDNQNnhkUkhGcFBpU1ZSZDNPa3A0SDNINTVnTEh5OWRxQkRyTEFYYnI?oc=5",
-      "source": "The Next Web",
-      "pubDate": "Wed, 23 Sep 2026 19:29:05 GMT",
-      "query": "Anthropic Claude"
-    },
-    {
       "title": "Google Brings Free Gemini Omni 1.1 Video Generation to Google Vids - Unite.AI",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdVJwNk1ybnNabDJnVXd6TlFmU1BDVGQ4dXZzYXBGOWNPVTRDNzRlbmVSeEUyclFOSTRGbWRuOFNKTzFpU01JSUdGUlpwTElSZVB3Y2VORTdtWlFCTDAwNURwQUNOX3NTTVlIMFQ4Z0dWLWpNMll2bTIxQ0NZVjlmU3pCNkJMMW5iNG5JdkpqMjA4QQ?oc=5",
       "source": "Unite.AI",
       "pubDate": "Wed, 23 Sep 2026 19:17:01 GMT",
       "query": "AI video generation"
+    },
+    {
+      "title": "Chinese hacker deployed Anthropic and Deepseek and Moonshot AI agents in massive 100-company cyberattack - oodaloop.com",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNTZZYno2YXpVQjNEeFJlM3FDMDdiRlkzMjZYZV9hb2V4aWd2WGRPeERnUmwwdFRpNlRMWXNQdUhPSkVKNWdHSFJMel9MR3hrX3I5NmU5TnpGSXNOZGxtMElSNTlYMW13WHlwZlVZTl9mbTMwa3paNWtOSE1yOGVJUTB2R0tETzcweU9EcXhmcXg5bm5EOWlJdzM2V19oWGkwNU9HT2VsWVEza09fT3JXbnNfaGQta0tLMGFPMzQ3RnFaMlZHeG8ybWdudThNWi1jQ3Y5dHdR?oc=5",
+      "source": "oodaloop.com",
+      "pubDate": "Wed, 23 Sep 2026 19:11:04 GMT",
+      "query": "DeepSeek"
     },
     {
       "title": "Anyone can make stunning HD videos with Gemini Omni in Google Vids - blog.google",
@@ -318,25 +290,11 @@
       "query": "Gemini AI"
     },
     {
-      "title": "Okta Unveils AI Agent Security Blueprint Alliance at Oktane - TradingView",
+      "title": "Okta Unveils AI Agent Security Blueprint Alliance at Oktane - es.tradingview.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbW9EV245eWZ5LW1KYTRiZGM2eTNIWUdCWm9yVmx6QWpsMjFjLWd1SWJBNHhpZHhOMF9QRXN2N1dreFRlcUhkYTJwQVQ0UUZSX3ZrY3FMQ2pUNVctbFBUdHdSNGVPam01SXdlbGNoR0xxMC1hZk9fOThaTGlfUkNtZlNWU3FrTlVULTh0Ylp3bmFJOS15MGwzSWtnSXUtdzhiZjJVYWR0LXU3Ri04Q0QyLWdMMVdCN19EalZR?oc=5",
-      "source": "TradingView",
+      "source": "es.tradingview.com",
       "pubDate": "Wed, 23 Sep 2026 19:02:42 GMT",
       "query": "AI agent platform"
-    },
-    {
-      "title": "LIVE: OpenAI and Anthropic brief Security Council amid ‘real and imminent’ threat posed by runaway AI - UN News",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqVGZCZ3prNmhaQXp3bkxTeWlRWlpjYUkxV2V0UWJGTy01dTFZQ2NoLXlXQWtVQ3lySFJsZmNuMDRWMWZQbmhfUGpqN3VsbFlPZ1ltNl9HQQ?oc=5",
-      "source": "UN News",
-      "pubDate": "Wed, 23 Sep 2026 18:34:18 GMT",
-      "query": "OpenAI"
-    },
-    {
-      "title": "Anthropic’s Claude finds new enzyme system - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTy1TSDBoeVpLcUhpRHF4Z1VJM01VMFZxRmdsMTA4bWV2c01PUTAwTFpGZVVHZWZ1MzhRUzcxYUpKcl8wYWRqU19RbVBhUkZFYjJXUlF6TVZvdGtQOHdxb3djUGNQZ2g0dGh0M3RhSlJ4TU96ZnlrLU14LTdNVERyRFRvbnVzVmJEdkVUWlNzMmRNdkljcDd2WHZ2OVRZZkU?oc=5",
-      "source": "Investing.com",
-      "pubDate": "Wed, 23 Sep 2026 18:20:52 GMT",
-      "query": "Anthropic Claude"
     },
     {
       "title": "Claude discovers a novel enzyme system with CRISPR-like repeats - Anthropic",
@@ -346,11 +304,53 @@
       "query": "Anthropic Claude"
     },
     {
-      "title": "Anthropic’s biolab made a discovery it’s comparing to Crispr - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT2loeHU3b3JGVFhMUEhJb0Qyd2RBaGpmbHFPdW1xVVNfRmF6TWxiNjhkR1NPMGJTT3Z2NW9tblY1YnJrRWtlSFF6c25JMjRQS1RwN1I0QTFKRl9ybDNZaFpZdjlTbTctdkpmVkM4TTRaa2h1OUc1U2NibENyZ2I5MXlEbG15WDdfTDFoUVBwdVhpNXc?oc=5",
-      "source": "The Verge",
-      "pubDate": "Wed, 23 Sep 2026 18:00:00 GMT",
-      "query": "Anthropic Claude"
+      "title": "From Product Photos to Campaign Content: MakeShot on AI Video Efficiency for Small Teams - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOakFwQnlqbFRITmZVX05Xb2wtWHdmYi0tcFlmdnkzNE1waF9DcmxtZWdwWUJqS1ZoMll3TFZ5VXdKN3ZiandnOTRxRDVhYm13UnVqZUU1bFp0WHptWE5SZ19Obm5NMVRCTFFJdEtnRnRKRGpyMnlUMmlsYXJTOEUwWV9KcUdXcENnM3I2ZGtnaGNYVXRnSDNySUQtRURSZ2pRSElGcm4tR2Q?oc=5",
+      "source": "Yahoo Finance",
+      "pubDate": "Wed, 23 Sep 2026 17:30:00 GMT",
+      "query": "AI video generation"
+    },
+    {
+      "title": "Introducing GPT-6 Sol and Luna - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
+      "source": "OpenAI",
+      "pubDate": "Wed, 23 Sep 2026 16:30:34 GMT",
+      "query": "OpenAI"
+    },
+    {
+      "title": "DeepSeek Tests Efficient, Safer Method for Training AI Agents - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNkR5SENjUjFqUHNMa2xCdE9LQkJXc2R2cllYVHNLYzhNaDZMUG9JMy1xcVJUZ2dhZkdaTlBILVBFMmR4RHhmWmJVUXJ2d280dkxKZGlqQU1wamhzMXBFU0s5Nk9BUEEyY0t2bmswUEhoOTJ4bWZwOUI0Tlh4RjJmc0gtcGlGalJ5ZzFydUlSeU9qcU9VVGRhaFR1bjNWVUFTTTZwQU10Wll4OS1mZnlaMA?oc=5",
+      "source": "Bloomberg",
+      "pubDate": "Wed, 23 Sep 2026 16:25:21 GMT",
+      "query": "DeepSeek"
+    },
+    {
+      "title": "A new wave of Connected Apps is rolling out to Gemini. - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVk52TllfMkhZN0x1WEkzV3duTUN3dEhabi1OU3FUUm9BeXBGZzF1cG4zd1NibnNrVHplRHhrU0R3UUlDZ1c0S0IzeWE5RkJBU3BERWMtWk51cm1XeE96Umc1bUFCalpBTEt6SDJ4aTM0TzJuWUZHQTFCVXE2STB5N2paUUNscDhUaEc3Yw?oc=5",
+      "source": "blog.google",
+      "pubDate": "Wed, 23 Sep 2026 16:06:53 GMT",
+      "query": "Gemini AI"
+    },
+    {
+      "title": "Advancing Private AI Compute with secure, server-side memory - Google DeepMind",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeEdFYzJoT3FDNm8zeG91UWJCQnBxa1pJR1dYVEpUTXpWc3MxaUwwM0UxZXNISTR2MXpGeGQzWFQ5VjBMMDMxX1Zzd2oyOGVSRW9Da3lJcTk1WlFKUTBYOTJEU2Q5Z0Z3UzM3UUtxQWFNX29mNUJoNnE1bnp5dzFlMWpudnAwdkpxTEJRT2I4OFc1VTQ?oc=5",
+      "source": "Google DeepMind",
+      "pubDate": "Wed, 23 Sep 2026 16:03:03 GMT",
+      "query": "Google DeepMind"
+    },
+    {
+      "title": "Experian Becomes First Personal Finance App Integrated with Google Gemini - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbWR3NVlWSW1ubzhBQWxUbHZrQ01RUW8zRnVMdkpjclNEcG56SGVxSkVibU1KLXNVMllNRkRsQzcxdkJ5YVlmQ2FrSjFvMG5UekFUSXB5Tm5oNzFTU1hJRjlSdEZ5ZktDbGJFTUg5QTBBRENNWlluUjhCTjVOcEJYWWIyRXNPUG51VEpVU3l2eGg3N1B6dzlaMm9yNFFXUGNFbVRLOXpkMUtVcWI4TFJDSTF2T3JCOWRNbzlSYUFyS2ZrQzNLc3dlWHJB?oc=5",
+      "source": "Business Wire",
+      "pubDate": "Wed, 23 Sep 2026 16:00:00 GMT",
+      "query": "Gemini AI"
+    },
+    {
+      "title": "Pharma.AI 2026 Fall Update Preview: Agentic AI Takes the Wheel of Pharmaceutical Intelligence - Insilico Medicine",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOc0FBTFEtODFCY0tGZ0pkdGgxRG9YMllsbkhjelVlb3UxVW1tX3pqRzQ4bklleHEydFl4VWtsczlqU3kxMW9LQmpUU1FGVHY0NUVRa3VPWTZkeTVzSkptNTlNNWx1aUs0cXJ5OUpHb1J1VGtCUGVNM2d2Z2dka0hyWUtsdDNhaHFrb3dyaW8yQmpTdXpZcHVZV3lrcmo1X2g1VFIxLTMtNzhnVS1kQURBUkFwY2xBOGhUOFNLZWpLQ3VqejhWTkNNaFFwWTRaU01FN2J5cVlqaXQ?oc=5",
+      "source": "Insilico Medicine",
+      "pubDate": "Wed, 23 Sep 2026 16:00:00 GMT",
+      "query": "AI model update"
     }
   ]
 }

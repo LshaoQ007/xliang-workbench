@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02 02:28",
+  "updated": "2026-10-03 02:14",
   "count": 50,
   "items": [
     {
@@ -8,20 +8,6 @@
       "source": "understandingai.org",
       "pubDate": "Wed, 31 Dec 2025 08:00:00 GMT",
       "query": "LLM release"
-    },
-    {
-      "title": "Google’s Gemini 4 Argon Closes the Pricing Triangle. The Benchmark Lead Is the Real Story. - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSmk4cXhMMFZzeS1LT2w0T2FhNGxpcURzWVhxZ1JQSlpWODhncFFrekZMQnE5RFJmRFF0STlDemhGZWVVNzU4YWxaMDRzSzlwYlEtQzQwaERkanhWQXM4cUhJbHE0azFnMmFNd25hYmdyRWFOX04yR0s0aGNzRUdLUXlIYTR3QmJXRUcyRVR5eXZXTmROUkFZ?oc=5",
-      "source": "Yahoo Finance",
-      "pubDate": "Wed, 30 Sep 2026 23:59:54 GMT",
-      "query": "Gemini AI"
-    },
-    {
-      "title": "Google releases Gemini 4 Argon, called its most powerful model yet - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaThYZG00MENsWUtiaDkwbW44Z3BDNlNkcDRoSldzZGNBcnVEc3FSLVU3UXVRMDhtRmI0MnJXSnRsWC1IbEVtMVRnWlY2b3M2TnN1bkk5VURBNFp0RmtmU2JkZl94RC03c29OOTJuenJ2cS1BUFRlWDVEZExGLXVpRDZqd1B2OU5aMlVTbFVKc0xpMnZJYmgxeHNCMjZ5a2hYblE?oc=5",
-      "source": "TechCrunch",
-      "pubDate": "Wed, 30 Sep 2026 23:43:07 GMT",
-      "query": "Gemini AI"
     },
     {
       "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity - Decrypt News",
@@ -45,9 +31,9 @@
       "query": "Gemini AI"
     },
     {
-      "title": "Google unveils frontier Gemini 4 Argon AI model, begins rollout to cybersecurity partners - aa.com.tr",
+      "title": "Google unveils frontier Gemini 4 Argon AI model, begins rollout to cybersecurity partners - Anadolu Ajansı",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOTJvMGVLcjctejdPdjUyVVJXd2d0QVpIM3lxMm9nbWxIY0FHY0NzYVhTMVdVUF9SX1hiLXRWOEFNR2YwUDdWMlR0bTJjV2hvRjlfT0xOSWpLLVMtRDQtXzdISFl0ZjJBeDhLSm1tNFYwWnZldkdpdVNMSlRGRWpLdnZTVmtJVldXRUF0RHBPYmdyM1ZoZnByQ3NOZndUc3dzMzdTUUhRbE1aRzV3TWF3emdpZkdZTDhWNDlLaWFZYnVySTJIS0E?oc=5",
-      "source": "aa.com.tr",
+      "source": "Anadolu Ajansı",
       "pubDate": "Wed, 30 Sep 2026 22:25:57 GMT",
       "query": "Gemini AI"
     },
@@ -74,17 +60,24 @@
     },
     {
       "title": "Google DeepMind Unveils Gemini 4 Argon with 1M Output Tokens for Coding, Knowledge Work and Cyber Defense - MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM1MzVFplNUxlNF9sdmM0UXZ1Z1RVb2pzQWN3eDlIRU5YOFFSY0h2b2tJVjJZWHJNZDJWeG4yUHhaVHJmekJmejVCamJKX2pQWXZxSzZXcm85N29XSWowNVVXMUhBOUxqYWMwdHhTMzVRX1RLcUpjRlN6NDJwS0xsRzdHT2F3TWQ4UDZYMmhJN1NCUnJuc1YzYzd4anktRy1MdUtJNE5WcXNXbmRmcXQ3V3BHTE01ZE5qeUdmMFJTLWJSR0NZWGptd0hiWUc1elkycjRCcjBicEhCZGp4b2fSAeMBQVVfeXFMUFNLU0x0cDFWTWZMRGlMSEVKOVhGR2JWMjRmVkFZRE1EUGpadFdlMHhaTVlGNWdtOU1UdTF1X3ZfNFFvVzA4RkdvZzBJMTR0QXJQeTI2ZW80Z2Y0YTVJblNXN3hySVFEcDRpMHhXZWxFel9GNFNNUGJvV01xUmd5ZF9Yd1U3ZmZJSVNlYkJxUWdNNHRkUms1ZU5iLVpnRE9uRkVEM1lFLW1XSC1pNmFndEo1eUxUYmF6Z3dvMFJ4OFJadThkR0xENFVnWlpfSTFmTFBVdmlrS3k4ZktQZWdVZlhuT00?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM1MzVFplNUxlNF9sdmM0UXZ1Z1RVb2pzQWN3eDlIRU5YOFFSY0h2b2tJVjJZWHJNZDJWeG4yUHhaVHJmekJmejVCamJKX2pQWXZxSzZXcm85N29XSWowNVVXMUhBOUxqYWMwdHhTMzVRX1RLcUpjRlN6NDJwS0xsRzdHT2F3TWQ4UDZYMmhJN1NCUnJuc1YzYzd4anktRy1MdUtJNE5WcXNXbmRmcXQ3V3BHTE01ZE5qeUdmMFJTLWJSR0NZWGptd0hiWUc1elkycjRCcjBicEhCZGp4b2c?oc=5",
       "source": "MarkTechPost",
       "pubDate": "Wed, 30 Sep 2026 21:30:08 GMT",
       "query": "Google DeepMind"
     },
     {
-      "title": "OpenAI’s Greg Brockman Backs Out of Second $25 Million Donation to A.I. Super PAC - The New York Times",
+      "title": "OpenAI Executive Backs Out of Second $25 Million Donation to A.I. Super PAC - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcmJUbnB4Vk9OR0haX19tV3YzMUVncUVPaGt2amxiUkhGWm5CTVo1dVBfaVdBV1pSTWpLNXRRcm51d2N3TE5tWXRxQlFESnNYb2JxZmhUekZUZm9mMUl2YmtORkljaWhfVXYwWS1GbmhidmF3cDZZd202VmRDc1FwY05Ea09EdnE0RDNRTDZQNnBiay1HejVYNl80SQ?oc=5",
       "source": "The New York Times",
       "pubDate": "Wed, 30 Sep 2026 21:11:06 GMT",
       "query": "OpenAI"
+    },
+    {
+      "title": "Google Grapples With Employee Skepticism About New Gemini 4 - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMUo1VEZLVjIyY1ZXMXVfUzB5ZVpjSzlZQjFGLWVCSWdWMzYxbDJabnNMU3BuTDliOTdSb1hjcGFTNmdVWnJjcU9PVlpKeHlULUtsNjQ4X0hGaTJmVXp6eTVCVW1UODJFX2xsTGhybE95VzNWZVpnUTlDSHdrYk5rUmtZYzVzaEJ0T1o1X1psU1Y4OHVVdWMwUlBHMjhDXzNjQ21ZOUYteXYtWVZtaXVvUHFBM1M?oc=5",
+      "source": "Bloomberg.com",
+      "pubDate": "Wed, 30 Sep 2026 21:05:57 GMT",
+      "query": "Gemini AI"
     },
     {
       "title": "Google Stock Rises On Gemini 4 Argon Release After New AI Model Delays - Investor's Business Daily",
@@ -108,18 +101,11 @@
       "query": "Google DeepMind"
     },
     {
-      "title": "Google unveils Gemini 4 Argon, retaking benchmark lead over OpenAI and Anthropic — but in limited release - VentureBeat",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbV9aRXc0YUkwWEFxRXAtLUpoTDJ6WGRpUWpzRGwtWG82TUU1RGJ6Si1lUzlxYUE5a1UxNEZmUG5kT09kcnd6TUhoeTJWUnZ1UkF2eGZIcHg2d2FvZ19GVXhvbUQ3WlREX05yNmdsdlI4RWg3ZGlNTzhzVmhmbV9NMWJvSk4wMlFZNjNxaFRSVlFQSWhocU1GQjU4TDJVVmdNdjVBdzhnUFc1RWc1YVN4NU41NUZhMnJQeFFtX0NtQU9BekxuVkxKVHNTTkwyald6a0Rv?oc=5",
-      "source": "VentureBeat",
-      "pubDate": "Wed, 30 Sep 2026 20:23:29 GMT",
-      "query": "Anthropic Claude"
-    },
-    {
-      "title": "Zocks debuts Claude plugin with seven skills for financial advisors - InvestmentNews",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa0NtZDBTWDhremtaT2NrRkhfTzdpMUJ5NHYzV1lIdTdadDVmN0wwcURFTnJjajdOdlFTMHlQOWdnS215V0h6UkxtbjJSOVM0QTJFOFhaNi1TUGdvVk5qYlBEVTJ5RFZWSVJsZXFwVHlvVnY4eUVqRkpCbDdjekFlX3VKajh1R2ZQUDktbXVtVW5jMGtURWVUekhuUEJ3MmlfRllhZFZoa3pMbDR0RC1qa0tZdw?oc=5",
-      "source": "InvestmentNews",
-      "pubDate": "Wed, 30 Sep 2026 20:23:29 GMT",
-      "query": "Anthropic Claude"
+      "title": "OpenAI CEO Sam Altman to skip congressional hearing on rogue AI agents - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdElNcC1QUEs5Rm5DM0VhN2ZlREJrRF9jNW5NazlKUjhlUUVmZjhlS0tFNUhkSHpYbkNCRUhtWVNNREhvMGtzRmZRQVRrSVgwTFRLRHNBXzNnR0dISjd1aURVMXpvRUlNcjZka1lRZG44ZWFPdGRWb2ZZV3hpamtfdHl3OVRMckVibnRDN1VPZ19NQk5qWGhQZUVZZlJ5aWVCZUY2cG0zUkx3amFMQ0ZabnZuTkpGVG5a?oc=5",
+      "source": "NBC News",
+      "pubDate": "Wed, 30 Sep 2026 20:24:05 GMT",
+      "query": "OpenAI"
     },
     {
       "title": "Google unveils Gemini 4 Argon, and cyber defenders get it first - The Next Web",
@@ -157,6 +143,20 @@
       "query": "Gemini AI"
     },
     {
+      "title": "Google unveils long-awaited Gemini 4 - Axios",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zMTN2Y3VVU1JKSnZTcnV1VExtekpnTS1hRy1uSUxhLWxIU2F4bnZkNWJQOEkxaWprb3l6anY5V294RG5KSk5sMUp2a3JQamtiVWhUZDN1YkNlZDli?oc=5",
+      "source": "Axios",
+      "pubDate": "Wed, 30 Sep 2026 20:04:57 GMT",
+      "query": "Gemini AI"
+    },
+    {
+      "title": "Google rolls out Gemini 4 Argon, its most advanced AI model - cnbc.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3RWVHRldQeDcwbUo2d1FlaUEza2FnMFJZX0xuRGtGZWFyamU4TTJfM09MWHhVeDB1X0o1Y2d2VzJzeFZiQi0zOThLZkdDX1VvWnNTUkxmLXFWa1U5bHotNEliUm83M1htWWNGcWR30gFzQVVfeXFMUDZ2SVZ0VVhMa01TVnJ4UXN2Yk9VQXBadXlobU5wY0hyUndwNzFBT19kNnVzTzZ6Z3JIa253TmdubVdSYXBoNU9hNHYwNDE4TzRkZXlOdzJ2OXRxc2hNSDB5TzFfRmNIR2tpbXBwb3psTHZ6RQ?oc=5",
+      "source": "cnbc.com",
+      "pubDate": "Wed, 30 Sep 2026 20:00:08 GMT",
+      "query": "Gemini AI"
+    },
+    {
       "title": "Google Releases New Gemini Model With Guardrails Amid A.I. Safety Debate - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ1Z3VVVlemc0Zm9HYy1HSTNuSlZhT1BRQ0I0TVJtMVltbDRGS1pCR1VKNk1OUnhkNjVycjhIbEplY0NaNWR5eDNDVzRGcHN5NFRDNlpsU28xMWs0MkJ6U01lNkJJb0syN2hMSkwtMUpiS0dHS2gwa3FYX2dkanFPTE96aVNQcDd2OHc?oc=5",
       "source": "The New York Times",
@@ -171,16 +171,16 @@
       "query": "Gemini AI"
     },
     {
-      "title": "Google Grapples With Employee Skepticism About New Gemini Model - Yahoo Finance",
+      "title": "Google Grapples With Employee Skepticism About New Gemini Model - finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOejROZlgtQkVqNTdiV2VxZlJjeTVlaGRNN0RDNzdzamlHTnRQU0dHaE5mNzQtUlpCdUE0Y3Z2cTkwdWhwcFJKQjFlVnFTSGZrNW9jMkdKRnB3dTRwcGJvYWhpUEplYUl0cWZSX0RLMWp0UUtLUVAtNVVaZWJlNGg2NUw4UGRHR0xqRUNwNVF1S0FCNEJPQllpY1c4Q1VDcVEzbHJ6SnkzbXpYUQ?oc=5",
-      "source": "Yahoo Finance",
+      "source": "finance.yahoo.com",
       "pubDate": "Wed, 30 Sep 2026 19:52:42 GMT",
       "query": "Gemini AI"
     },
     {
-      "title": "Sen. Hawley: OpenAI CEO Sam Altman declined to testify at rogue AI hearing - CNBC",
+      "title": "Sen. Hawley: OpenAI CEO Sam Altman declined to testify at rogue AI hearing - cnbc.com",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85VzNRN0U1ZXVjd2xsejNhQktkbFVpeUFMR1JnVG40aDY5TmNIWl9sQkN5MHF2M1planJYYlBYMThqbDZNaWVQVS12OUwtS18yZmlHWklSbEdVRk1PMXRScjdNNEFjRWE5MWZCZUN6U1VSSkRSSVI0clRR0gF_QVVfeXFMT2kyUl9HdDRsZmdEUll6TVhBRnk5Um1MTm42aXdyY2pCY1otQ3laOHI4OHVYd19wQ3RoRnRTckZlOVNUN2JjN2hpMkRBaUpmZjhseWFXTzdYeG9oUGZtQTlDNUlDX3FJTzFialBBMm84enFOc2NNSnJHS1J1YU9WRQ?oc=5",
-      "source": "CNBC",
+      "source": "cnbc.com",
       "pubDate": "Wed, 30 Sep 2026 19:34:11 GMT",
       "query": "OpenAI"
     },
@@ -192,18 +192,11 @@
       "query": "OpenAI"
     },
     {
-      "title": "F.T.C. Investigates OpenAI and Anthropic Over Potential Consumer Harms - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUXRlYTZFSW1aWEJENkZxOXVwNTY5RDJ0M0JhUURZY1R0VzcycXZaTG9JTTU4UHdINEk1M0NTMC1tX0FIdUI2WWJBSnBlVHA0RnAzdkJQS1lramV3SE1GSC1VN2x4eDE1LWpsVVlDaVNGdDBhZ3NWZWpFeVMzYlAxOEF1cVlGUWxEc3JaMUhR?oc=5",
-      "source": "The New York Times",
-      "pubDate": "Wed, 30 Sep 2026 19:26:02 GMT",
-      "query": "OpenAI"
-    },
-    {
-      "title": "Kong Unveils Volcano Platform for Building and Running AI Agents - Unite.AI",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOazNjS1JQeFhrMTFCTWo2d0J5dVVnaHB5MUdtZmdOellGNms5Y2NEd0RPWjJSYkp0ZkpXSVJ6TW5uLWJHQy1JcExlbWNkWF91dWtVT3pPUmRHb1ZVd2Z3aWFaYVNuNmdXbEc3eDJBTkZNaTlOeXdNN3ZCSm5pRnN5Z2FkaVRaVDF0UUJUSjM2MA?oc=5",
-      "source": "Unite.AI",
-      "pubDate": "Wed, 30 Sep 2026 19:26:02 GMT",
-      "query": "AI agent platform"
+      "title": "America.gov AI Chatbot: Gemini & Grok Power 29K Sites - tech-insider.org",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zVDhyTkVHWW1ESDVDUzF4MF80aElYRlVhRjJ1QTRLY0F3THNKYkdHb0xLWnRDYlhGM3pNQnZpWXdIWmhsNXlheFk1dzE1WVNnYWNCRDI3NWlEOF9uMVZ3Sk9iNnQzZEdMT2pGUGJBRXVnYTA?oc=5",
+      "source": "tech-insider.org",
+      "pubDate": "Wed, 30 Sep 2026 19:22:44 GMT",
+      "query": "Gemini AI"
     },
     {
       "title": "Vida Adds AI Agent Platform to AVANT Technology Portfolio - citybiz",
@@ -227,14 +220,7 @@
       "query": "OpenAI"
     },
     {
-      "title": "Vida Partners with AVANT to Bring AI Agent Platform to Trusted Advisor Network - StreetInsider",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcTNFZk5vMXJJbjJCRFdzaGRkcVVVYmY5SFV6UkVQMkpRbC1wbi1Ybm1WbldHODN1RkQ2T21iaWNrWXNBWFJlMVhTT1ZuamhmbjJzUmJfX1BfdTAzVE95dkp3VUJIVUxaRHZUTHV1cU1WbFJ4MmJfbDJyaXJBZ2dIQ0VYcG5RWDF3TGItaFFxajNlWDhMN3oxM25iZGFRRGpPX3JLNl94Ykl3NzFfY2dNbVBpOEhqOHRTdVlLT2h4R0lpNmw3RFZ6ZFNNcFVYVUdnRkE?oc=5",
-      "source": "StreetInsider",
-      "pubDate": "Wed, 30 Sep 2026 18:49:20 GMT",
-      "query": "AI agent platform"
-    },
-    {
-      "title": "OpenAI and Synopsys Announce GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design - Synopsys",
+      "title": "OpenAI and Synopsys Announce GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design - Sep 30, 2026 - Synopsys",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWmx4bUlpbGx3MEpZYlhQSnRtVDVxejJ5bnZoU3FabmRPaHdHdGM2Zjg5OEpydUxGQ3pac1BSX3psbnhieWpVVnFweWJ5czJfZk9vbU9TaTIyZm5ROW92RzZzWmJ0NlJjQVlZQnR0MGtyb3JzTW5NYWIxQVJsNi0zSHRLUS0xa2VFQ0FEQnpuWGpMQVFpa1RoSTYybTFzal9lQkZJYmNBLXFKaFVWQUNLSTN5TGY1WUgxbmwzY2lzVmRGbmhrSGJLMw?oc=5",
       "source": "Synopsys",
       "pubDate": "Wed, 30 Sep 2026 18:35:06 GMT",
@@ -269,9 +255,9 @@
       "query": "OpenAI"
     },
     {
-      "title": "NVIDIA Launches Open Agent Safety Platform: How OpenShell and Sentry Are Meant to Contain Autonomous AI Agents - mezha.net",
+      "title": "NVIDIA Launches Open Agent Safety Platform: How OpenShell and Sentry Are Meant to Contain Autonomous AI Agents - Межа. Новини України.",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IVnFZTjFFcDAzRlF1dTJTQ1NwZThLdDI0SE1mTnQzYWpmV0pVNm1QdVpsTVRQTEExUnpyTHRtX3o4NTR0cXNMRVhEYzZzVGdBb1I2TXREdFFCb1JiRWRZbnhYelpKNkx5U2RBeEZYSFA?oc=5",
-      "source": "mezha.net",
+      "source": "Межа. Новини України.",
       "pubDate": "Wed, 30 Sep 2026 18:01:43 GMT",
       "query": "AI agent platform"
     },
@@ -283,9 +269,9 @@
       "query": "AI agent platform"
     },
     {
-      "title": "Anthropic Makes Claude for Government Generally Available to Agencies - Unite.AI",
+      "title": "Anthropic Makes Claude for Government Generally Available to Agencies - unite.ai",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTmx6eV9WdlEzZjFMNUNEUGJ4XzdtYzVXWnB1eU44NjBxTWtOZlNsWVB2Z0ZxeVJvVkdjUFNvNWIyVDZmU1RHR1U5RXBfSnRMc3VKdnZnaW52MU8tZ1A3amRPWmVQZzNFSjhjSmdyWEUwNmxZTHdvbXRJTjJocXRFLXcwVWtMLTVIb1ZObHJnVlI0bDluQnc?oc=5",
-      "source": "Unite.AI",
+      "source": "unite.ai",
       "pubDate": "Wed, 30 Sep 2026 17:56:01 GMT",
       "query": "Anthropic Claude"
     },
@@ -297,13 +283,6 @@
       "query": "OpenAI"
     },
     {
-      "title": "OpenAI Blames Moonshot for Mass Data Extraction on Its AI Models - bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQemZwUGZ4TTFCRnpDakw1allVVXl4QnJCZVlCV2JMeXZMVWNmZzNPd0VrN2ZLeEM1Zk56WDZydVlHX0U4U05EQ1dRbUtJMk0zUGVLTmlUbHFIcjRZZFdzNjcyZTZCeHRRVlU4WS1nVFd5d2JMLUwzQndqVVFhQ2ZObjJEQ3hHMUpvWi1jT21ZV0hWcGRibjZxVXoxTjB2cFpDTjBRWXc5c0hsMksyQ1NKa3Q5TTNzZw?oc=5",
-      "source": "bloomberg.com",
-      "pubDate": "Wed, 30 Sep 2026 17:17:58 GMT",
-      "query": "OpenAI"
-    },
-    {
       "title": "Disrupting a coordinated model-distillation campaign - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbEgxOFhvU3ZzR0JYMjZDbWhRaXlQeGoyci1PRGhfWkFhSGpER29fLXZydWRybEdpVEhUX0dCZ3pwS0ViUWRxVy1NVXZNREVfN2pOMU96c2NmSmlpY1lheUwxMGxuVjlmTV9uSkszVHU0RFhVVVNNUU42TkNjb084cThtaWc?oc=5",
       "source": "OpenAI",
@@ -311,9 +290,16 @@
       "query": "OpenAI"
     },
     {
-      "title": "OpenAI sued by safety group over autonomous hack of Hugging Face - abcnews.com",
+      "title": "How AI is becoming Hollywood’s newest star, changing work on and off camera - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tMmYzXzBYZ1YxTHZ4eDNib1A5Z1FiS0VVbXFlS3RHeXNFRGI3ejRhNEZWbkE1VGFyVmhlQTJZVjZ3d3liWF8yTGR6bDIwZGNWMjNweHZ0MlpUYkNsVUNYZ0tUc3kwVW8?oc=5",
+      "source": "Fortune",
+      "pubDate": "Wed, 30 Sep 2026 16:59:00 GMT",
+      "query": "AI video generation"
+    },
+    {
+      "title": "OpenAI sued by safety group over autonomous hack of Hugging Face - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdGk0MnJrR0tQVHFrdVZSZ08tN05ZQXN5V19sRklaQVlHdFUyODNxa1JyY1JLLWRNSktuOGFPOFUwaXlXMnFLam04bDlRRXlNa055SzEwWFhOWEpZQ0s3U0FidXJwaE1ralg3bFFXTTY2ZU1MWW9kWmpQaGsya1NqVmJHVHFkRzROMWFUNU1tdW1nbjh5ZGx4OdIBngFBVV95cUxQdm0yVm05eTg4czRMbkJpWGJOTkFrZmpUYmg5aFotZjVnYUlxbWN0ek5fdWRjck1YX3h4WnBPeUpPVC1FY2xRTGNRbk9aOEh3SHFWU1ZOVmF0bXJXVXZtaHRWU0JjZDdrdG1ueGFicHBfSThDVnVIZ2lUeWhMSURnYTZnYlhEdkdzb2g3RWZQTVc5d0VQdVI5eEpsVC00UQ?oc=5",
-      "source": "abcnews.com",
+      "source": "ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Wed, 30 Sep 2026 16:53:46 GMT",
       "query": "OpenAI"
     },
@@ -351,6 +337,20 @@
       "source": "qz.com",
       "pubDate": "Wed, 30 Sep 2026 16:26:37 GMT",
       "query": "AI agent platform"
+    },
+    {
+      "title": "Let skills in Gemini tackle your most repetitive tasks - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjFmZWMwbHQ2UFlvUm9INXp5ZEprR20yWU05Skw5NXlpU2xsUGlGeGNxZnRCUzc3RlctLUEtbTFTS1JiU3VfajBYcWgxSWx3Yy00NERNU1FmYmFuaG9JWlJwOUo1YnRpdFlwZWJ5Y3NPZGwzUFF1WWw5M2tPcHhBZXlzSi1WdTJpT19Hc3pyWQ?oc=5",
+      "source": "blog.google",
+      "pubDate": "Wed, 30 Sep 2026 16:18:05 GMT",
+      "query": "Gemini AI"
+    },
+    {
+      "title": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUjJKXy1xWWNFX3hLZktkaW5tZ2Q3cHoyZ3FnTDRHM2hQSlFjRVJ5X253RUNmZTg5VjJtOUFnMlhpZHN5VU5meVFGTWRFbWprUnBrb3pnMjl1bjJIUWdjQ2ZXa0w5V2g0X3E4ODloa0FmTXc3MTlHMDBQZFh6LXpYbTUwbVBYcTZSMEh1MXRQbFdyRFdBbzhPbmFn?oc=5",
+      "source": "The Guardian",
+      "pubDate": "Wed, 30 Sep 2026 16:13:00 GMT",
+      "query": "OpenAI"
     }
   ]
 }

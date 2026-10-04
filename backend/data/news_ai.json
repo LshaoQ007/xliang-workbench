@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03 02:14",
+  "updated": "2026-10-04 02:49",
   "count": 50,
   "items": [
     {
@@ -8,6 +8,27 @@
       "source": "understandingai.org",
       "pubDate": "Wed, 31 Dec 2025 08:00:00 GMT",
       "query": "LLM release"
+    },
+    {
+      "title": "Everything Apple Is Releasing in 2026: iPhone Fold, LLM Siri, Low-Cost MacBook and More - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84NWhTWHpSaVNVQTEyam93dGxKdlYyQzZwOWtaeFF6LTZDeXMtMldfZHd6bF93RGgxeW9CZTY3NTU0Q3ZMblExWDgxYVNQY1JMbWh3QTBXVnFYS2l6X1ZYOENCOWZCTGZqXzQwWFpZMU0?oc=5",
+      "source": "MacRumors",
+      "pubDate": "Wed, 31 Dec 2025 08:00:00 GMT",
+      "query": "LLM release"
+    },
+    {
+      "title": "Google’s Gemini 4 Argon Closes the Pricing Triangle. The Benchmark Lead Is the Real Story. - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSmk4cXhMMFZzeS1LT2w0T2FhNGxpcURzWVhxZ1JQSlpWODhncFFrekZMQnE5RFJmRFF0STlDemhGZWVVNzU4YWxaMDRzSzlwYlEtQzQwaERkanhWQXM4cUhJbHE0azFnMmFNd25hYmdyRWFOX04yR0s0aGNzRUdLUXlIYTR3QmJXRUcyRVR5eXZXTmROUkFZ?oc=5",
+      "source": "Yahoo Finance",
+      "pubDate": "Wed, 30 Sep 2026 23:59:54 GMT",
+      "query": "Gemini AI"
+    },
+    {
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaThYZG00MENsWUtiaDkwbW44Z3BDNlNkcDRoSldzZGNBcnVEc3FSLVU3UXVRMDhtRmI0MnJXSnRsWC1IbEVtMVRnWlY2b3M2TnN1bkk5VURBNFp0RmtmU2JkZl94RC03c29OOTJuenJ2cS1BUFRlWDVEZExGLXVpRDZqd1B2OU5aMlVTbFVKc0xpMnZJYmgxeHNCMjZ5a2hYblE?oc=5",
+      "source": "TechCrunch",
+      "pubDate": "Wed, 30 Sep 2026 23:43:07 GMT",
+      "query": "Gemini AI"
     },
     {
       "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity - Decrypt News",
@@ -45,6 +66,13 @@
       "query": "Gemini AI"
     },
     {
+      "title": "DeepSeek Open-Sources Software Tools for Huawei AI Chips - The Information",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMUNQNk9QclVCTG5FbGlpd19GaU1BU1pzT0xNMzJXdUVXZVBMRnh1SU1mb2tNeXpqN01vUWxCbTVkWTRBU2NySDVLT2xsbDF5M2pUUlUxUVdSVW5BdWZOVWhWNjVNTEFXeVBxSzk4SUdxSkd1aXJyLXBTdkI0NEx1NG9ncFdGRTl2Y3pEY2pSLTZscV9pU0ZNdQ?oc=5",
+      "source": "The Information",
+      "pubDate": "Wed, 30 Sep 2026 22:12:00 GMT",
+      "query": "DeepSeek"
+    },
+    {
       "title": "Google outlines timeline to phase out Gemini Gems in favor of Skills - Android Central",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV193azhLRFJrRkNRX0hqM0tHQ3VJc3JhQnc4SldpQWVJN1oyd3MtN1ZmRkpocmlIZ1B2dTctQW5ZNlJrb1EzWFJSNFU2QkpWSDJka2JxZ2IxSGtsdUxkZHBQQnAyakpkZ0s5TndkZnFiNGg0OERnNHN1Z3FwbERwcEItOUloenExSUhFTjBHWWUzM1JBbG95VXBBcnJXQ3RJdVJ1blBNQlRzdVlqRmRveHBjcEdLUWc?oc=5",
       "source": "Android Central",
@@ -59,16 +87,16 @@
       "query": "Google DeepMind"
     },
     {
-      "title": "Google DeepMind Unveils Gemini 4 Argon with 1M Output Tokens for Coding, Knowledge Work and Cyber Defense - MarkTechPost",
+      "title": "Google DeepMind Unveils Gemini 4 Argon with 1M Output Tokens for Coding, Knowledge Work and Cyber Defense - marktechpost.com",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM1MzVFplNUxlNF9sdmM0UXZ1Z1RVb2pzQWN3eDlIRU5YOFFSY0h2b2tJVjJZWHJNZDJWeG4yUHhaVHJmekJmejVCamJKX2pQWXZxSzZXcm85N29XSWowNVVXMUhBOUxqYWMwdHhTMzVRX1RLcUpjRlN6NDJwS0xsRzdHT2F3TWQ4UDZYMmhJN1NCUnJuc1YzYzd4anktRy1MdUtJNE5WcXNXbmRmcXQ3V3BHTE01ZE5qeUdmMFJTLWJSR0NZWGptd0hiWUc1elkycjRCcjBicEhCZGp4b2c?oc=5",
-      "source": "MarkTechPost",
+      "source": "marktechpost.com",
       "pubDate": "Wed, 30 Sep 2026 21:30:08 GMT",
       "query": "Google DeepMind"
     },
     {
-      "title": "OpenAI Executive Backs Out of Second $25 Million Donation to A.I. Super PAC - The New York Times",
+      "title": "OpenAI Executive Backs Out of Second $25 Million Donation to A.I. Super PAC - nytimes.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcmJUbnB4Vk9OR0haX19tV3YzMUVncUVPaGt2amxiUkhGWm5CTVo1dVBfaVdBV1pSTWpLNXRRcm51d2N3TE5tWXRxQlFESnNYb2JxZmhUekZUZm9mMUl2YmtORkljaWhfVXYwWS1GbmhidmF3cDZZd202VmRDc1FwY05Ea09EdnE0RDNRTDZQNnBiay1HejVYNl80SQ?oc=5",
-      "source": "The New York Times",
+      "source": "nytimes.com",
       "pubDate": "Wed, 30 Sep 2026 21:11:06 GMT",
       "query": "OpenAI"
     },
@@ -101,11 +129,18 @@
       "query": "Google DeepMind"
     },
     {
-      "title": "OpenAI CEO Sam Altman to skip congressional hearing on rogue AI agents - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdElNcC1QUEs5Rm5DM0VhN2ZlREJrRF9jNW5NazlKUjhlUUVmZjhlS0tFNUhkSHpYbkNCRUhtWVNNREhvMGtzRmZRQVRrSVgwTFRLRHNBXzNnR0dISjd1aURVMXpvRUlNcjZka1lRZG44ZWFPdGRWb2ZZV3hpamtfdHl3OVRMckVibnRDN1VPZ19NQk5qWGhQZUVZZlJ5aWVCZUY2cG0zUkx3amFMQ0ZabnZuTkpGVG5a?oc=5",
-      "source": "NBC News",
-      "pubDate": "Wed, 30 Sep 2026 20:24:05 GMT",
-      "query": "OpenAI"
+      "title": "Google unveils Gemini 4 Argon, retaking benchmark lead over OpenAI and Anthropic — but in limited release - VentureBeat",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbV9aRXc0YUkwWEFxRXAtLUpoTDJ6WGRpUWpzRGwtWG82TUU1RGJ6Si1lUzlxYUE5a1UxNEZmUG5kT09kcnd6TUhoeTJWUnZ1UkF2eGZIcHg2d2FvZ19GVXhvbUQ3WlREX05yNmdsdlI4RWg3ZGlNTzhzVmhmbV9NMWJvSk4wMlFZNjNxaFRSVlFQSWhocU1GQjU4TDJVVmdNdjVBdzhnUFc1RWc1YVN4NU41NUZhMnJQeFFtX0NtQU9BekxuVkxKVHNTTkwyald6a0Rv?oc=5",
+      "source": "VentureBeat",
+      "pubDate": "Wed, 30 Sep 2026 20:23:29 GMT",
+      "query": "Anthropic Claude"
+    },
+    {
+      "title": "Google announces Gemini 4 flagship AI model after months of delays - Euronext Markets",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZk5IY0Q5akxuT2dCTXJ2NEdubnJCYW1ZSHg3dWZQMUJGQWJEZ0lnWjdmRTU1dDNPcHZ1alpxcnVzQ2FEdUxCSkhMWWQ4d0hVX2lzTkU5MTBCd1FMb3FHbUNaTGpRZ3llcFpHbEphWng4cG5LRzRJTVg4RXBvWXdyVUFYS254Rnd2NXBackRpdkl2Q1laNnREYzVqdy05cmdrVG5ZM3A4YUFmVVk?oc=5",
+      "source": "Euronext Markets",
+      "pubDate": "Wed, 30 Sep 2026 20:19:56 GMT",
+      "query": "Gemini AI"
     },
     {
       "title": "Google unveils Gemini 4 Argon, and cyber defenders get it first - The Next Web",
@@ -150,16 +185,16 @@
       "query": "Gemini AI"
     },
     {
-      "title": "Google rolls out Gemini 4 Argon, its most advanced AI model - cnbc.com",
+      "title": "Google rolls out Gemini 4 Argon, its most advanced AI model - CNBC",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3RWVHRldQeDcwbUo2d1FlaUEza2FnMFJZX0xuRGtGZWFyamU4TTJfM09MWHhVeDB1X0o1Y2d2VzJzeFZiQi0zOThLZkdDX1VvWnNTUkxmLXFWa1U5bHotNEliUm83M1htWWNGcWR30gFzQVVfeXFMUDZ2SVZ0VVhMa01TVnJ4UXN2Yk9VQXBadXlobU5wY0hyUndwNzFBT19kNnVzTzZ6Z3JIa253TmdubVdSYXBoNU9hNHYwNDE4TzRkZXlOdzJ2OXRxc2hNSDB5TzFfRmNIR2tpbXBwb3psTHZ6RQ?oc=5",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "pubDate": "Wed, 30 Sep 2026 20:00:08 GMT",
       "query": "Gemini AI"
     },
     {
-      "title": "Google Releases New Gemini Model With Guardrails Amid A.I. Safety Debate - The New York Times",
+      "title": "Google Releases New Gemini Model With Guardrails Amid A.I. Safety Debate - nytimes.com",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ1Z3VVVlemc0Zm9HYy1HSTNuSlZhT1BRQ0I0TVJtMVltbDRGS1pCR1VKNk1OUnhkNjVycjhIbEplY0NaNWR5eDNDVzRGcHN5NFRDNlpsU28xMWs0MkJ6U01lNkJJb0syN2hMSkwtMUpiS0dHS2gwa3FYX2dkanFPTE96aVNQcDd2OHc?oc=5",
-      "source": "The New York Times",
+      "source": "nytimes.com",
       "pubDate": "Wed, 30 Sep 2026 20:00:05 GMT",
       "query": "Gemini AI"
     },
@@ -171,18 +206,11 @@
       "query": "Gemini AI"
     },
     {
-      "title": "Google Grapples With Employee Skepticism About New Gemini Model - finance.yahoo.com",
+      "title": "Google Grapples With Employee Skepticism About New Gemini Model - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOejROZlgtQkVqNTdiV2VxZlJjeTVlaGRNN0RDNzdzamlHTnRQU0dHaE5mNzQtUlpCdUE0Y3Z2cTkwdWhwcFJKQjFlVnFTSGZrNW9jMkdKRnB3dTRwcGJvYWhpUEplYUl0cWZSX0RLMWp0UUtLUVAtNVVaZWJlNGg2NUw4UGRHR0xqRUNwNVF1S0FCNEJPQllpY1c4Q1VDcVEzbHJ6SnkzbXpYUQ?oc=5",
-      "source": "finance.yahoo.com",
+      "source": "Yahoo Finance",
       "pubDate": "Wed, 30 Sep 2026 19:52:42 GMT",
       "query": "Gemini AI"
-    },
-    {
-      "title": "Sen. Hawley: OpenAI CEO Sam Altman declined to testify at rogue AI hearing - cnbc.com",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85VzNRN0U1ZXVjd2xsejNhQktkbFVpeUFMR1JnVG40aDY5TmNIWl9sQkN5MHF2M1planJYYlBYMThqbDZNaWVQVS12OUwtS18yZmlHWklSbEdVRk1PMXRScjdNNEFjRWE5MWZCZUN6U1VSSkRSSVI0clRR0gF_QVVfeXFMT2kyUl9HdDRsZmdEUll6TVhBRnk5Um1MTm42aXdyY2pCY1otQ3laOHI4OHVYd19wQ3RoRnRTckZlOVNUN2JjN2hpMkRBaUpmZjhseWFXTzdYeG9oUGZtQTlDNUlDX3FJTzFialBBMm84enFOc2NNSnJHS1J1YU9WRQ?oc=5",
-      "source": "cnbc.com",
-      "pubDate": "Wed, 30 Sep 2026 19:34:11 GMT",
-      "query": "OpenAI"
     },
     {
       "title": "FTC is investigating OpenAI and Anthropic over possible risks to consumers - AP News",
@@ -234,32 +262,11 @@
       "query": "OpenAI"
     },
     {
-      "title": "NVIDIA Launches Open Agent Safety Platform - Supply & Demand Chain Executive",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbzVvR0F0THZSdHpFRnBnbnN6VlRMNFl2X2ZISW1pSXlSaGF6ZlJrd0NWQzllZnJ2eFZOdEU0TzZjZUlTajlEbjNtSFVJOG9YazJEYU1hTWNONlVONDV6SDhHSDhXYVVzVDctVXVLVDRCN1g4MzBVTG5uODY3dERUYlp2d1dwR1d6cVVOVkIxRXZfWWZxdzBxWmJaUFlGcDBvN3l1XzM3Rkpod2paNkRWQmpoYw?oc=5",
-      "source": "Supply & Demand Chain Executive",
-      "pubDate": "Wed, 30 Sep 2026 18:29:24 GMT",
-      "query": "AI agent platform"
-    },
-    {
-      "title": "OpenClaw Foundation Unveils Enterprise Edition to Overcome Corporate AI Agent Bans - finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ONFhHWEZMeTlpaTVZU1I5aEItX09tUXZkWkFNdlBGaWViNGdFTzZlbTJvS2xlamxKUFlxYzFaNDBGOUdNS2F1Mll6RjdlMVkyNjVlREc4M3VQTEdkZWY5dGxWY0E5cUVIU2xDeTFlSmdUSlVJQ0E?oc=5",
-      "source": "finance.biggo.com",
-      "pubDate": "Wed, 30 Sep 2026 18:26:19 GMT",
-      "query": "AI agent platform"
-    },
-    {
       "title": "FTC opens probe into AI giants including Anthropic and OpenAI - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdzYzcTVSY1JmRld3cFRBRlRaX0w0YVZHTjU3NWVvVG5BcXFIZGFwdXViLXBLNnhJQ3d0RS13T2VURWdNQ19ySkJuVXNlV2NWX0E3LUExYUZQaFBsTTVEaC1NMXJtR0RGYlllQVotQmM3VlRaVmd2em04YWdzTXFkMjhsUlQ0b1JlcVJBRENNRFFBT1NLcU00YUtqU0N5LUlJa0YxaEhzdU1mR1lkUTJ0MFhLMjA3a1FJVlQ5RXpMOEIxdw?oc=5",
       "source": "Reuters",
       "pubDate": "Wed, 30 Sep 2026 18:17:19 GMT",
       "query": "OpenAI"
-    },
-    {
-      "title": "NVIDIA Launches Open Agent Safety Platform: How OpenShell and Sentry Are Meant to Contain Autonomous AI Agents - Межа. Новини України.",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IVnFZTjFFcDAzRlF1dTJTQ1NwZThLdDI0SE1mTnQzYWpmV0pVNm1QdVpsTVRQTEExUnpyTHRtX3o4NTR0cXNMRVhEYzZzVGdBb1I2TXREdFFCb1JiRWRZbnhYelpKNkx5U2RBeEZYSFA?oc=5",
-      "source": "Межа. Новини України.",
-      "pubDate": "Wed, 30 Sep 2026 18:01:43 GMT",
-      "query": "AI agent platform"
     },
     {
       "title": "Idira Platform Updates (August 2026): What Shipped for Machine and AI Agent Identity - Palo Alto Networks",
@@ -269,17 +276,10 @@
       "query": "AI agent platform"
     },
     {
-      "title": "Anthropic Makes Claude for Government Generally Available to Agencies - unite.ai",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTmx6eV9WdlEzZjFMNUNEUGJ4XzdtYzVXWnB1eU44NjBxTWtOZlNsWVB2Z0ZxeVJvVkdjUFNvNWIyVDZmU1RHR1U5RXBfSnRMc3VKdnZnaW52MU8tZ1A3amRPWmVQZzNFSjhjSmdyWEUwNmxZTHdvbXRJTjJocXRFLXcwVWtMLTVIb1ZObHJnVlI0bDluQnc?oc=5",
-      "source": "unite.ai",
-      "pubDate": "Wed, 30 Sep 2026 17:56:01 GMT",
-      "query": "Anthropic Claude"
-    },
-    {
-      "title": "FTC Opens Investigation of Anthropic and OpenAI - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLWNQa1A4UWxGdzZ4V1V5bzVpWTV5bVdWQnBFYkZpMHN4ZW14UGY1MlU2LWpNdUc4UHBnUUVUbXdhVWRjemQ4SEVUR2hPemVGZ0tQdVpwZ0dmWXVRNkRnTFYwSmNPSWJJZFZnZnFQekVGTzlOdExxcTJhazhocUVXZVBjWmpHZ1hUVWpjNg?oc=5",
-      "source": "WSJ",
-      "pubDate": "Wed, 30 Sep 2026 17:29:00 GMT",
+      "title": "OpenAI Blames Moonshot for Mass Data Extraction on Its AI Models - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQemZwUGZ4TTFCRnpDakw1allVVXl4QnJCZVlCV2JMeXZMVWNmZzNPd0VrN2ZLeEM1Zk56WDZydVlHX0U4U05EQ1dRbUtJMk0zUGVLTmlUbHFIcjRZZFdzNjcyZTZCeHRRVlU4WS1nVFd5d2JMLUwzQndqVVFhQ2ZObjJEQ3hHMUpvWi1jT21ZV0hWcGRibjZxVXoxTjB2cFpDTjBRWXc5c0hsMksyQ1NKa3Q5TTNzZw?oc=5",
+      "source": "Bloomberg.com",
+      "pubDate": "Wed, 30 Sep 2026 17:17:58 GMT",
       "query": "OpenAI"
     },
     {
@@ -325,13 +325,6 @@
       "query": "AI agent platform"
     },
     {
-      "title": "Google switches from Google Assistant to Gemini. Android users react - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNelg5Z1hzUkhacTFxMWlPbXNJOWMtem11em93U1JzXzZIZUNaYmZKeFZrUzRQcDVJWlpMMFFYd0o5Rm1GWFZRTlNJV1lGcDIwWTlnUFdtSTJxOHNSNmVTTk1QUXlWNmFNel9sOXBscFA1aGY3NFBwdExSUzg2RmZjNV9UZTQwTVJDRXJtNXNETUV1bHlaNXhJSHBNZklSdFUwajNuUmxhV3RNbzZO?oc=5",
-      "source": "USA Today",
-      "pubDate": "Wed, 30 Sep 2026 16:33:00 GMT",
-      "query": "Gemini AI"
-    },
-    {
       "title": "OpenClaw Foundation is launching a free, open-source enterprise control plane for AI agents - qz.com",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vcVcyV0Nwekc0Tjl3V3V5dU5WUTNmdk5oUzJZWUI2eWU5SEZtdGRhMlN1bDFwSlVDUWF0aEN2M3gtQXBQaWMwbUZQTGdQYWFfdXdaNXNuaGxoMGgzdHEtaFE2Z3dlUjBiaGE2OF85Um9qdw?oc=5",
       "source": "qz.com",
@@ -351,6 +344,13 @@
       "source": "The Guardian",
       "pubDate": "Wed, 30 Sep 2026 16:13:00 GMT",
       "query": "OpenAI"
+    },
+    {
+      "title": "Can we predict the jobs robots will do? - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JM0E2czMxTW96bFJFdTVVZXk4SzktdVYya2tuYy1WYmdKN29TeTZ2U3J5V2dqMVZFRUpxelgxemY0a2c2RTl4c2FCRFh1M3ZWOUtETVJNY0NQNEhLZVh0TTRqb2l0ZkQ1NFE?oc=5",
+      "source": "Anthropic",
+      "pubDate": "Wed, 30 Sep 2026 16:01:00 GMT",
+      "query": "Anthropic Claude"
     }
   ]
 }

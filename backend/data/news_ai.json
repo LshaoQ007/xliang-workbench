@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04 02:49",
+  "updated": "2026-10-05 02:16",
   "count": 50,
   "items": [
     {
@@ -15,13 +15,6 @@
       "source": "MacRumors",
       "pubDate": "Wed, 31 Dec 2025 08:00:00 GMT",
       "query": "LLM release"
-    },
-    {
-      "title": "Google’s Gemini 4 Argon Closes the Pricing Triangle. The Benchmark Lead Is the Real Story. - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSmk4cXhMMFZzeS1LT2w0T2FhNGxpcURzWVhxZ1JQSlpWODhncFFrekZMQnE5RFJmRFF0STlDemhGZWVVNzU4YWxaMDRzSzlwYlEtQzQwaERkanhWQXM4cUhJbHE0azFnMmFNd25hYmdyRWFOX04yR0s0aGNzRUdLUXlIYTR3QmJXRUcyRVR5eXZXTmROUkFZ?oc=5",
-      "source": "Yahoo Finance",
-      "pubDate": "Wed, 30 Sep 2026 23:59:54 GMT",
-      "query": "Gemini AI"
     },
     {
       "title": "Google releases Gemini 4 Argon, called its most powerful model yet - TechCrunch",
@@ -80,23 +73,16 @@
       "query": "Gemini AI"
     },
     {
-      "title": "Google Restricts Its Most Powerful AI Model to Vetted Cyber Defenders First - Startup Fortune",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS1R3eWFnWUVkVTAzMVY4UVZtWnpZWVN5d2o5UDNSdUxGRlBtTEs1VE5YOTNxRGZYWjYzVDVNOVZaNG9uYWVVaG5OUXM5SlZzMkRoYS0xNHZtcWtkN3VUUjI3MngwZXlOMlNWUlNWZFlnRHl4MllLcHNYQlhjU1VRQXJKZGwwU1IxMENMSHBpR25HaEZTN3gwZngtNmpZRDZlYjJ4c3dB?oc=5",
-      "source": "Startup Fortune",
-      "pubDate": "Wed, 30 Sep 2026 21:46:18 GMT",
-      "query": "Google DeepMind"
-    },
-    {
-      "title": "Google DeepMind Unveils Gemini 4 Argon with 1M Output Tokens for Coding, Knowledge Work and Cyber Defense - marktechpost.com",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM1MzVFplNUxlNF9sdmM0UXZ1Z1RVb2pzQWN3eDlIRU5YOFFSY0h2b2tJVjJZWHJNZDJWeG4yUHhaVHJmekJmejVCamJKX2pQWXZxSzZXcm85N29XSWowNVVXMUhBOUxqYWMwdHhTMzVRX1RLcUpjRlN6NDJwS0xsRzdHT2F3TWQ4UDZYMmhJN1NCUnJuc1YzYzd4anktRy1MdUtJNE5WcXNXbmRmcXQ3V3BHTE01ZE5qeUdmMFJTLWJSR0NZWGptd0hiWUc1elkycjRCcjBicEhCZGp4b2c?oc=5",
-      "source": "marktechpost.com",
+      "title": "Google DeepMind Unveils Gemini 4 Argon with 1M Output Tokens for Coding, Knowledge Work and Cyber Defense - MarkTechPost",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM1MzVFplNUxlNF9sdmM0UXZ1Z1RVb2pzQWN3eDlIRU5YOFFSY0h2b2tJVjJZWHJNZDJWeG4yUHhaVHJmekJmejVCamJKX2pQWXZxSzZXcm85N29XSWowNVVXMUhBOUxqYWMwdHhTMzVRX1RLcUpjRlN6NDJwS0xsRzdHT2F3TWQ4UDZYMmhJN1NCUnJuc1YzYzd4anktRy1MdUtJNE5WcXNXbmRmcXQ3V3BHTE01ZE5qeUdmMFJTLWJSR0NZWGptd0hiWUc1elkycjRCcjBicEhCZGp4b2fSAd4BQVVfeXFMTzNTM1RaZTVMZTRfbHZjNFF2dWdUVW9qc0Fjd3g5SEVOWDhRUmNIdm9rSVYyWVhyTWQyVnhuMlB4WlRyZnpCZno1QmpiSl9qUFl2cUs2V3JvOTdvV0lqMDVVVzFIQTlMamFjMHR4UzM1UV9US3FKY0ZTejQycEtMbEc3R09hd01kOFA2WDJoSTdTQlJybnNWM2M3eGp5LUctTHVLSTROVnFzV25kZnF0N1dwR0xNNWROanlHZjBSUy1iUkdDWVhqbXdIYllHNXpZMnI0QnIwYnBIQmRqeG9n?oc=5",
+      "source": "MarkTechPost",
       "pubDate": "Wed, 30 Sep 2026 21:30:08 GMT",
       "query": "Google DeepMind"
     },
     {
-      "title": "OpenAI Executive Backs Out of Second $25 Million Donation to A.I. Super PAC - nytimes.com",
+      "title": "OpenAI Executive Backs Out of Second $25 Million Donation to A.I. Super PAC - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcmJUbnB4Vk9OR0haX19tV3YzMUVncUVPaGt2amxiUkhGWm5CTVo1dVBfaVdBV1pSTWpLNXRRcm51d2N3TE5tWXRxQlFESnNYb2JxZmhUekZUZm9mMUl2YmtORkljaWhfVXYwWS1GbmhidmF3cDZZd202VmRDc1FwY05Ea09EdnE0RDNRTDZQNnBiay1HejVYNl80SQ?oc=5",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "pubDate": "Wed, 30 Sep 2026 21:11:06 GMT",
       "query": "OpenAI"
     },
@@ -115,39 +101,11 @@
       "query": "Gemini AI"
     },
     {
-      "title": "Single-vendor SASE: A budget hack for SD-WAN, zero trust and AI-agent access - Spiceworks",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMzFwQ0prOTlXUzd0TWQ4T0lQWUNxNGljNV8zeFlwUjAwUXlyS2ROajNaYVhEeGxEUVlmV3l1SDJ0UTBMMFBfQkl2aThJdHppX1Q4WUpFczI0Q0ZTN1Uxb1RBMElqT2hJdTgxamRKaWd1ajNhcURWNVF4R1J4V2h0MTB0Nm1tSVdZYmFlTUpOTTladDBaRlRvM2tnbUxheXZZbVRsR1pseXlCalYtcHlMc2xWZG8?oc=5",
-      "source": "Spiceworks",
-      "pubDate": "Wed, 30 Sep 2026 21:00:46 GMT",
-      "query": "AI agent platform"
-    },
-    {
-      "title": "Gemini 4 Argon: our next era of frontier intelligence - alphaXiv",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QdGJjcnhXYzJFaDI4cEEzRk5QR0lmeFRvSmo2Uk5uTXJMWHpoQ3BJUWJOM1JJUVIwMmhCM1ZUaGRIMmFTTVRJV19RbGJKX19vYmtQRnQ3Q3lJcV95?oc=5",
-      "source": "alphaXiv",
-      "pubDate": "Wed, 30 Sep 2026 20:47:41 GMT",
-      "query": "Google DeepMind"
-    },
-    {
-      "title": "Google unveils Gemini 4 Argon, retaking benchmark lead over OpenAI and Anthropic — but in limited release - VentureBeat",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbV9aRXc0YUkwWEFxRXAtLUpoTDJ6WGRpUWpzRGwtWG82TUU1RGJ6Si1lUzlxYUE5a1UxNEZmUG5kT09kcnd6TUhoeTJWUnZ1UkF2eGZIcHg2d2FvZ19GVXhvbUQ3WlREX05yNmdsdlI4RWg3ZGlNTzhzVmhmbV9NMWJvSk4wMlFZNjNxaFRSVlFQSWhocU1GQjU4TDJVVmdNdjVBdzhnUFc1RWc1YVN4NU41NUZhMnJQeFFtX0NtQU9BekxuVkxKVHNTTkwyald6a0Rv?oc=5",
-      "source": "VentureBeat",
-      "pubDate": "Wed, 30 Sep 2026 20:23:29 GMT",
-      "query": "Anthropic Claude"
-    },
-    {
       "title": "Google announces Gemini 4 flagship AI model after months of delays - Euronext Markets",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZk5IY0Q5akxuT2dCTXJ2NEdubnJCYW1ZSHg3dWZQMUJGQWJEZ0lnWjdmRTU1dDNPcHZ1alpxcnVzQ2FEdUxCSkhMWWQ4d0hVX2lzTkU5MTBCd1FMb3FHbUNaTGpRZ3llcFpHbEphWng4cG5LRzRJTVg4RXBvWXdyVUFYS254Rnd2NXBackRpdkl2Q1laNnREYzVqdy05cmdrVG5ZM3A4YUFmVVk?oc=5",
       "source": "Euronext Markets",
       "pubDate": "Wed, 30 Sep 2026 20:19:56 GMT",
       "query": "Gemini AI"
-    },
-    {
-      "title": "Google unveils Gemini 4 Argon, and cyber defenders get it first - The Next Web",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jbU9JdXhWUUZ5QkVQdmxfcktZenFiYW5tRTNnd1B1NWh6d1IzM0ItZ0RYVFNXWF9xVXZVd2RSLU1rTDhHa2w4b0l1UWlUWUpzc1cyXzBMMXpXcEQ2Y0ZUWnkzeWczS0xlcWE2djNFaEc1ek5tcmFtVnlzZEVWaEU?oc=5",
-      "source": "The Next Web",
-      "pubDate": "Wed, 30 Sep 2026 20:14:28 GMT",
-      "query": "Google DeepMind"
     },
     {
       "title": "Google announces Gemini 4 Argon AI model, but you can’t use it yet - Ars Technica",
@@ -157,31 +115,17 @@
       "query": "Gemini AI"
     },
     {
-      "title": "Google releases most advanced Gemini AI model - Financial Times",
+      "title": "Google releases most advanced Gemini AI model - ft.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONHZCTWxBOEZWZTVseDhUeFdNMTZoTTRqa242NDFQRWdrMEdWYlEtWVNwQkRjUXdmX1dzUEhkZlV2bDY2aTVPbnBfNGJhXzk5NWVPRWlqbTJKTkZDU0k2dTJENXo1N2dDRHVGdHYyWVJGNUxiWVczMlBnV0JRWC12d1llUVk?oc=5",
-      "source": "Financial Times",
+      "source": "ft.com",
       "pubDate": "Wed, 30 Sep 2026 20:09:46 GMT",
       "query": "Gemini AI"
-    },
-    {
-      "title": "Is AI taking Gen Z’s jobs? It’s not that simple. - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQd1R0ZGlXbGYtMHZTWU5VS01xUGlZT2dlbkpsSnRUeFNyb1VxT01QOW5LZlFqR2s1dHZuX0pMQnJHLXdQQ2N1OTZYU045UE1vaUV0T2huY3dQNFJlSmI5bTRwMDVMMDdRSEl0QjBuSTN3WFRVWk9aRGtfUXFQbzZ2c0YtOVd1V3lUd3JsQVpWcWdIR2U4c2VxX01mYmpOZ2dzVEM3V0xJUDJPdjYtRy1CdUozb21sU3NrNXdkdk5BbXBWT0QyOVVvektrNXg3aWJRLXZwWWVaTVFyZ3NLekluTnlKMA?oc=5",
-      "source": "The Washington Post",
-      "pubDate": "Wed, 30 Sep 2026 20:09:00 GMT",
-      "query": "AI video generation"
     },
     {
       "title": "Gemini 4 Argon: our next era of frontier intelligence - blog.google",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRjB3amppaF9yb1FhSmxoUW5GUEtCREcxbW1ScXJRRWN5ZGtIM0N0d21wVEI3ZTd5ZHY4N09KRWNwX3U2Z3JBeDNWakYxYXlBVE95NEpKWW5vcWFKZlA5Qkdka3hGZG9INUZtMVN2VTJhWG1TTldVSE1JVm5VaVlvcnpWRlhzX0V1NGJXZGhfMEY?oc=5",
       "source": "blog.google",
       "pubDate": "Wed, 30 Sep 2026 20:06:23 GMT",
-      "query": "Gemini AI"
-    },
-    {
-      "title": "Google unveils long-awaited Gemini 4 - Axios",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zMTN2Y3VVU1JKSnZTcnV1VExtekpnTS1hRy1uSUxhLWxIU2F4bnZkNWJQOEkxaWprb3l6anY5V294RG5KSk5sMUp2a3JQamtiVWhUZDN1YkNlZDli?oc=5",
-      "source": "Axios",
-      "pubDate": "Wed, 30 Sep 2026 20:04:57 GMT",
       "query": "Gemini AI"
     },
     {
@@ -192,9 +136,9 @@
       "query": "Gemini AI"
     },
     {
-      "title": "Google Releases New Gemini Model With Guardrails Amid A.I. Safety Debate - nytimes.com",
+      "title": "Google Releases New Gemini Model With Guardrails Amid A.I. Safety Debate - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ1Z3VVVlemc0Zm9HYy1HSTNuSlZhT1BRQ0I0TVJtMVltbDRGS1pCR1VKNk1OUnhkNjVycjhIbEplY0NaNWR5eDNDVzRGcHN5NFRDNlpsU28xMWs0MkJ6U01lNkJJb0syN2hMSkwtMUpiS0dHS2gwa3FYX2dkanFPTE96aVNQcDd2OHc?oc=5",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "pubDate": "Wed, 30 Sep 2026 20:00:05 GMT",
       "query": "Gemini AI"
     },
@@ -206,24 +150,10 @@
       "query": "Gemini AI"
     },
     {
-      "title": "Google Grapples With Employee Skepticism About New Gemini Model - Yahoo Finance",
+      "title": "Google Grapples With Employee Skepticism About New Gemini Model - finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOejROZlgtQkVqNTdiV2VxZlJjeTVlaGRNN0RDNzdzamlHTnRQU0dHaE5mNzQtUlpCdUE0Y3Z2cTkwdWhwcFJKQjFlVnFTSGZrNW9jMkdKRnB3dTRwcGJvYWhpUEplYUl0cWZSX0RLMWp0UUtLUVAtNVVaZWJlNGg2NUw4UGRHR0xqRUNwNVF1S0FCNEJPQllpY1c4Q1VDcVEzbHJ6SnkzbXpYUQ?oc=5",
-      "source": "Yahoo Finance",
+      "source": "finance.yahoo.com",
       "pubDate": "Wed, 30 Sep 2026 19:52:42 GMT",
-      "query": "Gemini AI"
-    },
-    {
-      "title": "FTC is investigating OpenAI and Anthropic over possible risks to consumers - AP News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLUhCdEZlM2xkNVpqTkRoNk1UbHdrQ1lkUWlwdzltbDhMWS1RemN3WEFkTmJYdl9DYXBJQU14VGMtcXQ3OGhRM01pcjBOaDVtLS00THJUeHMwdlcxQ2ZXWWlvUk90azgtQVBLNGV1eGlZN0t6RG1oQkdjRS1nZEZPNnd1dmwyaXp4eWhDdFoybWdXSEI2Uk1YRklFUTBjZw?oc=5",
-      "source": "AP News",
-      "pubDate": "Wed, 30 Sep 2026 19:27:00 GMT",
-      "query": "OpenAI"
-    },
-    {
-      "title": "America.gov AI Chatbot: Gemini & Grok Power 29K Sites - tech-insider.org",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zVDhyTkVHWW1ESDVDUzF4MF80aElYRlVhRjJ1QTRLY0F3THNKYkdHb0xLWnRDYlhGM3pNQnZpWXdIWmhsNXlheFk1dzE1WVNnYWNCRDI3NWlEOF9uMVZ3Sk9iNnQzZEdMT2pGUGJBRXVnYTA?oc=5",
-      "source": "tech-insider.org",
-      "pubDate": "Wed, 30 Sep 2026 19:22:44 GMT",
       "query": "Gemini AI"
     },
     {
@@ -232,20 +162,6 @@
       "source": "citybiz",
       "pubDate": "Wed, 30 Sep 2026 19:04:16 GMT",
       "query": "AI agent platform"
-    },
-    {
-      "title": "Synopsys, OpenAI strike deal to develop AI model for chip design work - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSUQ2UF9xa0tYb2VKRTFLNVpwb04xbnJCMld6TWx3Wm1IYTA0V2lXRmFEZC1hRm5zUXNOV3djUUo2SmRHbEFNbWRpMzQ0TFAzUzZGenQ1bEV4eGtkWXdWUnF4bGZmZXprb0lvOHdCcWhZU080QzU1aTl1WVBfR0V3NmNpNFVBM1Z6cWNEaDFFYkQ0eU5MLVdmNjJJTkFCSDg4eElUSUZqZ0Ntdw?oc=5",
-      "source": "Reuters",
-      "pubDate": "Wed, 30 Sep 2026 19:02:09 GMT",
-      "query": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX2FtdGtxQTNoRnBrUWhFS3J4ZnExeThrRDhVbldnRVpQcTRjMldvb2ZFNkJ5R2tVOHRfT0pteDhvbkFTYmpOYVR4SVNhSUltLXl2anl6TWhFZjZyRGdmUmNPMnk4NnBySFhlN2RrU2dYWThSbFFJc3dRaVc5dDJLWkdsX0NQSmwtNURrdlhfOVFtcFhPZ1NWcXJERFp1bUJ4YmxLRjBzVUU?oc=5",
-      "source": "TechCrunch",
-      "pubDate": "Wed, 30 Sep 2026 19:00:57 GMT",
-      "query": "OpenAI"
     },
     {
       "title": "OpenAI and Synopsys Announce GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design - Sep 30, 2026 - Synopsys",
@@ -276,13 +192,6 @@
       "query": "AI agent platform"
     },
     {
-      "title": "OpenAI Blames Moonshot for Mass Data Extraction on Its AI Models - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQemZwUGZ4TTFCRnpDakw1allVVXl4QnJCZVlCV2JMeXZMVWNmZzNPd0VrN2ZLeEM1Zk56WDZydVlHX0U4U05EQ1dRbUtJMk0zUGVLTmlUbHFIcjRZZFdzNjcyZTZCeHRRVlU4WS1nVFd5d2JMLUwzQndqVVFhQ2ZObjJEQ3hHMUpvWi1jT21ZV0hWcGRibjZxVXoxTjB2cFpDTjBRWXc5c0hsMksyQ1NKa3Q5TTNzZw?oc=5",
-      "source": "Bloomberg.com",
-      "pubDate": "Wed, 30 Sep 2026 17:17:58 GMT",
-      "query": "OpenAI"
-    },
-    {
       "title": "Disrupting a coordinated model-distillation campaign - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbEgxOFhvU3ZzR0JYMjZDbWhRaXlQeGoyci1PRGhfWkFhSGpER29fLXZydWRybEdpVEhUX0dCZ3pwS0ViUWRxVy1NVXZNREVfN2pOMU96c2NmSmlpY1lheUwxMGxuVjlmTV9uSkszVHU0RFhVVVNNUU42TkNjb084cThtaWc?oc=5",
       "source": "OpenAI",
@@ -297,13 +206,6 @@
       "query": "AI video generation"
     },
     {
-      "title": "OpenAI sued by safety group over autonomous hack of Hugging Face - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdGk0MnJrR0tQVHFrdVZSZ08tN05ZQXN5V19sRklaQVlHdFUyODNxa1JyY1JLLWRNSktuOGFPOFUwaXlXMnFLam04bDlRRXlNa055SzEwWFhOWEpZQ0s3U0FidXJwaE1ralg3bFFXTTY2ZU1MWW9kWmpQaGsya1NqVmJHVHFkRzROMWFUNU1tdW1nbjh5ZGx4OdIBngFBVV95cUxQdm0yVm05eTg4czRMbkJpWGJOTkFrZmpUYmg5aFotZjVnYUlxbWN0ek5fdWRjck1YX3h4WnBPeUpPVC1FY2xRTGNRbk9aOEh3SHFWU1ZOVmF0bXJXVXZtaHRWU0JjZDdrdG1ueGFicHBfSThDVnVIZ2lUeWhMSURnYTZnYlhEdkdzb2g3RWZQTVc5d0VQdVI5eEpsVC00UQ?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Wed, 30 Sep 2026 16:53:46 GMT",
-      "query": "OpenAI"
-    },
-    {
       "title": "AVANT Adds Vida AI Agent Platform to Trusted Advisor Portfolio - Telecom Reseller / Technology Reseller News",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaWZKa0M2c0VkNU4yYmlsRndrWU01QlZOSkNtSGhnYU5YaXFrbmpnYVdzUWZxRmxMVkZjYnJCTGZSUW1ZQkNrUnM3TlEzbHlnM2paYm1fYmpVTmdOalhZWGNITmhBWGdyR2hVWVNmREVSakFadWFYS2dNdTg1RXNhZmVtVGozVjRTWDdyTHJUQVNvRzllUzA2V0tsM1U1a3NGaUlOYtIBqgFBVV95cUxPOVRLSFN3WFBLenBFUmxBeTB0blpaTGpaSkE4SUpBd3RsNHJ0Mk03eXlyVnEtajcwclNtdnpicFphMnpfWGtBQWpwU3VQbDNKYXBsMEdib1NiVHF1LUxFakE5dldBYlFRQzRwMUNuWmNRTlNiNHlZVVY0MHR1SDc2YmZEMWo1cFc5NnUyZEJKdHVpSjJFdldoaWZCQTU5T3I2V3pyc290dWdKZw?oc=5",
       "source": "Telecom Reseller / Technology Reseller News",
@@ -316,13 +218,6 @@
       "source": "Marcus on AI | Substack",
       "pubDate": "Wed, 30 Sep 2026 16:45:58 GMT",
       "query": "OpenAI"
-    },
-    {
-      "title": "OpenAI Unveils Always-On AI Agent 'Dots' for Autonomous Tasks - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVjZsdGFrbUt2ZnN0RHBfV3J3anJ2SmU2Q2pLWHJFeHM4WFB1TF92SEV6Y3ZEMkl2SXdDRXU2VkdKZ0JvdnI2ZlNheWdCVE1ESHhmdm9zNThpd0hmMXI2aEgxNWhXT1d4a09lYWRUUXRGSXhjbmFfVkszRnpqYTRsQ1hrb0Mtd0lX?oc=5",
-      "source": "조선일보",
-      "pubDate": "Wed, 30 Sep 2026 16:34:36 GMT",
-      "query": "AI agent platform"
     },
     {
       "title": "OpenClaw Foundation is launching a free, open-source enterprise control plane for AI agents - qz.com",
@@ -351,6 +246,111 @@
       "source": "Anthropic",
       "pubDate": "Wed, 30 Sep 2026 16:01:00 GMT",
       "query": "Anthropic Claude"
+    },
+    {
+      "title": "F.T.C. Investigates OpenAI and Anthropic Over Potential Consumer Harms - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUXRlYTZFSW1aWEJENkZxOXVwNTY5RDJ0M0JhUURZY1R0VzcycXZaTG9JTTU4UHdINEk1M0NTMC1tX0FIdUI2WWJBSnBlVHA0RnAzdkJQS1lramV3SE1GSC1VN2x4eDE1LWpsVVlDaVNGdDBhZ3NWZWpFeVMzYlAxOEF1cVlGUWxEc3JaMUhR?oc=5",
+      "source": "The New York Times",
+      "pubDate": "Wed, 30 Sep 2026 15:58:41 GMT",
+      "query": "OpenAI"
+    },
+    {
+      "title": "We’re introducing SynthID Bio, bringing our watermarking technology to synthetic biology. - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaC1LanFHbHlibGhZam1NRllQRGtNSDBXUThkUG5jdzUxWFE0S0NvTTZfNEpjeU5yb1FONl8walZsXzZLY0Y4WlIwOWFqa05KdnBQODBrYy1XOXhlbVhNVm5jZzJONlpGeVI4dWxDbjVuaUJUb2JmVGYyLTloRURoQUc4UmoxME5yc1laSmRQWQ?oc=5",
+      "source": "blog.google",
+      "pubDate": "Wed, 30 Sep 2026 15:34:02 GMT",
+      "query": "Google DeepMind"
+    },
+    {
+      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaX3E1SXJOeEJHVWxxNEpSUDZxRmRJZFBTQ3hDU1R2Z3FLT0hOREVTZEQ4eXNQdmRKNkQwMExCXzA0blJRRE5kb3oxb2haU1h0eGFyQ3NrOGxJSjFNYzBIVU1DU1Z1SEhkWExyelZIeHh5amE40gF6QVVfeXFMUEI1a0NEa0xqMTNScWtrWXZjS3ppbE5xVHQyWXJjVWJMQUZDby1HNlE2bG1DNUtFOFgzdDlDXy00QW1VSHJ1RDFaZ1lnUE50b2VSdjI1YlJ6LTdMUktDaWtTdm9JUG5PbDF1dFVXOUNQSFhndHpmWjlMLVE?oc=5",
+      "source": "CNBC",
+      "pubDate": "Wed, 30 Sep 2026 15:27:47 GMT",
+      "query": "OpenAI"
+    },
+    {
+      "title": "SynthID Bio: Watermarking methods for synthetic biology - Google DeepMind",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40WVZXTHl5UmxibkdDVUlrUlBoNWVCb0lUaThwcDd3QjVLM1FSd0lKSzlROC1sazVFUThoWWZlMWd4SmdObWgtU0g2cXFQM05RbGwyMzMydGZWbDI4V0JQVTJZQQ?oc=5",
+      "source": "Google DeepMind",
+      "pubDate": "Wed, 30 Sep 2026 15:07:03 GMT",
+      "query": "Google DeepMind"
+    },
+    {
+      "title": "Helping small businesses put AI to work - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hblBZcnhraWVOaEE1MTZnS3F5bUFYRUhRdm9jMlZvTUxrdlhCMHVYYUJHUHNaNWxmcGJlVTFyc2laSHRvek14Z2N0YmZfeHVBbUVudlQxWTBqTmdsVDl1VFU5YlJVMkhRZmtHbDhBZDEwTEU?oc=5",
+      "source": "OpenAI",
+      "pubDate": "Wed, 30 Sep 2026 14:56:09 GMT",
+      "query": "OpenAI"
+    },
+    {
+      "title": "DeepSeek, Huawei team on AI chip software - Mobile World Live",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQl9DUnFEUS12TGdGMzJOQTRpYVlZYnBETnhzakZwRU5GSXl4MTVXUmt0UDdUZUU4Y2NCVmgtY2JDa1BSc3p0c0NnUEpBMjJNd2ZqdTBsUEc4NGpjLS1RTGtyMWM1dW1yVWs1aWJaTkVQemVUdjBYdG5mQ0ZxRTBMaWJpUkY5dFVyU2c?oc=5",
+      "source": "Mobile World Live",
+      "pubDate": "Wed, 30 Sep 2026 14:43:57 GMT",
+      "query": "DeepSeek"
+    },
+    {
+      "title": "DeepSeek and Huawei partner on open-source AI chip software - Yahoo Tech",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRzI4QndyamE0OXlYYk9WbWxmYzlwMzVuX3o0MGhZcmJqa00wOEk3WmIwRzhXd19VUUFBVm5pX29DV1RlbFptclRvUDZCa2E4emgwbWJzRlVhTTFFQU0yN3hPSjVtd0tjRzdjbENPZ3pwTXh2aTNQZklLUFktV3k0a1k2c2FaOWpVdkZQbWd3?oc=5",
+      "source": "Yahoo Tech",
+      "pubDate": "Wed, 30 Sep 2026 13:43:22 GMT",
+      "query": "DeepSeek"
+    },
+    {
+      "title": "Nvidia’s Software Advantage Under Threat by DeepSeek-Huawei Alliance - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTGVnYlhvZXhFczNqTHFXLUlLaC1mRTdFQWFFdGg0T09XeFRLaVRScmZlem02WVRpYTVwa3dnMDlJbmcyVnNCSE04bmxDcnQ4RVVWazZCcnh5S3FQTEtuM2dIMjVaOWtpNllUWDlJOWJJTUZNYndsRS15NUJBZi00WXV6alNhTG9CREFwbUJFaVRXLXVNb2VZbXZnUUliQnRuQ19j?oc=5",
+      "source": "Benzinga",
+      "pubDate": "Wed, 30 Sep 2026 13:40:19 GMT",
+      "query": "DeepSeek"
+    },
+    {
+      "title": "DeepSeek and Huawei Just Took Aim at Nvidia's Biggest Software A - GuruFocus",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONkdhRjh6ZDFBa09jZXhMbDBCUk1tOHVwWGlMcXhMbGE5dXY5N2hKZWxEUTZxeXBxaGxSYzlaR1U1SjE0eXRZclpST3N1b0k1aE44YUxCRkZleXY2b1UxdlhKSDMxR0J1Q3dIM1MtcTllVFAwRzNmSVBlb3FXZ2xRRmVfQUFIYWpYMFFfaTlWYlB2ZjVBTjEzVDdZb2MwVHhQcHA1S043QmE5MTZZcnFB?oc=5",
+      "source": "GuruFocus",
+      "pubDate": "Wed, 30 Sep 2026 13:36:53 GMT",
+      "query": "DeepSeek"
+    },
+    {
+      "title": "Vida Partners with AVANT to Bring AI Agent Platform to Trusted Advisor Network - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORUJmTVNCQVNaTGZmTWx2REgyeEN0N2wwbnkxMWxBMkU4bnlFdmMzUFBWR0dFS0ZrQm9EUUZDTHJmNGpiUko4OVo5NlJ5d2hKcjBjeFFwbUFvZlVvcFM4cEx2eThQbGlybk9mZ25panlxT2pnT0VWSjRENDFuV084YnBnN3k2Q3VpWVdFRVRsYmphZlNaR280SDVpS0NGRTc4aVRNbXR4aWNxb3pjZkNYVXp0Tlhkd01oWjYwS2NJaGY1S2J3SE5yU0NIZDJHVE9G?oc=5",
+      "source": "Business Wire",
+      "pubDate": "Wed, 30 Sep 2026 13:14:31 GMT",
+      "query": "AI agent platform"
+    },
+    {
+      "title": "Vida Global partners with AVANT to offer AI agent platform to Trusted Advisors - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcmptbVJFMjMxbzZKZVIxY2xUZThMSkNvMllvVUg3UmRfMWpFX1RTVUQxVXVDWC12M3VJc2tlZFcxa3EwSnY1SXZMdFUtVnExblV1YnVqWFpaMzR4bEhtYms2Q3paNXJSekNSZlFOb3JFZjhDVk93MWZWRkIzVElEMmQ1c1dtRG9XTEV6QlZyWnMyOGp5ZmNJVTcybEY0SURjVnp0UG5TWmdubVg5eWk5TE1rZVhxLU5Lcy1LaHVLdWVaYmk2c3g4VVBic1kxWkRpSjVma3NUOA?oc=5",
+      "source": "TradingView",
+      "pubDate": "Wed, 30 Sep 2026 13:03:00 GMT",
+      "query": "AI agent platform"
+    },
+    {
+      "title": "Vida Partners with AVANT to Bring AI Agent Platform to Trusted Advisor Network - Eagle-Tribune",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWG5hUVAwMXBhLWZieGhVZjBEdzVUeEx4Z0NJQ2lleV93Y0NYZ2dLREh6b0tEdDRpa2FDaW1tM0w4ZmxhX3dJc0FfTXBSVFJqM09LNjhNbUVlTGZuOWoxeUhwMWowLTJSaHRwZXRmSmVOV25Fa3RDeUc4cUJ0T0hieUhtcTVWSGZWVmR3LWFWRkZMLUQ0amVGeENfRXBfT2hqU3lpVkNxS2FfcGw3Zm9uYUpvSkJPdWpCT3N0NmdrQ3F0ZFpwR0xDRTVHaFhDakVxWHN5dElqN1VwTDJkYlRpdHpuLVJMNTU4REZWVlBLYm9FQjVvMVJB?oc=5",
+      "source": "Eagle-Tribune",
+      "pubDate": "Wed, 30 Sep 2026 13:00:39 GMT",
+      "query": "AI agent platform"
+    },
+    {
+      "title": "Silo Pharma’s QwikAgents Expands AI Agent Platform with NVIDIA Model Support and New Runtime Flexibility - GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQRTU1TkNEazExTHJ3cTFhb2IxalZuVWZZSWFpazFvamZ4LUxSeGp2MFh6NlcwTi1SVmhuUTkxWlZoMXhpQWhfa1lfajhCZ1Y0T0RQRUwtSUE2RmdfbzBpcUdIWU9zOEhNc1BGczE0bFlzeVVnUWJQUl9vV3kxelFySjBCakVUYlcwanlieHdCTmdOUWVzVk9Hbl82ZHY3NXZfYmV2MzUyMEJ0ZXBZMlp4clZma1lTV25TaExXenYxSjRySDY1QXo5eWd4UTFIcEU0cmZQRG1tOFBUOFlwY2hFYmdIbXBvZEN6dnBXcUZIR1BZcE5xaGhXckQ1QUxfMkJKYnprVFM4WQ?oc=5",
+      "source": "GlobeNewswire",
+      "pubDate": "Wed, 30 Sep 2026 12:50:00 GMT",
+      "query": "AI agent platform"
+    },
+    {
+      "title": "NVIDIA models join QwikAgents, which adds a second software option for AI assistants. - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV1JNVTkwZi1wTjlwOXY3cFZlQUt3aEVXdFhEZnY0OE5PclZLRjN3Nk51YkhJTXRmckpSdTJIN0w3TzZfalZwQjdjUEpyTkpsLXZ6TVVuUkc3NFJWaTN2eWdseXpVS0l0WU03aXNWR3dFeW1ndnZhb2Z1cDRNYTFKX1FCWFprZEItNVZFV1I0Z3Jwb0x5UGd3NUlVWkhtekV5TTJXOVRIVWVJYmwzSFk2LTJoeWRGaFdhTlE?oc=5",
+      "source": "Stock Titan",
+      "pubDate": "Wed, 30 Sep 2026 12:50:00 GMT",
+      "query": "AI agent platform"
+    },
+    {
+      "title": "Challenging NVIDIA's CUDA: DeepSeek Open-Sources Huawei Ascend Full Suite of Components - 富途牛牛",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNHkzU25yaXdhWFh1VU9vamxWLVhoQ19GeU8weTc2OWZ1eGZpY3FveVJaS1dBVDRybWZoS3RrZnFoWmo4Q040ZUVvQWVnQWZVVEI1eWF4aUhVTjFxVzE1VElnaV9abVcyZnNjX3U1RDlCSy05RXBRWnA4RXVmVjNBQk13NTZWTXBmR2piZ0tWcUFUY1B6QnlYM0RNTTFfOThEWlN6eTVTYzBvVFBvd1E?oc=5",
+      "source": "富途牛牛",
+      "pubDate": "Wed, 30 Sep 2026 12:40:00 GMT",
+      "query": "DeepSeek"
     }
   ]
 }

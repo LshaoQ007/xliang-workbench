@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07 02:37",
+  "updated": "2026-10-08 02:50",
   "count": 50,
   "items": [
     {
@@ -178,13 +178,6 @@
       "query": "Amazon Seller Central"
     },
     {
-      "title": "Amazon Just Gave Sellers a New AI Superpower - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT0xVNXVVNF90TUxadmtqNDdoQ3VEQXRKbEZTNDYxUHV5M0pqZGhteTBMRTd6MUE0ZFVnSHVwN25wMU9rR1Q5U0N5SnptTEo4Vmh1S2NOdkd6cFRCaUFBV2I2LVFfdXBtSnZJZFFzVmUtbGhsSWl1X2ZuMEUyOElVSGliTnFXOGs1cHQ2STBGSklZdC1hZ3dZUlRWYy1oY2h5dVNCZ1Vmaw?oc=5",
-      "source": "TradingView",
-      "pubDate": "Wed, 23 Sep 2026 17:00:07 GMT",
-      "query": "Amazon sellers news"
-    },
-    {
       "title": "Amazon Brings Seller Assistant to Claude and Amazon Quick - Unite.AI",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN3NiSDBVdV9yclV2NmNsSHVlYWJndG02NGh6dVVDVGRBRnQyUzRaM2llWjhhWEtGQlVjRjV2MHFERDVTR3dhbUNqTE04RFdDYk05bm9JcC1OOWp2XzNlUUR1eDdKSWF0VmpPZUdSeDQtT2xuZm4wZUZnTG5MOTkwRDh4eGVvUQ?oc=5",
       "source": "Unite.AI",
@@ -213,6 +206,13 @@
       "query": "Amazon sellers news"
     },
     {
+      "title": "Amazon Just Gave Sellers a New AI Superpower - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT0xVNXVVNF90TUxadmtqNDdoQ3VEQXRKbEZTNDYxUHV5M0pqZGhteTBMRTd6MUE0ZFVnSHVwN25wMU9rR1Q5U0N5SnptTEo4Vmh1S2NOdkd6cFRCaUFBV2I2LVFfdXBtSnZJZFFzVmUtbGhsSWl1X2ZuMEUyOElVSGliTnFXOGs1cHQ2STBGSklZdC1hZ3dZUlRWYy1oY2h5dVNCZ1Vmaw?oc=5",
+      "source": "TradingView",
+      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "query": "Amazon sellers news"
+    },
+    {
       "title": "Amazon rolls out new agentic AI for third-party sellers - TradingView",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY1ZnNWJzWXR0S0VPdExrN0NFVDc1c3MtX040dEV4azRuTzVHV0dhNDNtRWJ1NVR1cDMxZ01GVUFDR3liRnlVcU9YLWQ0bmlHQ0pYbkEyWmtQVDVwdkNVMXBUdVcxZWFlWUtpSlhUaTI5Nlg3eHg5ZmFqS3pfS3NwSDNqdnk0VUpnaVpiZ1F1aDhMRngzaXhmalFxUHhDdW1TR2JVRnpPM1A4N2ZCMWFGU0E3SHZmOUxjN2RsWEJ4UmFqZXc?oc=5",
       "source": "TradingView",
@@ -234,16 +234,23 @@
       "query": "Amazon Seller Central"
     },
     {
-      "title": "Amazon's India Fulfillment Network: Scale and Strategy 2025 - India Briefing",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdGNULXJfSE9PNWhwbU1rMlExYUlvMXgtTVNzVHFGZV9NdjZUX2xRSlgzMVFyVWMwYktHYjJEMV9MTVVkMDNwMWNQVmhWTFROaGNfdngwZ1BxN1dhNnEyM3R1TzhIUUZyaTJTb3BydG9aaVg2LU84WEJpVDBKUG9zWlhORlVFTTd5dWVuV1czZnFJeHc3dzFnVmpR?oc=5",
-      "source": "India Briefing",
-      "pubDate": "Wed, 22 Oct 2025 07:00:00 GMT",
-      "query": "Amazon FBA update"
+      "title": "Amazon Autos adds dealers despite sluggish sales reports - Automotive News",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81TEI5MUgzYndNNzV5VlNVOTBoVnNxbHV0NG9sY0JRdThxbXAxQWtJR2FuOEhQMUdkc0pUeGVCRDBfOThMb3o4aVdkcVBYVXVRaXkzMmhuYy1QbXNjMXFsV2J4bDdEazRHc3Y4dk9NM3AwOEJkSWZjN1FFM3diQQ?oc=5",
+      "source": "Automotive News",
+      "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "query": "Amazon sellers news"
     },
     {
       "title": "Amazon’s New Shenzhen Site Cuts Cross-Border Costs for Chinese Sellers - WWD",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPX3FVVGEzSGN5TDI0V1lBemIweGIxVGl2TVJmQ0k0akx0QUQtak5mLVc3LUk3RlNnMG1JOW1pQi10anQ3Z3JybUFoSGxsX2dya3VYNXB1dW1VaEZ3SHI2MlBVS2IzSTZGcGpsSWNZSXRtbF9LUjlGM1JMcTRxd3ZMNnNGbk9kS0o1c1lNNGhfNUh1Ti1iTFZKblBWYjZoM3JtLXF0YzNySExWTlpWSGpDVmI2R2hnZUZRb1hYdnpWNy1wQ1htQzd0cUJOYTBQV2N5ZFM1YnNyQmRFa2NLYl9aS0ZDT3NTTDZGNzlWckM5VHZpQ3FyeHc?oc=5",
       "source": "WWD",
+      "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "query": "Amazon sellers news"
+    },
+    {
+      "title": "California claims Amazon pressured sellers to boost prices on their sites - LiveNOW from FOX",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZTJlSzNYX0NZclp3VlYzN0pTcTh4cXpGdFN1YUsweklZdVE4TTc0NlNOSE9oYzlhTklyZ29nZUJwZWZiVjZxVE9rMkxMT3N0NG0tQndUd0dHaEJEY2xkTTZrSnJhSmg0MV9lMWd0c204WlV1LTRBend5aXdOUHppUHgxLUhFMksyOEJNMU9GUm9yLWl0Y2NuMQ?oc=5",
+      "source": "LiveNOW from FOX",
       "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
       "query": "Amazon sellers news"
     },
@@ -344,13 +351,6 @@
       "source": "Digital Commerce 360",
       "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
       "query": "Amazon sellers news"
-    },
-    {
-      "title": "Amazon tacks on sneaky fees for the upcoming ‘peak season’ — advising customers to buy early - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX0pnZHhzTU9OTTRBZVdIdGFTdTFEWkN5NU9TbGNIWHFKaVJBSm9HV2l2THRDblJuemNhNXd0UEJOMGEyZ01qd0o4bWphVFZCNmpyX1dUUGhXcmdVbjVBYW8yMjlsel92Z2ZlRGlJUF92azFuVWcwc0VNN3J1VmJGbVZQc2RBVlFzcmJZVjNHQTAycEJWZTkzTg?oc=5",
-      "source": "New York Post",
-      "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-      "query": "Amazon Seller Central"
     }
   ]
 }

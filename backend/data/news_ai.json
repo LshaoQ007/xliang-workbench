@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10 02:35",
+  "updated": "2026-10-11 02:04",
   "count": 50,
   "items": [
     {
@@ -52,13 +52,6 @@
       "query": "Qwen Alibaba"
     },
     {
-      "title": "DeepSeek Builds for Huawei Ascend - Geopolitechs",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMdmdBMVNucGYtYVNLQlljN040Q0FITV9TSVh3QWVFbk1aNVRfRnZHWmNpMXdMdy1aT0diOFVlZ1hndmpJOHlrbkRLWWlTN21ZOXU1U3c1Vm1QNElPaU9zZW1UZkxVSlNqaG53b0lSdHo4UQ?oc=5",
-      "source": "Geopolitechs",
-      "pubDate": "Wed, 30 Sep 2026 12:03:13 GMT",
-      "query": "DeepSeek"
-    },
-    {
       "title": "Disrupting a coordinated model-distillation campaign - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbEgxOFhvU3ZzR0JYMjZDbWhRaXlQeGoyci1PRGhfWkFhSGpER29fLXZydWRybEdpVEhUX0dCZ3pwS0ViUWRxVy1NVXZNREVfN2pOMU96c2NmSmlpY1lheUwxMGxuVjlmTV9uSkszVHU0RFhVVVNNUU42TkNjb084cThtaWc?oc=5",
       "source": "OpenAI",
@@ -101,13 +94,6 @@
       "query": "Gemini AI"
     },
     {
-      "title": "Google Pushed AI Into Schools—and Even Students Say It’s Gone Too Far - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GQ1g3MkhsR1VXWmJvLXU2UDYyMVR5ekl6aFJPc21nZW9GZUN6S2JwQkJNdHFFbHMtS2E3MlFTNnEtWFpsZHhRX2lhWVBsTEpZbm5ENGZha0hqb3hoT21aT0hLQ1FrSHdXVWJMUXB6R0pFeXphTnZqQ05VRQ?oc=5",
-      "source": "WSJ",
-      "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
-      "query": "Gemini AI"
-    },
-    {
       "title": "2 Supreme Court Cases to Watch This Month - Reason Magazine",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wbWVMbDY5Yll1TVZnQmRpbUdham4yOEhwZmZiQ09JeGVSZU1PZU5uMGZ0eDNmMnRNaTc1SDQ3MU1PSnZMb19wSzFBWlNtQURmWmdZTDRXMnFqU3Z3NnVzcmhLRjh2Q0F0dEZLQkNHX3czMk1FbWlDMTdHamg?oc=5",
       "source": "Reason Magazine",
@@ -118,13 +104,6 @@
       "title": "Vida Partners with AVANT to Bring AI Agent Platform to Trusted Advisor Network - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQng4N3pXZDhVbzlDZW1WLWZxaVY5eFQ4LW1lNEZabzF2azhTZjh1YlVjZ3BKa3VPOWYzTkpWOU1DeDBZbjd5NXpkc0plSUZyM0hLQTl3TXNZeVNGLXFTSkNzYVEwX2w0VEJRdzVYOGRxeVFONng2SW9yNE5DeGE3QUN1V0o5WkNlNDRMckx4d3ZqY2FHa05Z?oc=5",
       "source": "Yahoo Finance",
-      "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
-      "query": "AI agent platform"
-    },
-    {
-      "title": "OpenClaw Foundation is launching a free, open-source enterprise control plane for AI agents - Quartz",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vcVcyV0Nwekc0Tjl3V3V5dU5WUTNmdk5oUzJZWUI2eWU5SEZtdGRhMlN1bDFwSlVDUWF0aEN2M3gtQXBQaWMwbUZQTGdQYWFfdXdaNXNuaGxoMGgzdHEtaFE2Z3dlUjBiaGE2OF85Um9qdw?oc=5",
-      "source": "Quartz",
       "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
       "query": "AI agent platform"
     },
@@ -146,6 +125,13 @@
       "title": "DeepSeek opens tools to help Huawei chips supplant Nvidia in AI - South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX2pDSnRWMTNZYUhBYnh2eHpWQklRVG1FSDJPYWF5WkI4VTM2VjQteGJTQjRNWjJ6Z3hpcVpiRGpKVjVubkNfeHFVYnY0ODIxbUJKNmFFTFVQUndibGstVDF0WnlMSTRlc0xVMWNlOFhnbEtURjRidE9GejFHdEZBckxZYkZJSzFpNnhGZ0JiS1BSTUdoanBOSGZPd1d0M2FVLVRFalYzNDZRM2NkQ0xEVzN6Rk50OUd5VjQ2NnJwZE5JUTjSAcMBQVVfeXFMT09mUUVmbnlNV0NDZUVUbmE0X0ZKUTVUbkx0RkpseW1OWEZyVHVjSmF3cUNuVG9aNTljcVhSWTVoeldqeWtVczQ0OFcwRnFTSTBOeW93bkNNX2dZTzU2amlZSUFEa1AzV29mTS1IbDA3LTFjcGV4STVUa0E1NFRRU2g4S3JyNUV6aHRsRTVwWW1YX09mMnBxRUNMbmtrV2RmRURRR2l4djBwWm53SG9ta29FTkM2OXNfaVN3aXBBWUVIeHNF?oc=5",
       "source": "South China Morning Post",
+      "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
+      "query": "DeepSeek"
+    },
+    {
+      "title": "DeepSeek Builds for Huawei Ascend - Geopolitechs",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMdmdBMVNucGYtYVNLQlljN040Q0FITV9TSVh3QWVFbk1aNVRfRnZHWmNpMXdMdy1aT0diOFVlZ1hndmpJOHlrbkRLWWlTN21ZOXU1U3c1Vm1QNElPaU9zZW1UZkxVSlNqaG53b0lSdHo4UQ?oc=5",
+      "source": "Geopolitechs",
       "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
       "query": "DeepSeek"
     },
@@ -269,20 +255,6 @@
       "query": "AI video generation"
     },
     {
-      "title": "OpenAI closes Sora video-making app and cancels $1bn Disney deal - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13Y2g4d0sxSGwxaEF4UkY4ZjZwelRCWFB0anAtRXdmVUY3c0ZwQjhBWkVqWHVIdC1VelM2TWMzY0p1SWEySW5zSHYyWjlmWHhyNHJ6c0R4YlJjUQ?oc=5",
-      "source": "BBC",
-      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
-      "query": "AI video generation"
-    },
-    {
-      "title": "An update on our model deprecation commitments for Claude Opus 3 - Anthropic",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xbjF4a3FWLXdtUmxfZ1R4SkdpNXBhcHQwUmdZRzNoekVfSmlPSXlxV0JXVWNnaDd4dlpFa3Y3TGJPZk9hQlU5ZXlYVC1JaHFyWkdEVnJoVDBycEpScFVlM2hHREoyakx1VVUzbTBB?oc=5",
-      "source": "Anthropic",
-      "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT",
-      "query": "AI model update"
-    },
-    {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IcjFBSWc3NkotMVUzaDNHaWJBcWVtQXZHbnhpUVZrekpPWENRNEZrQ2hOdTFnejg2WTdvWFNQeFI3RGJnRE9qTFI3czJQX28tQUd3OC1ncFlEMnJtQmdONE8ya1NOa1BVOHhVTGNjdUkxbDg?oc=5",
       "source": "OpenAI",
@@ -311,34 +283,6 @@
       "query": "AI video generation"
     },
     {
-      "title": "BABA Stock After Q1: Can Qwen, Chips & Global AI Expansion Deliver? - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaE5YUzc0NHNKZjdGUTdDUXVFYVB2QTF0N043cHVneEhVQ0dnd1ZlVWtEOWd5enpDNWFUc1RSU2hoY1BBeTR5QXV3Ny02RjJCczBOMkZ5eEpkWGxqdGYtclFqbVM1S2JhZ0V5YU5QQUNwLVlfLWh3MEl5c0Q3S0hxSmp4UGtXSHVlcGRGWVZiN3lTYlhnVy12YWZkQ1U0VmtVTjR2QlBhMVQ4Q3B3MWdER1Y3bHN1SzZU?oc=5",
-      "source": "TradingView",
-      "pubDate": "Wed, 23 Sep 2026 13:41:00 GMT",
-      "query": "Qwen Alibaba"
-    },
-    {
-      "title": "Alibaba Upgrades Qwen Audio Suite: LiveTranslate Latency Cut and Qwen-Audio-3.1 ASR/TTS/Realtime - Pandaily",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sdU5IdVU0Vmk4Y1hIampDcjlDOWhWTXV4b3U0V1Rvck5BM0FXNHVwZE03S0lWalVCdzhHeWRvUXUzcm5WMXpEOTlLT3V4aUN4azEtOFR0QUxraWtJUmxad2txaGxOaktvZ3Rjai1mRndwbTZBdTRsQ1gzeFFTd28?oc=5",
-      "source": "Pandaily",
-      "pubDate": "Wed, 23 Sep 2026 07:46:58 GMT",
-      "query": "Qwen Alibaba"
-    },
-    {
-      "title": "Sam Altman’s remarks at the United Nations Security Council - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KSllHMS1Cb2QyZVQ5QVh2SEJzamI0N2tfSjE0OGJYQ2hzdERiMldGZnpGZ3AtYUk2NU1FNGVLNGEwcU9pQUJUa0F4V0lZVXVfd1RGbGZQZF81b29EMWFoYUp5X051YkNsYjJmclJLR3Z4dw?oc=5",
-      "source": "OpenAI",
-      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "query": "OpenAI"
-    },
-    {
-      "title": "ChatGPT Ads expands to Southeast Asia and Taiwan - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kRFFhNDJrSUZUWmtDYnlqaXBCemhTVkdJb093MnRhZWpXQU9zenZsSG9zQWhMbXExWGUyZEd3eE9NRktQdkFncE9VQ2o3OWswdU05clNqcVltV1ZHOHFUd0dXeng0SnVlUFlZNy1Lb2dkRE9iQXc?oc=5",
-      "source": "OpenAI",
-      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "query": "OpenAI"
-    },
-    {
       "title": "Claude discovers a novel enzyme system with CRISPR-like repeats - Anthropic",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JT0FwTVctZXNkYnJXeW44aHhoZmJfbDYwN3B4a2tMTThJZm9XRklxMkEzdFlxb2Z6VGM2UnpDTGlaQ09PODJUMkJFWWl1UVZOTDJ0WU1UQ1pZMDlrbS0tM3FTS0RGWmNSeGt5QlJjZktQWkl4N0E?oc=5",
       "source": "Anthropic",
@@ -351,6 +295,62 @@
       "source": "Reuters",
       "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
       "query": "Anthropic Claude"
+    },
+    {
+      "title": "Advancing Private AI Compute with secure, server-side memory - Google DeepMind",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeEdFYzJoT3FDNm8zeG91UWJCQnBxa1pJR1dYVEpUTXpWc3MxaUwwM0UxZXNISTR2MXpGeGQzWFQ5VjBMMDMxX1Zzd2oyOGVSRW9Da3lJcTk1WlFKUTBYOTJEU2Q5Z0Z3UzM3UUtxQWFNX29mNUJoNnE1bnp5dzFlMWpudnAwdkpxTEJRT2I4OFc1VTQ?oc=5",
+      "source": "Google DeepMind",
+      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "query": "Google DeepMind"
+    },
+    {
+      "title": "Google DeepMind's latest AI tool promises a new era for genetics research - Live Science",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPOG5qNnZlMkZ1WkIzaXBLaDB5TVVtb1owSi1PcW9HNUZUNDVsRjl2eVVJS204dUNnTjNPLUdtajc3bWUzNGo4MFNURnYtWXFxZ1F6TC0wMS1wVHFPNDBOMGZJQ0tMdWk1RE4yR2QtYnllZFlrWHBYYnVKY01tSjlkdXJ6ZUhUTVFEZVFEbEZfRlI5NEliZmVTRlRRZ2U2SkVXOHRlbzlBRmVGdE4wOElGYUpzZ3JlTDJnSEVWaFpNcl9aUWFVX013RncyaWFkenFQbFdLU2p0UmtreFVhOHZydWdUemVrX2lWRUFCamhlcHd1Q0cwU21fc2pwaVJtU3kzWTJQeHpYR0d0cEN6S3o3MkRXSFVwRVRj?oc=5",
+      "source": "Live Science",
+      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "query": "Google DeepMind"
+    },
+    {
+      "title": "Anyone can make stunning HD videos with Gemini Omni in Google Vids - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMnNJNVpNRmFXYi01NzlvMFZBSDUxSXZuLTNDTm4zNGpCcjd1aUlNUkktc19sdndCYnMzS0tOVFRYZnp0TS1uLU1qRVRGeTRDenpYYlRUal9vYXFLY1VDMFBQeTE5U3VOZGFpUkN1WWVOQzhVSGhUYkxxd2N4MFRFN2RMclZ2eTFGWUZXWkFucU5DZ1U?oc=5",
+      "source": "blog.google",
+      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "query": "Gemini AI"
+    },
+    {
+      "title": "Gemini 3.8 text-to-speech says hello - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSWpTWDNZcWVYandkVlNIa1E5TWFsSG81NU5ST3Q1cGt1Z2xmUXdWRnEzb19zMjVfakoxdDNEVTlzdEJhUzFLanV2dlFaVTZ4a2RjRFMxTXlqUVpNaFFONVZzeGlHcnBwRTlWNlpMektVMlZ4RlJhVlN3X0k1NG0xSklibWpqLUVBUEJjSFVWOTZMWE1ZYllGMUVxbWlSV3c?oc=5",
+      "source": "blog.google",
+      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "query": "Gemini AI"
+    },
+    {
+      "title": "Introducing Support for Local AI Models in the Antigravity SDK - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM1F3eUcyRXRLZnFTTFhCd1Foa1NKUDJzZjlEd3lZejc0eU5oV0h6NnJOT011bWsxT1N3VFFEX0RMYlFhZVZHT1EyVWk5TjJnVVFZMGpLelQ1Y1hWTXdfOTRiYzhUdkFhZjFOWnJLNXg4M1owdmVfWk9IT0x0MWo2TGpELVQyZ3hDc29ncmVTTDR1RHMtSG5CYng4T1d6dw?oc=5",
+      "source": "blog.google",
+      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "query": "AI model update"
+    },
+    {
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE90S1FDR1RBcUt5a1k5OVFkS1JTeDJ6ZHpRZEhNbTlrVS1FOWJzOFJTRk53aGdXcXZ3LUNCWjhiaEdvRGFjTnc?oc=5",
+      "source": "OpenAI",
+      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "query": "AI agent platform"
+    },
+    {
+      "title": "Okta enhances AI agent security with new platform features and Blueprint Alliance - SC Media",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdmk3MlVtb1lVeC1iTlJ6MmRLUGVfUlduUkJfRG5fUUpGd05xVUE1NS00dUpqMS1iUnZsOUw2MWRaOWFtY3Rtc0RhVmN2YzhyZVBIR0pfS1N2M3VaZzQ1NUhpZDBta1RteXhVdXlIQkZlU085M0ZPTTdPemNYTkhURDNOckN1a3F6cnpubnlmMUVvQjZmU0tfeWU3a01aamNsdVlxbU9PWEdENkpsYXZYbg?oc=5",
+      "source": "SC Media",
+      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "query": "AI agent platform"
+    },
+    {
+      "title": "Chinese AI Firms Fall on Report of DeepSeek, Moonshot Probe - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWlNBRnBPUi0zNVlHUUNlTUU2dHk0c3ZDNG8wNUh6T0hFb1pfLW5BeXFYUWFHRGczeEFEeDRKbzZ5dHhHRFp5cjZPRU5jOEJpdFZLdFM3a0x3bVlLYUJsYWZSRDc1bkZDM09lQ2Q5Y3R5QU1yYmFhSHFhUkRORkttMEI0YmJ1RlpXN0VPc2g1Vy1NbDlSSkxna1d5MHF2MXowWFBSS1BPT0pqbjVYZFE?oc=5",
+      "source": "Bloomberg.com",
+      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "query": "DeepSeek"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10 02:35",
+  "updated": "2026-10-11 02:04",
   "count": 50,
   "items": [
     {
@@ -66,10 +66,10 @@
       "query": "amazon.com marketplace"
     },
     {
-      "title": "Amazon’s Prime Day event is back this June - About Amazon",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aN1plRy00UThuaFdrdUJCQ25lMmVCZERMWmt4RkxxX094Y0JkR3UyVlVvU0dMdEFqMHU1SjBVVktVaEQ5UGRwdWRwVU1Sa05DakVpdWFBODJnVlk1bnFzTC1teVFoUnctLXRwdk0tVXJyek0y?oc=5",
-      "source": "About Amazon",
-      "pubDate": "Wed, 29 Apr 2026 20:28:31 GMT",
+      "title": "Amazon.com Announces First Quarter Results - Amazon Investor Relations",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU0Q2ZUxLQTRVZWJCMFlBMU5jbDF0cGlEakF1bi12M24xY2JIR3c1VndtOF91R2pXOVdrNGJRb1lHX1FnMHZfRlBZdmtaM1BGZndTYmZ6ZXUxOVdGN3Y4UFFpNWRSS1JyRGxCSGdDc3B1emtIMXRmc3BYTlg4c1MzbElPVWxqZWItYVhQaG5XblgwV2t1ZC1MaENVdUpScWhrOE1mOHlPUTlTOFNON1pFQkQ3ZG9TMDE5NC1hcS13?oc=5",
+      "source": "Amazon Investor Relations",
+      "pubDate": "Wed, 29 Apr 2026 07:00:00 GMT",
       "query": "Amazon sellers news"
     },
     {
@@ -80,9 +80,9 @@
       "query": "Amazon sellers news"
     },
     {
-      "title": "Amazon.com Announces First Quarter Results - Amazon Investor Relations",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU0Q2ZUxLQTRVZWJCMFlBMU5jbDF0cGlEakF1bi12M24xY2JIR3c1VndtOF91R2pXOVdrNGJRb1lHX1FnMHZfRlBZdmtaM1BGZndTYmZ6ZXUxOVdGN3Y4UFFpNWRSS1JyRGxCSGdDc3B1emtIMXRmc3BYTlg4c1MzbElPVWxqZWItYVhQaG5XblgwV2t1ZC1MaENVdUpScWhrOE1mOHlPUTlTOFNON1pFQkQ3ZG9TMDE5NC1hcS13?oc=5",
-      "source": "Amazon Investor Relations",
+      "title": "Amazon’s Prime Day event is back this June - About Amazon",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aN1plRy00UThuaFdrdUJCQ25lMmVCZERMWmt4RkxxX094Y0JkR3UyVlVvU0dMdEFqMHU1SjBVVktVaEQ5UGRwdWRwVU1Sa05DakVpdWFBODJnVlk1bnFzTC1teVFoUnctLXRwdk0tVXJyek0y?oc=5",
+      "source": "About Amazon",
       "pubDate": "Wed, 29 Apr 2026 07:00:00 GMT",
       "query": "Amazon sellers news"
     },
@@ -92,13 +92,6 @@
       "source": "SupplySide Supplement Journal",
       "pubDate": "Wed, 28 Jan 2026 08:00:00 GMT",
       "query": "Amazon seller policy"
-    },
-    {
-      "title": "Seller Ledger Cracks Amazon Accounting Challenges with New Suite of Tools - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRlk3SEZsYjdycXFEVGpWQURycHVMWFRkR0ZZaWEzVmdOTXhBYTlvMUVCdl9lX2oxeWhKZE16cTc5dVQ5amp1SGc3aF9lbFlKcVNidVh4d0dUR1ExMzMxYks3cnNLSFVBbk5ueFBqNndCaWVidnEyMDhBdzZmRnBLeWJtZl8yaXZ2UW41X044eFZGV1RtYmpROU04TnZTUDNkaUdoNTh4ck9PQnhnczJaYVc5X3FBSnhQdDZPd1VtTUdXXzNIVzFBVg?oc=5",
-      "source": "PR Newswire",
-      "pubDate": "Wed, 28 Jan 2026 08:00:00 GMT",
-      "query": "Amazon sellers news"
     },
     {
       "title": "How AWS is helping retailers build their own AI-powered shopping experiences - About Amazon",
@@ -120,6 +113,13 @@
       "source": "GOV.UK",
       "pubDate": "Wed, 26 Jul 2023 07:00:00 GMT",
       "query": "Amazon seller policy"
+    },
+    {
+      "title": "Amazon offers concessions to UK antitrust watchdog as part of probe into its marketplace practices - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWnRPSDRjNThCeDkwOC05bVlrSndvQmNqZFFfdDREdk1fOTM0djl0VlFRSk9SVE1EZ2t0RG9OVDdhdVRweHhyX09TVW1Ta3RDeGlQQWtpeTZnY2tnc0xwWkJwQThDZTZYYnR2SnFzUlpVbng2aVNQN2J1b29CNm5HUVQydmtlZW1uS3dQdXlnREVtR3VxbW45czNNT3BjS2x0VUZxZ9IBqgFBVV95cUxQRVVpSmNqS0cxMk8zakFUaUdpTllYWng0STFJeEdyZVRac0x2NXExaU8xVkFraHg0cTJtMUlvelZFc25mVGk4Q0Q4MnVfT1c4dThjZXFLTXkwa2s1REIzV1MxRXJTZkVtNmdoVnNtN0ZzNW9fX2FydUdnc2hoSDZidzUzT1ExTjdzQldHVXd1OXpKUm5VaFUtZ0s1WWl6TmFlQTVfUm5zLVNEdw?oc=5",
+      "source": "CNBC",
+      "pubDate": "Wed, 26 Jul 2023 07:00:00 GMT",
+      "query": "amazon.com marketplace"
     },
     {
       "title": "Amazon Fees Increases Pushed Books Sellers to eBay - Marketplace Pulse",
@@ -199,6 +199,13 @@
       "query": "Amazon Seller Central"
     },
     {
+      "title": "Top 15 Ecommerce Companies in India (2026) - Updated - ClickPost",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13U3QwNEdJSlNQMTM4Y2lJaFNuTEVkV3BvVVUzeVp4SmRxN0llcVAtTVMyYmQ2LVJMczF0aTd2QmY5RnNSNDVLaV9JV1Ywd2d1WjBuTE15Y1lLWnhUWnFRRzRhSkJOdldKQUE?oc=5",
+      "source": "ClickPost",
+      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "query": "Amazon FBA update"
+    },
+    {
       "title": "Amazon gives sellers an even smarter Seller Assistant and a new plugin for Amazon Quick and Anthropic’s Claude - About Amazon",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaUJEMEhNVjVhWlBoRXNvX0FlWEtZMUxyRGZXekdwR2NVcjhTSWZYd0phakF5N3N3Q3FuN2F3UV91SW9McFY3c1REZmhpTmE0NVR0RkFVT1FJSFNBWFNEX0FJV2czQ0VvOWkxY2J3U0RVUjBSV3NzQzA5eUxXTTJ3SjdBQWNwQ2dJbklNWlkwV2N6SUJfSzhwTWdaU2p3Zw?oc=5",
       "source": "About Amazon",
@@ -216,6 +223,13 @@
       "title": "Amazon Just Gave Sellers a New AI Superpower - TradingView",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT0xVNXVVNF90TUxadmtqNDdoQ3VEQXRKbEZTNDYxUHV5M0pqZGhteTBMRTd6MUE0ZFVnSHVwN25wMU9rR1Q5U0N5SnptTEo4Vmh1S2NOdkd6cFRCaUFBV2I2LVFfdXBtSnZJZFFzVmUtbGhsSWl1X2ZuMEUyOElVSGliTnFXOGs1cHQ2STBGSklZdC1hZ3dZUlRWYy1oY2h5dVNCZ1Vmaw?oc=5",
       "source": "TradingView",
+      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "query": "Amazon sellers news"
+    },
+    {
+      "title": "Amazon rolls out autonomous Agentic AI tools to supercharge third-party sellers - The News International",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRnNIMk9hckIzWUJJZ2RNejdCOHFDd3FQNGVJbkxXRE82V19PeHJsbmtvSFRCVHRkZkhsa2tRME9reWRWSkNJeHRUVlhyNjVueXU4NkRHTm91SzRiR0lYWVU3MUZXamlNSVZWR2lmQkRwY3Jja1p2b0ZvVFY4b1RfN2RYcjRMbnhPaDEzb0JzZEsxLXpyd0IwZDlXRWxLWFM4NnhIY0lWRjlXWU1rZzc5eTgzME5DYXEzZ3BDQjJB0gG6AUFVX3lxTE81Q3d5NEpjamJfUkZvN0VKNjlIRlY4cjl3ejg0SlhLVGtMMXZ5YzhabGQ3Y3BRWXhZMXhBTmZmUHBNWjJXdVQxaUVZUE1EU003dHAwcGxRODlPWEhOV0NsT2lybGx0STctYjhvU1lHR28wLThDV21oSnJPaF9VRFZLN1BsbE80RUtxNzc1TWtuWnpsMm1lRDNNbWFkcGhLanZWVHV4MXpSOWRsN2pIR1JHZkVNdjd0b0lFUQ?oc=5",
+      "source": "The News International",
       "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
       "query": "Amazon sellers news"
     },
@@ -301,7 +315,7 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZmJXblB2NFlQSF9zbjNfSVVHSWpBajQ3MVBGandHMmt1UGtiaFpCRFpfbUU0MWNoZ1hmWVV6RF83MzBsbnhrQ0daMVlaS21aeHprZGVZN0xXSEtULVg1U0VfVmxnTHQwVFF3YTZWY1o2TTRSS3FDT3Q4Uk94WWc2aDhrLXZNdEhq?oc=5",
       "source": "About Amazon",
       "pubDate": "Wed, 17 Sep 2025 07:00:00 GMT",
-      "query": "Amazon Seller Central"
+      "query": "Amazon sellers news"
     },
     {
       "title": "Amazon India expands AI tools for marketplace sellers ahead of Prime Day - Social Samosa",
@@ -315,20 +329,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORmY1N3lRV2l2MUJkSmM5UklHSFhkbi1qZUgwLW00TU9zNDA2dDFQR2NqM2ZuMVoteHlTcGlvVnNWOTZlcmVKdUItNzNhSi05X0tEVGVvS3MyRDF2bGlFNmtCd2pfZlRLYktncDZOdVZIQUZpeHVMemhaNHdxWndhQjFaM2dvU3JTRlpsWF9VV3dkTnM4YmxyR3ZxMjZ3bmtkYTAtbmJKcVdtdF8zOHNnb2JHbjlqZC1VeFpUQWplOE0waDIxVXlHOVIzX285WUhIZmlr?oc=5",
       "source": "Forbes",
       "pubDate": "Wed, 17 Jul 2019 07:00:00 GMT",
-      "query": "amazon.com marketplace"
-    },
-    {
-      "title": "Sources: Amazon to Close Its Domestic Marketplace in China - VOA - Voice of America English News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQzRxcW1vOWcyNnRoenFLdm5xNUl0SjQzNWVUSng1ci1qQ0NNeXhCQXZQZ0NOOFRKdXE4ak1tR3dzelEwOTZaeW9Xczg4U0kyTlliZ3AzcXhzYURMeXpUSTdhYmdYR1ZMNW56U2UxdjhnSThtNlBBUDJQWmlFbkx3OEtIV2ZEaFlNM0NHelBGVXZzQlNWNklOTFpyS2fSAZ8BQVVfeXFMTWFQT0NSNzBZY3c2TXd3RXlOUmQzeWpIQlhTN2VnRUN1RXhOenhlUF95VHFRRXFKSjdSYk5ocUsyajkwNm5LVWp1U193ZXFRMUtZeTREdU9HeEFsSmc2M19nMWtzcnRBWERwVVM1REpXNlQ5RC15bzliUXJNajY3OVpqUjNCM2tFaElkQkZhcEpsQ3BhWUxOeGhWZkF4UGVz?oc=5",
-      "source": "VOA - Voice of America English News",
-      "pubDate": "Wed, 17 Apr 2019 07:00:00 GMT",
-      "query": "amazon.com marketplace"
-    },
-    {
-      "title": "AWS announces new innovations for building AI agents at AWS Summit New York 2025 - About Amazon",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZU91RU1EUXdTanBma3lMeTd3cXlaMzlfdlJTdUkyUWVnR09TVWl3WXRubWlFZVE1cE5YV0gxbEd0c29hdjg1a2VBWXBObDNxNlFGaWE1dzlOakEza21PcEFvZmFaQThpa2hjemFha2hNZ3FNendtV0Z3VU9OWFBYUw?oc=5",
-      "source": "About Amazon",
-      "pubDate": "Wed, 16 Jul 2025 07:00:00 GMT",
       "query": "amazon.com marketplace"
     },
     {

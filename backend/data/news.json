@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11 02:04",
+  "updated": "2026-10-12 02:35",
   "count": 50,
   "items": [
     {
@@ -101,13 +101,6 @@
       "query": "Amazon sellers news"
     },
     {
-      "title": "Amazon merging marketplace and retail operations - Retail Dive",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTjZXd1hMN0UyN2RieWRqek9YX2hvTlRRbVFJOXZQZmlrejNnYUx0d0hkNGZPZW5rT29Qal81OHBZSFp4Z0Ezd0VKZWNWeHR4a19uYmlyNFE4aWVhVC1mOV9IQjR3bU5QY1NHNk40VWE4VlBpaENsOHF4M3lhOWZZSktCbGxQTVN0VzZVeTQwdzdCQQ?oc=5",
-      "source": "Retail Dive",
-      "pubDate": "Wed, 27 Jun 2018 07:00:00 GMT",
-      "query": "amazon.com marketplace"
-    },
-    {
       "title": "Amazon offers to change Marketplace rules to address CMA concerns - GOV.UK",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOERXRDBpUS1RR19RUnJjYWxHYlJrODhsYkVUOEF6eWhfS1Q4djhIUnN4REdyRGNhb0xSdTBfQkY4UFdCb3lrU0s5N2ZFc0xudktWeUFPV0wtY3hRR3hiZVlrZFNzTGF3UWdMVXVMMXF6Ymd6dHlHU2NHdjc5VUN3SXdGZmdHMlNBLTg2ZzVVSUhNLXVJQ2ZpVUtFR0xHZHJybXc?oc=5",
       "source": "GOV.UK",
@@ -199,6 +192,13 @@
       "query": "Amazon Seller Central"
     },
     {
+      "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - GeekWire",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ1pVeHhockdFWjl1eXJoYlJKZmZHT2JTOXlLalRYeHBKalY1RnNNdXBNY0ZIUmVSZnNCckVDMDJyLVI1LWFXLWxyTXB3Q1JWYnRmZXhjOFBfbkdLb3Jzcy1QUGhXaFA2Wm9pOUs1eHRWLURHeFFlVDJCbmE5bXRhRU5HbjVVMThHbXJNSTZTTnlQaTJwWWFtWWRha1RZRktWSG4xMi0ydFhHbUVNV2lDMHE4NA?oc=5",
+      "source": "GeekWire",
+      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "query": "Amazon FBA update"
+    },
+    {
       "title": "Top 15 Ecommerce Companies in India (2026) - Updated - ClickPost",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13U3QwNEdJSlNQMTM4Y2lJaFNuTEVkV3BvVVUzeVp4SmRxN0llcVAtTVMyYmQ2LVJMczF0aTd2QmY5RnNSNDVLaV9JV1Ywd2d1WjBuTE15Y1lLWnhUWnFRRzRhSkJOdldKQUE?oc=5",
       "source": "ClickPost",
@@ -234,11 +234,11 @@
       "query": "Amazon sellers news"
     },
     {
-      "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - GeekWire",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ1pVeHhockdFWjl1eXJoYlJKZmZHT2JTOXlLalRYeHBKalY1RnNNdXBNY0ZIUmVSZnNCckVDMDJyLVI1LWFXLWxyTXB3Q1JWYnRmZXhjOFBfbkdLb3Jzcy1QUGhXaFA2Wm9pOUs1eHRWLURHeFFlVDJCbmE5bXRhRU5HbjVVMThHbXJNSTZTTnlQaTJwWWFtWWRha1RZRktWSG4xMi0ydFhHbUVNV2lDMHE4NA?oc=5",
-      "source": "GeekWire",
-      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "query": "Amazon Seller Central"
+      "title": "Amazon Autos adds dealers despite sluggish sales reports - Automotive News",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81TEI5MUgzYndNNzV5VlNVOTBoVnNxbHV0NG9sY0JRdThxbXAxQWtJR2FuOEhQMUdkc0pUeGVCRDBfOThMb3o4aVdkcVBYVXVRaXkzMmhuYy1QbXNjMXFsV2J4bDdEazRHc3Y4dk9NM3AwOEJkSWZjN1FFM3diQQ?oc=5",
+      "source": "Automotive News",
+      "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "query": "Amazon sellers news"
     },
     {
       "title": "Amazon’s New Shenzhen Site Cuts Cross-Border Costs for Chinese Sellers - WWD",
@@ -332,25 +332,25 @@
       "query": "amazon.com marketplace"
     },
     {
+      "title": "Sources: Amazon to Close Its Domestic Marketplace in China - VOA - Voice of America English News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQzRxcW1vOWcyNnRoenFLdm5xNUl0SjQzNWVUSng1ci1qQ0NNeXhCQXZQZ0NOOFRKdXE4ak1tR3dzelEwOTZaeW9Xczg4U0kyTlliZ3AzcXhzYURMeXpUSTdhYmdYR1ZMNW56U2UxdjhnSThtNlBBUDJQWmlFbkx3OEtIV2ZEaFlNM0NHelBGVXZzQlNWNklOTFpyS2fSAZ8BQVVfeXFMTWFQT0NSNzBZY3c2TXd3RXlOUmQzeWpIQlhTN2VnRUN1RXhOenhlUF95VHFRRXFKSjdSYk5ocUsyajkwNm5LVWp1U193ZXFRMUtZeTREdU9HeEFsSmc2M19nMWtzcnRBWERwVVM1REpXNlQ5RC15bzliUXJNajY3OVpqUjNCM2tFaElkQkZhcEpsQ3BhWUxOeGhWZkF4UGVz?oc=5",
+      "source": "VOA - Voice of America English News",
+      "pubDate": "Wed, 17 Apr 2019 07:00:00 GMT",
+      "query": "amazon.com marketplace"
+    },
+    {
+      "title": "AWS announces new innovations for building AI agents at AWS Summit New York 2025 - About Amazon",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZU91RU1EUXdTanBma3lMeTd3cXlaMzlfdlJTdUkyUWVnR09TVWl3WXRubWlFZVE1cE5YV0gxbEd0c29hdjg1a2VBWXBObDNxNlFGaWE1dzlOakEza21PcEFvZmFaQThpa2hjemFha2hNZ3FNendtV0Z3VU9OWFBYUw?oc=5",
+      "source": "About Amazon",
+      "pubDate": "Wed, 16 Jul 2025 07:00:00 GMT",
+      "query": "amazon.com marketplace"
+    },
+    {
       "title": "Liquid I.V. climbs higher on Amazon Prime Day sellers list - Digital Commerce 360",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN1czU2V4SzBCZEwya1BhNFBJNFgwNk5adlJOUkRtSTNibWtEM241a1g5VUd3QWV5eUZrNFNHaDJxNW5QNEwtcC1GZDRWcFdIQzRiN0NabVREc2JFUnNHamo5U2FHejNBN284dGFmcjdCV2p1cVljREpXTGNtMm94OWVlZi1vSUh2N19kZ3RiRUVDTlhRV0HSAZsBQVVfeXFMT0tkV1J6Qng5YWVrYU0wd1RNMnRjZE0xNVUxT1dqN3BmRGRrRjdVZ0tyanpYZTVvbEs5RkI3TVRDVVhCUUlfN2ZhVmV6SGlOaEF4aXF4bTR4N1Q5bmZXazhuVWxuYXpzSS1aYU9PMmVrQkVDQ2RDellrMlF2S1IxVVAxbm9NSEJLYnd4eGtMeHlndWlYa1ZCczdfX0E?oc=5",
       "source": "Digital Commerce 360",
       "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
       "query": "Amazon sellers news"
-    },
-    {
-      "title": "Amazon tacks on sneaky fees for the upcoming ‘peak season’ — advising customers to buy early - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX0pnZHhzTU9OTTRBZVdIdGFTdTFEWkN5NU9TbGNIWHFKaVJBSm9HV2l2THRDblJuemNhNXd0UEJOMGEyZ01qd0o4bWphVFZCNmpyX1dUUGhXcmdVbjVBYW8yMjlsel92Z2ZlRGlJUF92azFuVWcwc0VNN3J1VmJGbVZQc2RBVlFzcmJZVjNHQTAycEJWZTkzTg?oc=5",
-      "source": "New York Post",
-      "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-      "query": "Amazon Seller Central"
-    },
-    {
-      "title": "Amazon Sellers Protest Policy Changes With One-Day Ad Boycott - PYMNTS.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVlhfeUl0STBwdWQ4c2dVdDRIUDVkMzlXNHA5bTlfTTJDaDJOVTAzWlZSLU5CUjRKZ3JwMnhCa3F0cjBUSmpyNW02T3lLRXdaeUR3YkFIMlFpZG1tUzgtZFVkcl9GeDBGcmk4NTNzUHc2Yy1QRlZHMjlHSDI5azNibWpzTjZsNzhyT1BzRTJoM3dzd0szTWZGYWtUeEcwQQ?oc=5",
-      "source": "PYMNTS.com",
-      "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
-      "query": "Amazon seller policy"
     }
   ]
 }

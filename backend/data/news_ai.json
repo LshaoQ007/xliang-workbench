@@ -1,14 +1,7 @@
 {
-  "updated": "2026-10-18 01:24",
+  "updated": "2026-10-19 01:31",
   "count": 50,
   "items": [
-    {
-      "title": "17 predictions for AI in 2026 - Understanding AI | Timothy B. Lee",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PR29QZDE4VkptMDZLRWhnRU1TZU8wN1BVa1lmZVAzb0VpR2RnbHJic3NsZDB2SmJjZS1abFB1ZlhWamxITjFwYnE0TWNTY3RhNVhnR2JYal84OHdzRmxSNmNMOXRCanV6Q2NYOU5DYVE?oc=5",
-      "source": "Understanding AI | Timothy B. Lee",
-      "pubDate": "Wed, 31 Dec 2025 08:00:00 GMT",
-      "query": "LLM release"
-    },
     {
       "title": "AI video generation and the enterprise content problem - iTWire",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWmVtc1laTDFYZm5rR0hRb1AzVGZuZDJLd0lQTld3MFU2TjRDdHZVNVBQSm5relJTejctNTEyRk1EeHFnSVFlUkpMSVBxaURFUWRJdEFvOEQ1S2FxdGh4TmRGTDc0QmxINlQyMHl0WXFqMFhQR0I1dTJhLXQzLU9IQWstNkhVWVg3WmlRYnA1cmEzZzd3NGpVdTRVNXRtdm5FZkVOYQ?oc=5",
@@ -17,11 +10,11 @@
       "query": "AI video generation"
     },
     {
-      "title": "Permutable expands LLM forecasting across all major commodity sectors with strong 2026 results - Disruption Banking",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdVhQVmc2WVdYZHRVa3NpU3RHMUpjUXU5aVUyOVNjU2FHTDFaTjV2NDBPVFFPS1l2SW01UktSaVA4TThNb0tTWC1PZ1NnZURMd2prcnFsMFJ2VWRHRHJ4TmI2Nm01aHhMRmJGMWhYNmxkSGFkTU1XalFOTGQxVG1BYk5rSkZLMDlKazdxRzRWLUx3Z2Fma1I5QTVxcmxmYXpZZVFlbk9mWnJDZGR2cXJFdmpjV3h3d085bmxBb0EyYWVxRm1nSlB4LXN5ZGw3M2tBQll0aHpGdw?oc=5",
-      "source": "Disruption Banking",
-      "pubDate": "Wed, 30 Sep 2026 14:49:04 GMT",
-      "query": "LLM release"
+      "title": "Idira Platform Updates (August 2026): What Shipped for Machine and AI Agent Identity - Palo Alto Networks",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTTJwYjg1VWVHYnl2UlZDODdfbmpmMkQ2VnRpcUtkRVR5MXRaZE1TM1ZhUER4MzBfQkxXbXlfTWc2NEFQUHFqZ29NaGQtSWZ4Wi0wc3BVUlctOUp2VXR3OGtkVW1FLWV3aFZCQ0gyYUVhc054ZjJWSjZlTmR5OFk5QV83VUc3SEhOaVRpT0hlTC1xT1dIaElBUlNXNG5IME5lUVZB?oc=5",
+      "source": "Palo Alto Networks",
+      "pubDate": "Wed, 30 Sep 2026 17:59:22 GMT",
+      "query": "AI agent platform"
     },
     {
       "title": "Disrupting a coordinated model-distillation campaign - OpenAI",
@@ -40,13 +33,6 @@
     {
       "title": "We’re introducing SynthID Bio, bringing our watermarking technology to synthetic biology. - blog.google",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaC1LanFHbHlibGhZam1NRllQRGtNSDBXUThkUG5jdzUxWFE0S0NvTTZfNEpjeU5yb1FONl8walZsXzZLY0Y4WlIwOWFqa05KdnBQODBrYy1XOXhlbVhNVm5jZzJONlpGeVI4dWxDbjVuaUJUb2JmVGYyLTloRURoQUc4UmoxME5yc1laSmRQWQ?oc=5",
-      "source": "blog.google",
-      "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
-      "query": "Google DeepMind"
-    },
-    {
-      "title": "Gemini 4 Argon: our next era of frontier intelligence - blog.google",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRjB3amppaF9yb1FhSmxoUW5GUEtCREcxbW1ScXJRRWN5ZGtIM0N0d21wVEI3ZTd5ZHY4N09KRWNwX3U2Z3JBeDNWakYxYXlBVE95NEpKWW5vcWFKZlA5Qkdka3hGZG9INUZtMVN2VTJhWG1TTldVSE1JVm5VaVlvcnpWRlhzX0V1NGJXZGhfMEY?oc=5",
       "source": "blog.google",
       "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
       "query": "Google DeepMind"
@@ -94,6 +80,13 @@
       "query": "AI agent platform"
     },
     {
+      "title": "OpenClaw Foundation is launching a free, open-source enterprise control plane for AI agents - Quartz",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vcVcyV0Nwekc0Tjl3V3V5dU5WUTNmdk5oUzJZWUI2eWU5SEZtdGRhMlN1bDFwSlVDUWF0aEN2M3gtQXBQaWMwbUZQTGdQYWFfdXdaNXNuaGxoMGgzdHEtaFE2Z3dlUjBiaGE2OF85Um9qdw?oc=5",
+      "source": "Quartz",
+      "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
+      "query": "AI agent platform"
+    },
+    {
       "title": "Vida Global partners with AVANT to offer AI agent platform to Trusted Advisors - TradingView",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcmptbVJFMjMxbzZKZVIxY2xUZThMSkNvMllvVUg3UmRfMWpFX1RTVUQxVXVDWC12M3VJc2tlZFcxa3EwSnY1SXZMdFUtVnExblV1YnVqWFpaMzR4bEhtYms2Q3paNXJSekNSZlFOb3JFZjhDVk93MWZWRkIzVElEMmQ1c1dtRG9XTEV6QlZyWnMyOGp5ZmNJVTcybEY0SURjVnp0UG5TWmdubVg5eWk5TE1rZVhxLU5Lcy1LaHVLdWVaYmk2c3g4VVBic1kxWkRpSjVma3NUOA?oc=5",
       "source": "TradingView",
@@ -136,18 +129,39 @@
       "query": "DeepSeek"
     },
     {
-      "title": "Tiny startup Arcee AI built a 400B-parameter open source LLM from scratch to best Meta's Llama - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLVFYNGZyckh2M29xNjctTlhkeGgyVmFEQjREc1UtTjdwTEtqWVpZdnhKdXlUVXFaQ2RHQkdvajJuRGtkRkhHVDVnUU5GTlNMMmVqY2YyQ2hCZ2J2ZlcwN25IZEc2Rmh4a3IxbFFLUjN3a3hVTUFKcE5fc1h4T210X3VLMU5oTUt2VGFFbmZGTWwxVXowMGxHUjkwNkxrUnY4czB5VjNFWDJoUjRURjlaOUMyWHUxRWtJb3c?oc=5",
-      "source": "TechCrunch",
-      "pubDate": "Wed, 28 Jan 2026 08:00:00 GMT",
+      "title": "Fast AI Video APIs in 2026: What Sub-Second Generation Actually Changes - Techloy",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaEZjVzBoN3cyXzBzSkl5WDg4WHBRczBCQ255bGhvVWNjeW95WXBrTG1PQWJMLWkwRDM5NURORE1lMEdqaE1iSG9OWnVrQnctOTRxUDQyM2hwUWN3S2xPWEVLZHdCZnRwNnk2U2hCWnpIdTBqTzd1akNFcU9qeVVYcjlxTzBXT0dZZ2IzSmZXTmdkcDVCODRrMTFxUQ?oc=5",
+      "source": "Techloy",
+      "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
+      "query": "AI video generation"
+    },
+    {
+      "title": "Introducing Pangram 4 - Pangram",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zUlNBWVZWLVc2VTNkV2NoNzRhaDVnUm00U2lpVktsd1ZHTFNMZkxpMldOeHdxeTRGa3dJcXE2UDBZeDNzanFqYkZtYkwtbmJ0MWVibzFPWXVLZkdaXzhJ?oc=5",
+      "source": "Pangram",
+      "pubDate": "Wed, 29 Jul 2026 15:13:46 GMT",
+      "query": "AI model update"
+    },
+    {
+      "title": "Singapore launches upgraded version of Southeast Asia’s LLM MERaLiON - GovInsider",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRWg5S2RsM2dkVEpHbzZzVjkzWlZFY1hUenJJbG9fNnNqc0hxenB3blJPUEJKTWJyXzk1MjB6aFlmU0ZOLXVfcWRacUl5NjllVV9FRUR3VWc0Y1BiNkFVRjlqTWNYUW8ycHhSNXpVVTQwd3lOSjZpNHhJeVFsV2lEb0R0djZkSUxQenF5d0lRa0dkU2lEcUdXdkZHWjhxelpxWVpuYkJ6bEZfLW8?oc=5",
+      "source": "GovInsider",
+      "pubDate": "Wed, 28 May 2025 07:00:00 GMT",
       "query": "LLM release"
     },
     {
-      "title": "NVIDIA Blackwell Sets STAC-AI Record for LLM Inference in Finance | NVIDIA Technical Blog - NVIDIA Developer",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbUVpUWZtZEhQUFdtQm5kUVlTWk5PbVM2aTUwaVJrTFpycUZkUHA4YUhrbTJRb1FyQjgxV3lmNzRMVjQ0dWNCU1RndUJZb0RiQV9ObEx4M1ZTVXV0dzMxZnJFZEg4WWlCZGpFR1JWd0ZUWk5UVmNreTZrYVp6VV9IZ3piS2JXcEhpbnVMbUNnMU9XeXhrY1lHRnlCak5JNlRYOEE?oc=5",
-      "source": "NVIDIA Developer",
-      "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
+      "title": "Mistral 7B - mistral.ai",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QdVVIcFZ4V2hGeWI4SHVkdXA1bHloLTdrMVExb3NvekxlQTF1Uk9TSmJqNGhsY1p6d21ETmpBeFN4b0Q1dGFzYXp2SVd1My1DaTd5X0FzYi1qdw?oc=5",
+      "source": "mistral.ai",
+      "pubDate": "Wed, 27 Sep 2023 07:00:00 GMT",
       "query": "LLM release"
+    },
+    {
+      "title": "Salesforce and Anthropic Announce Claudeforce: The #1 AI Meets the #1 AI CRM - Salesforce",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcklqU2RlQWZLY3c5dG9uaF83Z0xHSHNuQzNHSGZOTWw3c2wzSmtGTE45VzlWaF80R2tON1JfcFhFVC1walRFUmRyVDA1UkdoQ3pydUdKc1hPTm9SQTV0akl4aWV6NlVqR3ZtSEhCYjJlRTJTOTJYWHU2aDJIWjl0c21ReTJDRVlKb0pwRVE3MTJLdUdVeE9tSGJuQ2hoN3RBbFMtTGJrdw?oc=5",
+      "source": "Salesforce",
+      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "query": "Anthropic Claude"
     },
     {
       "title": "Exclusive | Google Moves AI-Responsibility Team Out of DeepMind Lab in Latest Shake-Up - WSJ",
@@ -155,20 +169,6 @@
       "source": "WSJ",
       "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
       "query": "Google DeepMind"
-    },
-    {
-      "title": "LLM Pricing: Top 15+ Providers Compared - AIMultiple",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4dVE0RldwT1lSTFpaYUh5eWhacWtnc3ZnTjdBam5KRXRsdk9qSmpxU0pEVWNpWFlENV8xM2djUnJxR2FTSjdvYkVn?oc=5",
-      "source": "AIMultiple",
-      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "query": "LLM release"
-    },
-    {
-      "title": "AI Agent Platform Runable Raises $21 Mn To Help Small Businesses Grow - Inc42",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMXJlUHBKZzJSamJGcFU4YUV0OGFFR19Ob1NQWVMxYjMyYzRBYTBnTllpRFJ4VUxqeW5CVm44SGowRmpZTllkUHB3bUd0NnNEMW9sdmpvRG4yRVRHTFQ4VW44Y0I0aVM4aTNkakRPRnFoSkpRX3EyUFhoX29QWTVSVHdMMGJSb2llNTNYUUlrcm9LeGJmdWdn?oc=5",
-      "source": "Inc42",
-      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "query": "AI agent platform"
     },
     {
       "title": "Alibaba’s Qwen Team Releases Qwen3.8-Flash-Next: A 125B Multimodal MoE With 6B Active Parameters Previewing the Qwen4 Architecture - MarkTechPost",
@@ -199,11 +199,11 @@
       "query": "AI video generation"
     },
     {
-      "title": "Updates to our Privacy Statement and Terms of Service: How we use your data - The GitHub Blog",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUt0WEJpT0VFNzVWYkxPbE9wUTVSdUVldG9aaVBpbU9WaHg3OUNLcWlKZHVQUVYtX2Vpblk0dENvM3AzekpLTkplRi1aUXItWGFmRU5fTW5vSDhyRzh2RVgtdy1vbHhZQmtTMlY2aTR6SkFhTGZaczRONk55eWpqN1VsWldwUDZqRHhOM3lBX2szMnR0eEN5bC1TV1Z2T0lVbXp0SGd0RlBma0ZMMlJ2UFFpMWpRY28?oc=5",
-      "source": "The GitHub Blog",
-      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
-      "query": "AI model update"
+      "title": "I Spent Hours Testing NSFW AI Video Generators. These 5 Are the Best - PCMag",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zV3VPQS1oSl91WTM1cHYzRlk3d25pVU8wU0ZDS29HM1ZLT2Vrek13TXA3THc5YVdFT2dYc3REOEFSeFRERlhFR2MtY1lHOFJOZkVkM3M5bkVUMkdDWnZnZ3pPMWNoUzFaWG9wbnNR?oc=5",
+      "source": "PCMag",
+      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "query": "AI video generation"
     },
     {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip - OpenAI",
@@ -225,6 +225,13 @@
       "source": "EIN Presswire",
       "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
       "query": "AI video generation"
+    },
+    {
+      "title": "Snowflake Arctic: The Best LLM for Enterprise AI — Efficiently Intelligent, Truly Open - Snowflake",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONDVuRzBDR19hY2c3MGlacFNQSVY0MG9DSDhMTlJMcWVabnlEV1ZkMlUxVGJrWE5acjk3ellxLWNxdXBHSUhQaFBiLTVTNzd1NnJwZTZrUGlrcEhEdkMyVGZvSjNZNm1wOEI4N0VXM2pFVGN1VXBSaXFfeW1tY1gyaDZPeXNJeDdlNWZJWktGVUdMb2xEX0FVSg?oc=5",
+      "source": "Snowflake",
+      "pubDate": "Wed, 24 Apr 2024 07:00:00 GMT",
+      "query": "LLM release"
     },
     {
       "title": "Claude discovers a novel enzyme system with CRISPR-like repeats - Anthropic",
@@ -276,13 +283,6 @@
       "query": "AI agent platform"
     },
     {
-      "title": "China is investigating DeepSeek and Moonshot over data that flowed to Anthropic - Quartz",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlWjFMTUVsN2hzRWpFWGRqb1VTY1FSYmphcWcyaG5sZTFkUDQxNXMzYkFSYlNkcmkybFZLdzM4Mi13UjctVE1UTzdmeWxGdWZxM2tpXzBXdVJCT3pUdk83OERWcVg1X0NzTGlKbDVzclJPSkUz?oc=5",
-      "source": "Quartz",
-      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "query": "DeepSeek"
-    },
-    {
       "title": "Alibaba launches Qwen Audio 3.1 with new models and slashes AI audio prices by up to 95 percent - The Decoder",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYVdTYkVkR2ZZNFZJdURHdlV1RzZGQnFuLXh0Vkd1MnFCQTFicUc3SnFCWUJRZlIxUFZMbEZlbUsxYzIyOTdCWUpiUXFMX3F5VVp6RE5yNVpiN1U5dklCQnZOeHpkMHNZRWR6TXM2ZV9fWm1PeWRMLU5hanhCbXZVN2pna21ucTR4M0hyQkxDNnh3eTNMNUQwWjltdkhZcjNLQXAyVkp3SnBZUXkxTHpJWFVTX3BFSDJHTXk4dTRkakRNdWc?oc=5",
       "source": "The Decoder",
@@ -293,13 +293,6 @@
       "title": "BABA Stock After Q1: Can Qwen, Chips & Global AI Expansion Deliver? - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMHVQZDloZ0VlVDMyYWM5VlMyMFRCV2NuUlVMLUdxbVhQRS1BSTV6cmtlOVhkUzYzbUZoZHNoQlFZejVRcVFvdEtYNVVNZGRzTHY3bWtVczdyVlN1cTl6X29kYXlIQnh5UFBnMWpWYXBDRnVRTXB0NEZ3d2Q1cUI0RUZtclhObGRobmQ2cDctQ1BlQQ?oc=5",
       "source": "Yahoo Finance",
-      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "query": "Qwen Alibaba"
-    },
-    {
-      "title": "Alibaba targets 10 trillion parameters with next-generation Qwen 4 model - Vietnam Investment Review - VIR",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcEdadmZLdFJIZXQtYklRUlRDNWNXZlNjY090cnR4cTl6Y1NXSUFxZzBWR2U2YktzNzZRXzVKRWZ0YjJNNWZuRXduOE44cFQxM0h3NGVVRWpEamxwRmZBVl9ROEtmN2stVmlHV1lfTlZIbGI3VFo0MG5lcmU1Mk1xOHM3U1d6bXhvY3p6YW9sT3BLak1jbXM5LXh0b1pOb0JDWDdvSlBn?oc=5",
-      "source": "Vietnam Investment Review - VIR",
       "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
       "query": "Qwen Alibaba"
     },
@@ -318,18 +311,11 @@
       "query": "AI video generation"
     },
     {
-      "title": "Lemonade 11.5 Local AI Server Released With Completed Lemonade Router - Phoronix",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2c0V0Y0Y0d1diZlZzVHJ1eGJfMFo1d1Z5MmZ0STVGQlk1U1RIWGQyY3hvMHNBTHYtdVJ3N0hOVTAwVDBWVTl1VDhlVmdxZkp3UFlRU1pkcmdtYUU?oc=5",
-      "source": "Phoronix",
-      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-      "query": "LLM release"
-    },
-    {
-      "title": "Midjourney Seeks To Narrow Disney AI Copyright Claims - Law360",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2ZfY2J4OE1vSmc4bFVNYmExeVhTZjR6aV9mYUM3dlJQcjFuaDVzLV9yQkt6UUp5cm1vLWUyLWNxV2hPYWRuMGl1MDFxcWVyNm5LZ0VTa3I5X1YxV1pwa0ZSLVBMY3RyY3hLbkZtVWxxSU4xZTV0a1FNWFVWcTdXaTdId0hIYVRoVExUYVg2NFJjRjl5QVoyNtIBVkFVX3lxTE85S2I1bXV6SHlYM0VNRktrM1M4WEhkVjMyZjhjSlRkYUVOaHFyZmRmaFItckRySWp4MThWS1RidnQ3VmhRWHBVbXN1RnZPS0lXWjJzeWJR?oc=5",
-      "source": "Law360",
-      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-      "query": "Midjourney"
+      "title": "Google Brings Free Gemini Omni 1.1 Video Generation to Google Vids - Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdVJwNk1ybnNabDJnVXd6TlFmU1BDVGQ4dXZzYXBGOWNPVTRDNzRlbmVSeEUyclFOSTRGbWRuOFNKTzFpU01JSUdGUlpwTElSZVB3Y2VORTdtWlFCTDAwNURwQUNOX3NTTVlIMFQ4Z0dWLWpNMll2bTIxQ0NZVjlmU3pCNkJMMW5iNG5JdkpqMjA4QQ?oc=5",
+      "source": "Unite.AI",
+      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "query": "AI video generation"
     },
     {
       "title": "Runway Gen-4.5: State-of-the-Art AI Video Generation - Runway",
@@ -346,10 +332,24 @@
       "query": "Google DeepMind"
     },
     {
-      "title": "Intel LLM-Scaler vllm-0.14.0-b8.2 Released With Official Arc Pro B70 Support - Phoronix",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KdXVuYjRDeEhJTklyWWF6TGw4dFNDQlJWT3dBMktfVkcxY2xPcXFwRW1oanhWZHVKUnZtZUh0SThpcm1zemdBU0p1eElUYlBTdFkxTHZLTWdKTWNmb2xzVFpzdFRIYm1VQm1Gd21R?oc=5",
-      "source": "Phoronix",
-      "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "title": "Devstral - mistral.ai",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB0VHFwSDN6OEpzY3ZtVlE3SHI1WTd2UnFGOFdsaW16aHRqV3RMa0FnY3FJRllFVERsckxoUjR3WVZoMUMtSmZDYQ?oc=5",
+      "source": "mistral.ai",
+      "pubDate": "Wed, 21 May 2025 07:00:00 GMT",
+      "query": "LLM release"
+    },
+    {
+      "title": "Midjourney's TPU regret is a warning for AI startups - Startup Fortune",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNUFJaW9taFg5V3hGbDdhWU5tODVjb2c3amZ1R2pWczRhZHVSaGVtUkJ2Z05kUVZ0R2ViUC16YllBeU40MUpuWGZFMjlablFMbFZKOF9obEJZa0ZySmFKQkNwVk5ib3RvczhkaXRkRUF0dUk1U2tPd3ZxLVdqZVF3b3hsOUpQZw?oc=5",
+      "source": "Startup Fortune",
+      "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
+      "query": "Midjourney"
+    },
+    {
+      "title": "Measuring AI Ability to Complete Long Software Tasks - METR",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa28ydGZubGNmby1yUkhVS3hObXpDbklLSnJrZnkxOFRFRTh1b2hwekt3X2NtcGppLXdBdzdVVF9HUXUzRUgzZEVqNC1zblU0blZoMVc4ejBLUDFPdm54dm5ydFo4LXNSRnRva0Nfb3pCSWs4OTRFRUV6MmNlN2ZUNTRTZw?oc=5",
+      "source": "METR",
+      "pubDate": "Wed, 19 Mar 2025 07:00:00 GMT",
       "query": "LLM release"
     }
   ]

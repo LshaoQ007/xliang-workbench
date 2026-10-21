@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20 02:00",
+  "updated": "2026-10-21 01:51",
   "count": 50,
   "items": [
     {
@@ -52,16 +52,9 @@
       "query": "amazon.com marketplace"
     },
     {
-      "title": "Pardon the Disruption: Can Amazon be a grocer and a 3P delivery provider? - Grocery Dive",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPal9rREV5QlNTdDBCTHJQdDUwZVJmRUEtZEZxRHo1bXF3SnpORVRlQTYxR25SMldJU0dmY1p4N25UV2NBcENGbGw5SGtKQURvVDZXOG9NY1NxdXRnMV9OZjA1MXZsOUs4a2NGRjVTNUhjbkJRMXVaWEJxVHhpZVZObl9LaG8zVW5lYlRDNzBqaWFaMXZGcWtIQWFQXzJGR3ZEOWNUNjBxbkh4Q2pvdjNpNWRRQXppOXhSUzc0aQ?oc=5",
-      "source": "Grocery Dive",
-      "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
-      "query": "amazon.com marketplace"
-    },
-    {
-      "title": "Amazon.com Announces First Quarter Results - Amazon Investor Relations",
+      "title": "Amazon.com Announces First Quarter Results - About Amazon",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU0Q2ZUxLQTRVZWJCMFlBMU5jbDF0cGlEakF1bi12M24xY2JIR3c1VndtOF91R2pXOVdrNGJRb1lHX1FnMHZfRlBZdmtaM1BGZndTYmZ6ZXUxOVdGN3Y4UFFpNWRSS1JyRGxCSGdDc3B1emtIMXRmc3BYTlg4c1MzbElPVWxqZWItYVhQaG5XblgwV2t1ZC1MaENVdUpScWhrOE1mOHlPUTlTOFNON1pFQkQ3ZG9TMDE5NC1hcS13?oc=5",
-      "source": "Amazon Investor Relations",
+      "source": "About Amazon",
       "pubDate": "Wed, 29 Apr 2026 07:00:00 GMT",
       "query": "Amazon sellers news"
     },
@@ -248,6 +241,13 @@
       "query": "Amazon sellers news"
     },
     {
+      "title": "Amazon debuts direct rail service for Los Angeles-to-East Coast shipments - Supply Chain Dive",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMXoxcmZjSGhIdmhwcWJyZ1RwZmRUUk0zSTlfNkRtVVdGV2xSX09zaXpHLXRCSXRwbnVfcE5oOTBnVXowX2V2RGlpaTdwVXVqVGdnaUlzb2pOU19ndGV2RWNwUEhNblVSVG1SdElfQ3BnSWlyanJRVTdDVm5UVHFOUlN3TnFQQnRlNGplY2hxUm5LclVWUHZ6Sk40SXpwYzZyM25GQzZkN0czVWJJaGJKQUV1WXdZc195VEE?oc=5",
+      "source": "Supply Chain Dive",
+      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "query": "Amazon sellers news"
+    },
+    {
       "title": "Readers respond: Amazon KDP account termination - Jane Friedman",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vWmUwcktKdDFCbV9UUTJ0T2VtUEFhUXFQOFFWOUFGeW5DRWpRMHI5TDdoeFVJQU1GZEFzOGtjcjJIS0I3MXMyT0FHSC1CbVZQZGUyTnhIMWxkM2V6WF8xQzdYdVB4bDFiY2MxM0x0MGlDaURkdGljM3VfY0Y?oc=5",
       "source": "Jane Friedman",
@@ -284,10 +284,17 @@
     },
     {
       "title": "Amazon Recasts Marketplace Fraud as a Broader Trust Problem - PYMNTS.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQUVTUXc3aW0tajM3VndaZlhSUkRxUG1rVWktVFQ5OERNUGhJSmhDQ3otTXJ2TGlZU1N5eUVTZWRqUnNsNjBwN2dKdkNjRk9HTW1GWVhDRWJCazlxM1p2MXVNUVVHeW1JV18zd0tSeEotUGVyOWhZM2o1bXpzQ0Y3WVA3U3dHaE9pNWVHLVJISWlwVTVXTkhzQ0xnRQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa0lFN2NZOU0xWWxiT0h1a3J2QmwzdHJxSjhFM2w2blA5a1p5X19veHhxZ3FOa2NXaU5sbEtsVUdOcWFfVENqenhXNTR1WjBMbUJYLXpUY0dkZmk0Q0ltSTU3T0lvd0x5WGQ1OGZXTTRZVzlMRVpsNVlyRDRnY1pNZzdMTVhidFllLXZ1SjdDWGVFWUlxVktuUnlkN0ZhTGl3MUE?oc=5",
       "source": "PYMNTS.com",
       "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
       "query": "amazon.com marketplace"
+    },
+    {
+      "title": "Amazon Seller Case Study: Jungle Stix September 2016 - Jungle Scout",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HSU9CZG40bkcwcU5kb0N0RFlQSGpwVGt0S1ZqSTVEXy1MZDdZOFRLQ254aFVtV0dZTGJZaHVnX0NraWx5YlVQQzRlVFdmMTZKUm1SdTJ4Q25Lb19Ia0JBY0lFcWVuZVhCVGFza0JGSnRWOWMxSXc?oc=5",
+      "source": "Jungle Scout",
+      "pubDate": "Wed, 21 Sep 2016 07:00:00 GMT",
+      "query": "Amazon FBA update"
     },
     {
       "title": "An update on Amazon India leadership - About Amazon India",
@@ -309,13 +316,6 @@
       "source": "CNBC",
       "pubDate": "Wed, 18 Oct 2023 07:00:00 GMT",
       "query": "amazon.com marketplace"
-    },
-    {
-      "title": "Amazon resumes intake of ‘all products’ into fulfillment centers - Retail Dive",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWVpHQW5LdUpqS0h3MGN6T1Ytd2pLa05nQm1ZdDR2bHNKclNZb1V3X0htOXgyLXdFUG4ySlBEeUFrWE9GM2VRLUlHOFBtSGRTa3JNZzRrTjB5eW04d3RxSU8tYXRwTEhEemJlYVJVNnFUWjB3eHJoU3lCdVVfaVUtNVBCUUxxOXZQU3JQZDNJX0ZXSk1vLVlEaG1Cb2pzdUNtMmpDeUY1Z1pqU1FCN18zSUM1Z1NUZw?oc=5",
-      "source": "Retail Dive",
-      "pubDate": "Wed, 18 Mar 2020 07:00:00 GMT",
-      "query": "Amazon FBA update"
     },
     {
       "title": "Amazon introduces agentic AI across the seller experience, transforming how sellers manage their businesses - About Amazon",

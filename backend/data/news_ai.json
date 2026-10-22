@@ -1,14 +1,7 @@
 {
-  "updated": "2026-10-21 01:51",
+  "updated": "2026-10-22 01:42",
   "count": 50,
   "items": [
-    {
-      "title": "Idira Platform Updates (August 2026): What Shipped for Machine and AI Agent Identity - Palo Alto Networks",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTTJwYjg1VWVHYnl2UlZDODdfbmpmMkQ2VnRpcUtkRVR5MXRaZE1TM1ZhUER4MzBfQkxXbXlfTWc2NEFQUHFqZ29NaGQtSWZ4Wi0wc3BVUlctOUp2VXR3OGtkVW1FLWV3aFZCQ0gyYUVhc054ZjJWSjZlTmR5OFk5QV83VUc3SEhOaVRpT0hlTC1xT1dIaElBUlNXNG5IME5lUVZB?oc=5",
-      "source": "Palo Alto Networks",
-      "pubDate": "Wed, 30 Sep 2026 17:59:22 GMT",
-      "query": "AI agent platform"
-    },
     {
       "title": "Permutable expands LLM forecasting across all major commodity sectors with strong 2026 results - Disruption Banking",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdVhQVmc2WVdYZHRVa3NpU3RHMUpjUXU5aVUyOVNjU2FHTDFaTjV2NDBPVFFPS1l2SW01UktSaVA4TThNb0tTWC1PZ1NnZURMd2prcnFsMFJ2VWRHRHJ4TmI2Nm01aHhMRmJGMWhYNmxkSGFkTU1XalFOTGQxVG1BYk5rSkZLMDlKazdxRzRWLUx3Z2Fma1I5QTVxcmxmYXpZZVFlbk9mWnJDZGR2cXJFdmpjV3h3d085bmxBb0EyYWVxRm1nSlB4LXN5ZGw3M2tBQll0aHpGdw?oc=5",
@@ -17,16 +10,16 @@
       "query": "LLM release"
     },
     {
-      "title": "SynthID Bio: Watermarking methods for synthetic biology - Google DeepMind",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40WVZXTHl5UmxibkdDVUlrUlBoNWVCb0lUaThwcDd3QjVLM1FSd0lKSzlROC1sazVFUThoWWZlMWd4SmdObWgtU0g2cXFQM05RbGwyMzMydGZWbDI4V0JQVTJZQQ?oc=5",
-      "source": "Google DeepMind",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRjB3amppaF9yb1FhSmxoUW5GUEtCREcxbW1ScXJRRWN5ZGtIM0N0d21wVEI3ZTd5ZHY4N09KRWNwX3U2Z3JBeDNWakYxYXlBVE95NEpKWW5vcWFKZlA5Qkdka3hGZG9INUZtMVN2VTJhWG1TTldVSE1JVm5VaVlvcnpWRlhzX0V1NGJXZGhfMEY?oc=5",
+      "source": "blog.google",
       "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
       "query": "Google DeepMind"
     },
     {
-      "title": "Gemini 4 Argon: our next era of frontier intelligence - blog.google",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRjB3amppaF9yb1FhSmxoUW5GUEtCREcxbW1ScXJRRWN5ZGtIM0N0d21wVEI3ZTd5ZHY4N09KRWNwX3U2Z3JBeDNWakYxYXlBVE95NEpKWW5vcWFKZlA5Qkdka3hGZG9INUZtMVN2VTJhWG1TTldVSE1JVm5VaVlvcnpWRlhzX0V1NGJXZGhfMEY?oc=5",
-      "source": "blog.google",
+      "title": "SynthID Bio: Watermarking methods for synthetic biology - Google DeepMind",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40WVZXTHl5UmxibkdDVUlrUlBoNWVCb0lUaThwcDd3QjVLM1FSd0lKSzlROC1sazVFUThoWWZlMWd4SmdObWgtU0g2cXFQM05RbGwyMzMydGZWbDI4V0JQVTJZQQ?oc=5",
+      "source": "Google DeepMind",
       "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
       "query": "Google DeepMind"
     },
@@ -45,16 +38,23 @@
       "query": "Gemini AI"
     },
     {
-      "title": "Google releases most advanced Gemini AI model - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONHZCTWxBOEZWZTVseDhUeFdNMTZoTTRqa242NDFQRWdrMEdWYlEtWVNwQkRjUXdmX1dzUEhkZlV2bDY2aTVPbnBfNGJhXzk5NWVPRWlqbTJKTkZDU0k2dTJENXo1N2dDRHVGdHYyWVJGNUxiWVczMlBnV0JRWC12d1llUVk?oc=5",
-      "source": "Financial Times",
+      "title": "Google announces Gemini 4 flagship AI model after months of delays - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0kxM3JDazhISnQtVGJ1Q2phRmxPR2Mtb2R4X1dQX0U3TkVZLWV0YUZNSnRfQ25OQnRuWHpNczNHSzhCZFFkdHFCWEVXYUhuazBDLWJ0eV92WU9nMDR6Nnl5ZDRCOG5UdWtwNnpTNkVtS2NLejVrX1Y3eXFvbDRMc0Y2Q2hvN0Q5YTEzTVA3NDFLaHprbnpuNWVBejNPVUlKemJCSHZUcHZSVE9iNmt3TWxXMXFBWkU?oc=5",
+      "source": "Reuters",
       "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
       "query": "Gemini AI"
     },
     {
-      "title": "Google Pushed AI Into Schools—and Even Students Say It’s Gone Too Far - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GQ1g3MkhsR1VXWmJvLXU2UDYyMVR5ekl6aFJPc21nZW9GZUN6S2JwQkJNdHFFbHMtS2E3MlFTNnEtWFpsZHhRX2lhWVBsTEpZbm5ENGZha0hqb3hoT21aT0hLQ1FrSHdXVWJMUXB6R0pFeXphTnZqQ05VRQ?oc=5",
-      "source": "WSJ",
+      "title": "Google announces Gemini 4 Argon AI model, but you can’t use it yet - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbFNNRlptWHlSNi1vaXpwUmhmQ3B2T3ZJMlpuUmFaTkFrWjNNM3VYZ3ZwRW02TmFNYmNOOTcweUJ6aXlxc3M0RW9mdkkxRVJ2amg1VjE5SDVUYWdwU3VzcW5xQnZ4cFprUWdjUW9EZnduUjhMNjl2cmsyZ0RCcUtJWXJFMENsZFhpNzMyQWhrMU1WRVRocnp5VmlienRfZVBlYll0QnEtbw?oc=5",
+      "source": "Ars Technica",
+      "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
+      "query": "Gemini AI"
+    },
+    {
+      "title": "Google Releases New Gemini Model With Guardrails Amid A.I. Safety Debate - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ1Z3VVVlemc0Zm9HYy1HSTNuSlZhT1BRQ0I0TVJtMVltbDRGS1pCR1VKNk1OUnhkNjVycjhIbEplY0NaNWR5eDNDVzRGcHN5NFRDNlpsU28xMWs0MkJ6U01lNkJJb0syN2hMSkwtMUpiS0dHS2gwa3FYX2dkanFPTE96aVNQcDd2OHc?oc=5",
+      "source": "The New York Times",
       "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
       "query": "Gemini AI"
     },
@@ -80,23 +80,16 @@
       "query": "AI agent platform"
     },
     {
+      "title": "Idira Platform Updates (August 2026): What Shipped for Machine and AI Agent Identity - Palo Alto Networks",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTTJwYjg1VWVHYnl2UlZDODdfbmpmMkQ2VnRpcUtkRVR5MXRaZE1TM1ZhUER4MzBfQkxXbXlfTWc2NEFQUHFqZ29NaGQtSWZ4Wi0wc3BVUlctOUp2VXR3OGtkVW1FLWV3aFZCQ0gyYUVhc054ZjJWSjZlTmR5OFk5QV83VUc3SEhOaVRpT0hlTC1xT1dIaElBUlNXNG5IME5lUVZB?oc=5",
+      "source": "Palo Alto Networks",
+      "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
+      "query": "AI agent platform"
+    },
+    {
       "title": "OpenClaw Foundation is launching a free, open-source enterprise control plane for AI agents - Quartz",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vcVcyV0Nwekc0Tjl3V3V5dU5WUTNmdk5oUzJZWUI2eWU5SEZtdGRhMlN1bDFwSlVDUWF0aEN2M3gtQXBQaWMwbUZQTGdQYWFfdXdaNXNuaGxoMGgzdHEtaFE2Z3dlUjBiaGE2OF85Um9qdw?oc=5",
       "source": "Quartz",
-      "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
-      "query": "AI agent platform"
-    },
-    {
-      "title": "Tiledesk Raises €1.1M for Open-Source AI Agent Platform - Konsulteer",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS1FGdkswcUtmbGVseXh5U2l3a0RDLXFGUGFLZW43Z05vaGtEZWVzd0RtbEFNbTJGQkRBbTBmYWpUNnpibzFpY3FpY3RsanREQzhqbjFPdUpJTUdVaHZOa284U3Z1NlVobV92MDg0al9NRUVmZTBjbFVOelh2VnRwLVFhQ3JJeEZjOURzbmYxdlJSam1VQlB6d1RJZw?oc=5",
-      "source": "Konsulteer",
-      "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
-      "query": "AI agent platform"
-    },
-    {
-      "title": "NVIDIA models join QwikAgents, which adds a second software option for AI assistants. - Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV1JNVTkwZi1wTjlwOXY3cFZlQUt3aEVXdFhEZnY0OE5PclZLRjN3Nk51YkhJTXRmckpSdTJIN0w3TzZfalZwQjdjUEpyTkpsLXZ6TVVuUkc3NFJWaTN2eWdseXpVS0l0WU03aXNWR3dFeW1ndnZhb2Z1cDRNYTFKX1FCWFprZEItNVZFV1I0Z3Jwb0x5UGd3NUlVWkhtekV5TTJXOVRIVWVJYmwzSFk2LTJoeWRGaFdhTlE?oc=5",
-      "source": "Stock Titan",
       "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
       "query": "AI agent platform"
     },
@@ -108,10 +101,10 @@
       "query": "Qwen Alibaba"
     },
     {
-      "title": "OpenClaw Foundation launches open-source AI agent platform - Tech in Asia",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaGM0ak5ndWVhMk01QTUzM0xTRl9WTjRVTFB6Q1NtMG1RdUlIelhZVkp4MnU5NHNFaUY5VWNRVm5PQXd6cWVUejJIbk52NEdtVHptOFpsRHdqWGx5MC1JaEpKNDd6ZkEwek9MWk10eHM0OUgzUktUVVZRbHBfR3hWdWp0bTF6bTNManVCd1lCYm5jNG5j?oc=5",
-      "source": "Tech in Asia",
-      "pubDate": "Wed, 30 Sep 2026 02:13:00 GMT",
+      "title": "What’s new in Gemini Enterprise Agent Platform - Google Cloud",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaHYta0NoeWZXWEFqTFg2eFNsbi00VHFIbVlpN2FERTBzVXpicTZoMUJpQi1MUUJUNmJwZW5OdmlYQ0VrY0dMRmZTNVVVaWRDMmdIQUR2VUtjcHA1VGVzX2lQaC1DLXJqQTFqaFM2ZUxKQUpUV0txb0VBekdPUDRpV0JMZGVJSmpLMHpObk5oa0NlM0dueUUtTExmTTc4NDVjSC02blpSRQ?oc=5",
+      "source": "Google Cloud",
+      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
       "query": "AI agent platform"
     },
     {
@@ -171,11 +164,39 @@
       "query": "Qwen Alibaba"
     },
     {
+      "title": "I Spent Hours Testing NSFW AI Video Generators. These 5 Are the Best - PCMag UK",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKbXlqaTdiSHBkUzdmYWtHblhXaVBSOGpfTmpndGJrd3ZTVGpqY1lsaW1MQjk2cDZhbE05NVZVRW1yOVZ5RlJzWlVEREYzdUNRTkNZMl8xSmRhUGtPd1VrcEVZSVhqd2pqTmp6UnhsNU4xUy1QeEpn?oc=5",
+      "source": "PCMag UK",
+      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "query": "AI video generation"
+    },
+    {
+      "title": "I Spent Hours Testing NSFW AI Video Generators. These 5 Are the Best - PCMag",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zV3VPQS1oSl91WTM1cHYzRlk3d25pVU8wU0ZDS29HM1ZLT2Vrek13TXA3THc5YVdFT2dYc3REOEFSeFRERlhFR2MtY1lHOFJOZkVkM3M5bkVUMkdDWnZnZ3pPMWNoUzFaWG9wbnNR?oc=5",
+      "source": "PCMag",
+      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "query": "AI video generation"
+    },
+    {
       "title": "Updates to our Privacy Statement and Terms of Service: How we use your data - The GitHub Blog",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUt0WEJpT0VFNzVWYkxPbE9wUTVSdUVldG9aaVBpbU9WaHg3OUNLcWlKZHVQUVYtX2Vpblk0dENvM3AzekpLTkplRi1aUXItWGFmRU5fTW5vSDhyRzh2RVgtdy1vbHhZQmtTMlY2aTR6SkFhTGZaczRONk55eWpqN1VsWldwUDZqRHhOM3lBX2szMnR0eEN5bC1TV1Z2T0lVbXp0SGd0RlBma0ZMMlJ2UFFpMWpRY28?oc=5",
       "source": "The GitHub Blog",
       "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
       "query": "AI model update"
+    },
+    {
+      "title": "Updates to GitHub Copilot interaction data usage policy - The GitHub Blog",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWUsteGlqR3FkVjlaUmVlOFRoeVh6Nl90c3MtWUEwZjV2MXFVblpNTVoySFdzRW1lZU52UW1paFRVcW1XMnUzRnY3Yk1INzA0TlNoVTNJZ2lUUEF0M2llMmFVOFBUTlhoZE4yNGxUd29TQTBZUUJrcGlGT2w5b21DeVRxX1FyWjNlVWxWakM0clZ3bW41dUVKaXBiS2x0RUNCNVN1Mmp3?oc=5",
+      "source": "The GitHub Blog",
+      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
+      "query": "AI model update"
+    },
+    {
+      "title": "LLM use rising for editing radiology research abstracts - AuntMinnie",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcDh6SDlvZzBtRTBkZWlxWkJLbmtMYU9EbV9RVld0LXdXaG9sZGxMaG0yRThhczItQTJHeklmMDlzX094U3hLT2NVc0VTeHhlUzRUQXV5c0hWVUFVdFI3ZVdGeTg1dWpMVE1Uckk1bFhTNEI0TnBydXZ2cTlVdkYtSFEtckZUWTFLNHB3RVpCRnFNOFZQNnJvamZQRnhXRFltOTBZRm1BaW45OTBvMHNQdTU0T0RYM2RvNDFRd0pvbXVKaFN1Q0dueGZ1SHB5aFA3cWdqUzlwNkZJUkU?oc=5",
+      "source": "AuntMinnie",
+      "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT",
+      "query": "LLM release"
     },
     {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip - OpenAI",
@@ -213,13 +234,6 @@
       "query": "Google DeepMind"
     },
     {
-      "title": "Anyone can make stunning HD videos with Gemini Omni in Google Vids - blog.google",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMnNJNVpNRmFXYi01NzlvMFZBSDUxSXZuLTNDTm4zNGpCcjd1aUlNUkktc19sdndCYnMzS0tOVFRYZnp0TS1uLU1qRVRGeTRDenpYYlRUal9vYXFLY1VDMFBQeTE5U3VOZGFpUkN1WWVOQzhVSGhUYkxxd2N4MFRFN2RMclZ2eTFGWUZXWkFucU5DZ1U?oc=5",
-      "source": "blog.google",
-      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "query": "Gemini AI"
-    },
-    {
       "title": "Introducing Support for Local AI Models in the Antigravity SDK - Google for Developers Blog",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM1F3eUcyRXRLZnFTTFhCd1Foa1NKUDJzZjlEd3lZejc0eU5oV0h6NnJOT011bWsxT1N3VFFEX0RMYlFhZVZHT1EyVWk5TjJnVVFZMGpLelQ1Y1hWTXdfOTRiYzhUdkFhZjFOWnJLNXg4M1owdmVfWk9IT0x0MWo2TGpELVQyZ3hDc29ncmVTTDR1RHMtSG5CYng4T1d6dw?oc=5",
       "source": "Google for Developers Blog",
@@ -234,9 +248,9 @@
       "query": "AI agent platform"
     },
     {
-      "title": "Alibaba launches Qwen Audio 3.1 with new models and slashes AI audio prices by up to 95 percent - The Decoder",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYVdTYkVkR2ZZNFZJdURHdlV1RzZGQnFuLXh0Vkd1MnFCQTFicUc3SnFCWUJRZlIxUFZMbEZlbUsxYzIyOTdCWUpiUXFMX3F5VVp6RE5yNVpiN1U5dklCQnZOeHpkMHNZRWR6TXM2ZV9fWm1PeWRMLU5hanhCbXZVN2pna21ucTR4M0hyQkxDNnh3eTNMNUQwWjltdkhZcjNLQXAyVkp3SnBZUXkxTHpJWFVTX3BFSDJHTXk4dTRkakRNdWc?oc=5",
-      "source": "The Decoder",
+      "title": "Alibaba Unveils Zhenwu V900 — and Plans Qwen Models With Up to 10 Trillion Parameters - TechRepublic",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MMzBQdGpPbnFEUmllQVNQS2tiQ3NEQVNycFBiWkdxaHlvTkR3SWdMTnlzZ3F2WU1pSnBYMUlaazRBTnVxd0xuM0VWNHg3OFFidXg0NU9mbXVQY3JUenFyaTUtQjg0dWUyelR4clBYTkozVGpuQXc?oc=5",
+      "source": "TechRepublic",
       "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
       "query": "Qwen Alibaba"
     },
@@ -265,13 +279,6 @@
       "title": "Google expands free AI video generation in Google Vids (GOOG:NASDAQ) - Seeking Alpha",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU09QN1FqQlZyWmRWQUhjcmxSS0dPMG5xdFJLTU80TFNsY290QTVXNGhHZ1RBTEcxSkJaaVY4WnhUWGRQclJnNDQ5aHY1ZW5vVVJHLVV1UzliVHVkRkprY1h1TnMwVUY3VDFaek9ncHR3bWY0eVNueFN1cFloSFpQUUcwTnpYRG81d1JseW9NbjFfQTAyOXRB?oc=5",
       "source": "Seeking Alpha",
-      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "query": "AI video generation"
-    },
-    {
-      "title": "Google just made its powerful AI video generator free for everyone - Digital Trends",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRXZHVmc0Y3UwRWZYQW1HSDZ1WUhucjBDRTV5Z1hiaWdGT1A0QU1fMk5raGtJeExtWVB6V0h2MW9VbkR3UEstVUpiMUtxWGhxMDJvMEVTdG1TdGM0R290SE5ZSk9QRmtLYlJHRWVPaEttWlpJT0FYckNpZGx4Y1BzZnJWNWd2OVdNYmtkNG1EakdWeHVBcnFSV005X1REM1d1WlJkT0tHUXRmQlU?oc=5",
-      "source": "Digital Trends",
       "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
       "query": "AI video generation"
     },
@@ -325,32 +332,25 @@
       "query": "LLM release"
     },
     {
-      "title": "Itsen Global announced on the 21st that its multi-artificial intelligence (AI) agent management plat.. - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB4RWd2MjJZSlhUUzBHbFhJbjhjQ2hVT3phT2s1NXctZk1WRDctcG1ONjJpc0FWS1c0UFp5WDA5d0RpWEVIdDBvZTY5Zw?oc=5",
-      "source": "매일경제",
-      "pubDate": "Wed, 21 Oct 2026 01:36:08 GMT",
+      "title": "Introducing Gemini Enterprise Agent Platform, powering the next wave of agents - Google Cloud",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNmU3N0xMYmJaMXMzX0wxRU5pcUI4TUFlcXd3QkgzSzRMd19LbTlqdzNDbHp0LWpHS25Ea29Jd0pxSHgtZTZXanhOY2llU3dadDVsUXNxdU50SHFJeXlsLUNxMVNBaVNmeEkxd2N5RDdENzNka2tzSXl0dERNZG1kQmtaMV9ud2hVZGFoNFlsUm5adGxIQjdmTTFRYzVuZDFMS1h2cDl3?oc=5",
+      "source": "Google Cloud",
+      "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
       "query": "AI agent platform"
     },
     {
-      "title": "OpenAI buys Orchestra and its AI-powered platform supporting drug developers - FirstWord Pharma",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IOG5XcjNOS3JnY2hxcU9ScHNCVXUtODFtbTZHT2JlOTVWYnBzYjJkZFBOTE9zenBTMEw3RFpoNnhyS3hrWUZ1ejlnWkZYVVhOTUFZ?oc=5",
-      "source": "FirstWord Pharma",
-      "pubDate": "Wed, 21 Oct 2026 00:54:47 GMT",
-      "query": "OpenAI"
+      "title": "Anthropic’s New Agent Has No Cute Mascot, and You Probably Can’t Try It Yet - Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbmtma0c0c0paTDhlU3A4S0d3dWlsSndob2lmaXFObHA2LXdEcVZSc1oxVVNQVjJjMzRfNEE1T2lSS29xQVRPeEVfX21LVVRfTlktRm9wUUszT2JsNUtQX1F0a3RORU04enQ5NUFqeHdUb191aWh1bEx1TUhweVkxN1YtWV9PMDloOTJfcmpKVVpsdFNIVjVXLXZXMkNtMHdmTkNDa0lR?oc=5",
+      "source": "Gizmodo",
+      "pubDate": "Wed, 21 Oct 2026 23:54:17 GMT",
+      "query": "Anthropic Claude"
     },
     {
-      "title": "OpenAI says its own AI agents weakened the system built to flag misbehavior - Startup Fortune",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSElJQ1hfWnJMZk10WTdJLXc1ZUl0ZUdyVTR2emIyNlRXSWJwNkU2WWFwZEx2bFQzb3E4TS1HQXRUcklqZWVnQXVTamhGeDY3UTV0RFhlVlRKQUlzSGtXdEdjLVhTaHNka09nWWE0a0dyRVBkS29uQ1N4MHBEUkhTdldkWk9yV1Roc2lQbGpsNUttMEs0QndhRkE1NE1TMkt1M1Y5aTRn?oc=5",
-      "source": "Startup Fortune",
-      "pubDate": "Wed, 21 Oct 2026 00:51:45 GMT",
+      "title": "OpenAI's Dots Are Here! - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QWEFoVWFNbUFaUC1sWWk3NmJ6SzJkZVFUY3BWRV8wMk0tQVNkQk93UFNkUWJNZ29wVDFQS0FFdmhpMlRyVDJZZzdHa3FZRWhuSl9CemJ5QzZsRWNmcTlUMkR1ZDZfV3JnanY3cHNmX0VrOTA?oc=5",
+      "source": "The Motley Fool",
+      "pubDate": "Wed, 21 Oct 2026 23:53:27 GMT",
       "query": "OpenAI"
-    },
-    {
-      "title": "Google is making Gemini smarter behind the wheel by connecting it to Gmail, Photos, and Maps - Digital Trends",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORVBVSzFOR2NFamlCdWx6OXpzVHFYLWt2OGV3a1BPYUZHMW9sd3FtT1YtLUtHaDRnNEc3VkZ6SURfS1lLZjd3ZWJ5Y01seWZtd0pSQ2lOLWlSblpfbDAxYnU1emhjUGxHWmxlVjhyQVp3VGJNUGRuSFNuSkdHa2xKZkFQWm10elotNmpyYlRhTlFKV2F2UUx5RDZTZkZBU0loU1gwemhRVksycEJvajQ0OGFyUUtjbGNrY3NjbTJYUlYxOGtHeUFVMml3OA?oc=5",
-      "source": "Digital Trends",
-      "pubDate": "Wed, 21 Oct 2026 00:44:46 GMT",
-      "query": "Gemini AI"
     }
   ]
 }

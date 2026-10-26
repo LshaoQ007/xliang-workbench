@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25 01:27",
+  "updated": "2026-10-26 01:31",
   "count": 50,
   "items": [
     {
@@ -94,13 +94,6 @@
       "query": "Amazon sellers news"
     },
     {
-      "title": "Amazon merging marketplace and retail operations - Retail Dive",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTjZXd1hMN0UyN2RieWRqek9YX2hvTlRRbVFJOXZQZmlrejNnYUx0d0hkNGZPZW5rT29Qal81OHBZSFp4Z0Ezd0VKZWNWeHR4a19uYmlyNFE4aWVhVC1mOV9IQjR3bU5QY1NHNk40VWE4VlBpaENsOHF4M3lhOWZZSktCbGxQTVN0VzZVeTQwdzdCQQ?oc=5",
-      "source": "Retail Dive",
-      "pubDate": "Wed, 27 Jun 2018 07:00:00 GMT",
-      "query": "amazon.com marketplace"
-    },
-    {
       "title": "Amazon To Show Seller Business Info In Community Forum Update - Value Added Resource",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ3VpbXhMYWxVUWJOaXd6NGZEN0FicFlIc1dTRXR2Zzl4dVpxV2tJdmV0UEdkUWVRTlFhNXdtWTZpSHJIbC1hc3k0X0drVjhoZWlZYzRRcmpKMnhSUFV5OV9hRlZackhRaWI1ZmltNURwMG5xQkZrMzN4RWxleFViVg?oc=5",
       "source": "Value Added Resource",
@@ -154,6 +147,13 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNHRuSEFkWkQtNWxQYUdrOVEycUVtVm84eFp0NUlWdDlic05TRy1rWTFNZDNQanRBdG9KdS1wX1pMalJZVk1SX1YyS2hqdnFCemlIbXIyaHEwTldRVUNoOER6OEhqamVTSXZwUlQzUFJYOThzRklQaUp5b0d6ck1QUXllVWQ2VjhhdXNyRFd3?oc=5",
       "source": "GeekWire",
       "pubDate": "Wed, 25 Aug 2021 07:00:00 GMT",
+      "query": "Amazon seller policy"
+    },
+    {
+      "title": "Amazon's Expansion Stores Seller Summit 2026: Where Amazon sellers connect, learn and grow - About Amazon Europe",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRDBQS201NG51Wld3UllVTS1meDU1ZkJhUmhxNGZBQ1hIVU41MHBSMGYwRXYxYUZIZGdPUXROb3Mzbk14R1dEenV4cFJycXJaUTY0RGUtUHQ2VmUyTE5oTlYtYWhrWWdGMDZyM3FFU0VPZ1hUWkdWNl9pWTBxejduSzZSczJEQ3lVNm1yRzhidWlCOExwR1hVaHdwMkZPTEYtUXJN?oc=5",
+      "source": "About Amazon Europe",
+      "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
       "query": "Amazon seller policy"
     },
     {
@@ -234,6 +234,13 @@
       "query": "Amazon sellers news"
     },
     {
+      "title": "Amazon rolls out new agentic AI for third-party sellers - WTAQ",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYUlFQ2l1OWNiSHRPV1hqOS10My1wY3RtMGxaek12YndJV2U2VEg2bUREdExsdjBuSVQ3eUxNT3VmaUlHLVJISDFWU0s0YWlGQ1BlOGRQWGtpZURuYUtoQjhpUzB3b20wZVMyR1JuV2xVclRQeTB0NGZCcVJXSnFScUJINUNJZTFMSk5BeA?oc=5",
+      "source": "WTAQ",
+      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "query": "Amazon sellers news"
+    },
+    {
       "title": "Amazon introduces an AI integrated with Claude to advise its third-party sellers - FashionNetwork USA",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcGNGeWdDY2JKQTE5eE5hblE5dlo0cWQwbEJtZHhKLWxQNEd2NEJJc19yaVUtc1U2OVRES3hmbXdabTIzb3lyS25kdUpiWGNhckRnNTNia1F5ZTBTdjZzMXhtSV9iUG1PRUgtMFM1WEE3U2FmREJWakN2ZGRfdmlobmsxS2E1dWhTTE5MQzRoUHRFSFZYaEFlckVLb3k4Yi1xRnBXTUgzbk8ydGdwcmxMcGNTaUJfMXgxSkJSWDlKUUZTLWg0RnlJ?oc=5",
       "source": "FashionNetwork USA",
@@ -248,16 +255,16 @@
       "query": "Amazon sellers news"
     },
     {
-      "title": "Amazon adds pickup locations; enables seller tool with next-gen AI - Chain Store Age",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWE8wSjNjdmF5NDlFYUNFeVhrSUdHSU9aR3Z5dk1XNmFqYTVtWnRZTU9yaE82TWVva2twaWhBTHJnMTRqTFFTeW4xTThPV1BHd0Ytb3FvdjRINk5ITXJDUzJPeXlxU19VeEVLekstOV9fUzlJQTZCbTY0YjhzcGhGdEZJbVZSbXFmNWN0cTVYZw?oc=5",
-      "source": "Chain Store Age",
+      "title": "Amazon’s new plugin lets sellers manage their entire e-commerce business with AI - SiliconANGLE",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdmRvUHNRSjZQYnpoM1c1c2RXTHV6cXZrUXJZaklyYVRTY1MtbmN0SzJVM1pyeG0tQUNmYk9BWkZaY3lIQVdiNWZlUWJZWU9EV2VkdjN2NXlkQU54cHQwRUVFcFJjdGZReFlNQ1l2TTV2UWtKdXFDWHA3RW9HNHZrVU1NSEtIQjdNbVF5YmIzWjcta3NGTzJCa1Z0djlfOS1kbEpDWWEtY1A4Y3VTamEydHhQbmJqQQ?oc=5",
+      "source": "SiliconANGLE",
       "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
       "query": "Amazon Seller Central"
     },
     {
-      "title": "Amazon’s new plugin lets sellers manage their entire e-commerce business with AI - SiliconANGLE",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdmRvUHNRSjZQYnpoM1c1c2RXTHV6cXZrUXJZaklyYVRTY1MtbmN0SzJVM1pyeG0tQUNmYk9BWkZaY3lIQVdiNWZlUWJZWU9EV2VkdjN2NXlkQU54cHQwRUVFcFJjdGZReFlNQ1l2TTV2UWtKdXFDWHA3RW9HNHZrVU1NSEtIQjdNbVF5YmIzWjcta3NGTzJCa1Z0djlfOS1kbEpDWWEtY1A4Y3VTamEydHhQbmJqQQ?oc=5",
-      "source": "SiliconANGLE",
+      "title": "Amazon adds pickup locations; enables seller tool with next-gen AI - Chain Store Age",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWE8wSjNjdmF5NDlFYUNFeVhrSUdHSU9aR3Z5dk1XNmFqYTVtWnRZTU9yaE82TWVva2twaWhBTHJnMTRqTFFTeW4xTThPV1BHd0Ytb3FvdjRINk5ITXJDUzJPeXlxU19VeEVLekstOV9fUzlJQTZCbTY0YjhzcGhGdEZJbVZSbXFmNWN0cTVYZw?oc=5",
+      "source": "Chain Store Age",
       "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
       "query": "Amazon Seller Central"
     },
@@ -274,13 +281,6 @@
       "source": "Unite.AI",
       "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
       "query": "Amazon Seller Central"
-    },
-    {
-      "title": "Online Sellers’ Bill Of Rights Targets Marketplace Holds, Suspensions And Policy Changes - Value Added Resource",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sM1BFdEZhWlk2MHd2N0tnY0FieTQ3cjBvdUNCR1JZd0xwZFFtZzFUR295VnRGcHlzMHVScGhMOWl4MFBOdV9LcjNLbldjVGM0U1hIb2RvUlVoc3cydXl0NHBqbWRpQ3ZPbURKT2JIMlU3c3M?oc=5",
-      "source": "Value Added Resource",
-      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-      "query": "Amazon seller policy"
     },
     {
       "title": "Amazon Recasts Marketplace Fraud as a Broader Trust Problem - PYMNTS.com",

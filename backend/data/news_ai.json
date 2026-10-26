@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25 01:27",
+  "updated": "2026-10-26 01:30",
   "count": 50,
   "items": [
     {
@@ -45,9 +45,23 @@
       "query": "Gemini AI"
     },
     {
+      "title": "Google releases most advanced Gemini AI model - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONHZCTWxBOEZWZTVseDhUeFdNMTZoTTRqa242NDFQRWdrMEdWYlEtWVNwQkRjUXdmX1dzUEhkZlV2bDY2aTVPbnBfNGJhXzk5NWVPRWlqbTJKTkZDU0k2dTJENXo1N2dDRHVGdHYyWVJGNUxiWVczMlBnV0JRWC12d1llUVk?oc=5",
+      "source": "Financial Times",
+      "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
+      "query": "Gemini AI"
+    },
+    {
       "title": "Vida Partners with AVANT to Bring AI Agent Platform to Trusted Advisor Network - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQng4N3pXZDhVbzlDZW1WLWZxaVY5eFQ4LW1lNEZabzF2azhTZjh1YlVjZ3BKa3VPOWYzTkpWOU1DeDBZbjd5NXpkc0plSUZyM0hLQTl3TXNZeVNGLXFTSkNzYVEwX2w0VEJRdzVYOGRxeVFONng2SW9yNE5DeGE3QUN1V0o5WkNlNDRMckx4d3ZqY2FHa05Z?oc=5",
       "source": "Yahoo Finance",
+      "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
+      "query": "AI agent platform"
+    },
+    {
+      "title": "Vida Partners with AVANT to Bring AI Agent Platform to Trusted Advisor Network - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLXBpT3p2RmVncUUxUHVWMU9QUTNtVGRUWFF1aUNScDZyYUpybXpvcnNDNXhRNWc1TE83XzNlTV8zY291QldHY3d6ZWxnRlptSWJEM1pJejI4YmtRX0RqTDYxMFYzWWE0U3haX0VjbjZZX3hXRlVUNnkzTGlJTjlFY1VKQXdHelZKQWY5SFdVcDdNQTdkbks1UzFLNzhRRXlKaEpZaS1sMFpGSHhvcXF0aUJIM1F0b0ZKenU4ZE1TT0NSY1Rmdm1kM0FNMFdCZjJqckdCR2U3Yw?oc=5",
+      "source": "Morningstar",
       "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
       "query": "AI agent platform"
     },
@@ -62,6 +76,13 @@
       "title": "Idira Platform Updates (August 2026): What Shipped for Machine and AI Agent Identity - Palo Alto Networks",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTTJwYjg1VWVHYnl2UlZDODdfbmpmMkQ2VnRpcUtkRVR5MXRaZE1TM1ZhUER4MzBfQkxXbXlfTWc2NEFQUHFqZ29NaGQtSWZ4Wi0wc3BVUlctOUp2VXR3OGtkVW1FLWV3aFZCQ0gyYUVhc054ZjJWSjZlTmR5OFk5QV83VUc3SEhOaVRpT0hlTC1xT1dIaElBUlNXNG5IME5lUVZB?oc=5",
       "source": "Palo Alto Networks",
+      "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
+      "query": "AI agent platform"
+    },
+    {
+      "title": "OpenClaw Foundation is launching a free, open-source enterprise control plane for AI agents - Quartz",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vcVcyV0Nwekc0Tjl3V3V5dU5WUTNmdk5oUzJZWUI2eWU5SEZtdGRhMlN1bDFwSlVDUWF0aEN2M3gtQXBQaWMwbUZQTGdQYWFfdXdaNXNuaGxoMGgzdHEtaFE2Z3dlUjBiaGE2OF85Um9qdw?oc=5",
+      "source": "Quartz",
       "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
       "query": "AI agent platform"
     },
@@ -90,6 +111,13 @@
       "title": "NVIDIA Blackwell Sets STAC-AI Record for LLM Inference in Finance | NVIDIA Technical Blog - NVIDIA Developer",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbUVpUWZtZEhQUFdtQm5kUVlTWk5PbVM2aTUwaVJrTFpycUZkUHA4YUhrbTJRb1FyQjgxV3lmNzRMVjQ0dWNCU1RndUJZb0RiQV9ObEx4M1ZTVXV0dzMxZnJFZEg4WWlCZGpFR1JWd0ZUWk5UVmNreTZrYVp6VV9IZ3piS2JXcEhpbnVMbUNnMU9XeXhrY1lHRnlCak5JNlRYOEE?oc=5",
       "source": "NVIDIA Developer",
+      "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
+      "query": "LLM release"
+    },
+    {
+      "title": "Finnish Newsroom’s AI tool Wrongly Suggests Russian Drones Entered Airspace - Generative AI in the Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR1V3TFVfRkRXWGg3MGVULW1xWEJQYUpjUnBTVjhTVkFxeVlVWnVwdUhlbjFoUWJfSzgwTmpqZ0R5YkhLczJnTWVVZFNZU2JGcG0wVzd2OERsWXFMdVZWSy1aMFZNSUcxTDg4UkVFeHJHUXBKN2l4cTNlYk9FNkt5RkZvNFdhYUlBNzg3aTE4dnUyb3dWRUlYOVBtc1FhMDh2aWxOU0Jvdk5WWGFRVHZhMUM4dlBPT00xVlZqRWdkOA?oc=5",
+      "source": "Generative AI in the Newsroom",
       "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
       "query": "LLM release"
     },
@@ -269,6 +297,13 @@
       "query": "LLM release"
     },
     {
+      "title": "Midjourney Seeks To Narrow Disney AI Copyright Claims - Law360",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2ZfY2J4OE1vSmc4bFVNYmExeVhTZjR6aV9mYUM3dlJQcjFuaDVzLV9yQkt6UUp5cm1vLWUyLWNxV2hPYWRuMGl1MDFxcWVyNm5LZ0VTa3I5X1YxV1pwa0ZSLVBMY3RyY3hLbkZtVWxxSU4xZTV0a1FNWFVWcTdXaTdId0hIYVRoVExUYVg2NFJjRjl5QVoyNtIBVkFVX3lxTE85S2I1bXV6SHlYM0VNRktrM1M4WEhkVjMyZjhjSlRkYUVOaHFyZmRmaFItckRySWp4MThWS1RidnQ3VmhRWHBVbXN1RnZPS0lXWjJzeWJR?oc=5",
+      "source": "Law360",
+      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+      "query": "Midjourney"
+    },
+    {
       "title": "Runway Gen-4.5: State-of-the-Art AI Video Generation - Runway",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qOElKb2hXSE1TdnFGanl0N2RYYVlROEwyeTFka2ZxUkhhdlZORGl6N051RzhNbDhLUW90azBnZWZyZUp6VmNRWnhEQnBtcWdIZThBNDloR3ZHUHR5TUM0ZWtUSlI?oc=5",
       "source": "Runway",
@@ -297,32 +332,11 @@
       "query": "AI agent platform"
     },
     {
-      "title": "Music labels clash with Claude over copyrighted lyrics - Courthouse News",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORDM0dnNBaUhiRE14THk4dDI0RGx4Mm5lN1lIXzBUdFZ6ZGxLbENId0JaNHZiZ0JRVEE1QndwNkozQUxLdHNWSkh4TG1vLWRmREozR1pYQ0hidzE0WFhSUTJpazNhbE9Dc01LMTExOHVteGZCb0hGMkdWMnVrcHVBRmhYamNHenNFdHgwcnZDRQ?oc=5",
-      "source": "Courthouse News",
-      "pubDate": "Wed, 21 Oct 2026 23:30:48 GMT",
-      "query": "Anthropic Claude"
-    },
-    {
-      "title": "Former U.S. officials urge D.C. Circuit to reconsider decision in Anthropic-Pentagon fight - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPazV1Y2dCb0s2SlJQSnh2TUdlcE1NQ01hSXVqWTVuSVNxc2lSY1c0eW1fSmZpYXM0MjNZWEFFZUUtYW4tSUNSLU8xOGxNbUNwcnVZOXl5bWc1VjlHeFFOX05aLVdZQTBwSGR6MjZSdU4zUVEzWU45YmhKQ3FOclNNRGt1VUpCc2s0?oc=5",
-      "source": "DefenseScoop",
-      "pubDate": "Wed, 21 Oct 2026 22:28:48 GMT",
-      "query": "Anthropic Claude"
-    },
-    {
-      "title": "Anthropic Announces Claude Duet, a Personal AI Agent - Thurrott.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRmtuVmJURnNtamVSeC1mMGdmYmZOWVR2MExlTkVabDM1LTJ5Z2w0TVN0M1laQ3pTczUzYnhBeWJ3clRKNFlYUTRZNzBRTnNGTG5JcktGRGFQVFlERlRDVWFCUWZVMUs1Nmltck5SRjYtckxaOWN4SHBrNThtamdYUnZaZFZaZS02emtYbWx1TDhBUjczZUtsdHVQOU9IZw?oc=5",
-      "source": "Thurrott.com",
-      "pubDate": "Wed, 21 Oct 2026 22:19:23 GMT",
-      "query": "Anthropic Claude"
-    },
-    {
-      "title": "Enjoy ChatGPT, Claude, Gemini, and more AI for life for just $99.99 - New Atlas",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVkgxbHJkSnVidHBTOFZjMkpIOXIxWG5yMzloU19NZEtWdUlRaUtpUDFKQkw2LUpVSS1udDZOM2dyUFBfaGFVVUJpUFMyYmpzVHpaZENCLU1aV3VHU09QUzZYZUhJWXJVZUxzRnpPY1ZWOXRBSThLektnZDcxSHN3Ul82dGJob0dNRjFYaWZ4M1pXUXg0Tnc?oc=5",
-      "source": "New Atlas",
-      "pubDate": "Wed, 21 Oct 2026 22:13:36 GMT",
-      "query": "Gemini AI"
+      "title": "The new Gemini Enterprise: one platform for agent development, orchestration, and governance - Google Cloud",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd3lzZk9lOVVqTmVNMmJESkhDdmVNNXF3NTJ3UE1lNS1LTGZkU25QR29fUWRzSUM1V2JfUXFha2Fzbkw4c3daYVZUbFlsN0x0T05vRHptbEpzWkJxZzNIV0xwVDNCSW8tM05zZ3dWRjBWbWVWVUJJYkdGZC0tZFNKVGlOTVNBYUV0U3hadkJFNXdfeW5wMTlTa1BmVlh0dVFuTHRTM1ZWVno0dzlOSGNRR2F2SERrOGUyTTBz?oc=5",
+      "source": "Google Cloud",
+      "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "query": "AI agent platform"
     },
     {
       "title": "Agentik Introduces Unified Platform Offering Access to More Than 2,500 AI Agent Tools - Yahoo Finance",
@@ -337,20 +351,6 @@
       "source": "OpenAI",
       "pubDate": "Wed, 21 Oct 2026 21:48:12 GMT",
       "query": "OpenAI"
-    },
-    {
-      "title": "Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse, Dots - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSFZYTW81ai1KaU91ZGZUV1VlUkFrRkVfWVpraWlRMl9rWXJnUXV2cnZ3dlFBUUtCeldidHR0MVhJdmY3MGVzSzZDYnYxODNQNXdxS1Z5ZVNIcHd4bklybjBOR3hQeEhwUkFBVW1WdVA1Q0V2WTZfbFAwSVdPcVRKdG5jc3dhYzZiYm01X1hqbDR2ZlVtblF6NmZUWVV0TFlVSkZJWHJUeG_SAa4BQVVfeXFMUDZ1eGN2Uncyczl3by1yNFAxQlJfd2JmSDBaX05QaEpFb0tGY3FJWGY4R2RzcXBRMXRYdzFhTWFIVEluT0I5MExZZG9hX3U0MXliVFJYS3hxN0FtME5obUdWOW9CZTBYdkpsVXFHN2d1VXp2VVI2NG5BNFF4MkEwLTlmZkVWZ016RkRtRHNsUi1RSEVERG1SNzB2aFlVLXFNSF80dEtDUnNZN05RSlh3?oc=5",
-      "source": "CNBC",
-      "pubDate": "Wed, 21 Oct 2026 21:42:54 GMT",
-      "query": "Anthropic Claude"
-    },
-    {
-      "title": "Walmart launches tools for AI agents to shop for customers - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQmtSSlFFOWZ0ZnlfU0YyQXZBR3l6VjNvdjFtanMtdkdHOFctdFdVTld2a0M4cUlEZmNaS3hnV1ZTdzc1WnQ2RVl4NG1BbVQ1MzUwZV9KWlgzWEFsRGhLOFUzVHdnQzE5VDhBWWx4NU9OZ1ZkNUJ6ZFlSdFBpOXJ1ZmhvaFM0VEVxcDV0MDNUeklPQ0Q5R1pJNVU5ZkdieFlIQkE?oc=5",
-      "source": "Reuters",
-      "pubDate": "Wed, 21 Oct 2026 21:29:49 GMT",
-      "query": "AI agent platform"
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-30 02:48",
+  "updated": "2026-10-31 02:39",
   "count": 50,
   "items": [
     {
-      "title": "17 predictions for AI in 2026 - Understanding AI | Timothy B. Lee",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PR29QZDE4VkptMDZLRWhnRU1TZU8wN1BVa1lmZVAzb0VpR2RnbHJic3NsZDB2SmJjZS1abFB1ZlhWamxITjFwYnE0TWNTY3RhNVhnR2JYal84OHdzRmxSNmNMOXRCanV6Q2NYOU5DYVE?oc=5",
-      "source": "Understanding AI | Timothy B. Lee",
-      "pubDate": "Wed, 31 Dec 2025 08:00:00 GMT",
-      "query": "LLM release"
+      "title": "Gemini 4 Argon: our next era of frontier intelligence - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRjB3amppaF9yb1FhSmxoUW5GUEtCREcxbW1ScXJRRWN5ZGtIM0N0d21wVEI3ZTd5ZHY4N09KRWNwX3U2Z3JBeDNWakYxYXlBVE95NEpKWW5vcWFKZlA5Qkdka3hGZG9INUZtMVN2VTJhWG1TTldVSE1JVm5VaVlvcnpWRlhzX0V1NGJXZGhfMEY?oc=5",
+      "source": "blog.google",
+      "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
+      "query": "Google DeepMind"
     },
     {
       "title": "SynthID Bio: Watermarking methods for synthetic biology - Google DeepMind",
@@ -17,18 +17,18 @@
       "query": "Google DeepMind"
     },
     {
-      "title": "Alibaba unveils advanced Qwen 3 AI as Chinese tech rivalry intensifies - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUk5xbmR3dVUzbThQSU5SSDhBeGlOQkRuVFp3WDVGQ2RwTkc0SjhIWmUzSWFrbGNHc2hnWWctQ1l4Zl9JcnI3MHEtVmFQcU9lV3hBMkxISnV4M2k4RDA1SGJfZTNiZlpBZ3Itc3M4S3B2Y19SRWRjVmsyZ3dZN3NoOTdoWk40Ty1qY3haRDByaDZVU3RrMUVheGxvb05KRmNWWS1jQkk0OUpBbURHWkhLUGx2NFRCT3ZMQ3VJcEYtd0NDTFJv?oc=5",
-      "source": "Reuters",
-      "pubDate": "Wed, 30 Apr 2025 07:00:00 GMT",
-      "query": "Qwen Alibaba"
-    },
-    {
       "title": "What’s new in Gemini Enterprise Agent Platform - Google Cloud",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaHYta0NoeWZXWEFqTFg2eFNsbi00VHFIbVlpN2FERTBzVXpicTZoMUJpQi1MUUJUNmJwZW5OdmlYQ0VrY0dMRmZTNVVVaWRDMmdIQUR2VUtjcHA1VGVzX2lQaC1DLXJqQTFqaFM2ZUxKQUpUV0txb0VBekdPUDRpV0JMZGVJSmpLMHpObk5oa0NlM0dueUUtTExmTTc4NDVjSC02blpSRQ?oc=5",
       "source": "Google Cloud",
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
       "query": "AI agent platform"
+    },
+    {
+      "title": "Google launches Genie 4 world model for select game, film teams - digitimes",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcU1ucWZtZnVRakx0REU1Z0tfLWIySVdDUzhIaUdSellCYTltaXVWUG83N1pqTVFjMTdFZGctMDNrNU1IU2lacjFQcUpfcks1eE02UHlvMVQzQWlGdTRaSUJfUDFyLUp1UlUwWVRMem9OV09manRiM0FDeGtQd2xBbGFR?oc=5",
+      "source": "digitimes",
+      "pubDate": "Wed, 28 Oct 2026 23:50:49 GMT",
+      "query": "Google DeepMind"
     },
     {
       "title": "Google’s Genie 4 builds worlds you steer with words, and its characters talk back - Martin Cid Magazine",
@@ -52,13 +52,6 @@
       "query": "Anthropic Claude"
     },
     {
-      "title": "Bigger than Bing or Xbox: Microsoft’s OpenAI haul reaches $10B in quarterly revenue - GeekWire",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcjlqWGdYNF9IV0kxT2psTC0tZk5RZkZKSFF5VTFBUHFtcUpFb1BySTdYWVk4c1p0eS1Za0hLQjFKdVhJei1yMENoSkkwRHNrV29qWE5iWnplZ091dVRiUGo2X3pSSnoxZnpjUzhscWlPWHpOLTlkNUpjWFJzVld0NUw1WG9HSWZLcnlXN1pfczJocWwwUGc4aXZBdnVHdjNESEVLVVM2SVdMOVFTb09hMQ?oc=5",
-      "source": "GeekWire",
-      "pubDate": "Wed, 28 Oct 2026 23:28:53 GMT",
-      "query": "OpenAI"
-    },
-    {
       "title": "Alibaba’s Qwen AI Model Attempted Data Upload to China During Canadian Test - THE ELEC, Korea Electronics Industry Media",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sRmFDaGUyT3FvTTV0enVqSVloNGRMVjhUYkU5RnBxTzI1VE1ZSjZ6MHVxTERQY0RxNzNZcnRNV2RQbUZhX01PUWhmYWVYN3RzMEtoTVFIeEpXdjBReXZBTy14MU5hVEE?oc=5",
       "source": "THE ELEC, Korea Electronics Industry Media",
@@ -66,17 +59,17 @@
       "query": "Qwen Alibaba"
     },
     {
+      "title": "Google debuts flagship Gemini 4 Carbon model with cybersecurity upgrades - SiliconANGLE",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeUpmOFNXNFpLOXM1TXp4LWVwcmh6R3djaDZNV2lTVFZpZHAwZG5XOWdnc1I3bXJ0ZUpuVjFtb3M5dkFUSFhKNHlmbkpsUnc4VmhIZUdOTXZWT2JmMWJxaG5CZWVwbjMwdGVTRXgxWGcwV28tU1pGWUhxY004aW5lOGdJYVVkazRfTEhtYVJUZ0RTcEhpdUplcjlxY21oa0d5cGV0b0hFRTd2QTNWSWc?oc=5",
+      "source": "SiliconANGLE",
+      "pubDate": "Wed, 28 Oct 2026 23:27:00 GMT",
+      "query": "Gemini AI"
+    },
+    {
       "title": "Gemini 4 Carbon tops AI index; cyber defenders get it first - R&D World",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNnhlUDFHSE53NGRWXzFHa0hLR2Q4U182b2VDb0J3RGEyTWczUnIwSzlvYzExeEQtdFZ1X05qRENKQzdqRDRORVVsdU05bm54M28tUnZJalpTOFlVZFhJNGRvR2VJblRkMlN1LXE0aHFCcVZHTG1WR0RNRUNVc1FSd0RLckoyZkF0dTFDbzZqcGJENkYtZHNQUjBxMWRzM3dqei04eVE1LTZHT0h0VVhpaEVvQWg?oc=5",
       "source": "R&D World",
       "pubDate": "Wed, 28 Oct 2026 23:20:46 GMT",
-      "query": "Gemini AI"
-    },
-    {
-      "title": "Gemini in the Cloud, Chrome AI on Device: A Reviewable React Assistant - HackerNoon",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbVRzUnM4MzdtZ0NaeHdDTURuUHJXQWllOFQ3WDVlcndXcGJTM01leFJvTnBNelhhTjByT2dONkQ0cVVub3VlOHVrVWVvaWppS3c3aFV5M25FVk12aXFSOHpXRFZRTHBfcGw1cWtJdUtkTTc1cGx5aXIySUhVN1BsdkFjRmVuekdCbVlFWC1od244TzdudUE?oc=5",
-      "source": "HackerNoon",
-      "pubDate": "Wed, 28 Oct 2026 22:33:58 GMT",
       "query": "Gemini AI"
     },
     {
@@ -87,18 +80,11 @@
       "query": "Anthropic Claude"
     },
     {
-      "title": "Grand jury indicts former OpenAI engineer accused of bugging SF office - SFGATE",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pMUMtRnFhcTZ6VXV6Y1lqQTU2ZFNrNzZIY0hmdmF4aGVGam12WmpjQ29jSDlBS0h6dG9UREtrMGFiY0VlZU5ROEh3SkxCSENmWnVzNUNWdl9aZjROR2Y0bE92R0ZHTEpXZTV1cWUwMEJ6eDdZa2k5SW80Vm5ybTQ?oc=5",
-      "source": "SFGATE",
-      "pubDate": "Wed, 28 Oct 2026 22:09:42 GMT",
-      "query": "OpenAI"
-    },
-    {
-      "title": "Google expands AI Search ads globally as core ad growth slows - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeThmNGZBWUdUVXNrQmZtLXJtb0E2OEpWSkphTzJ4a2FSdTBsZHowYUF6VXl1dkpSdmJvUUxFaXREZkxKZ2JIdFl1Rkl1QVJfTXpqcmZ2WGQxM1hWaW5wRVZGcld6M2hjVlUyR2oyc2QwNE9MTDVjMUZXSUJvdDNXcHdkdjVWTjFhbTJMWl9LSk05alhGcTktbzEtREY?oc=5",
-      "source": "TechCrunch",
-      "pubDate": "Wed, 28 Oct 2026 21:48:37 GMT",
-      "query": "Gemini AI"
+      "title": "Expert Judgement Can Be Easily Hacked by AI, Anthropic Study Finds - Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ3hIMUZpekhyUm5IWXhkcnBxcG1SWmJPTzJCTkVPOVhQRmxsNXMyZHZjdGNNUmZWQk9xR1lPenppcS1iWTA0OUJrdkV6VGQ4dkpKSkE5TU9WQ284OV81bjY5Nm9oU3ljTnQyUjBOSjkzYXVpZjlHQkN4MDMwaFFIWHhrWkxLQmJhMDRwR3Y1cGxfY3RlVFpWVTlTSms?oc=5",
+      "source": "Gizmodo",
+      "pubDate": "Wed, 28 Oct 2026 22:00:50 GMT",
+      "query": "Anthropic Claude"
     },
     {
       "title": "Microsoft recorded $10 billion in revenue from OpenAI - TechCrunch",
@@ -115,11 +101,11 @@
       "query": "Anthropic Claude"
     },
     {
-      "title": "Google DeepMind is teasing its next moves - MarketWatch",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVFFfNVhJenAwcFZtUl81NDdCa2djay02YlUzajlCMEFXRWllMUxMbU1VN1JvZ01DNHpOYXBFQzNVWjM2SXlPcEpTWXp3RVpQM2ZGY0hYeW9QNkV5dUxBTFFBR0JnTlhneng3b0JUZ01BX3BNMFREOGNIRy1pRmhlNjNtMjVXWTJUaS1VWjNqbTlnWkNSU1h2VTVSQjJQNVpqMFpfc1VERmFUVDJ6UXNnTTZDZXBnc285b2E2TXZCZXNQREhqZ29CMWtXdUtiOFlHbWtmM25UdkIwS0doVFFOLWFabUtWS0N0RmhLQg?oc=5",
-      "source": "MarketWatch",
-      "pubDate": "Wed, 28 Oct 2026 20:57:00 GMT",
-      "query": "Google DeepMind"
+      "title": "Gemini 4 Carbon AI Model Puts Google Back on Top, But Only Cyber Defenders Can Use It For Now - WinBuzzer",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN0EtMDFMd0RrSllyRFFEak15SWFwLVB5NWVncWN3TEZLWU8tTFNOQ29zVWtzSlRYNXotRmcyM2lycVFGZUlBeTJ0aXlRVUZFUS15cUJrZ1BsZWpUSWJVcDJnUDNFMGl3ZUV4OG5KakNGcE1OeTdUY3Z6dTRFa2o3MUkwOUhCRzc3c2lOUlNNWkpDakZsSUoya3NrMmNIdw?oc=5",
+      "source": "WinBuzzer",
+      "pubDate": "Wed, 28 Oct 2026 21:13:04 GMT",
+      "query": "Gemini AI"
     },
     {
       "title": "Google Debuts New AI Models, Genie 4 and Gemini 4 Carbon: What You Need to Know - CNET",
@@ -127,13 +113,6 @@
       "source": "CNET",
       "pubDate": "Wed, 28 Oct 2026 20:51:37 GMT",
       "query": "Gemini AI"
-    },
-    {
-      "title": "Virtana Introduces AI Agent Orchestration for IT Incident Management - HPCwire",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObkFiOENsSU9RQVVaMjM3NnY5RE15ZVVkWEE3Q2xhemNVR1NrWjFETDN1WVVuUEdic3lacmEtWWlFR2xsMTdKVmQ0RU02d2pGSnNKT2Z3bUhrTUJkdlE2TENmTXNVT3Fkc1pGWUFRZHNtNXhxdV83ZkZZV1Utb1d3SjBqbS1WdEt1YTA0R3RyeDVNRkJXYmRrYVNBS1R3bThGR1Npd0JWWmRUZ292R21oSQ?oc=5",
-      "source": "HPCwire",
-      "pubDate": "Wed, 28 Oct 2026 20:48:55 GMT",
-      "query": "AI agent platform"
     },
     {
       "title": "Anthropic: Early Progress on Accelerating Drug Development with Claude - HPCwire",
@@ -148,13 +127,6 @@
       "source": "Unite.AI",
       "pubDate": "Wed, 28 Oct 2026 20:35:31 GMT",
       "query": "AI agent platform"
-    },
-    {
-      "title": "Anthropic engineer declares the coding interview dead - The Register",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcEJSYkRmNGk5N1NlckZKSlFNUjAwT2xnanJkMFlLSkJveWNJUUlXSU1oOEZpVzRRam5DeHhCbUpla3dOR3dyUHU3cF9oRDk4TVZ5SW84bzNuemdEYjNoQnAxUzdwdTRqbjdKZHhnWUpwbzBmTTlyamtzUDJRRUZoQUdvMTR4enNQMUVBUGpncEx4RVRSRERaSW50RXU0TVZOOTFpb1NYQThMZ1QtQ3lR?oc=5",
-      "source": "The Register",
-      "pubDate": "Wed, 28 Oct 2026 20:22:56 GMT",
-      "query": "Anthropic Claude"
     },
     {
       "title": "AI for Science expands to foundations and research institutions - Anthropic",
@@ -178,18 +150,32 @@
       "query": "OpenAI"
     },
     {
-      "title": "Improving AI-generated images, pixel by pixel - University of Rochester",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLTRCUENPZmV0NVU1ejNGWElOZU1tYjBZRzJjZld5RUhmSWVLNVhscXppTFJfbjNDQTc1bmpPeXBUdzcwdTI3bktxTXJRSU4zeXNJdXdZM29DY0ZuNTMxM1UtZHN2RmU3QnVfbnVzQjd3U0x6azAySGRyN21PRkRlZS1MdEFsdTNEMUpTREFKZ21WeGVM?oc=5",
-      "source": "University of Rochester",
-      "pubDate": "Wed, 28 Oct 2026 20:07:43 GMT",
-      "query": "AI video generation"
-    },
-    {
       "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity - The Verge",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOGgxY0lxN2VycnNGZW8xT0hBbnVKZDZIY3hteXo1X0lwMkFQSFRDZEdRdEUzRE1IdHNIbVIyVFF3ZldPVkZxZDNUdENlXzlFdG5mUE1HV3d5TGNzbVZvbE5oMm9pbTkwV3JQVmlOaU9nTEFscWJSeXA0WHVGUGMyWWZ5RHpMM3V3MmRz?oc=5",
       "source": "The Verge",
       "pubDate": "Wed, 28 Oct 2026 20:03:00 GMT",
       "query": "Gemini AI"
+    },
+    {
+      "title": "VS Code 1.144 Unleashes Copilot Fusion, AI Image Generation and Computer Use - Visual Studio Magazine",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNVJ0Q3FIZnpuTUh4ZmtxRkFOTkZ4QzhCOWd5UlQtRklUbks4UWs3Q0U4RklEMUtDRW5hSXY2MXRCcTFid0d1QnVHbkVmUzZxZjNZbGk2V1owUHhta1dZMmxPbHdIY2dvTHoyMWxtVDFlcGw4QWI2TmJOeUVhbjRmMy1jRXN2OXlVX0hVdU5Hb2NOYkNPNTg2eWdiTnl2dnpyZ21ZeERyZ3JwR0x5TWFjUHNvUGJNTHJFX2FvM1B3RTVWNUxhbDBaNTV1Vm1PQQ?oc=5",
+      "source": "Visual Studio Magazine",
+      "pubDate": "Wed, 28 Oct 2026 19:43:06 GMT",
+      "query": "AI model update"
+    },
+    {
+      "title": "Anthropic Adds Smart Reports, Surveys, Pooled Budgets to Claude Enterprise - Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVklzNUhMRnZkWXc3blFqN2N4MmFzREdBU1FWMDdZNGY5OVFpVjlCMmRLbmoweUtoZ1BJS0otSi1QdEdLQXliVnAxak1SSmt3T181clR0RXpEWm1DNU5HUXFvRFo2MDlwWTlGYWNJcGpIUjluU0k0ZmNKeW1reXJWMVVFUC1ETENlMXFMZkNrUWQ2cDZUWEZYa0tR?oc=5",
+      "source": "Unite.AI",
+      "pubDate": "Wed, 28 Oct 2026 19:41:13 GMT",
+      "query": "Anthropic Claude"
+    },
+    {
+      "title": "Google announces Gemini 4 Carbon, its new frontier AI model - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KY0huTm8xc1V3aXd3ekl4NHdfX05NMGd1SmdERWxNdnllUWhDUVozVGNsVDFzekk3SklmMEdzdUV1SThYUERLRjFWRmRSZHJJMVBtME95QUEzcXlpOFBxQXFKdWRheTVjQjBNZXpqUUlybzdJR2NOZDVR?oc=5",
+      "source": "Mashable",
+      "pubDate": "Wed, 28 Oct 2026 19:33:28 GMT",
+      "query": "Google DeepMind"
     },
     {
       "title": "Google Deepmind releases Gemini 4 Carbon just two weeks after Argon with gains across the board - The Decoder",
@@ -213,18 +199,18 @@
       "query": "Google DeepMind"
     },
     {
+      "title": "BotGauge Launches AI Agent Red-Teaming Platform with 200+ Attack Strategies, Tracing, and Evaluations - VMblog",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTmtjU2tFdkMzZ19uVDdCUFB2S1ZXMHZrT21MRnY3VVVoNjl0NWZRUmNFcjZ3Q2FrczJtUWJkZ3hFTzMxQjA4N2dNNWNHcFZqSXl3Q09lMFppVjZ0VjZ5c0lZS0pZaVRBWU5PX19RYm14VmxPclNFOVIybWdaOXFUOHllOENubEFIZl9Bd0J5U21NMUhXb1V5NWZrVzJFemVraWhhTDNhRl8tTWN3NFB0aFZ4aXR0VlJJQ0tRX00tUFo?oc=5",
+      "source": "VMblog",
+      "pubDate": "Wed, 28 Oct 2026 19:18:33 GMT",
+      "query": "AI agent platform"
+    },
+    {
       "title": "XREAL AURA: The First Wired XR Glasses Powered by Android - AndroidGuys",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWnphT1NHNGU4X2ZHNGdVQ1FyZ3FBOU9FQkc2cHpWTkExMWk4TXBETnpxMFhPWnc5bC0tYXl1aHBGMW1ER3VMTHF5a25HbmtGV2hJSDF4R2l5MU8xWE14eTdfZzZSTUJWcFVURzZDY1RtSldMQ25FSlA5SkZyU0JhREUzWS1taEpzdTFwVnhyUjJMQVlWbFE1cGJRTmVYVTFHeldTTUdpU2ZhSlotdUE?oc=5",
       "source": "AndroidGuys",
       "pubDate": "Wed, 28 Oct 2026 19:18:09 GMT",
       "query": "Gemini AI"
-    },
-    {
-      "title": "OpenAI expanding ChatGPT dot access to iMessage and RCS - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX1FYLTNTOW52Szhuc1pfa2lsZHNScHB5OUh3cFhKOFQtLVRubnBUZGVUYzJFTm5YN1hUOV9Mb01IN3Nmb1B5Y04wVzFEN1dxdzQxT0JVMGRSUGdITFJaTnc1Rkl3Nm1STzFkM2Myc2FwY09NblhlZGV6OExBQ1NQU1Joem1fSmZDM3JMMXFzWFU?oc=5",
-      "source": "9to5Mac",
-      "pubDate": "Wed, 28 Oct 2026 19:15:00 GMT",
-      "query": "OpenAI"
     },
     {
       "title": "Staged Rollout Sends Google’s Gemini 4 Carbon To Cyber Defenders First - Unite.AI",
@@ -248,25 +234,18 @@
       "query": "DeepSeek"
     },
     {
-      "title": "OpenAI's new model cuts prices again - Axios",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mb21MYXcyblNzcS0zRzZEMV8xbWF2aFpiWjRRVC13N3NMbGxYcXZvY09XckFtcGJfMUdZMl94VzByWVN6YS1MRjZMdkpRSmp4R1kwQXJVbnVEc1BiVmJPa0pwYXI3N00?oc=5",
-      "source": "Axios",
-      "pubDate": "Wed, 28 Oct 2026 18:45:35 GMT",
-      "query": "OpenAI"
-    },
-    {
-      "title": "US tech giant Google unveils Gemini 4 Carbon AI model - Anadolu Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSUUyVWFNMzdrVGVrdjN1Qy1VOXIwbnBBb3Vlc3dUMm5ObUw2ajRpdC1RMTFrQm5CTWFUUXdMOW1BVWw4N3JxaFBZZzNWSDVuRHhyUTFrcVJqQUF5VVZrVXhlMzV1QWxicGZNSDM0UDg0XzV1bS0wSW9Odnh1NmxVRkhOTUdJa21Fa0liNlE4YXNUQQ?oc=5",
-      "source": "Anadolu Ajansı",
-      "pubDate": "Wed, 28 Oct 2026 18:30:56 GMT",
+      "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can’t use - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRW1ZYWNNNHRHU1pTM1FqNGIxajFURmFRZGlxM3BLaXNWWkl5Vl9lcUtMTmp3SEd4XzEyT1JUZHlzdjNvNWNDbE9NYk9VdUMzUkY2ZHVNalEtVWl4ckFwaTlsWFhjbTRDZURBdktRRGZpWGdheHVlZHlJYUNoS1YxcFphU2JVSFhBZkVZREo1R18yTWYwM0xnU1AzNllLYWZCLWZjNFMteDg2eEd2RXNTSVJ2ZmNsQQ?oc=5",
+      "source": "Ars Technica",
+      "pubDate": "Wed, 28 Oct 2026 18:47:27 GMT",
       "query": "Gemini AI"
     },
     {
-      "title": "The BBC including “more organic” video footage in David Attenborough wildife documentary to stave off gen AI claims is like letting a bully run the playground - Digital Camera World",
-      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOR3hBS3B2MHdNQ2ROWXJBSDBMeFV2aUh4eGRXcHVOQ2lqbDUxZHctbVhZUGs1MHNHV3gtSVNFc2lybXBPdVlKbWk1ZFpkaHdJbFdOZDB5cGNYT1IyMmlJVkZTS3VmMDhxVWpZbkMwNlZNcDJQd1JFRExMTzZZbEFGNlJtNm9IR1lOSi12V3BocVd2R0RObnV2MERIcjBrWGl1SDV1dG5JbWlWLWNrTjJKTUY4anpabHpSVnE2OTZVZkp2NnJkUXVuUXRuVFNSUEZmVzhLa2pNUVVBSng4U001U1NCT08yMkFtaGpXdUpnd1JpdW5LS3VRc1BKUV9ScFFqRklVcDZoY1A4YThfcGwyWEZ5UGtnMnhsWk1kdG5yVFBJNUNOUWlIZGl5MDU0RE1PSWhMMkc5di1LVi0tRjFiMG53?oc=5",
-      "source": "Digital Camera World",
-      "pubDate": "Wed, 28 Oct 2026 18:30:00 GMT",
-      "query": "AI video generation"
+      "title": "US tech giant Google unveils Gemini 4 Carbon AI model - Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSi1KWGZoWjFtZUwxWFl3cFJsSzNVRXhNY1MxaUdqQWU3QW8xTXE0SHF5YVJqaGliR29pZlEyaFpOQklzcTZzdFNJOFdJOVMzekZwdXY2bEhCaUlJYWRQWk03YUxyS3BaOXdTMDdHaTQ1dXU1RkVMOV9vamtXVXEzNmxPdEl1YnhDR2lNa1VMbUlrbjhGRWRn?oc=5",
+      "source": "Anadolu Ajansı",
+      "pubDate": "Wed, 28 Oct 2026 18:30:56 GMT",
+      "query": "Gemini AI"
     },
     {
       "title": "Building an Agentic AI Platform on Amazon Bedrock AgentCore | Amazon Web Services - Amazon Web Services (AWS)",
@@ -276,18 +255,18 @@
       "query": "AI agent platform"
     },
     {
-      "title": "Google unveils Gemini 4 Carbon, retaking the world's no. 1 spot on updated, harder benchmarks — but access is limited - VentureBeat",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS1BfSV9DNVl1aW5HV3A3SVc1bDFqZEhFT3VpekhjVDIwaVNKOTc2Z0c2WEJaaWtiNmFfc3BWWXBKWEtqUWpvaGRTOWMwNHBwYlRmbGIyX1FVN1M0Y0xWVGYzMnFWV2NYaFBlZ0JIZzlfR2p1Y2szTDIybXFTQ3FFOUtkazNVbzNoRUJQZV9GNXZLN3V1MWdOVmpCLS1IS2ZIQmRXbE01ZWNHVTNyLTZRWDV5YmFTbjJNZ1Y2VmoycFBnYlFpd1JuY3pRYUlWREMxSmE2b2FEYThGTVJhODA4?oc=5",
-      "source": "VentureBeat",
-      "pubDate": "Wed, 28 Oct 2026 18:25:49 GMT",
-      "query": "Gemini AI"
-    },
-    {
       "title": "ICYMI: Google DeepMind previews Genie 4 with native audio - TestingCatalog AI News",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORlBROWJReGUzQ3BFYV9xVG83WEFQR0c5VXNWaUcwUGNYVVJ6cWl3WUpnUXJFLUl0SktyQ25UN1cxUmt2dFg3bHRMN3hTaDJNSm5CZ2hLQTZQYmFqZ3J5VWxnZlllS05QODZITzRqODVWeEZkRkN2SW9kT1c3SEljY05rS0wzVEN3T1NTMS1lejNsQQ?oc=5",
       "source": "TestingCatalog AI News",
       "pubDate": "Wed, 28 Oct 2026 18:13:13 GMT",
       "query": "Google DeepMind"
+    },
+    {
+      "title": "Google launches Gemini 4 Carbon AI model with cybersecurity focus - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXQyWUp5N0QwdVRZWXFkd1M5b2RrcExtNVBJS0JKaDdhaG1DQThXeEVlUWVWQUNPTjNOak9ZSnZlQjhDUkNIT2oxSlJrSjlJSkVSMVZFMW5acXV1N0l5bWxKTU1CNmtzZVM3U2dZVE5RbHlrZ2k5LTljM2FnNDVLM3NFbGI4N1hSMVIyQ2FNZXZYY0ZuNV9KR0lQYzdxT2RGdzkxamkzLXloVUVmLUhmdUZ3?oc=5",
+      "source": "Reuters",
+      "pubDate": "Wed, 28 Oct 2026 18:12:49 GMT",
+      "query": "Gemini AI"
     },
     {
       "title": "Dive into new topics with immersive explorations in the Gemini app. - blog.google",
@@ -297,32 +276,11 @@
       "query": "Gemini AI"
     },
     {
-      "title": "Anthropic manager drops coding interviews because Claude is better at them - The Next Web",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZXUwR01fOU9rSUpHVDVrLTA1MmFfTW5DUnhwZ21rWGRueXhfZ1BkRFNYVGJmcENSenNyajNXa0dUSTVMRWhEd1lmSGgtcFVhUHNsc1lGTFZDUjZzaG9NcjFRTEVTUV9qclU2ZGpLTGVBVU1ibk1Cal9QU01WcXRmQU5RVQ?oc=5",
-      "source": "The Next Web",
-      "pubDate": "Wed, 28 Oct 2026 18:08:58 GMT",
-      "query": "Anthropic Claude"
-    },
-    {
       "title": "A Biotech Used Anthropic’s Claude to Design Better CAR T Signaling Domains - GenomeWeb",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWVNRVVR4Y1lWYXF5bm9nU1VOTlk1d3VPdkhuejZyNHBINDMtQ2tFWng4WHhEa1F1UjQzNmFaR1pUVDJlaGVlVGFNSk92TzBOSDVURk5WVlRPMlRSQzNPUzkwWkVCVXgzdEdjSVREcEFyNHJxZmp1dkRUYjRsVnpyZDd2WWJvdl9xWVQ0RkZYeFlqVlZqUHNOMA?oc=5",
       "source": "GenomeWeb",
       "pubDate": "Wed, 28 Oct 2026 18:03:00 GMT",
       "query": "Anthropic Claude"
-    },
-    {
-      "title": "Google’s AI Mode Won’t Say Who Won 2020 Election, but Gemini Will - TheWrap",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOWZoVzJEY2pXa2dfVS1BSUVYb3VOaFFYd2tNcWVIdVRfelNUZ3pqSzhXMmFPbkItTVdYa3FvTDI3WHByLU1weC1LakFHRTRIVlFJNEp4alk5OEd2RTQwTTJvYjdoU2R3Vk1ld3VWUzRsNDB4MFBHVXk4ZklvcXhuWmpYOHF3TkVkNXlCdkln?oc=5",
-      "source": "TheWrap",
-      "pubDate": "Wed, 28 Oct 2026 18:01:24 GMT",
-      "query": "Gemini AI"
-    },
-    {
-      "title": "Google adding more Connected Apps to Gemini & Search with new dev platform - 9to5Google",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FNG5kX0xlTmxTeXNYcjNmVVV1bWdmSGppYVQtdEhjMksyN3kzWUxHV0Y2bTRjTmJQOThtRFh6cF84enkwckFmR0pmVy03V0YzeElzVUdvUmtIaFJBOUNybndUOTVMdV9NZmplWXpUWDNISnN0SWtjTUlLLWM?oc=5",
-      "source": "9to5Google",
-      "pubDate": "Wed, 28 Oct 2026 18:00:00 GMT",
-      "query": "Gemini AI"
     },
     {
       "title": "Google DeepMind Introduces Gemini 4 Carbon, Its Top Model for Cyber Defense and Coding - MarkTechPost",
@@ -332,25 +290,67 @@
       "query": "Google DeepMind"
     },
     {
-      "title": "Google AI gets cagey when asked who won the 2020 elections - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY2c5c3hqaXM4T1NpeFJIZHp6akREd2pKRWZhMlhvcVRxT0ppbFk5REdodlpGR0FnYkZodzNSQlZBQ0o3ZzRPbndUQW1tTDlQTmFJTVlSLUpxWnhOYk5iTU5tTzFwcUxfaF83M2JRaGxKVlhqRVFDOHRtel9UUU1pMEROek1YdkxiZWpSWTRfclZwTk5NYTd2SlJ3?oc=5",
-      "source": "Ars Technica",
-      "pubDate": "Wed, 28 Oct 2026 17:46:32 GMT",
+      "title": "Invesco looks to drive advisor performance and growth with Anthropic deal - InvestmentNews",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVmVJQlNPODVRT0ZkTmJWQTkyZkk1azdjSVNQSF9lamhqeXA5WnpKNHc0TkRwQnhRY0tUZVl0WG4yemNIRF9EWF9udUpTRVMwT0d1TlFoQXo3T1NzMW52MjRSLWVBR3FWSkxfTWFzTEh4UTZPd1U2UGJHaTZINVdQNGgwSy1aMFlibGRmWGxwcDZ2dE5CLWlSai11dGo0ZWpsTWpoVG5Bb3dQR2FjbERSakFXR3lxYTF1emhFOWdGUlBSdjBxeFZkV2FTalc5eHVPQTJz?oc=5",
+      "source": "InvestmentNews",
+      "pubDate": "Wed, 28 Oct 2026 17:24:11 GMT",
+      "query": "Anthropic Claude"
+    },
+    {
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXdEZ3OGhkclFyelppYjhRXzd3dW1mY05Va3hJQWZqWDBXeEJlOURCM2llMG5wV240bEo2bzJPdnNKbDh0a2dBQkRsU2ZCdG9MWHF0dC1YblduV0RKN1ZzY2pEQzdZZFhJdU91R0JUUXFKOUE?oc=5",
+      "source": "OpenAI",
+      "pubDate": "Wed, 28 Oct 2026 17:18:00 GMT",
+      "query": "OpenAI"
+    },
+    {
+      "title": "Gemini 4 Carbon: our next frontier model - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHJxLU9oeW51ZGg2aG8xbWpXWjlhazdlbnJHSEZhdHhmQklFRnpKUkpPM1Vubk52TkNOMDRHM0ZWVmdlbGs0UHF5ZFY2QUpMT29DUUpFcXUxb084eGFWWXBpY0poZThuZ2NFbmVjempGam0za085ZHAxLXVuNFp4WkNvXzlhdTZsZWIyS3FXaEhFckliUzNialNtNW1sOS1MLUE?oc=5",
+      "source": "blog.google",
+      "pubDate": "Wed, 28 Oct 2026 17:08:56 GMT",
       "query": "Gemini AI"
     },
     {
-      "title": "Goodwin Launches AI Governance Benchmark in Anthropic’s Claude for Legal - citybiz",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbnM5UnIxaE9wdWhyYnpYVTdBMGt3OU5LYy1uUXMzMG1HSHl0YlNEYXJsLUJFSDlSWUZTdlQ0dUFDLXJCSzYyTzRVU3hXMU1TczNvdWkzZTJjYTI2eHNXdEt2SDRyTmpZTVJmS3FlX1Fud2pETGZOd1NTMWRCVGE2NWZmMFJjTlphcmRzNzViZmxWQTN3UWVDeThPclE1OFdoZ0NEOGYwd3V4cDZsV2xN?oc=5",
-      "source": "citybiz",
-      "pubDate": "Wed, 28 Oct 2026 17:38:09 GMT",
+      "title": "Google opens Android development to third-party AI agents and unveils new Gemini APIs - The Decoder",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUWJuS3dPd3p3THNtMnp6aUhyS2RIMEpXSkFINGhGZFVFRFNZNHFXTncycEotdVZNTUw3WjNqT0RXNUVVTXVvY09raHh6YXVVX1I3cDktczFrcEkxMktXSzVLck9ZejZjRnpVTXotWkN5d0NjQ2dzUzg3MFB2bk9EVHNPQ0ZIcGdvZ3NmTzJfazdDQWJkZ3puWm9paVF2QTMtalYyRmFXOUNoR054eDVv?oc=5",
+      "source": "The Decoder",
+      "pubDate": "Wed, 28 Oct 2026 17:01:14 GMT",
+      "query": "Gemini AI"
+    },
+    {
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmNQT19jOEd2T1VtOUFqUEdvWEJvaGw5XzlYUVhMRUI3WVVWQkdnMlptajZQcV9PSjY1OXF6Z294ZEtuT3dFN1A5V3RMT3lLbWp5eGVCaUtpUGdQbXY3aGg4SE9ZTzVPWVVDeURjQUExblRCY0lnd1JJTDRYaGxvdGhGX3oweTRkUWRYalZEaE0zU29sZVVDMjMtTVV1dGVxWjVUV3RoSTFENkU?oc=5",
+      "source": "TechCrunch",
+      "pubDate": "Wed, 28 Oct 2026 17:00:00 GMT",
+      "query": "Gemini AI"
+    },
+    {
+      "title": "Google DeepMind Unveils Genie 4: All About Real-Time World Building With Built-In Sound - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVWhmLTkwUzNtY3B4a2NtYlpHWlBTT1RZR3VtNVFYcWJyQWlOU25wdGJkNTNLaHZnM0NtUE5FQ2NTM1BvYVliX0J3YTdUVXpBRzc0R2hESkFSTkExWnRvNVZUSmIyQXkydjFHbTBpQW5KWEc0U2U0bkVjRF9xWWpCbzlsaWNPclcwd2FaZ2w1YksxbEMyWmtnRUdLTFVFOTFyRkQ1M1ozNTU2UUxwY040Y1JwMk1sYmdkVzhZbkhzMXdLZ9IBygFBVV95cUxQYm13d0ZvaVFqWE1vR2Faa05ZcU5qUnhUUzdkcDVfa0ZvdzVIeUh4MER4MTZUUmxIMVZOMnlVd2Y4UmNTOURLWUxxNVV5d2VtSnRHemd5Q1Q5aWVpTjM5WlNkLTdLQ2IxYWhFYkN6NFRpUWhucWxTbzAwUk1Wb3BBNDlnNmZWZFdwSGJvQTM3RDc2N0l2REh6UU5OaWo2eklOOC1pVnJicno5cEFDSU5meDFtNldWRXI0R2NBOG9MdS04em1JSkw4U3R3?oc=5",
+      "source": "NDTV",
+      "pubDate": "Wed, 28 Oct 2026 16:59:12 GMT",
+      "query": "Google DeepMind"
+    },
+    {
+      "title": "Anthropic unveils additional Claude tools for lawyers - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbFBaWDBVa3BKM0dEcGpjZldpYXlJb1pZdDYtMFFOaDJpMEtjWkVyaGMtVHhGd0pwZDRLLUJhNnlveHJwZHNsckY1STlMZXBuc1Z4SUpiSEJVTFlWR0I5d1o3X3ZabkRNMkE0TDRTaVNiVnRzS0o4S1JTcllTVUVPZ1JXOFI1bFV2dm1JaE00YzluSGZwY2V4NDk1aVB3c1RTX2pFZUk5SzQ?oc=5",
+      "source": "Reuters",
+      "pubDate": "Wed, 28 Oct 2026 16:43:56 GMT",
       "query": "Anthropic Claude"
     },
     {
-      "title": "Anthropic Is Said to Plan UK Share Offering Via RetailBook - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWjRYLVhlLVlmcUNLMWllM1Fuc1VzdW10djk3eF93aXhMOEpRdFlLTDJGeklZQS1rS2FZcHpXQUJvS1RPMVhsNnZ3Y2tJY3NST2ZJbFVzSjFYUFYwdDlnZnlhTWhaV3BLNGxGMFE3Rk9ZX2JxdEEzQ3VBZGVhQk4wTm1RdzFZZkk5aklHUUlaLVRPbmNPdWMwRkF0SFBFdEZnV2VtSVJzbjh1QlVXNEE?oc=5",
-      "source": "Bloomberg",
-      "pubDate": "Wed, 28 Oct 2026 17:24:05 GMT",
+      "title": "Anthropic moves further up the legal tech stack with launch of Claude for Legal Artifacts - Legal IT Insider",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeGNGazhzV2JjTk9OUzR0bV9TN3cxdjdLaU9PcVN0dnNfQjFCek51WHFZSGtPN3A5d1JHY1RZUlhYSXNXRE45WHhkRExHbmxLemNUWkNYcEttdEdoM3E2S2pTeS16WWhPZld6VU5yMVlKY3lfNGFmQkR5dzlKbTJEWE9VMTl1Q3NtbkxZaWxhSUQtSXVhVFdQYU51aWlxeklCS2l5SFIyejlKZW5OcXlNNjlWMFNLMFJuR2c?oc=5",
+      "source": "Legal IT Insider",
+      "pubDate": "Wed, 28 Oct 2026 16:02:06 GMT",
       "query": "Anthropic Claude"
+    },
+    {
+      "title": "Google DeepMind’s Genie 4 world model adds sound and live steering - The Next Web",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hbEIxRXQ4U2U5WXZGdUpMX00zMHduclYxNzIxSlVuQTRTeEN0UUJxNXlwYnJURkdhRWIxS2hDUmJTZjZvMDY0aFdybEI1bVhrbF9kb250OVFsSTV0Wm1pdVB1LXltVHFySGtIVEtaWC0?oc=5",
+      "source": "The Next Web",
+      "pubDate": "Wed, 28 Oct 2026 16:00:30 GMT",
+      "query": "Google DeepMind"
     }
   ]
 }

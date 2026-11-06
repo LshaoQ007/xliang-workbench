@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05 03:38",
+  "updated": "2026-11-06 03:34",
   "count": 50,
   "items": [
     {
@@ -17,16 +17,16 @@
       "query": "AI video generation"
     },
     {
-      "title": "Gemini 4 Argon: our next era of frontier intelligence - blog.google",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRjB3amppaF9yb1FhSmxoUW5GUEtCREcxbW1ScXJRRWN5ZGtIM0N0d21wVEI3ZTd5ZHY4N09KRWNwX3U2Z3JBeDNWakYxYXlBVE95NEpKWW5vcWFKZlA5Qkdka3hGZG9INUZtMVN2VTJhWG1TTldVSE1JVm5VaVlvcnpWRlhzX0V1NGJXZGhfMEY?oc=5",
-      "source": "blog.google",
+      "title": "SynthID Bio: Watermarking methods for synthetic biology - Google DeepMind",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40WVZXTHl5UmxibkdDVUlrUlBoNWVCb0lUaThwcDd3QjVLM1FSd0lKSzlROC1sazVFUThoWWZlMWd4SmdObWgtU0g2cXFQM05RbGwyMzMydGZWbDI4V0JQVTJZQQ?oc=5",
+      "source": "Google DeepMind",
       "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
       "query": "Google DeepMind"
     },
     {
-      "title": "SynthID Bio: Watermarking methods for synthetic biology - Google DeepMind",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40WVZXTHl5UmxibkdDVUlrUlBoNWVCb0lUaThwcDd3QjVLM1FSd0lKSzlROC1sazVFUThoWWZlMWd4SmdObWgtU0g2cXFQM05RbGwyMzMydGZWbDI4V0JQVTJZQQ?oc=5",
-      "source": "Google DeepMind",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRjB3amppaF9yb1FhSmxoUW5GUEtCREcxbW1ScXJRRWN5ZGtIM0N0d21wVEI3ZTd5ZHY4N09KRWNwX3U2Z3JBeDNWakYxYXlBVE95NEpKWW5vcWFKZlA5Qkdka3hGZG9INUZtMVN2VTJhWG1TTldVSE1JVm5VaVlvcnpWRlhzX0V1NGJXZGhfMEY?oc=5",
+      "source": "blog.google",
       "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
       "query": "Google DeepMind"
     },
@@ -45,18 +45,11 @@
       "query": "AI agent platform"
     },
     {
-      "title": "What Are AI Agents? Types, Uses, and How They Work (2026) - Shopify",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sakFkcURRMTE0enVpV2xZd0sxVno4c3FURlVpT2daUUNFN0U0UE5HQUQtTmNuTUhSRUZ5d2xjcjBJNVBTdzIzNWg4MEtJMWs?oc=5",
-      "source": "Shopify",
-      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
-      "query": "AI agent platform"
-    },
-    {
-      "title": "Qwen 3.8 invents Alibaba URLs with a real key ID, and that's why I don't think it's a backdoor - XDA",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQVFiRU9BTWgzX1BKQi1Td1VnbHpMcFR0V2pJR0E0bkFXdUNfdnI4c1JwdHY2RUdTTzBJWUJtN2YwY0NuSThkVmZVcWhBbVdNVnBFSGhqd1JNR0FJb0ZZajRBZkJiZVhjSDVEX3BJMFhxaUQtdzQwNlMxczhTRl92ZmxGX2luUVRiSzZLLUl0bkloMWc?oc=5",
-      "source": "XDA",
-      "pubDate": "Wed, 28 Oct 2026 02:56:00 GMT",
-      "query": "Qwen Alibaba"
+      "title": "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models, The Information reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZWxreXdWZGhvNFRiam1WcVA1WGMtNnl3NVpEWjIyVV9IR0xReTYwTFU2Ulhnek5QbVlzc1prUlBwYlVYNmpFaXJLdTNRU3NnbkhWSFlzZllyN1lma0RydHM5bEFab2xIRW5aOUllWGtiMzRaOG1HT1M3Z3ZIN1NwVmFFZ2NlUFo5WUNYaTRZSm9waDl6cE03bE1NMEtIM2VORTVVUDN3Y01ER3drXzFwNkMyNFZ0N3F5MC1idTVR?oc=5",
+      "source": "Reuters",
+      "pubDate": "Wed, 28 Oct 2026 07:00:00 GMT",
+      "query": "DeepSeek"
     },
     {
       "title": "Best AI Agent Platforms (2026) - Salesforce",
@@ -164,13 +157,6 @@
       "query": "Qwen Alibaba"
     },
     {
-      "title": "Google’s latest AI video generator can render cute animals in implausible situations - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbmRvYU9EZUw0RVF0OFppc0cxQS1QZEg4R1ZlN3hyQzFSOTdmTWdXZlR2WXZ2Zmd1bkhYdUxNZGxhZjRyYVNONHo3UnZ2Zy1BdjNrYVduWU1TMjc3dzMzVk9DZ2F4aWZwcjFfaFRyT3huLXZMclZvRFNCTjJjMVRoOTdXcVhfZVVsZjJBUE5kRnR0ZVBJTTkyZkZLaDdULTBUcGRfd0E0S0ljTzhEWXJBMlZRcC1DODNUZWg2dHdYTGQwaW1WanJCX1poOXd5OFZaRU4w?oc=5",
-      "source": "Ars Technica",
-      "pubDate": "Wed, 24 Jan 2024 08:00:00 GMT",
-      "query": "AI video generation"
-    },
-    {
       "title": "Snowflake Arctic: The Best LLM for Enterprise AI — Efficiently Intelligent, Truly Open - Snowflake",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONDVuRzBDR19hY2c3MGlacFNQSVY0MG9DSDhMTlJMcWVabnlEV1ZkMlUxVGJrWE5acjk3ellxLWNxdXBHSUhQaFBiLTVTNzd1NnJwZTZrUGlrcEhEdkMyVGZvSjNZNm1wOEI4N0VXM2pFVGN1VXBSaXFfeW1tY1gyaDZPeXNJeDdlNWZJWktGVUdMb2xEX0FVSg?oc=5",
       "source": "Snowflake",
@@ -213,11 +199,32 @@
       "query": "AI agent platform"
     },
     {
-      "title": "Airbnb chooses Alibaba’s open-source AI over ‘not ready’ ChatGPT - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdEYxS2t4RnVDN0pVVDdSbk52OEdneG9fY2RNbWFjVGlpRWxGRW1iZnc5bmViaVIwTXd3SG5OamJLOEdXVWlaRnZrTS1HSWk4eFVrYXNuZjFKUWlydmozNU53QnVkck9KN2ZQVlc3UnBWTFB1MHQ3M2NYdGZ4eUJPamM4QWl3OElaYkhhZmxpU2EydFlvMjV5VWVqQ2ZMektraEY3U29WOWt3dkQ4V3lZZTBzQ1Z6T2xsYVpQTdIBvAFBVV95cUxPOGN4SlVnTXRvSGJURkFnS2puU2F0NmIwQUhQTmliaGZCZDlPbERpN1pfWGZ0ZHBTdXVPOVVneXU5alB1UWI2ZGRBVmhqOEN0TWRBeDZwQ2FvVGUtVHB3RDZXdEx5b0pURWZBVnYtTW4xTmx3ZmlTZ1hJVUZvLVhxZ096Zm82MmpmMFl2QkdMMEs2cjJUYm9najFTSkNvV0Y0T09BaWNCZy1JZ3k3QkplZk9jS1FSOE9HMnhvaA?oc=5",
-      "source": "South China Morning Post",
-      "pubDate": "Wed, 22 Oct 2025 07:00:00 GMT",
+      "title": "Everything new coming to Meta’s AI agent Muse - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWGVJb0NDYlJzSnRZbHcwLUxDQmtUbmIyV0VOM0hEQnhYZnE1VmxvN3NLSTExQjdFMVpCX2N4RTVYQV9IdGV6c09OemYxWC1ick90OWlmTV9OUjVjdEFLd0d0X1Y2Y211Y2xFWTQ2WlRnaUlSdEpxeGZ3MG1XT2ZzVU4yQUw5dw?oc=5",
+      "source": "TechCrunch",
+      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "query": "AI agent platform"
+    },
+    {
+      "title": "DeepSeek’s Annualized Revenue Hits $1 Billion as Startup Finalizes $7.5 Billion Fundraising - The Information",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeGU1QmdBMDNLUDlJNzByUU1LUWFCNHBodFQxdHN1WTk5RWo3NzdRMjNQVGlBYW1FN1laWVNtbVgxbXBrd3BnckFrZFgzRDZhSXYwb2xRYWlxMWV5alZZa1E5dDZNdDdkUTJMU1RVd3ZXWUpPU0s2aGY0MXBvSXNaZVZJTmxYNU5ENlh5c3RuUGNzMUFDZkl0aW03T1dFeWpEZnUtdmlsdm5va3Z4S00ybEtZSm91NWFjZEx3d1M5T2V2M3M?oc=5",
+      "source": "The Information",
+      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "query": "DeepSeek"
+    },
+    {
+      "title": "Alibaba launches Qwen Audio 3.1 with new models and slashes AI audio prices by up to 95 percent - The Decoder",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYVdTYkVkR2ZZNFZJdURHdlV1RzZGQnFuLXh0Vkd1MnFCQTFicUc3SnFCWUJRZlIxUFZMbEZlbUsxYzIyOTdCWUpiUXFMX3F5VVp6RE5yNVpiN1U5dklCQnZOeHpkMHNZRWR6TXM2ZV9fWm1PeWRMLU5hanhCbXZVN2pna21ucTR4M0hyQkxDNnh3eTNMNUQwWjltdkhZcjNLQXAyVkp3SnBZUXkxTHpJWFVTX3BFSDJHTXk4dTRkakRNdWc?oc=5",
+      "source": "The Decoder",
+      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
       "query": "Qwen Alibaba"
+    },
+    {
+      "title": "Runway Gen-4.5: State-of-the-Art AI Video Generation - Runway",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qOElKb2hXSE1TdnFGanl0N2RYYVlROEwyeTFka2ZxUkhhdlZORGl6N051RzhNbDhLUW90azBnZWZyZUp6VmNRWnhEQnBtcWdIZThBNDloR3ZHUHR5TUM0ZWtUSlI?oc=5",
+      "source": "Runway",
+      "pubDate": "Wed, 22 Jul 2026 04:16:44 GMT",
+      "query": "AI video generation"
     },
     {
       "title": "Introducing Gemini Enterprise Agent Platform, powering the next wave of agents - Google Cloud",
@@ -344,13 +351,6 @@
       "source": "Google DeepMind",
       "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT",
       "query": "Google DeepMind"
-    },
-    {
-      "title": "Agentic AI, explained - MIT Sloan",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nNkJMcjBySVgtWG5XemFIRzVObzZIaEpFZzNLZldpWGZGVWlfNWtONVhmSDlnNjh1ZXo0YkpjR0RnREJ3bXhxdUtkU2ltSnZqUHJnU2tBWXhvc0lqMnpma1JsSk9ONi05S1BBWk5XSFUyaTJH?oc=5",
-      "source": "MIT Sloan",
-      "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT",
-      "query": "AI agent platform"
     }
   ]
 }

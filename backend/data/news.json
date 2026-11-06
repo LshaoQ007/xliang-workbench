@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05 03:38",
+  "updated": "2026-11-06 03:34",
   "count": 50,
   "items": [
     {
@@ -80,13 +80,6 @@
       "query": "amazon.com marketplace"
     },
     {
-      "title": "Amazon rolls out new agentic AI for third-party sellers - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNno1MXBaZ3JtY05ZWHpfU2RsV0JuU3Zlb3hlN2RiaExrSHdEbE5wNGZjZUhINUNJQkdBR0pTM0xQUFhHZjdMdmEwSGtOcDRVcjJ1dFJNU1ZqMWlzbFpDZFhUVTlGaDFpTENaRjhKSDk0YWFiX05VOUZNbVVqRGhSemt6MHpabV8xbHNHSkZwbGRWVy1XdFdGZlVUVS1iMEJCNUNkd2stYUU2TnZ6Ny1LSXZB?oc=5",
-      "source": "Reuters",
-      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "query": "Amazon seller policy"
-    },
-    {
       "title": "Amazon gives sellers an even smarter Seller Assistant and a new plugin for Amazon Quick and Anthropic’s Claude - About Amazon",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaUJEMEhNVjVhWlBoRXNvX0FlWEtZMUxyRGZXekdwR2NVcjhTSWZYd0phakF5N3N3Q3FuN2F3UV91SW9McFY3c1REZmhpTmE0NVR0RkFVT1FJSFNBWFNEX0FJV2czQ0VvOWkxY2J3U0RVUjBSV3NzQzA5eUxXTTJ3SjdBQWNwQ2dJbklNWlkwV2N6SUJfSzhwTWdaU2p3Zw?oc=5",
       "source": "About Amazon",
@@ -98,7 +91,14 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ1pVeHhockdFWjl1eXJoYlJKZmZHT2JTOXlLalRYeHBKalY1RnNNdXBNY0ZIUmVSZnNCckVDMDJyLVI1LWFXLWxyTXB3Q1JWYnRmZXhjOFBfbkdLb3Jzcy1QUGhXaFA2Wm9pOUs1eHRWLURHeFFlVDJCbmE5bXRhRU5HbjVVMThHbXJNSTZTTnlQaTJwWWFtWWRha1RZRktWSG4xMi0ydFhHbUVNV2lDMHE4NA?oc=5",
       "source": "GeekWire",
       "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "query": "Amazon Seller Central"
+      "query": "Amazon FBA update"
+    },
+    {
+      "title": "Amazon rolls out new agentic AI for third-party sellers - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNno1MXBaZ3JtY05ZWHpfU2RsV0JuU3Zlb3hlN2RiaExrSHdEbE5wNGZjZUhINUNJQkdBR0pTM0xQUFhHZjdMdmEwSGtOcDRVcjJ1dFJNU1ZqMWlzbFpDZFhUVTlGaDFpTENaRjhKSDk0YWFiX05VOUZNbVVqRGhSemt6MHpabV8xbHNHSkZwbGRWVy1XdFdGZlVUVS1iMEJCNUNkd2stYUU2TnZ6Ny1LSXZB?oc=5",
+      "source": "Reuters",
+      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "query": "Amazon sellers news"
     },
     {
       "title": "Amazon Seller Assistant plugin brings seller data to Claude - The Next Web",
@@ -182,7 +182,14 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWjktb0kwRUIyZy1XX2JPSlFmUUR0N2FjMy1mREdBSk9Wc01jVEVvb3owYmMzZERNVzBielowVkFjY1BzX2hiNU9XRnFrbUROdDVoMVlNMTBhY2UzSThnYTRkZHczN1BJTmRVb01kTUFWUjF2RFhueERfbmJydWVyN3p0aGFTQdIBiwFBVV95cUxQX0gtbTNxRkVsbXBxU3FrdUlBa1BpOUlwcFdIWmJUVm1sakY5TWdBbkRiOGFIQzBMcEU2c2RxTmd0YTdjUzQyVlRHcko3NVZibE15UWk2NWJOWFBpOWd2OW01ODJhbG9zUmRzaXJBVTVrS1NQOEFRS2lTdy1iYkx3bWxQXzVwaDJYQ0Zn?oc=5",
       "source": "CNBC",
       "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
-      "query": "Amazon seller policy"
+      "query": "Amazon sellers news"
+    },
+    {
+      "title": "Amazon.com announces first quarter results - About Amazon",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcmlXNUY0YkNobmFkeEhiaEVvRDJfZXhCUTNIUnF3YUN5c011VlhPdngxdWZmcWRMM3hfWnlibXdvYWRmYl95WkdSaUw3aFRZUDdFR0FkRjNuQ24zazAxSENzUEtCRGh5TXJ1bW9taG1Mb2ZQdWhucTVZc3VyR3hrNTRn?oc=5",
+      "source": "About Amazon",
+      "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
+      "query": "Amazon sellers news"
     },
     {
       "title": "Amazon S3 is now available on the Vercel Marketplace and v0 by Vercel - Amazon Web Services (AWS)",
@@ -283,18 +290,18 @@
       "query": "Amazon sellers news"
     },
     {
+      "title": "Amazon Holiday Returns Run Through January 31 And Will Repeat Yearly - Minonline",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcDVTQ182T0pvci1QR19zZkRlNm1TaU93VGFJX1VzLW9HSHFEc3FhVEE5NThSNllZUUhaajRMcWRxRHJPaGxTNFpZWU1BWF80MmxiYmpaal9GcUpzQUNDQVU0eWZDM21peDFFQ19jZjh3Ul90N09YMkxSbU5EU0RRdk83QWRUR1hwTVVlMGJjalQ?oc=5",
+      "source": "Minonline",
+      "pubDate": "Wed, 04 Nov 2026 16:15:06 GMT",
+      "query": "Amazon sellers news"
+    },
+    {
       "title": "Amazon’s new Shop Direct Merchant Workspace makes it even easier for stores across the web to have their products discovered by customers on Alexa for Shopping and Amazon - About Amazon",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdWVydVlIeXY2cld4dGJSMmF6UEUxay1BVTBOckRWOWxYal94TklUMUpVNC1NSUxmVldXWHpjU0FmNGdRY2dINXgtR2w1Q0p1YWFsbE4wQy1YMUxHbmkwYVJVbDRSamVjVzFhY21tSk1sT09BX05fVy0xazB2Unl2MDBpcw?oc=5",
       "source": "About Amazon",
       "pubDate": "Wed, 04 Nov 2026 14:01:29 GMT",
       "query": "Amazon sellers news"
-    },
-    {
-      "title": "Top 10 Best Amazon Marketing Agencies In India In 2027 - Inventiva",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcG5sWHM2aGVLWG5NaFU0WHlENjZuMkdCeG8wWmplM3J6N003WHdVTmRYSDZwSXB1V1NHbVlmTUJ2V2o2UTBhaU1lZDVka1hIODc2V1hlU293Vy1QVUtQNTBSSGhTa2Y5R2tVa1JqVEV1NUNqeDhBZVJxVmw0S0VSOUJLMGdWSTI5QWlmcjZicUxJRzhr?oc=5",
-      "source": "Inventiva",
-      "pubDate": "Wed, 04 Nov 2026 11:34:40 GMT",
-      "query": "Amazon Seller Central"
     },
     {
       "title": "An update on Amazon’s Worldwide Selling Partner Services leadership - About Amazon",
@@ -318,18 +325,18 @@
       "query": "amazon.com marketplace"
     },
     {
-      "title": "Amazon Bedrock Marketplace now includes NVIDIA models: Introducing NVIDIA Nemotron-4 NIM microservices - Amazon Web Services (AWS)",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdDhJSDdZR24zaUIyY0FjNHE1SS1XU1NpTHVadm02Y0FHR2RJMUp0a3NKV2tpZDB1a0ZBOXdHTmFBYXQ5TkpDNWtLUVYwSWxrQnBNOGhwNHdBdk1sbGZ3RTZwQnl5aXZJRHI0cVBvX0pRZ2x1MmJFTkJtTWJRWTE3NE5OYzB4Y0pxYlhTTzJnbzl0UG5SZm1fTUktdTM3dFd2aTNocC1FY1hGRzBSM3BlZUNEVGx0TU15SHpVRnVMVjFDZFIzRnNINFktUkNfNWxwcjZVUm41U01zbl9saGF6VVN3?oc=5",
-      "source": "Amazon Web Services (AWS)",
-      "pubDate": "Wed, 04 Dec 2024 08:00:00 GMT",
-      "query": "amazon.com marketplace"
-    },
-    {
       "title": "UPDATE: Judge Partially Dismisses FTC Suit Claiming Amazon Illegally Maintains Monopoly Power - Retail TouchPoints",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN3UzbXBuRnE3Z3ZGMUFoQm9oTHBLdkZHeXdGM2tkU2FuTUVQbzYtMl9uc045V2hwMlBDMUNZaDNtenRReUk5QkRNd0p2UUl2UHF5UjJrUEhEOVhJc1pnQy14UjJDMFdfd055b25QZDVSX3I4WUZhNERRZXhndXZBeFVRYzJVaF9ObTJXQUhjVEprUUdiZzRVU2hsUk1nYVFDZHBRZUFLUQ?oc=5",
       "source": "Retail TouchPoints",
       "pubDate": "Wed, 02 Oct 2024 07:00:00 GMT",
       "query": "Amazon FBA update"
+    },
+    {
+      "title": "Amazon’s strategy to squeeze marketplace sellers and maximize its own profits is evolving - vox.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TZVlwcktkVjFOYjR6Sy1BemVlRWFoLVlvalRWcGdQOW45ZkI5YkRnMkZHamo0bVhaUG5uQnQ0Rk55Zms2YUdlYmQ5eUZtazUwc3lsRm1OZU0zUFJpRXRHUWZSVlljTXRoT29lUm12djBSN2VsUEE?oc=5",
+      "source": "vox.com",
+      "pubDate": "Wed, 01 Dec 2021 08:00:00 GMT",
+      "query": "Amazon seller policy"
     },
     {
       "title": "Amazon's fake discount crackdown: List Price rules tighten April 23 - PPC Land",
@@ -344,13 +351,6 @@
       "source": "Investopedia",
       "pubDate": "Tue, 31 Oct 2023 17:00:10 GMT",
       "query": "Amazon Seller Central"
-    },
-    {
-      "title": "How Amazon’s New 2024 Fee Structure Affects Sellers - Jungle Scout",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVMlNGcmdHV0VJTzFWenhkS3NVaGZmYXJBbF9uN1lISHlnMGk0UF9ZVWl5bFpYZlh5RDhlc0NhM2F1aVBiX3FSbk5ya2ZrM1BBaGZ5TjY4REZvZ3NuTkMxUjNPR0RxZG94UHdyVlRrQ1VEeXZGX3F1ajNNZw?oc=5",
-      "source": "Jungle Scout",
-      "pubDate": "Tue, 30 Apr 2024 07:00:00 GMT",
-      "query": "Amazon FBA update"
     }
   ]
 }

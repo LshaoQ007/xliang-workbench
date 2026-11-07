@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06 03:34",
+  "updated": "2026-11-07 03:03",
   "count": 50,
   "items": [
     {
@@ -24,13 +24,6 @@
       "query": "Google DeepMind"
     },
     {
-      "title": "Gemini 4 Argon: our next era of frontier intelligence - blog.google",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRjB3amppaF9yb1FhSmxoUW5GUEtCREcxbW1ScXJRRWN5ZGtIM0N0d21wVEI3ZTd5ZHY4N09KRWNwX3U2Z3JBeDNWakYxYXlBVE95NEpKWW5vcWFKZlA5Qkdka3hGZG9INUZtMVN2VTJhWG1TTldVSE1JVm5VaVlvcnpWRlhzX0V1NGJXZGhfMEY?oc=5",
-      "source": "blog.google",
-      "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
-      "query": "Google DeepMind"
-    },
-    {
       "title": "Millions of new materials discovered with deep learning - Google DeepMind",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNTBYeWxBNDdUTGVUYWNHUWlIYlVlNG1CUU40NlR5aDEyYVFXN2FUTGF5SFY5cVlqbVBNeUF0UWQxdXpzUEEwRm9rbF85OWVsaFZ2dU5CV25lRGRmZjVGR2tJMWoyVU9ueHk0MDJORzA5VU9kVWRnUExQamhEQ2t3cFZUODlHMXJKUEFvM1J3?oc=5",
       "source": "Google DeepMind",
@@ -43,6 +36,13 @@
       "source": "Google Cloud",
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
       "query": "AI agent platform"
+    },
+    {
+      "title": "Best AI Image Generator 2026: GPT Image 2.5 vs 3 Rivals - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaTIwWlBFeHU3MFUzaEdzNkR2Z29CMjlHenBuRG9BZEw5RVRENkhXa1BRd3FMenV1SE54S1dQdXB4Q2lKLUtWV2JHeGNubDlyakVhOXhJTXFjbW1JalNfTV9MVTktZWVDaEtzY3B0UTM5dC1nbjVQblo5R0t5eTF5bHM1TjREbVVBOHBz?oc=5",
+      "source": "shattered.io",
+      "pubDate": "Wed, 28 Oct 2026 07:00:00 GMT",
+      "query": "Midjourney"
     },
     {
       "title": "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models, The Information reports - Reuters",
@@ -199,13 +199,6 @@
       "query": "AI agent platform"
     },
     {
-      "title": "Everything new coming to Meta’s AI agent Muse - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWGVJb0NDYlJzSnRZbHcwLUxDQmtUbmIyV0VOM0hEQnhYZnE1VmxvN3NLSTExQjdFMVpCX2N4RTVYQV9IdGV6c09OemYxWC1ick90OWlmTV9OUjVjdEFLd0d0X1Y2Y211Y2xFWTQ2WlRnaUlSdEpxeGZ3MG1XT2ZzVU4yQUw5dw?oc=5",
-      "source": "TechCrunch",
-      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "query": "AI agent platform"
-    },
-    {
       "title": "DeepSeek’s Annualized Revenue Hits $1 Billion as Startup Finalizes $7.5 Billion Fundraising - The Information",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeGU1QmdBMDNLUDlJNzByUU1LUWFCNHBodFQxdHN1WTk5RWo3NzdRMjNQVGlBYW1FN1laWVNtbVgxbXBrd3BnckFrZFgzRDZhSXYwb2xRYWlxMWV5alZZa1E5dDZNdDdkUTJMU1RVd3ZXWUpPU0s2aGY0MXBvSXNaZVZJTmxYNU5ENlh5c3RuUGNzMUFDZkl0aW03T1dFeWpEZnUtdmlsdm5va3Z4S00ybEtZSm91NWFjZEx3d1M5T2V2M3M?oc=5",
       "source": "The Information",
@@ -276,23 +269,9 @@
       "query": "Google DeepMind"
     },
     {
-      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYXI4MDQ5UDdXZDNuUUpwYkVwY3RYM05lZzhqcFhlb0NfeDVacEFfYkNQWkRuNDZPM05pRndYcjZ2QXBxeHA1ZnpaSVZjNEhXRnZvdkhTZTR3aFppbVlxUXJpeHRhSXRvV0R1VFRuUmhNeTdmdkJ5ZVNmSGFmWlNPbjZ3?oc=5",
-      "source": "OpenAI",
-      "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT",
-      "query": "AI model update"
-    },
-    {
       "title": "The Huawei-DeepSeek Symbiosis - SemiAnalysis",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wZER2cWEyekhiQ3c5MWI1NzRlWW5QM3RfcVFfdF81bXhReHh5a0x3a2l4WlFtbWlNbkZFal9YMkR1SkYwQUc4OHpVZzl4MXVIOHR6Ql9OTHlMcm11MUhSeWRGOA?oc=5",
       "source": "SemiAnalysis",
-      "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT",
-      "query": "DeepSeek"
-    },
-    {
-      "title": "China’s DeepSeek Raises $15 Billion to Challenge Top US AI Labs - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbV8yRlI5QUgtclQ1Y25PbklMNW5ITlNyUm9udEYwQkFaRmoxZ3R4bVdKOEItVVpLX3lXejBfSzllSVZUTFZuRDVSckkzcHJrUnZwRVhCamxrMzh6cjVPYk04N0thbjRlenFlLXZpT0E3TUtsSzFlS1VBY2NHRTh2Rk5NNDhXRVVoYnJHMWFPbFVPbzZoQm5VMzBpREs5b183eE9PQTZ1SGgySkVxTFE?oc=5",
-      "source": "Bloomberg.com",
       "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT",
       "query": "DeepSeek"
     },
@@ -351,6 +330,27 @@
       "source": "Google DeepMind",
       "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT",
       "query": "Google DeepMind"
+    },
+    {
+      "title": "Agentic AI, explained - MIT Sloan",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nNkJMcjBySVgtWG5XemFIRzVObzZIaEpFZzNLZldpWGZGVWlfNWtONVhmSDlnNjh1ZXo0YkpjR0RnREJ3bXhxdUtkU2ltSnZqUHJnU2tBWXhvc0lqMnpma1JsSk9ONi05S1BBWk5XSFUyaTJH?oc=5",
+      "source": "MIT Sloan",
+      "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT",
+      "query": "AI agent platform"
+    },
+    {
+      "title": "Midjourney goes from generating cat images to full-body ultrasound scans - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcGItUGdjVTdnU1BhU19vUGtaWm1pNklsVV9RODJnSUFqN08ySm5ONS1sT1lpb0M3bUlXTWZLSC10VkRqeE5tc2ttU0xKTUFuODFDaGRBR2ZKUEdLejdEM2xNRXRLend4X0ZTTWdJMzdieHB1a0tiNklBbF9OWThlSngxaGxNR1ZPc0ZPT3MwcnAxMjRVaUpQdWdlQjY?oc=5",
+      "source": "The Verge",
+      "pubDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "query": "Midjourney"
+    },
+    {
+      "title": "EXCLUSIVE: US holds off blacklisting China's DeepSeek, more than 100 firms deemed security risks, sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT1ZFS3dvdUZNbkFCNUxiU1dWc0RxNzk5bWlqVl8xQTlDTFh0c2llcU1CZHRvRHRhZllDbDhhT3Y4T21DdjNjUkFydHE5X2FwcFB1ZkQ0QjdHTWRscHM2MWNITUJsS2NiVms0RmdWbHA5SHpucXAxejJOWFd0UjNuMVhKa0Rqc290QnhZWEhEYzBJeUpERWdhVmFPQ196cjQtel83cTdFVlRhd1V6TXc4X1pkUS1KbWhJeGNhcWY3emkzMTQ?oc=5",
+      "source": "Reuters",
+      "pubDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "query": "DeepSeek"
     }
   ]
 }

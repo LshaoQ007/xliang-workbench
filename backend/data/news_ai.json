@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07 03:03",
+  "updated": "2026-11-08 02:38",
   "count": 50,
   "items": [
     {
@@ -59,11 +59,25 @@
       "query": "AI agent platform"
     },
     {
+      "title": "Grok Imagine API - xAI",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ycmRTdVlnOUNaXy1UOWdLNGJ4c0pQYjBkY3l6VDVpdWhRSDBiUDZXaE1DbUVWU0lZN2htY3V6SUhLMVlfdVZTWjdn?oc=5",
+      "source": "xAI",
+      "pubDate": "Wed, 28 Jan 2026 08:00:00 GMT",
+      "query": "AI video generation"
+    },
+    {
       "title": "Mistral 7B - mistral.ai",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QdVVIcFZ4V2hGeWI4SHVkdXA1bHloLTdrMVExb3NvekxlQTF1Uk9TSmJqNGhsY1p6d21ETmpBeFN4b0Q1dGFzYXp2SVd1My1DaTd5X0FzYi1qdw?oc=5",
       "source": "mistral.ai",
       "pubDate": "Wed, 27 Sep 2023 07:00:00 GMT",
       "query": "LLM release"
+    },
+    {
+      "title": "Introduction to GitLab Duo Agent Platform - about.gitlab.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vbGNrSWRBblB1bmVESl9TbnBNdmRqejNidVY3VGxrRFJFUTdpR2s4SFNkZWl5MGswOGhCTGh2SUk3NW1KRHh1d3pvTkxiTG5jQ2pGdUtuNENadG5mdHpOMlpOdk1ma25SVG85V3ItQVQ1TWFCY0lFZTZ2eUU?oc=5",
+      "source": "about.gitlab.com",
+      "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
+      "query": "AI agent platform"
     },
     {
       "title": "Introducing DBRX: A New State-of-the-Art Open LLM - Databricks",
@@ -157,6 +171,13 @@
       "query": "Qwen Alibaba"
     },
     {
+      "title": "Google’s latest AI video generator can render cute animals in implausible situations - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbmRvYU9EZUw0RVF0OFppc0cxQS1QZEg4R1ZlN3hyQzFSOTdmTWdXZlR2WXZ2Zmd1bkhYdUxNZGxhZjRyYVNONHo3UnZ2Zy1BdjNrYVduWU1TMjc3dzMzVk9DZ2F4aWZwcjFfaFRyT3huLXZMclZvRFNCTjJjMVRoOTdXcVhfZVVsZjJBUE5kRnR0ZVBJTTkyZkZLaDdULTBUcGRfd0E0S0ljTzhEWXJBMlZRcC1DODNUZWg2dHdYTGQwaW1WanJCX1poOXd5OFZaRU4w?oc=5",
+      "source": "Ars Technica",
+      "pubDate": "Wed, 24 Jan 2024 08:00:00 GMT",
+      "query": "AI video generation"
+    },
+    {
       "title": "Snowflake Arctic: The Best LLM for Enterprise AI — Efficiently Intelligent, Truly Open - Snowflake",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONDVuRzBDR19hY2c3MGlacFNQSVY0MG9DSDhMTlJMcWVabnlEV1ZkMlUxVGJrWE5acjk3ellxLWNxdXBHSUhQaFBiLTVTNzd1NnJwZTZrUGlrcEhEdkMyVGZvSjNZNm1wOEI4N0VXM2pFVGN1VXBSaXFfeW1tY1gyaDZPeXNJeDdlNWZJWktGVUdMb2xEX0FVSg?oc=5",
       "source": "Snowflake",
@@ -197,20 +218,6 @@
       "source": "OpenAI",
       "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
       "query": "AI agent platform"
-    },
-    {
-      "title": "DeepSeek’s Annualized Revenue Hits $1 Billion as Startup Finalizes $7.5 Billion Fundraising - The Information",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeGU1QmdBMDNLUDlJNzByUU1LUWFCNHBodFQxdHN1WTk5RWo3NzdRMjNQVGlBYW1FN1laWVNtbVgxbXBrd3BnckFrZFgzRDZhSXYwb2xRYWlxMWV5alZZa1E5dDZNdDdkUTJMU1RVd3ZXWUpPU0s2aGY0MXBvSXNaZVZJTmxYNU5ENlh5c3RuUGNzMUFDZkl0aW03T1dFeWpEZnUtdmlsdm5va3Z4S00ybEtZSm91NWFjZEx3d1M5T2V2M3M?oc=5",
-      "source": "The Information",
-      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "query": "DeepSeek"
-    },
-    {
-      "title": "Alibaba launches Qwen Audio 3.1 with new models and slashes AI audio prices by up to 95 percent - The Decoder",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYVdTYkVkR2ZZNFZJdURHdlV1RzZGQnFuLXh0Vkd1MnFCQTFicUc3SnFCWUJRZlIxUFZMbEZlbUsxYzIyOTdCWUpiUXFMX3F5VVp6RE5yNVpiN1U5dklCQnZOeHpkMHNZRWR6TXM2ZV9fWm1PeWRMLU5hanhCbXZVN2pna21ucTR4M0hyQkxDNnh3eTNMNUQwWjltdkhZcjNLQXAyVkp3SnBZUXkxTHpJWFVTX3BFSDJHTXk4dTRkakRNdWc?oc=5",
-      "source": "The Decoder",
-      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "query": "Qwen Alibaba"
     },
     {
       "title": "Runway Gen-4.5: State-of-the-Art AI Video Generation - Runway",
@@ -262,16 +269,16 @@
       "query": "AI agent platform"
     },
     {
-      "title": "Google staff resign in backlash over its AI contracts with military - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RWVdJWjFtOWFyR2FOZzJSZlF5TmFGZDh6UVV6SHZ2V2ZvV0NDdm9hVUVBWDVQYjhZYms1aDA4YU9iRzRoMmpSY1BJQ1puNXpCM3RoLVRDbWU3Zmc?oc=5",
-      "source": "BBC",
-      "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT",
-      "query": "Google DeepMind"
-    },
-    {
       "title": "The Huawei-DeepSeek Symbiosis - SemiAnalysis",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wZER2cWEyekhiQ3c5MWI1NzRlWW5QM3RfcVFfdF81bXhReHh5a0x3a2l4WlFtbWlNbkZFal9YMkR1SkYwQUc4OHpVZzl4MXVIOHR6Ql9OTHlMcm11MUhSeWRGOA?oc=5",
       "source": "SemiAnalysis",
+      "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT",
+      "query": "DeepSeek"
+    },
+    {
+      "title": "China’s DeepSeek Raises $15 Billion to Challenge Top US AI Labs - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbV8yRlI5QUgtclQ1Y25PbklMNW5ITlNyUm9udEYwQkFaRmoxZ3R4bVdKOEItVVpLX3lXejBfSzllSVZUTFZuRDVSckkzcHJrUnZwRVhCamxrMzh6cjVPYk04N0thbjRlenFlLXZpT0E3TUtsSzFlS1VBY2NHRTh2Rk5NNDhXRVVoYnJHMWFPbFVPbzZoQm5VMzBpREs5b183eE9PQTZ1SGgySkVxTFE?oc=5",
+      "source": "Bloomberg.com",
       "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT",
       "query": "DeepSeek"
     },
@@ -344,13 +351,6 @@
       "source": "The Verge",
       "pubDate": "Wed, 17 Jun 2026 07:00:00 GMT",
       "query": "Midjourney"
-    },
-    {
-      "title": "EXCLUSIVE: US holds off blacklisting China's DeepSeek, more than 100 firms deemed security risks, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT1ZFS3dvdUZNbkFCNUxiU1dWc0RxNzk5bWlqVl8xQTlDTFh0c2llcU1CZHRvRHRhZllDbDhhT3Y4T21DdjNjUkFydHE5X2FwcFB1ZkQ0QjdHTWRscHM2MWNITUJsS2NiVms0RmdWbHA5SHpucXAxejJOWFd0UjNuMVhKa0Rqc290QnhZWEhEYzBJeUpERWdhVmFPQ196cjQtel83cTdFVlRhd1V6TXc4X1pkUS1KbWhJeGNhcWY3emkzMTQ?oc=5",
-      "source": "Reuters",
-      "pubDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-      "query": "DeepSeek"
     }
   ]
 }

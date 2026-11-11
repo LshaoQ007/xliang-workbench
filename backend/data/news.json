@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10 04:43",
+  "updated": "2026-11-11 02:55",
   "count": 50,
   "items": [
     {
@@ -50,6 +50,13 @@
       "source": "Yahoo Finance",
       "pubDate": "Wed, 28 Oct 2026 07:00:00 GMT",
       "query": "Amazon Seller Central"
+    },
+    {
+      "title": "How AWS is helping retailers build their own AI-powered shopping experiences - About Amazon",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbHNkSVpVTnJ0SGFrRXByRFUyTWpKa3NLbWJ3ck5sMGRTbHdreWhXU3FsSmkzb05EajBMTnJsZWF4MDlLd0d3NlU5dlR5RFUwVDJHd1RIRW9TVlVqVVphbFdXVC1DX2NZQXZaR3k1ak1CanAtX0dOVkotaUlZNnMtRUNPVQ?oc=5",
+      "source": "About Amazon",
+      "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
+      "query": "Amazon sellers news"
     },
     {
       "title": "ETF Daily Fund Flows - US Listed - 2017 to Present - Amazon Web Services (AWS)",
@@ -122,15 +129,15 @@
       "query": "Amazon sellers news"
     },
     {
-      "title": "Amazon raises pay, lowers health insurance costs for US fulfillment and transportation employees - About Amazon",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY1A5QWRPbVJKeHo5ZFBrNzRBYkxELWxoWnlKNHQzQ1M0WjhLZk5GZURqdi1kVmhidF9hUlNJV05YU1N4NXZhRnFKRS02ZHlYcGEzVDlmMTdCQ0ZndDYtd0FtZ2xEYVZRZG56TG1LaTY1TlJBeGloWEtTVWw1ZHA3RFVRckZWcGM4V08wV25oeFl3cm54Yk9ibmg0Z2VYak93M2FTR3JvQ1M?oc=5",
+      "title": "Amazon introduces agentic AI across the seller experience, transforming how sellers manage their businesses - About Amazon",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZmJXblB2NFlQSF9zbjNfSVVHSWpBajQ3MVBGandHMmt1UGtiaFpCRFpfbUU0MWNoZ1hmWVV6RF83MzBsbnhrQ0daMVlaS21aeHprZGVZN0xXSEtULVg1U0VfVmxnTHQwVFF3YTZWY1o2TTRSS3FDT3Q4Uk94WWc2aDhrLXZNdEhq?oc=5",
       "source": "About Amazon",
-      "pubDate": "Wed, 17 Sep 2025 12:02:14 GMT",
+      "pubDate": "Wed, 17 Sep 2025 07:00:00 GMT",
       "query": "Amazon FBA update"
     },
     {
-      "title": "Amazon introduces agentic AI across the seller experience, transforming how sellers manage their businesses - About Amazon",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZmJXblB2NFlQSF9zbjNfSVVHSWpBajQ3MVBGandHMmt1UGtiaFpCRFpfbUU0MWNoZ1hmWVV6RF83MzBsbnhrQ0daMVlaS21aeHprZGVZN0xXSEtULVg1U0VfVmxnTHQwVFF3YTZWY1o2TTRSS3FDT3Q4Uk94WWc2aDhrLXZNdEhq?oc=5",
+      "title": "Amazon raises pay, lowers health insurance costs for US fulfillment and transportation employees - About Amazon",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY1A5QWRPbVJKeHo5ZFBrNzRBYkxELWxoWnlKNHQzQ1M0WjhLZk5GZURqdi1kVmhidF9hUlNJV05YU1N4NXZhRnFKRS02ZHlYcGEzVDlmMTdCQ0ZndDYtd0FtZ2xEYVZRZG56TG1LaTY1TlJBeGloWEtTVWw1ZHA3RFVRckZWcGM4V08wV25oeFl3cm54Yk9ibmg0Z2VYak93M2FTR3JvQ1M?oc=5",
       "source": "About Amazon",
       "pubDate": "Wed, 17 Sep 2025 07:00:00 GMT",
       "query": "Amazon FBA update"
@@ -150,7 +157,7 @@
       "query": "Amazon sellers news"
     },
     {
-      "title": "Fulfillment by Amazon uses Amazon QuickSight Embedded to deliver key reporting insights to Amazon Marketplace sellers - Amazon Web Services (AWS)",
+      "title": "Fulfillment by Amazon uses AWS Quick Sight Embedded to deliver key reporting insights to Amazon Marketplace sellers - Amazon Web Services (AWS)",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZzk1em9kdFhnaERFWXVKZmVMbHVaYlV4UzUtVWRtbGVXYVZYNnkzMDdYYjJ1TWpQdVdjaWhxY1JtUkRfOTVIZHByaEpyb256WktwYk84d0hycmR1NHh3c1ZpejNWTDNVWjF6bUt6SE5GbTJ6UmgyNkNhX0tVQnZLdXRXbEJCZmhZTERMMk93R3ZMRDhBeVUtOW12NVVlNUpTU2FlNjhQVDNhaHBLUW5saEdhSGpQbU9QclNpSmFFUlRQeGRrWV8wRWY0ZjU1Ty1ER1d0RDRNaXA1c2xMZTRqR2NWZnF5N1UzdkRFcU42X0lTMUtpZ3JSeUVpSlVUUQ?oc=5",
       "source": "Amazon Web Services (AWS)",
       "pubDate": "Wed, 16 Nov 2022 08:00:00 GMT",
@@ -183,13 +190,6 @@
       "source": "Amazon Web Services (AWS)",
       "pubDate": "Wed, 14 Oct 2026 07:00:00 GMT",
       "query": "amazon.com marketplace"
-    },
-    {
-      "title": "Amazon Buy Box: What Is It & How to Win in 2024 (Step-by-Step Guide) - Jungle Scout",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBTGZESkR6NDRVTjN2c0VCaTlRS1ZHU3J3UVJrQ3ZURVlyOFFUNmlMUGJHejlGeHAxNnNGZ3NaUFVwQzQzekZTNFM0eWtjVGhHOC1qSDJtR0M3U0k1RXhIWjl4QUc0QkpOXzRuR0R0aw?oc=5",
-      "source": "Jungle Scout",
-      "pubDate": "Wed, 14 Feb 2024 23:13:50 GMT",
-      "query": "Amazon Seller Central"
     },
     {
       "title": "Deploy third-party software add-ons from AWS Marketplace to Amazon EKS clusters - Amazon Web Services (AWS)",
@@ -269,13 +269,6 @@
       "query": "amazon.com marketplace"
     },
     {
-      "title": "Amazon launches Shop Direct Merchant Workspace for merchants - About Amazon",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdWVydVlIeXY2cld4dGJSMmF6UEUxay1BVTBOckRWOWxYal94TklUMUpVNC1NSUxmVldXWHpjU0FmNGdRY2dINXgtR2w1Q0p1YWFsbE4wQy1YMUxHbmkwYVJVbDRSamVjVzFhY21tSk1sT09BX05fVy0xazB2Unl2MDBpcw?oc=5",
-      "source": "About Amazon",
-      "pubDate": "Wed, 04 Nov 2026 14:01:29 GMT",
-      "query": "Amazon sellers news"
-    },
-    {
       "title": "An update on Amazon’s Worldwide Selling Partner Services leadership - About Amazon",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNTY0ZGNxYnBEY1JiamhjbFUtZUtSUzVzbWZWSFZzZ0Rnc3E3VUQ2VmRfYWpTU25tS0x0UmZEbG43RmctZFFROEh0bUFTakZfVEVHY0dOSXVqWG54eF9SMkc5M1BhZjdxVGI0dkRta0JhbmZHWExHMFRFYTNuTmV0RzVtV3BHMVpKRDNxTUdaWGhpaVpXTExTd21FYUJSMFk?oc=5",
       "source": "About Amazon",
@@ -318,13 +311,6 @@
       "query": "Amazon Seller Central"
     },
     {
-      "title": "How Amazon’s New 2024 Fee Structure Affects Sellers - Jungle Scout",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVMlNGcmdHV0VJTzFWenhkS3NVaGZmYXJBbF9uN1lISHlnMGk0UF9ZVWl5bFpYZlh5RDhlc0NhM2F1aVBiX3FSbk5ya2ZrM1BBaGZ5TjY4REZvZ3NuTkMxUjNPR0RxZG94UHdyVlRrQ1VEeXZGX3F1ajNNZw?oc=5",
-      "source": "Jungle Scout",
-      "pubDate": "Tue, 30 Apr 2024 07:00:00 GMT",
-      "query": "Amazon FBA update"
-    },
-    {
       "title": "Jungle Scout Changelog: The Latest Product Updates from Jungle Scout - Jungle Scout",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Yd1oyQ25ma0xLUWtXNXZPUUtzWi1kcUJVZEphdm53Nld1bERQemtSQ1JaY0JWcENueGliT1RxbGxGYWh2OTY4Zkd4N0lCWmp2N256SGE5YkdmcmtNTHdQVXVkTUpUYzRs?oc=5",
       "source": "Jungle Scout",
@@ -346,11 +332,25 @@
       "query": "Amazon sellers news"
     },
     {
+      "title": "New Amazon report shows small businesses have created millions of US jobs and built thriving communities - About Amazon",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWmplNGE3d0tyUDZ3Yk92SmZkcXg0a0VsTlAyUjQxdzVIYkQtWUlWUXV5V3VQZ2prRnJYc1B6bXRRZFNNUFBleHhrOXFsR2NzdzBrN0RUbXNUdHlQS3J2WVF3Qml1NnF1eWZ4LW05dV9YUS1oNm0yd3ZKQ3owRVNXMks3UmNKc2x4TzdUYzlKTVp2aGc0UzBKMw?oc=5",
+      "source": "About Amazon",
+      "pubDate": "Tue, 20 May 2025 07:00:00 GMT",
+      "query": "Amazon sellers news"
+    },
+    {
       "title": "European Union pries open Amazon Prime for marketplace sellers - Retail Dive",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSUswcC1kOXpmRWVKTzhSSEZDWU9NcEt2YXI1N0EwV0RpUExEVWhvWC01UFFTRkc5ZlFQSkdwSFk0RWxrZmYzTi1WdHc2YTM1cW9NVHBqWlNOdTFLY3IwbFQ3Yko1eXEycXEyRGc5eFVFS0pkS2NYaHZOdE5sbHJWR2JNRzVSbUtQTF9MZkZhOFNseHgxT3hRYUdHV2hwQQ?oc=5",
       "source": "Retail Dive",
       "pubDate": "Tue, 20 Dec 2022 08:00:00 GMT",
       "query": "amazon.com marketplace"
+    },
+    {
+      "title": "How to Customize Your Storefront URL in Amazon Seller Central - Vocal",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUXhYWjhDekNHRm5PUmQ2ajZzUWxFbkNZcVp0bTRWSVRsOG53aGdod3NKbmJjRF9MODN4eGxrMU56TkJqNF9kYTJCLXkwbldueUU0UlR1NjF1TWJPdVdoY0FydDFwX0VJQUJQcDBCb3gwZUlVT2xmUkJHN3NXYTFMUF9iNEVULS1Fcm4zWE5yV1dUU1k?oc=5",
+      "source": "Vocal",
+      "pubDate": "Tue, 18 Feb 2020 16:04:42 GMT",
+      "query": "Amazon Seller Central"
     }
   ]
 }

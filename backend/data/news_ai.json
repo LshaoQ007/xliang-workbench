@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11 02:55",
+  "updated": "2026-11-12 04:02",
   "count": 50,
   "items": [
     {
@@ -20,13 +20,6 @@
       "title": "SynthID Bio: Watermarking methods for synthetic biology - Google DeepMind",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40WVZXTHl5UmxibkdDVUlrUlBoNWVCb0lUaThwcDd3QjVLM1FSd0lKSzlROC1sazVFUThoWWZlMWd4SmdObWgtU0g2cXFQM05RbGwyMzMydGZWbDI4V0JQVTJZQQ?oc=5",
       "source": "Google DeepMind",
-      "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
-      "query": "Google DeepMind"
-    },
-    {
-      "title": "Gemini 4 Argon: our next era of frontier intelligence - blog.google",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRjB3amppaF9yb1FhSmxoUW5GUEtCREcxbW1ScXJRRWN5ZGtIM0N0d21wVEI3ZTd5ZHY4N09KRWNwX3U2Z3JBeDNWakYxYXlBVE95NEpKWW5vcWFKZlA5Qkdka3hGZG9INUZtMVN2VTJhWG1TTldVSE1JVm5VaVlvcnpWRlhzX0V1NGJXZGhfMEY?oc=5",
-      "source": "blog.google",
       "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
       "query": "Google DeepMind"
     },
@@ -59,27 +52,6 @@
       "query": "AI video generation"
     },
     {
-      "title": "Gemini 4 Carbon: our next frontier model - blog.google",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHJxLU9oeW51ZGg2aG8xbWpXWjlhazdlbnJHSEZhdHhmQklFRnpKUkpPM1Vubk52TkNOMDRHM0ZWVmdlbGs0UHF5ZFY2QUpMT29DUUpFcXUxb084eGFWWXBpY0poZThuZ2NFbmVjempGam0za085ZHAxLXVuNFp4WkNvXzlhdTZsZWIyS3FXaEhFckliUzNialNtNW1sOS1MLUE?oc=5",
-      "source": "blog.google",
-      "pubDate": "Wed, 28 Oct 2026 07:00:00 GMT",
-      "query": "Google DeepMind"
-    },
-    {
-      "title": "Best AI Agent Platforms (2026) - Salesforce",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WaWVYUGJqR2xvc0NKZ3A5WmJ0R1dON1Vib3M1RE5VWlE3NmlnU3VIdVdzc1dBRDVMdDBHN3M2VDVyeW4zR1FLbkVCaXBiVVhaMDFRNFR5d25wSTJmUU1RaWcxbjluUjRE?oc=5",
-      "source": "Salesforce",
-      "pubDate": "Wed, 28 May 2025 19:03:29 GMT",
-      "query": "AI agent platform"
-    },
-    {
-      "title": "Grok Imagine API - xAI",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ycmRTdVlnOUNaXy1UOWdLNGJ4c0pQYjBkY3l6VDVpdWhRSDBiUDZXaE1DbUVWU0lZN2htY3V6SUhLMVlfdVZTWjdn?oc=5",
-      "source": "xAI",
-      "pubDate": "Wed, 28 Jan 2026 08:00:00 GMT",
-      "query": "AI video generation"
-    },
-    {
       "title": "Mistral 7B - mistral.ai",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QdVVIcFZ4V2hGeWI4SHVkdXA1bHloLTdrMVExb3NvekxlQTF1Uk9TSmJqNGhsY1p6d21ETmpBeFN4b0Q1dGFzYXp2SVd1My1DaTd5X0FzYi1qdw?oc=5",
       "source": "mistral.ai",
@@ -92,13 +64,6 @@
       "source": "Databricks",
       "pubDate": "Wed, 27 Mar 2024 07:00:00 GMT",
       "query": "LLM release"
-    },
-    {
-      "title": "DeepSeek rushes to launch new AI model as China goes all in - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTlY1cUx6SjlhdjlHNWRFV0dqNjdzQ2JQdUhHZUhZUExkQjhQbGZLNmloQzF2STUzZEkydkhnSDhRWlJtT1lJU0Vrak52dmEtTHlLb3RkQVFmRmdaVG1OejhGVTFDa05DOWpHR09xMHVnekZpZ1I4aDU5LUxJa2syXzA3TXh1dUZLOGdCcnRhRlhtM3JwdlVkRUxiV2czXzZhSEVFdEdPSjFmR3FCalNtVXZDcU1IYmI5eGN5VlN3?oc=5",
-      "source": "Reuters",
-      "pubDate": "Wed, 26 Feb 2025 08:00:00 GMT",
-      "query": "DeepSeek"
     },
     {
       "title": "Alibaba makes AI video generation model free to use globally - CNBC",
@@ -213,16 +178,23 @@
       "query": "AI agent platform"
     },
     {
-      "title": "Airbnb picks Alibaba's Qwen over ChatGPT in a win for Chinese open-source AI - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbWJ4MWp6ZEJSNGdLZnRabnVqNUluWDVfSHVndVVTSk9hRzgyLWx0c0UzVU52cDNieWJPSVM4dFU4R3FpOXlmVlBVN0xBVFhWVFQ4VEd2Uk54M2RmMERDT2lJeDg5dUJqRi1ZeFpkNkdBenp2S042dVJubWJfeW10eXdNaw?oc=5",
-      "source": "Yahoo Finance",
-      "pubDate": "Wed, 22 Oct 2025 07:00:00 GMT",
+      "title": "DeepSeek’s Annualized Revenue Hits $1 Billion as Startup Finalizes $7.5 Billion Fundraising - The Information",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeGU1QmdBMDNLUDlJNzByUU1LUWFCNHBodFQxdHN1WTk5RWo3NzdRMjNQVGlBYW1FN1laWVNtbVgxbXBrd3BnckFrZFgzRDZhSXYwb2xRYWlxMWV5alZZa1E5dDZNdDdkUTJMU1RVd3ZXWUpPU0s2aGY0MXBvSXNaZVZJTmxYNU5ENlh5c3RuUGNzMUFDZkl0aW03T1dFeWpEZnUtdmlsdm5va3Z4S00ybEtZSm91NWFjZEx3d1M5T2V2M3M?oc=5",
+      "source": "The Information",
+      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "query": "DeepSeek"
+    },
+    {
+      "title": "Alibaba launches Qwen Audio 3.1 with new models and slashes AI audio prices by up to 95 percent - The Decoder",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYVdTYkVkR2ZZNFZJdURHdlV1RzZGQnFuLXh0Vkd1MnFCQTFicUc3SnFCWUJRZlIxUFZMbEZlbUsxYzIyOTdCWUpiUXFMX3F5VVp6RE5yNVpiN1U5dklCQnZOeHpkMHNZRWR6TXM2ZV9fWm1PeWRMLU5hanhCbXZVN2pna21ucTR4M0hyQkxDNnh3eTNMNUQwWjltdkhZcjNLQXAyVkp3SnBZUXkxTHpJWFVTX3BFSDJHTXk4dTRkakRNdWc?oc=5",
+      "source": "The Decoder",
+      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
       "query": "Qwen Alibaba"
     },
     {
-      "title": "Airbnb chooses Alibaba’s open-source AI over ‘not ready’ ChatGPT - SCMP",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdEYxS2t4RnVDN0pVVDdSbk52OEdneG9fY2RNbWFjVGlpRWxGRW1iZnc5bmViaVIwTXd3SG5OamJLOEdXVWlaRnZrTS1HSWk4eFVrYXNuZjFKUWlydmozNU53QnVkck9KN2ZQVlc3UnBWTFB1MHQ3M2NYdGZ4eUJPamM4QWl3OElaYkhhZmxpU2EydFlvMjV5VWVqQ2ZMektraEY3U29WOWt3dkQ4V3lZZTBzQ1Z6T2xsYVpQTQ?oc=5",
-      "source": "SCMP",
+      "title": "Airbnb picks Alibaba's Qwen over ChatGPT in a win for Chinese open-source AI - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbWJ4MWp6ZEJSNGdLZnRabnVqNUluWDVfSHVndVVTSk9hRzgyLWx0c0UzVU52cDNieWJPSVM4dFU4R3FpOXlmVlBVN0xBVFhWVFQ4VEd2Uk54M2RmMERDT2lJeDg5dUJqRi1ZeFpkNkdBenp2S042dVJubWJfeW10eXdNaw?oc=5",
+      "source": "Yahoo Finance",
       "pubDate": "Wed, 22 Oct 2025 07:00:00 GMT",
       "query": "Qwen Alibaba"
     },
@@ -269,6 +241,13 @@
       "query": "AI agent platform"
     },
     {
+      "title": "real-world gen AI use cases from the world's leading organizations - Google Cloud",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNFZzcHc0ckFXSnFSMkVKZ3JyZmdlWmZpOGpOOFJWZUszN1dsaFl5MndRVWloX0Y3ZjRRanhhYTlqTGlLVjQwazVvQ2dyMlAwQU1SR3ZHSmxXYUlCSTZjblV0THNEaVlTM21XMGdwc0xYcnRyWUdZcFBmZHdIWXdfLWxRWUpnVm95WW9WLVZWcVFKMzU0RHdXR3ZKRQ?oc=5",
+      "source": "Google Cloud",
+      "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "query": "AI agent platform"
+    },
+    {
       "title": "China’s DeepSeek Raises $15 Billion to Challenge Top US AI Labs - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbV8yRlI5QUgtclQ1Y25PbklMNW5ITlNyUm9udEYwQkFaRmoxZ3R4bVdKOEItVVpLX3lXejBfSzllSVZUTFZuRDVSckkzcHJrUnZwRVhCamxrMzh6cjVPYk04N0thbjRlenFlLXZpT0E3TUtsSzFlS1VBY2NHRTh2Rk5NNDhXRVVoYnJHMWFPbFVPbzZoQm5VMzBpREs5b183eE9PQTZ1SGgySkVxTFE?oc=5",
       "source": "Bloomberg.com",
@@ -304,27 +283,6 @@
       "query": "Midjourney"
     },
     {
-      "title": "Accelerating discovery in India through AI-powered science and education - Google DeepMind",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcVdtbmQyUUstc1NTaDVSb1F4U0k4WXhoTkktVVBIT2hRenF0NVNPR1NoMnZjTWxFX3BjaFBpV1RCdXp6ZDJLTWs2R3NrUy00NHhmY0V4NlVNWTlvWnVoYVhLLWM1eGFjTF9BODdRMnhaUFBEVkZXNDFreXFHY0xxYVphc1d3cmVHZGNUMWJkd3k1ZEV6b1MtT0Y0WHh2aWdObzFhcw?oc=5",
-      "source": "Google DeepMind",
-      "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT",
-      "query": "Google DeepMind"
-    },
-    {
-      "title": "Agentic AI, explained - MIT Sloan",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nNkJMcjBySVgtWG5XemFIRzVObzZIaEpFZzNLZldpWGZGVWlfNWtONVhmSDlnNjh1ZXo0YkpjR0RnREJ3bXhxdUtkU2ltSnZqUHJnU2tBWXhvc0lqMnpma1JsSk9ONi05S1BBWk5XSFUyaTJH?oc=5",
-      "source": "MIT Sloan",
-      "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT",
-      "query": "AI agent platform"
-    },
-    {
-      "title": "DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnTk82ZFdITTlJMF9jbnhjLVBieTBPbFFhaGtqRFlKdzZOYjRrNkVJeFpITDd0MlJ0TEtrNHQzQ1BjLTczMjZYcGt1U2FYRGNBTWRpNWhxSi03QVZhQWxV?oc=5",
-      "source": "Nature",
-      "pubDate": "Wed, 17 Sep 2025 07:00:00 GMT",
-      "query": "DeepSeek"
-    },
-    {
       "title": "Midjourney goes from generating cat images to full-body ultrasound scans - The Verge",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcGItUGdjVTdnU1BhU19vUGtaWm1pNklsVV9RODJnSUFqN08ySm5ONS1sT1lpb0M3bUlXTWZLSC10VkRqeE5tc2ttU0xKTUFuODFDaGRBR2ZKUEdLejdEM2xNRXRLend4X0ZTTWdJMzdieHB1a0tiNklBbF9OWThlSngxaGxNR1ZPc0ZPT3MwcnAxMjRVaUpQdWdlQjY?oc=5",
       "source": "The Verge",
@@ -339,18 +297,60 @@
       "query": "DeepSeek"
     },
     {
-      "title": "Deepseek Unmasked: Exposing the CCP's Latest Tool For Spying, Stealing, and Subverting U.S. Export Control Restrictions - Select Committee on the CCP | (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdFEtRHl1Y1hQUUJtUzdhd3p0SzdsTWNvQ3NDdzZtMHU1WkFvQmVkQU5vSGx6R3BqX1M1QmZJbzE0dXhLV29YTHBjNzlaN2Zkb3BDN3JxU2I4WFg5c09Yb3p4eU9KcDJHMEEzTTN2WVJBRGI5SDg1NVU1YVVOOFpPRkxCdWlCaGp6SVZlSlZUZVR5b1B6TUl5bzkwWVg0bDVoU1FPeFJmek1EREkyc0loVnN4NHdlN3J3MW1ZYmUtTzVvZVpUeU8td0d1TnlNek1Dd1pORnFPdXVpMDh0Y3paSnJIWFI1QTRya1RsU0JneWJOVllqNzNHclBB?oc=5",
-      "source": "Select Committee on the CCP | (.gov)",
-      "pubDate": "Wed, 16 Apr 2025 07:00:00 GMT",
-      "query": "DeepSeek"
+      "title": "New TensorRT-LLM Release For RTX-Powered PCs - NVIDIA Blog",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xYW54b2FuWVRPM3NydzFnblVFeVFndjh4V1pFbEVTZWRZNXVkSUxiYTRyYnA5QXhJak56RkctWTNVTEVxVnBxOER2R3J5NUZRN1BaVTQySzdJSURkNnp5c202V2lvTy1RMzdlaUJSeUdsUmN6?oc=5",
+      "source": "NVIDIA Blog",
+      "pubDate": "Wed, 15 Nov 2023 08:00:00 GMT",
+      "query": "LLM release"
     },
     {
-      "title": "Repsol launches intelligent multi-agent platform, consolidating it as a global AI leader in the energy sector - Repsol",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQd1BfM3hHSEpCb0c0TTE5NV95dXc0dDExTVFFX19ZazhhWkhrcXFtSDZpRUtqejZaWElGU2lRUjJaU3NKbC1iLUx0bVZ0SDVReE5HV3FxT3lRc0ExbHA3cFdTbnBlclFMVnl6bW5ZTzJjNm9lMkRmWktXb0s1SjBKTVJKeWtUS0VmT1BaSk9mOFU3VFppU3JqT2J3Qkw1d3p4WjVjejlOTndCcG4ydmlQQmNiNXJ3UnhHa0dDVTI4Q3RTNTNvc2dld2FycnpfbnFpTXRWMzEzVzRJOHBPVDFzZjRXZEJFVmp6Wmt6QllCdnFSQ2pPaFE?oc=5",
-      "source": "Repsol",
-      "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT",
-      "query": "AI agent platform"
+      "title": "Alibaba’s U.S.-listed shares rise 4% after Qwen AI set to be integrated in Apple Intelligence - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KZGV6dDJ6U2R1eTJ1bFZleUhNX1FtMXFaOFBWaklmVE1PWV9vNVhDZGgybFdIQUlHNW5QNm53Z3B0LWdZUG9GaE0ySDNwaFUzT2R1YzhJWHRUM2c3Z2Y4cXNpS1I1RE5LWXEwT3FYMlo2TnJiMF9rc2JLZ9IBgAFBVV95cUxNSkp6a051Tm55Q1RtU0g5REJwajJnSUlqZi04NUJkNTkwYVFtNVNpLTBFOGh5VDFwYUVPc01sSVVZYko4SE9wS0ItTzFHQjF5emZRNzhWcTZOeVZ0UEQ2Vi0tWi1EN01CV1VabG1Jc1pvVGtKeFM0aDlnUTI3TDZYaw?oc=5",
+      "source": "CNBC",
+      "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+      "query": "Qwen Alibaba"
+    },
+    {
+      "title": "On-Device AI Against Scams - Google DeepMind",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVWm4yeFpMWXAtMmRmZm5JTGVxVk1uZWJFX00ydzE4eEh4dEV1QXJXcTNwU3E0NEw0aUJCMXJrM2VqMmNKUmQtQ0IzNlhoMlhEX25wRjd5Rno2dDFXZmZuMTZWU0owYW5xZGVnRF9OUQ?oc=5",
+      "source": "Google DeepMind",
+      "pubDate": "Wed, 14 Oct 2026 07:00:00 GMT",
+      "query": "Google DeepMind"
+    },
+    {
+      "title": "Midjourney: Report Claims AI Model Is Worst Offender For Flouting Hollywood Copyright - Deadline",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObHhSWFJRUWlhZFhjWEM5OHBCaFRsN0Y3eURKV3BkX2lUU3VvZ0hEQ3lQdkkxaU9NekpvVVJfZ25BQ1g2TXVzNkV4Z25UM21yNmpCTW5SSHdMaFNUQUNZcGpOWXlwNjE3T0RadHYwZDlPODk1dEVldVZlV09UaTJyekgyX0tBU2wxQjJ3Z3Q0VEtvQ1BrLVRuWEcxNA?oc=5",
+      "source": "Deadline",
+      "pubDate": "Wed, 14 Oct 2026 07:00:00 GMT",
+      "query": "Midjourney"
+    },
+    {
+      "title": "Alibaba upgrades Qwen app to order food, book travel - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOby1ldm9qNGM0SGJ3d2xoTDUwM2pWZTdNNmZHNzhtNmx2NXpwVXc5cmI4azI2M2k1R2tzWXYwdmR5ZUhGaEpMZEJBV25PSUpEalhzcUhOdWVFZ08zalhJOHg5UVRoQVdtOTRpUEVkTU8yWm1VZ3JKVG5QTTd5UnA1bFJnaXFBeEZaY0FZcXVxOTZhMFI3am11NXJrbzM?oc=5",
+      "source": "Reuters",
+      "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
+      "query": "Qwen Alibaba"
+    },
+    {
+      "title": "China’s Alibaba Links Qwen AI App to Vast Consumer Ecosystem - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZVVzVERUMFZkTGpIaENGZjJ4OFlQcnlxNF9QOFpobEhnZHJyalhDMUNPMEZ3ZnBqNkhYWXA2WmluXzEzS2ppZW1teGItcWRvQnZzOVJ2eHg1QVJZbkpJQkliUkZtOVFhNXR5NUZFdi1oM3FnUHdtNmZUbHhnVW5ScVF0Z2toNWJmZnVfa2Zxb2hpc2xNbEJ6MA?oc=5",
+      "source": "WSJ",
+      "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
+      "query": "Qwen Alibaba"
+    },
+    {
+      "title": "Adobe’s Sora-rivaling AI video generator is now available for everyone - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVTAxbzFxVFF2a0pXTGZCcFJkSndTMkNzZXl4akQ0UmMybmtfUVYxbDNYakRBLXFpMTZqaFlaUlZQcXRBakFxRHRMTklqSFlqbXdCMGRyRGZGNkNpVktKanRUMVhqVU5ZTGlUZE9RbHdwNFF2a3JFS1NRdlR1a3FwN25kLURGYUpzbWc?oc=5",
+      "source": "The Verge",
+      "pubDate": "Wed, 12 Feb 2025 08:00:00 GMT",
+      "query": "AI video generation"
+    },
+    {
+      "title": "Putting sign language AI into users’ hands - Google DeepMind",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KVXNiQ3JHU1hzMG1la1dyWTRUenFiaF9NelVKYUgxd2RteUhHQWlUSC1FdUtIeFVpTkl1TnAyclE0cUFQclFQVG45M0MtYnkyOXZaMDhaSjNhekV0ZGhWTE84ckdXM3NHcWJHX1MyWGVNTjJ0UktFRXVBZw?oc=5",
+      "source": "Google DeepMind",
+      "pubDate": "Wed, 12 Aug 2026 07:00:00 GMT",
+      "query": "Google DeepMind"
     }
   ]
 }

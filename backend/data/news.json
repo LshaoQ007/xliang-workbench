@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12 04:02",
+  "updated": "2026-11-13 03:31",
   "count": 50,
   "items": [
     {
@@ -129,6 +129,13 @@
       "query": "Amazon sellers news"
     },
     {
+      "title": "Amazon introduces AI agent to help sellers with tedious tasks - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93U212bURvSDFhZ2swWlhBMWlUUmdhOUVnc1dzWUs0emU4RFVwUF9na18zeHJnUjdSMVJ2TVNlZUQ2aXFFSF9zT3J2eEZ6UTR2UVlWbGoyUGxveHV5bE1xd1dKVHktU1Q4Y21ZY9IBckFVX3lxTFB2eWs4SDFzR05HeWNVaFdjcmRwZnk5My03aE1WMUdQSXlEazdBT0dHdEI4cGg3c010QUJuOU9pUDlVLW1yU1VRUXoyZGlwRFpKTi1lVmVDUGh2MzFVQ1RWMEtaVTRqVzQ2TTdzX0FHYVYzdw?oc=5",
+      "source": "CNBC",
+      "pubDate": "Wed, 17 Sep 2025 07:00:00 GMT",
+      "query": "Amazon FBA update"
+    },
+    {
       "title": "Amazon introduces agentic AI across the seller experience, transforming how sellers manage their businesses - About Amazon",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZmJXblB2NFlQSF9zbjNfSVVHSWpBajQ3MVBGandHMmt1UGtiaFpCRFpfbUU0MWNoZ1hmWVV6RF83MzBsbnhrQ0daMVlaS21aeHprZGVZN0xXSEtULVg1U0VfVmxnTHQwVFF3YTZWY1o2TTRSS3FDT3Q4Uk94WWc2aDhrLXZNdEhq?oc=5",
       "source": "About Amazon",
@@ -192,24 +199,10 @@
       "query": "Amazon sellers news"
     },
     {
-      "title": "Amazon.com announces first quarter results - About Amazon",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcmlXNUY0YkNobmFkeEhiaEVvRDJfZXhCUTNIUnF3YUN5c011VlhPdngxdWZmcWRMM3hfWnlibXdvYWRmYl95WkdSaUw3aFRZUDdFR0FkRjNuQ24zazAxSENzUEtCRGh5TXJ1bW9taG1Mb2ZQdWhucTVZc3VyR3hrNTRn?oc=5",
-      "source": "About Amazon",
-      "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
-      "query": "Amazon sellers news"
-    },
-    {
       "title": "Amazon S3 is now available on the Vercel Marketplace and v0 by Vercel - Amazon Web Services (AWS)",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lR2FkS3BlVjdzcGxvNkxCRmpxYm9aX2pSRVZMTlhBOUc3azVOM29HdjNKVkhka1NUVDZnakdITHdCMFI4Ym5taG5TQzZHOFE0dkxBT3UtOEk2ektzV0Ruc0g2MHlkQUxwbGgwMzc0NGhOWVE?oc=5",
       "source": "Amazon Web Services (AWS)",
       "pubDate": "Wed, 14 Oct 2026 07:00:00 GMT",
-      "query": "amazon.com marketplace"
-    },
-    {
-      "title": "Deploy third-party software add-ons from AWS Marketplace to Amazon EKS clusters - Amazon Web Services (AWS)",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTUVKQVlUMXNSRXpRY0NPaldzTG5XcFRsM1cwUHNZdmtGcGdpbG1GMlJBWmtJaUg1WTI5d1JqVmlHLUliOFoteXZteHBaWUh2NUtQZmlRcmFCZ0xjSHFWQklNckN3TElvV1JyZndFZFlmT2hDMURoWEx6NzY5XzFjNVRmZVlGTUxjMjJLLUVaM0VmU0s1N2pnQldYb3NmNW4yXzNLLWhTQTBnTHpkaC1XdEpKZURtSjA?oc=5",
-      "source": "Amazon Web Services (AWS)",
-      "pubDate": "Wed, 14 Dec 2022 08:00:00 GMT",
       "query": "amazon.com marketplace"
     },
     {
@@ -227,24 +220,10 @@
       "query": "Amazon sellers news"
     },
     {
-      "title": "Corporate Skate Shoes Asics Sues Amazon Seller Over Alleged Unauthorized Sales - Shredder News",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zalh0WXRMUl9YMUlZaTJjQ2JnSUV3RWlueS1Ubk9QZnpLU3VhRTE1SFBlRk9TNEcyc0VqMHZEQUtpRHhEYUdCbDlzZU9PVlZxS1pqbW1iNldSR09OV1FBRlFxUW5XOFE?oc=5",
-      "source": "Shredder News",
-      "pubDate": "Wed, 11 Nov 2026 17:56:42 GMT",
-      "query": "Amazon sellers news"
-    },
-    {
-      "title": "Dylanex Announces Q4 Inventory Preparation Guidance for Amazon Sellers Ahead of Holiday Shopping Season - markets.businessinsider.com",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVGZSLWxWTmdmVnh2dU5WZWVpMHlRMG8wdENULXdFVXpUYTRFaVdDVmp3RmxjUnliLVAyYUw4a2pTN1dJdWZ5NTlBUGlaSWFMSy14ZC1zRG5UQkVEbHJwSnU4R2plZmlmVl9ob0xuRU8xX0lJZi1SMXZibHhFU1d5V1dmbFp6WHA2QnZUOGluUF9BYVFfSGJIUjFMUkVQQngyUFlPUmgwTzBtREc4ejlFa3JLaDI2cnlXMU9JX3dFellIY0hyaFpYTllXVDdpLVM3RzlaZXpxeFMwXzdTYWNtODRLWGRFV1ZEai1pSFloR3o2VlRK?oc=5",
-      "source": "markets.businessinsider.com",
-      "pubDate": "Wed, 11 Nov 2026 15:21:14 GMT",
-      "query": "Amazon sellers news"
-    },
-    {
-      "title": "Dylanex offers key Q4 inventory tips for Amazon sellers to avoid stock-outs and manage holiday demand. - Pluang",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNckFLelRrVkdlaTB4azhhci1aeHU0YVBEeWdCRGNfZ3pPQ3E5djFyd0MwMWZoSEtkR01qVlpETUtrTGFWTXdzMDk5anEzU1ZyaVZpOW0xNTMxQW5mOWFxZE80eGRXVjhISTROenlEakYtdk9ZaGJvVEZ5N0JaRkk1QTFwekh5SjhCX0ktM0M5VkhZYi03cFQwbnJ2Skd3anFzZWc?oc=5",
-      "source": "Pluang",
-      "pubDate": "Wed, 11 Nov 2026 15:17:04 GMT",
+      "title": "Amazon's Selling a Cobblestone Birdhouse That Looks Straight Out of a Fairytale - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORDBCcFRuUlpjZEUzdkJlWlNBb1pkbHh4ZHJZLWdjMHZ5YkJ3NExCSlRBZUhWaGlRR3pBWkl2WXVfSGZxdnhDcWZoTFFXNFZwZGp0OFFFa1dCRXlkUi1yb2FpVk1CSGpZa2s3WFRXWXRTbU1LUkNwb3E3bkh2ZWJKMTROQUJTNG9PVnUtdmU3MlZKTlpBZHd3UHhnN3FTeE84R3laTE5ud2FFakhfUTdyc09kNG4?oc=5",
+      "source": "Yahoo",
+      "pubDate": "Wed, 11 Nov 2026 22:35:29 GMT",
       "query": "Amazon sellers news"
     },
     {
@@ -351,6 +330,27 @@
       "source": "Retail TouchPoints",
       "pubDate": "Wed, 02 Oct 2024 07:00:00 GMT",
       "query": "Amazon FBA update"
+    },
+    {
+      "title": "Amazon's fake discount crackdown: List Price rules tighten April 23 - PPC Land",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRUYxRnU3RGVJNEltUjBLenhOR20ybi1Idk1nbGdTcWtqMExCMS05TlpBMFlQMWY0Ri1xSUZsMnh6bXc2TXItMGVVMl9VekZNSHdyWi1iQTV5RDNXMWRHRE9Nb1FQUlFnbnAtaG9hVWdhX3BCRUFqUU5tTUF1N1VKeGZOZFJaZEtQV0U0?oc=5",
+      "source": "PPC Land",
+      "pubDate": "Wed, 01 Apr 2026 07:00:00 GMT",
+      "query": "Amazon seller policy"
+    },
+    {
+      "title": "How to Become an Amazon Seller - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42Mk9nSUU1YkNVcTJhWFllc0o2QXh5M3VGYUZTa3Q2ZUNma1V0Q3pJS2NmMnc0WDFPN21Mc0tOWHk3aGdKTWc1YWFaQ3BMQzVwZ1ZMM0dKX0dncnFFblktZUxWdkdpa2tKeUZWMmZjMlBRYlZxbGc?oc=5",
+      "source": "Investopedia",
+      "pubDate": "Tue, 31 Oct 2023 17:00:10 GMT",
+      "query": "Amazon Seller Central"
+    },
+    {
+      "title": "The Total Economic Impact™ of using AWS Marketplace, a commissioned study by Forrester Consulting - Amazon Web Services (AWS)",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUkxDY083Z2pvc25EaHJXeDZ3YndJb3piUWdYYlBoTW1Nb3VXRHhDLXR4RWpFV3JBcHBucGRfWGRjQnVlZ05SRzI4SVJnNEZRVXdXTnVGM0VUQS1EaEVPakV1RWFCQUhqZTNVbGVNa0VoYUs2azQ3d1Bhckx6SDZPUlBfNXliQjVJX1ZtSUd0cmVzWDVWT25XUzM0cWxzZzUyenRzM3FROHI3dUVpaEdwLXg5SFBFVno3WDNLSDcxOHZpZHEwWkdGRlB3?oc=5",
+      "source": "Amazon Web Services (AWS)",
+      "pubDate": "Tue, 27 May 2025 07:00:00 GMT",
+      "query": "amazon.com marketplace"
     }
   ]
 }

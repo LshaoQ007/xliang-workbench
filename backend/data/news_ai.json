@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-13 03:31",
+  "updated": "2026-11-14 03:28",
   "count": 50,
   "items": [
     {
-      "title": "Midjourney vs Stable Diffusion: Creative Clash - eWeek",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uZHctdGs3SFpwSXI0UTVDSUpjOVNNQ2JmM2hNbVVxYWtJRm9WVFllbjRkcUtpSWRQejJ0ZnJWNjVudWRBRlhiNWZXQV9oZV9VcFM0U2ZkUjNkSE5hMVJDSFhkVEhWMzJBeFRYaWtJS0dvSWlP?oc=5",
-      "source": "eWeek",
-      "pubDate": "Wed, 31 Jan 2024 23:49:26 GMT",
-      "query": "Midjourney"
+      "title": "Why 2023 Was AI Video’s Breakout Year, and What to Expect in 2024 - Andreessen Horowitz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeGhuOGJqVll6cFpkcXRJQWNFeVVhWks1d29JQVV1QkcxejdrMThBMmhCUjhDdEVaSkFnWDhjRVFHR2p0VGpKOFJSZF9odk13QktkejdjQmdUVVI2VTlONnJsNGx3aW1HQkJ6NGFpcFQxMEI2TVk4TzE1cGNyX1U4ZGRLUjZFSk5H?oc=5",
+      "source": "Andreessen Horowitz",
+      "pubDate": "Wed, 31 Jan 2024 08:00:00 GMT",
+      "query": "AI video generation"
     },
     {
       "title": "SynthID Bio: Watermarking methods for synthetic biology - Google DeepMind",
@@ -15,6 +15,13 @@
       "source": "Google DeepMind",
       "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
       "query": "Google DeepMind"
+    },
+    {
+      "title": "Leading Chinese Tech Firms Target Nvidia’s A.I. Dominance - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSVnEtX2xUV3VfaDRUanAyY2Y0Q2o1WEZRM2hTVEFIRDg0SGIxYUtGR1lNbkpRaFgwS0NHSGdvOXNfaUpkMmxCTDZ0dEhuaWRjZkwxejNjTkU4LW9tMlpEUl9rUFF3MmFYZnRJY244UkFzNkZzZmtVcDZpY0JEQQ?oc=5",
+      "source": "The New York Times",
+      "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
+      "query": "DeepSeek"
     },
     {
       "title": "Alibaba unveils advanced Qwen 3 AI as Chinese tech rivalry intensifies - Reuters",
@@ -38,11 +45,18 @@
       "query": "DeepSeek"
     },
     {
-      "title": "Grok Imagine API - xAI",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ycmRTdVlnOUNaXy1UOWdLNGJ4c0pQYjBkY3l6VDVpdWhRSDBiUDZXaE1DbUVWU0lZN2htY3V6SUhLMVlfdVZTWjdn?oc=5",
-      "source": "xAI",
-      "pubDate": "Wed, 28 Jan 2026 08:00:00 GMT",
+      "title": "AI Video Generator - Klink AI - 在 Windows 上免費下載並安裝 - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XakctVm04MGVtZ2k3V1l6T3JPelNuc3draVI1SjhZM3h4bnFqZHEtTnVUT2lyejVNeHdBM1d0SERvbWhtRHBEWDNYclFzdFFEUWNNUkNId2dNY1hlMW9RV0l5MFc1VHNYd2FPcEV1cm1JWE1wTHFYVDRjQ2RpYVk?oc=5",
+      "source": "Microsoft",
+      "pubDate": "Wed, 28 Oct 2026 12:19:59 GMT",
       "query": "AI video generation"
+    },
+    {
+      "title": "Best AI Agent Platforms (2026) - Salesforce",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WaWVYUGJqR2xvc0NKZ3A5WmJ0R1dON1Vib3M1RE5VWlE3NmlnU3VIdVdzc1dBRDVMdDBHN3M2VDVyeW4zR1FLbkVCaXBiVVhaMDFRNFR5d25wSTJmUU1RaWcxbjluUjRE?oc=5",
+      "source": "Salesforce",
+      "pubDate": "Wed, 28 May 2025 19:03:29 GMT",
+      "query": "AI agent platform"
     },
     {
       "title": "Mistral 7B - mistral.ai",
@@ -66,11 +80,11 @@
       "query": "LLM release"
     },
     {
-      "title": "DeepSeek rushes to launch new AI model as China goes all in - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTlY1cUx6SjlhdjlHNWRFV0dqNjdzQ2JQdUhHZUhZUExkQjhQbGZLNmloQzF2STUzZEkydkhnSDhRWlJtT1lJU0Vrak52dmEtTHlLb3RkQVFmRmdaVG1OejhGVTFDa05DOWpHR09xMHVnekZpZ1I4aDU5LUxJa2syXzA3TXh1dUZLOGdCcnRhRlhtM3JwdlVkRUxiV2czXzZhSEVFdEdPSjFmR3FCalNtVXZDcU1IYmI5eGN5VlN3?oc=5",
-      "source": "Reuters",
+      "title": "Alibaba makes AI video generation model free to use globally - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZjNueEZ4ZmNOdFRyLXZyamZXcEdwVkhyOF9rUkdxNWdoel92OU9Hdkd5ZTV0ck5NT09GNXk4NTRmTlpxOS0tR2dsaW5BMHU3V3ZIXzRCT1E1VEJGWVpWRVNoYXhOM19GQ2VCeEN5NzRxM184OVF2RlkwaXpQN2hKRVpEX19leC1DQTdTRlJ5NWZwR0xaNkVFOXJtMEpwUdIBowFBVV95cUxQc0ZuMTZKWjZ5eHFpdVdOY2REdi12WFREUDByMHZ5Rkd3dlp6VjYtalhuXzJDci1Ddno1UkwtZ2FTVkpFcXpwYlA1ZUNfVkJQOC1WUDZFTDJnUlU5eW5lYlotLUU4YWZWN05OTnRmQlFYSXl6SnU5MUhRdzJqRngyR1puMGRWWjNlQ0NJN2FvOHphV09iSGVZVlg4YjVlam13ckFj?oc=5",
+      "source": "CNBC",
       "pubDate": "Wed, 26 Feb 2025 08:00:00 GMT",
-      "query": "DeepSeek"
+      "query": "AI video generation"
     },
     {
       "title": "Alibaba's Qwen launches Qwen3.8-Flash AI model with lower training costs - Reuters",
@@ -78,6 +92,13 @@
       "source": "Reuters",
       "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
       "query": "Qwen Alibaba"
+    },
+    {
+      "title": "I Spent Hours Testing NSFW AI Video Generators. These 5 Are the Best - PCMag UK",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKbXlqaTdiSHBkUzdmYWtHblhXaVBSOGpfTmpndGJrd3ZTVGpqY1lsaW1MQjk2cDZhbE05NVZVRW1yOVZ5RlJzWlVEREYzdUNRTkNZMl8xSmRhUGtPd1VrcEVZSVhqd2pqTmp6UnhsNU4xUy1QeEpn?oc=5",
+      "source": "PCMag UK",
+      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "query": "AI video generation"
     },
     {
       "title": "I Spent Hours Testing NSFW AI Video Generators. These 5 Are the Best - PCMag",
@@ -108,18 +129,18 @@
       "query": "AI video generation"
     },
     {
+      "title": "OpenAI shutters AI video generator Sora in abrupt announcement - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxSjhhNmprLUw4djBMbENiYnlqSjZ0c2lBR3ZEazNkMnlyTWFJZmlHWU1PLVdlRWx2enNxNkFOS041SWNfRTVsVHpnY2lJUVR6MFVISnU1MkI3dTJnWVVTb01ObDRPR3YwdTVHaTRDVnVWRUE3cVdnSUpTTQ?oc=5",
+      "source": "The Guardian",
+      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
+      "query": "AI video generation"
+    },
+    {
       "title": "Disrupting malicious uses of AI | February 2026 - OpenAI",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRUUM3VFYtbG5Ed2l2WTQyX2xYZXQ5U1VuU0tCWmp3V2w3TlZmd05kMXNLWVhVZ3BxSXQtYVhpdUNkeXpqUVR6V2Z5RGgtTnZYSFpTazl6YURLbUZUdWVnc2NNTk8?oc=5",
       "source": "OpenAI",
       "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT",
       "query": "AI model update"
-    },
-    {
-      "title": "Putting ideas in motion: Redefining AI video with Adobe Firefly - Adobe",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMlNVZXFaY2ZmTlA1UV9QWWlqRmdMM1A5UFRac0FKSld2Wk0tZFlXSlVFSHJKdFRqSGdJa21mMC16aE9uTFY0R0pLSUdSc096aDRHNzJXbTFfc0l1ZGxvZVZEMHBoTll1UHBTTDMxNzltZm0wOFBod2JNUzBlenRzbEdKX2ZkSC14ZVRnNVhzOTRERF8tb2pKSmMtWGdmNHZhR2p1UlpiYkJjeTQ?oc=5",
-      "source": "Adobe",
-      "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT",
-      "query": "AI video generation"
     },
     {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip - OpenAI",
@@ -143,10 +164,10 @@
       "query": "Qwen Alibaba"
     },
     {
-      "title": "Introducing Stable Video 4D, Our Latest AI Model for Dynamic Multi-Angle Video Generation - Stability AI",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MVGZjSVIxdzFhSkFlT3VFdHZsdkpvOS1ReDdEZHd0NUhWNUxEYlBGVGFVWWstdkVYVkV0eHdIeGR6d01BU2VwY2VDdU5pbUtGZzBQb1pUNlZXMUtFMnc?oc=5",
-      "source": "Stability AI",
-      "pubDate": "Wed, 24 Jul 2024 07:00:00 GMT",
+      "title": "Google’s latest AI video generator can render cute animals in implausible situations - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbmRvYU9EZUw0RVF0OFppc0cxQS1QZEg4R1ZlN3hyQzFSOTdmTWdXZlR2WXZ2Zmd1bkhYdUxNZGxhZjRyYVNONHo3UnZ2Zy1BdjNrYVduWU1TMjc3dzMzVk9DZ2F4aWZwcjFfaFRyT3huLXZMclZvRFNCTjJjMVRoOTdXcVhfZVVsZjJBUE5kRnR0ZVBJTTkyZkZLaDdULTBUcGRfd0E0S0ljTzhEWXJBMlZRcC1DODNUZWg2dHdYTGQwaW1WanJCX1poOXd5OFZaRU4w?oc=5",
+      "source": "Ars Technica",
+      "pubDate": "Wed, 24 Jan 2024 08:00:00 GMT",
       "query": "AI video generation"
     },
     {
@@ -169,27 +190,6 @@
       "source": "Google for Developers Blog",
       "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
       "query": "AI model update"
-    },
-    {
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE90S1FDR1RBcUt5a1k5OVFkS1JTeDJ6ZHpRZEhNbTlrVS1FOWJzOFJTRk53aGdXcXZ3LUNCWjhiaEdvRGFjTnc?oc=5",
-      "source": "OpenAI",
-      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "query": "AI agent platform"
-    },
-    {
-      "title": "Alibaba launches Qwen Audio 3.1 with new models and slashes AI audio prices by up to 95 percent - The Decoder",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYVdTYkVkR2ZZNFZJdURHdlV1RzZGQnFuLXh0Vkd1MnFCQTFicUc3SnFCWUJRZlIxUFZMbEZlbUsxYzIyOTdCWUpiUXFMX3F5VVp6RE5yNVpiN1U5dklCQnZOeHpkMHNZRWR6TXM2ZV9fWm1PeWRMLU5hanhCbXZVN2pna21ucTR4M0hyQkxDNnh3eTNMNUQwWjltdkhZcjNLQXAyVkp3SnBZUXkxTHpJWFVTX3BFSDJHTXk4dTRkakRNdWc?oc=5",
-      "source": "The Decoder",
-      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "query": "Qwen Alibaba"
-    },
-    {
-      "title": "Anyone can make stunning HD videos with Gemini Omni in Google Vids - blog.google",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMnNJNVpNRmFXYi01NzlvMFZBSDUxSXZuLTNDTm4zNGpCcjd1aUlNUkktc19sdndCYnMzS0tOVFRYZnp0TS1uLU1qRVRGeTRDenpYYlRUal9vYXFLY1VDMFBQeTE5U3VOZGFpUkN1WWVOQzhVSGhUYkxxd2N4MFRFN2RMclZ2eTFGWUZXWkFucU5DZ1U?oc=5",
-      "source": "blog.google",
-      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "query": "AI video generation"
     },
     {
       "title": "Airbnb picks Alibaba's Qwen over ChatGPT in a win for Chinese open-source AI - Yahoo Finance",
@@ -255,6 +255,20 @@
       "query": "AI agent platform"
     },
     {
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYXI4MDQ5UDdXZDNuUUpwYkVwY3RYM05lZzhqcFhlb0NfeDVacEFfYkNQWkRuNDZPM05pRndYcjZ2QXBxeHA1ZnpaSVZjNEhXRnZvdkhTZTR3aFppbVlxUXJpeHRhSXRvV0R1VFRuUmhNeTdmdkJ5ZVNmSGFmWlNPbjZ3?oc=5",
+      "source": "OpenAI",
+      "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT",
+      "query": "AI model update"
+    },
+    {
+      "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases - The Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVllBWEktMzdicFV0SnpNQTVyZUJMSEo5cUoxOXF3Y3FObUFkblhKN0lKMnhlLVE0Sm5kYlkzejQ1cmpPWnFMZFJObnlVVHJCRThlYTZ4UUxPOWVnLWNXQjMxM21GdEFYdnVKZUJfWG5XZTJtNFVwOFo5alJqZWd0eDREcGU?oc=5",
+      "source": "The Hacker News",
+      "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT",
+      "query": "DeepSeek"
+    },
+    {
       "title": "China’s DeepSeek Raises $15 Billion to Challenge Top US AI Labs - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbV8yRlI5QUgtclQ1Y25PbklMNW5ITlNyUm9udEYwQkFaRmoxZ3R4bVdKOEItVVpLX3lXejBfSzllSVZUTFZuRDVSckkzcHJrUnZwRVhCamxrMzh6cjVPYk04N0thbjRlenFlLXZpT0E3TUtsSzFlS1VBY2NHRTh2Rk5NNDhXRVVoYnJHMWFPbFVPbzZoQm5VMzBpREs5b183eE9PQTZ1SGgySkVxTFE?oc=5",
       "source": "Bloomberg.com",
@@ -274,13 +288,6 @@
       "source": "Google Cloud",
       "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
       "query": "AI agent platform"
-    },
-    {
-      "title": "I Saw the Future of AI Film and It Was Empty - WIRED",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSEw4TmZIUDdIdy02NHRxaVFOQmo1Q2N0NzVqd2drYnVWSUxLZWlxSTdWWTg4ZU1yRUs1bHpxeVFSbXhMMTBwNmhtam0zbndhcm5KLXVrbGVNR0c4UkZaT1lWNzVsZ3RMclk0UWJKTGRXX0hIQUJmTjRSMUJ3Y2xLUjlvelM4N2U4aU9pcU9nLV85RE0wWi1memtURER1eW1CUDBObW9URUNfaEh2WHRCeW5JeFVUc211?oc=5",
-      "source": "WIRED",
-      "pubDate": "Wed, 20 Aug 2025 07:00:00 GMT",
-      "query": "AI video generation"
     },
     {
       "title": "Measuring AI Ability to Complete Long Software Tasks - METR",
@@ -304,18 +311,11 @@
       "query": "Midjourney"
     },
     {
-      "title": "Agentic AI, explained - MIT Sloan",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nNkJMcjBySVgtWG5XemFIRzVObzZIaEpFZzNLZldpWGZGVWlfNWtONVhmSDlnNjh1ZXo0YkpjR0RnREJ3bXhxdUtkU2ltSnZqUHJnU2tBWXhvc0lqMnpma1JsSk9ONi05S1BBWk5XSFUyaTJH?oc=5",
-      "source": "MIT Sloan",
-      "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT",
-      "query": "AI agent platform"
-    },
-    {
-      "title": "DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnTk82ZFdITTlJMF9jbnhjLVBieTBPbFFhaGtqRFlKdzZOYjRrNkVJeFpITDd0MlJ0TEtrNHQzQ1BjLTczMjZYcGt1U2FYRGNBTWRpNWhxSi03QVZhQWxV?oc=5",
-      "source": "Nature",
+      "title": "Google Puts Its Popular AI Video Generator Into YouTube Shorts - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FRVREajVJS0VTT0dESWp3RXRTSWlJbkJBa1FNN2NOdjc1WjFYSGJhS21KT3VkLWt2Q3lDdDBnMlFYbTNHUDhyc1lVNk11MU1VM1ExazZDRTVLNGVsOU5sRXZ5V0dXXzVlWXRpNWpTMFlWbnlW?oc=5",
+      "source": "WSJ",
       "pubDate": "Wed, 17 Sep 2025 07:00:00 GMT",
-      "query": "DeepSeek"
+      "query": "AI video generation"
     },
     {
       "title": "Midjourney goes from generating cat images to full-body ultrasound scans - The Verge",
@@ -332,18 +332,11 @@
       "query": "DeepSeek"
     },
     {
-      "title": "10 Best AI Video Generators (November 2026) - Unite.AI",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QakZfbjFVMF9nVlc4bEo3NS12MFBtV1RYb2R3bzhRaDdKdGpIMjhuaUFhbDNwQ1Y3dUFMdHFwTFpzNXNYY2lVbUhRM0U2X2M3YW9GbWw3VC1Ndw?oc=5",
-      "source": "Unite.AI",
-      "pubDate": "Wed, 16 Nov 2022 08:00:00 GMT",
-      "query": "AI video generation"
-    },
-    {
-      "title": "Deepseek Unmasked: Exposing the CCP's Latest Tool For Spying, Stealing, and Subverting U.S. Export Control Restrictions - Select Committee on the CCP | (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdFEtRHl1Y1hQUUJtUzdhd3p0SzdsTWNvQ3NDdzZtMHU1WkFvQmVkQU5vSGx6R3BqX1M1QmZJbzE0dXhLV29YTHBjNzlaN2Zkb3BDN3JxU2I4WFg5c09Yb3p4eU9KcDJHMEEzTTN2WVJBRGI5SDg1NVU1YVVOOFpPRkxCdWlCaGp6SVZlSlZUZVR5b1B6TUl5bzkwWVg0bDVoU1FPeFJmek1EREkyc0loVnN4NHdlN3J3MW1ZYmUtTzVvZVpUeU8td0d1TnlNek1Dd1pORnFPdXVpMDh0Y3paSnJIWFI1QTRya1RsU0JneWJOVllqNzNHclBB?oc=5",
-      "source": "Select Committee on the CCP | (.gov)",
-      "pubDate": "Wed, 16 Apr 2025 07:00:00 GMT",
-      "query": "DeepSeek"
+      "title": "Repsol launches intelligent multi-agent platform, consolidating it as a global AI leader in the energy sector - Repsol",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQd1BfM3hHSEpCb0c0TTE5NV95dXc0dDExTVFFX19ZazhhWkhrcXFtSDZpRUtqejZaWElGU2lRUjJaU3NKbC1iLUx0bVZ0SDVReE5HV3FxT3lRc0ExbHA3cFdTbnBlclFMVnl6bW5ZTzJjNm9lMkRmWktXb0s1SjBKTVJKeWtUS0VmT1BaSk9mOFU3VFppU3JqT2J3Qkw1d3p4WjVjejlOTndCcG4ydmlQQmNiNXJ3UnhHa0dDVTI4Q3RTNTNvc2dld2FycnpfbnFpTXRWMzEzVzRJOHBPVDFzZjRXZEJFVmp6Wmt6QllCdnFSQ2pPaFE?oc=5",
+      "source": "Repsol",
+      "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT",
+      "query": "AI agent platform"
     },
     {
       "title": "New TensorRT-LLM Release For RTX-Powered PCs - NVIDIA Blog",
@@ -351,6 +344,13 @@
       "source": "NVIDIA Blog",
       "pubDate": "Wed, 15 Nov 2023 08:00:00 GMT",
       "query": "LLM release"
+    },
+    {
+      "title": "Alibaba’s U.S.-listed shares rise 4% after Qwen AI set to be integrated in Apple Intelligence - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KZGV6dDJ6U2R1eTJ1bFZleUhNX1FtMXFaOFBWaklmVE1PWV9vNVhDZGgybFdIQUlHNW5QNm53Z3B0LWdZUG9GaE0ySDNwaFUzT2R1YzhJWHRUM2c3Z2Y4cXNpS1I1RE5LWXEwT3FYMlo2TnJiMF9rc2JLZ9IBgAFBVV95cUxNSkp6a051Tm55Q1RtU0g5REJwajJnSUlqZi04NUJkNTkwYVFtNVNpLTBFOGh5VDFwYUVPc01sSVVZYko4SE9wS0ItTzFHQjF5emZRNzhWcTZOeVZ0UEQ2Vi0tWi1EN01CV1VabG1Jc1pvVGtKeFM0aDlnUTI3TDZYaw?oc=5",
+      "source": "CNBC",
+      "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+      "query": "Qwen Alibaba"
     }
   ]
 }

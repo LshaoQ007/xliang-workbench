@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14 03:28",
+  "updated": "2026-11-15 02:57",
   "count": 50,
   "items": [
     {
@@ -66,13 +66,6 @@
       "query": "LLM release"
     },
     {
-      "title": "Introduction to GitLab Duo Agent Platform - GitLab",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vbGNrSWRBblB1bmVESl9TbnBNdmRqejNidVY3VGxrRFJFUTdpR2s4SFNkZWl5MGswOGhCTGh2SUk3NW1KRHh1d3pvTkxiTG5jQ2pGdUtuNENadG5mdHpOMlpOdk1ma25SVG85V3ItQVQ1TWFCY0lFZTZ2eUU?oc=5",
-      "source": "GitLab",
-      "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
-      "query": "AI agent platform"
-    },
-    {
       "title": "Introducing DBRX: A New State-of-the-Art Open LLM - Databricks",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54QVdrbGlHc19kNnJJZmtfc3MtVkszVGU3SXpVbU4zd1dRVzFCdmhDN1dERzVLeGJWTFNJSG9lUEtYNWJvamdGS2NzZHoyTVN3ckd5Q0E4ZmxyYnNicmFKN3RYNzgwSS1TSmI4S045NHJDd0JXRXoyY3Vadw?oc=5",
       "source": "Databricks",
@@ -97,13 +90,6 @@
       "title": "I Spent Hours Testing NSFW AI Video Generators. These 5 Are the Best - PCMag UK",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKbXlqaTdiSHBkUzdmYWtHblhXaVBSOGpfTmpndGJrd3ZTVGpqY1lsaW1MQjk2cDZhbE05NVZVRW1yOVZ5RlJzWlVEREYzdUNRTkNZMl8xSmRhUGtPd1VrcEVZSVhqd2pqTmp6UnhsNU4xUy1QeEpn?oc=5",
       "source": "PCMag UK",
-      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "query": "AI video generation"
-    },
-    {
-      "title": "I Spent Hours Testing NSFW AI Video Generators. These 5 Are the Best - PCMag",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zV3VPQS1oSl91WTM1cHYzRlk3d25pVU8wU0ZDS29HM1ZLT2Vrek13TXA3THc5YVdFT2dYc3REOEFSeFRERlhFR2MtY1lHOFJOZkVkM3M5bkVUMkdDWnZnZ3pPMWNoUzFaWG9wbnNR?oc=5",
-      "source": "PCMag",
       "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
       "query": "AI video generation"
     },
@@ -176,6 +162,20 @@
       "source": "Snowflake",
       "pubDate": "Wed, 24 Apr 2024 07:00:00 GMT",
       "query": "LLM release"
+    },
+    {
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWYlBnQ2pUUS1QR0FzcnltT1VReWcxX0o3dGw2WkFGVkNjYVZ2TXNGZ1E5QnBKdFExckhQdEJWV3oybDFZU2dZMDgzb2hZbDM4WlBQMzkzLW5idlZpMy14eFg2TDdnWnFOVnJ3RkJEejlRSC02dmliWDRtaw?oc=5",
+      "source": "Anthropic",
+      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "query": "Anthropic Claude"
+    },
+    {
+      "title": "Gemini 3.8 text-to-speech says hello - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSWpTWDNZcWVYandkVlNIa1E5TWFsSG81NU5ST3Q1cGt1Z2xmUXdWRnEzb19zMjVfakoxdDNEVTlzdEJhUzFLanV2dlFaVTZ4a2RjRFMxTXlqUVpNaFFONVZzeGlHcnBwRTlWNlpMektVMlZ4RlJhVlN3X0k1NG0xSklibWpqLUVBUEJjSFVWOTZMWE1ZYllGMUVxbWlSV3c?oc=5",
+      "source": "blog.google",
+      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "query": "Google DeepMind"
     },
     {
       "title": "Advancing Private AI Compute with secure, server-side memory - Google DeepMind",
@@ -255,13 +255,6 @@
       "query": "AI agent platform"
     },
     {
-      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYXI4MDQ5UDdXZDNuUUpwYkVwY3RYM05lZzhqcFhlb0NfeDVacEFfYkNQWkRuNDZPM05pRndYcjZ2QXBxeHA1ZnpaSVZjNEhXRnZvdkhTZTR3aFppbVlxUXJpeHRhSXRvV0R1VFRuUmhNeTdmdkJ5ZVNmSGFmWlNPbjZ3?oc=5",
-      "source": "OpenAI",
-      "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT",
-      "query": "AI model update"
-    },
-    {
       "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases - The Hacker News",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVllBWEktMzdicFV0SnpNQTVyZUJMSEo5cUoxOXF3Y3FObUFkblhKN0lKMnhlLVE0Sm5kYlkzejQ1cmpPWnFMZFJObnlVVHJCRThlYTZ4UUxPOWVnLWNXQjMxM21GdEFYdnVKZUJfWG5XZTJtNFVwOFo5alJqZWd0eDREcGU?oc=5",
       "source": "The Hacker News",
@@ -281,6 +274,13 @@
       "source": "mistral.ai",
       "pubDate": "Wed, 21 May 2025 07:00:00 GMT",
       "query": "LLM release"
+    },
+    {
+      "title": "What is generative AI and how does it work? - Android Authority",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTYkdINDJRak5pT2swbmtlOXR4M0FyU3htQm9TWVR3QkxUWlhLa2VZZ1BvZ3NxR2pETl9uN05FWkJxSExySlppZWhpSng2Umc3ekE3SjZyczZWQW9OSUNEaTRVellaZm5kaU1pY2Roc0c?oc=5",
+      "source": "Android Authority",
+      "pubDate": "Wed, 21 Jun 2023 07:00:00 GMT",
+      "query": "Midjourney"
     },
     {
       "title": "Innovations from Google I/O 26 on Google Cloud - Google Cloud",
@@ -311,13 +311,6 @@
       "query": "Midjourney"
     },
     {
-      "title": "Google Puts Its Popular AI Video Generator Into YouTube Shorts - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FRVREajVJS0VTT0dESWp3RXRTSWlJbkJBa1FNN2NOdjc1WjFYSGJhS21KT3VkLWt2Q3lDdDBnMlFYbTNHUDhyc1lVNk11MU1VM1ExazZDRTVLNGVsOU5sRXZ5V0dXXzVlWXRpNWpTMFlWbnlW?oc=5",
-      "source": "WSJ",
-      "pubDate": "Wed, 17 Sep 2025 07:00:00 GMT",
-      "query": "AI video generation"
-    },
-    {
       "title": "Midjourney goes from generating cat images to full-body ultrasound scans - The Verge",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcGItUGdjVTdnU1BhU19vUGtaWm1pNklsVV9RODJnSUFqN08ySm5ONS1sT1lpb0M3bUlXTWZLSC10VkRqeE5tc2ttU0xKTUFuODFDaGRBR2ZKUEdLejdEM2xNRXRLend4X0ZTTWdJMzdieHB1a0tiNklBbF9OWThlSngxaGxNR1ZPc0ZPT3MwcnAxMjRVaUpQdWdlQjY?oc=5",
       "source": "The Verge",
@@ -344,6 +337,13 @@
       "source": "NVIDIA Blog",
       "pubDate": "Wed, 15 Nov 2023 08:00:00 GMT",
       "query": "LLM release"
+    },
+    {
+      "title": "Google unveils Veo, a high-definition AI video generator that may rival Sora - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOTRqeGdQblJ2cjdzQWFlTTFOWDlnYkpXdVJQUVFNM2pvczZqYjZVeFd2UGZFQklqek1mNXpBalUtVVNZTUY1a0o2NDJoSmpjWW1TWjh0QlZuQ2lPNUZtM3gxNXEyVC04QUt6Y1U2Y3V6VUFQNF9WWmVRaHE2SE5oVWhlc194Y0psLVlxOXdrX3pUSnpjRDRLSXpHcWVYSk9sMnFUTnJxa2Joem1kcW5YU2J0YmpxTVQzZVZMNmxKN0lWaDBsaDFUcG81Yw?oc=5",
+      "source": "Ars Technica",
+      "pubDate": "Wed, 15 May 2024 07:00:00 GMT",
+      "query": "AI video generation"
     },
     {
       "title": "Alibaba’s U.S.-listed shares rise 4% after Qwen AI set to be integrated in Apple Intelligence - CNBC",

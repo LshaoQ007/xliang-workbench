@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15 02:57",
+  "updated": "2026-11-16 02:57",
   "count": 50,
   "items": [
     {
@@ -45,13 +45,6 @@
       "query": "DeepSeek"
     },
     {
-      "title": "AI Video Generator - Klink AI - 在 Windows 上免費下載並安裝 - Microsoft",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XakctVm04MGVtZ2k3V1l6T3JPelNuc3draVI1SjhZM3h4bnFqZHEtTnVUT2lyejVNeHdBM1d0SERvbWhtRHBEWDNYclFzdFFEUWNNUkNId2dNY1hlMW9RV0l5MFc1VHNYd2FPcEV1cm1JWE1wTHFYVDRjQ2RpYVk?oc=5",
-      "source": "Microsoft",
-      "pubDate": "Wed, 28 Oct 2026 12:19:59 GMT",
-      "query": "AI video generation"
-    },
-    {
       "title": "Best AI Agent Platforms (2026) - Salesforce",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WaWVYUGJqR2xvc0NKZ3A5WmJ0R1dON1Vib3M1RE5VWlE3NmlnU3VIdVdzc1dBRDVMdDBHN3M2VDVyeW4zR1FLbkVCaXBiVVhaMDFRNFR5d25wSTJmUU1RaWcxbjluUjRE?oc=5",
       "source": "Salesforce",
@@ -73,13 +66,6 @@
       "query": "LLM release"
     },
     {
-      "title": "Alibaba makes AI video generation model free to use globally - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZjNueEZ4ZmNOdFRyLXZyamZXcEdwVkhyOF9rUkdxNWdoel92OU9Hdkd5ZTV0ck5NT09GNXk4NTRmTlpxOS0tR2dsaW5BMHU3V3ZIXzRCT1E1VEJGWVpWRVNoYXhOM19GQ2VCeEN5NzRxM184OVF2RlkwaXpQN2hKRVpEX19leC1DQTdTRlJ5NWZwR0xaNkVFOXJtMEpwUdIBowFBVV95cUxQc0ZuMTZKWjZ5eHFpdVdOY2REdi12WFREUDByMHZ5Rkd3dlp6VjYtalhuXzJDci1Ddno1UkwtZ2FTVkpFcXpwYlA1ZUNfVkJQOC1WUDZFTDJnUlU5eW5lYlotLUU4YWZWN05OTnRmQlFYSXl6SnU5MUhRdzJqRngyR1puMGRWWjNlQ0NJN2FvOHphV09iSGVZVlg4YjVlam13ckFj?oc=5",
-      "source": "CNBC",
-      "pubDate": "Wed, 26 Feb 2025 08:00:00 GMT",
-      "query": "AI video generation"
-    },
-    {
       "title": "Alibaba's Qwen launches Qwen3.8-Flash AI model with lower training costs - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNFBiN0MydXZkUlB3UHdHb0xzNGNqVVhKdzZVMkQwalM4WWozbUxWSkZuRTljSXdfdjdOUjZkMWN2SEVRSnBXTEJwSlJfdkNqNzJreVp5MDNULVdDZ1ozSzE1YXp6dWR6MzZsOFBlRllhdlZEQmVBa1Eyb1hpQWlMWmdUaGlzeFpUZFlDZUszLU5KRG9SblF0VTNFT092TllTQnVqVlZHY2J3Uk1WblBfOUJGRmFob041dzEwRV9WaU5TWjlxbkswcTVJRQ?oc=5",
       "source": "Reuters",
@@ -90,6 +76,13 @@
       "title": "I Spent Hours Testing NSFW AI Video Generators. These 5 Are the Best - PCMag UK",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKbXlqaTdiSHBkUzdmYWtHblhXaVBSOGpfTmpndGJrd3ZTVGpqY1lsaW1MQjk2cDZhbE05NVZVRW1yOVZ5RlJzWlVEREYzdUNRTkNZMl8xSmRhUGtPd1VrcEVZSVhqd2pqTmp6UnhsNU4xUy1QeEpn?oc=5",
       "source": "PCMag UK",
+      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "query": "AI video generation"
+    },
+    {
+      "title": "I Spent Hours Testing NSFW AI Video Generators. These 5 Are the Best - PCMag",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zV3VPQS1oSl91WTM1cHYzRlk3d25pVU8wU0ZDS29HM1ZLT2Vrek13TXA3THc5YVdFT2dYc3REOEFSeFRERlhFR2MtY1lHOFJOZkVkM3M5bkVUMkdDWnZnZ3pPMWNoUzFaWG9wbnNR?oc=5",
+      "source": "PCMag",
       "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
       "query": "AI video generation"
     },
@@ -255,13 +248,6 @@
       "query": "AI agent platform"
     },
     {
-      "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases - The Hacker News",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVllBWEktMzdicFV0SnpNQTVyZUJMSEo5cUoxOXF3Y3FObUFkblhKN0lKMnhlLVE0Sm5kYlkzejQ1cmpPWnFMZFJObnlVVHJCRThlYTZ4UUxPOWVnLWNXQjMxM21GdEFYdnVKZUJfWG5XZTJtNFVwOFo5alJqZWd0eDREcGU?oc=5",
-      "source": "The Hacker News",
-      "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT",
-      "query": "DeepSeek"
-    },
-    {
       "title": "China’s DeepSeek Raises $15 Billion to Challenge Top US AI Labs - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbV8yRlI5QUgtclQ1Y25PbklMNW5ITlNyUm9udEYwQkFaRmoxZ3R4bVdKOEItVVpLX3lXejBfSzllSVZUTFZuRDVSckkzcHJrUnZwRVhCamxrMzh6cjVPYk04N0thbjRlenFlLXZpT0E3TUtsSzFlS1VBY2NHRTh2Rk5NNDhXRVVoYnJHMWFPbFVPbzZoQm5VMzBpREs5b183eE9PQTZ1SGgySkVxTFE?oc=5",
       "source": "Bloomberg.com",
@@ -276,18 +262,18 @@
       "query": "LLM release"
     },
     {
-      "title": "What is generative AI and how does it work? - Android Authority",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTYkdINDJRak5pT2swbmtlOXR4M0FyU3htQm9TWVR3QkxUWlhLa2VZZ1BvZ3NxR2pETl9uN05FWkJxSExySlppZWhpSng2Umc3ekE3SjZyczZWQW9OSUNEaTRVellaZm5kaU1pY2Roc0c?oc=5",
-      "source": "Android Authority",
-      "pubDate": "Wed, 21 Jun 2023 07:00:00 GMT",
-      "query": "Midjourney"
-    },
-    {
       "title": "Innovations from Google I/O 26 on Google Cloud - Google Cloud",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX0JjSzRsTDBES0E1bTl4UGtldERDQjRQSkpUOG5Sb0NvLS0yMWMyM1k4WmlLOTNUYTJ0cjZIc3VOTEoyTlFXN3pLWTZjZGNLelA2Tnp1T0VlQlE4Wmd0Zno1eEt4eE0xN3NrR2lzMmlRNkZVOWVLNXhuZi1YQk1OR0hHVi1aaWZDZktzdno1S21DcnAzZHpCTWpPTDNkeVF1RzdvcmpSbw?oc=5",
       "source": "Google Cloud",
       "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
       "query": "AI agent platform"
+    },
+    {
+      "title": "AI Video Generator + - ดาวน์โหลดและติดตั้งฟรีบน Windows - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1maW1ybHlEdnVTNmN4NGFxT1BSWENVQWY3RWp1bVZPUXRyT0VEdmhKb25wb1lZOTh2LWJaZGptSXVlUzA2dzJjWnlGeFJaaW9xZ3lydXZYdmZMbF9ld3ViZ2QwazZ2cHhfLTd4VU5uVnh0eFE?oc=5",
+      "source": "Microsoft",
+      "pubDate": "Wed, 19 Nov 2025 02:56:04 GMT",
+      "query": "AI video generation"
     },
     {
       "title": "Measuring AI Ability to Complete Long Software Tasks - METR",
@@ -309,6 +295,13 @@
       "source": "TechCrunch",
       "pubDate": "Wed, 18 Jun 2025 07:00:00 GMT",
       "query": "Midjourney"
+    },
+    {
+      "title": "Accelerating discovery in India through AI-powered science and education - Google DeepMind",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcVdtbmQyUUstc1NTaDVSb1F4U0k4WXhoTkktVVBIT2hRenF0NVNPR1NoMnZjTWxFX3BjaFBpV1RCdXp6ZDJLTWs2R3NrUy00NHhmY0V4NlVNWTlvWnVoYVhLLWM1eGFjTF9BODdRMnhaUFBEVkZXNDFreXFHY0xxYVphc1d3cmVHZGNUMWJkd3k1ZEV6b1MtT0Y0WHh2aWdObzFhcw?oc=5",
+      "source": "Google DeepMind",
+      "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT",
+      "query": "Google DeepMind"
     },
     {
       "title": "Midjourney goes from generating cat images to full-body ultrasound scans - The Verge",
@@ -351,6 +344,13 @@
       "source": "CNBC",
       "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
       "query": "Qwen Alibaba"
+    },
+    {
+      "title": "On-Device AI Against Scams - Google DeepMind",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVWm4yeFpMWXAtMmRmZm5JTGVxVk1uZWJFX00ydzE4eEh4dEV1QXJXcTNwU3E0NEw0aUJCMXJrM2VqMmNKUmQtQ0IzNlhoMlhEX25wRjd5Rno2dDFXZmZuMTZWU0owYW5xZGVnRF9OUQ?oc=5",
+      "source": "Google DeepMind",
+      "pubDate": "Wed, 14 Oct 2026 07:00:00 GMT",
+      "query": "Google DeepMind"
     }
   ]
 }

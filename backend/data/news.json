@@ -1,14 +1,7 @@
 {
-  "updated": "2026-11-18 04:39",
+  "updated": "2026-11-19 04:23",
   "count": 50,
   "items": [
-    {
-      "title": "Weatherbit - Weather API Bundle (forecasts, and current weather) - Amazon Web Services (AWS)",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoV2lHMWI3LVJSS0gtZ3VCbnJaVmg2eVF6Y0YyWVEtOS1IeVZQN19PTG5FN3ktV1NGSzc4ZW85R3loSklDNURpRW5KRmZnZG9jZzBsZ3R5NXBkbWFDNTVzeTZHRXdDckRtS0I3YQ?oc=5",
-      "source": "Amazon Web Services (AWS)",
-      "pubDate": "Wed, 31 Jul 2024 04:05:31 GMT",
-      "query": "amazon.com marketplace"
-    },
     {
       "title": "More than 60% of sales in Amazon’s store come from independent sellers. Hear what they have to say about their experience selling on Amazon. - About Amazon",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCMDhtU1JPb0t5dV9tV3NFR0o0N1o4RzZMOUZ0WnlsNTNaemU5elZkeXJxUkRvaW1lVDZHcFFzU2tYckREMU5Ma3cxLUJHUFdEQUFzSTBuWURvLVBUWGx1c01HaFNPSzlOT3NuYjRYYUVGQURpRzA1Ti11cno?oc=5",
@@ -22,13 +15,6 @@
       "source": "About Amazon",
       "pubDate": "Wed, 31 Aug 2022 07:00:00 GMT",
       "query": "Amazon sellers news"
-    },
-    {
-      "title": "Easily deploy SaaS products with new Quick Launch in AWS Marketplace - Amazon Web Services (AWS)",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPekFISmdEek5lcEFJNkdaNEtjTGR3Yzd4a2lzM3pXcFBKQmdlaGxJOV9CcE9oa3pQcElYeENrbnpJZ3hYLXRGMlJ3R0ZPSEMwWGlDLWo0QVNzUzZ4WjNXcHV6ejRDTWVXU0Uwd0JOYlVrellzSXZGSGcwRWpfWVFMYWRqTi05aE94VnkwaFFyejRKYmpiR1U2OFFZVnlkWDNSRk1HTQ?oc=5",
-      "source": "Amazon Web Services (AWS)",
-      "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
-      "query": "amazon.com marketplace"
     },
     {
       "title": "Jeff Bezos Says Amazon May Have Violated Its Own Seller Data Policies - Business Insider",
@@ -52,11 +38,25 @@
       "query": "Amazon sellers news"
     },
     {
+      "title": "Online Shopping Platform’s New AI Rules Are Triggering Seller Account Shutdowns, Attorneys Warn - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOandybmNpbTZsWmVmc3ZWUGcyTEdCU1pMWXZJVktuMUtJX3U4WGJiWlVyY084VFdjdlg2cWZMcmM4b1d0NTA4MDVLYjNfQ3EtMkdDVUFsZ2kzTThXcDN2SERpVjJMcEN2OUZRRnlPMmRIYlVmT3FwU0hNemw0ZVM4b0paODNib2NtNEJ4RnZ3UXNGT0ZDZkVvSEhjcEpMSFNvRXJCUTBHUWFvZXFFc3lJQnlzNXZ5TklySnpsNzZwZlJvMi1BME0yRUhnLU45MHkyeGlaek1tTHlOdmNkd0E?oc=5",
+      "source": "USA Today",
+      "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
+      "query": "Amazon seller policy"
+    },
+    {
       "title": "How AWS is helping retailers build their own AI-powered shopping experiences - About Amazon",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbHNkSVpVTnJ0SGFrRXByRFUyTWpKa3NLbWJ3ck5sMGRTbHdreWhXU3FsSmkzb05EajBMTnJsZWF4MDlLd0d3NlU5dlR5RFUwVDJHd1RIRW9TVlVqVVphbFdXVC1DX2NZQXZaR3k1ak1CanAtX0dOVkotaUlZNnMtRUNPVQ?oc=5",
       "source": "About Amazon",
       "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
       "query": "Amazon sellers news"
+    },
+    {
+      "title": "Mercury foundation models from Inception Labs are now available in Amazon Bedrock Marketplace and Amazon SageMaker JumpStart | Amazon Web Services - Amazon Web Services (AWS)",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOM2tOUkV0Qk5HRlhDUGRrejhndzc5UlYybVlKYXR2ZjhHeVg5WU9Fc05Rd0ItUWpGUG5DcjJocF9FNlBNMXhMWWhjTlJaWW5GU3JkbThZdEhCRWsxc2p4a2pHWE5KczJJa1llNXItS29zLU5mX3FGZjI1MHhnTER5VmxTXy1OYVpHOGl6U2VqZ3pIa3BJcGFXMEE3elRNLUxpUlF3N1N1NVZDaDN0eGppQ1lLLWlvZ1d3eUlKem1PN3N0Qm93SERZcFptSGtWbEFZX0RET01rY0VLT2VWQm4yRE1HdFM4SzNfWTZZTmtDRDR6bFU3ZlQ5Xzk0XzdlR081?oc=5",
+      "source": "Amazon Web Services (AWS)",
+      "pubDate": "Wed, 27 Aug 2025 07:00:00 GMT",
+      "query": "amazon.com marketplace"
     },
     {
       "title": "Amazon To Show Seller Business Info In Community Forum Update - Value Added Resource",
@@ -66,18 +66,46 @@
       "query": "Amazon FBA update"
     },
     {
-      "title": "ETF Daily Fund Flows - US Listed - 2017 to Present - Amazon Web Services (AWS)",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BbmtKRHU0VzlweU10UVhKUk1lbWJiMXdLWDZkWEkyT1V5V2NuZ3o1TW5oMHRvSk5YRGxzUDVQVGdkWjY4dnl0VlhPSlhhTjA1V1g1TDBOX0dOcWZMbnZoZ21kYWJKaFNrMGRycg?oc=5",
-      "source": "Amazon Web Services (AWS)",
-      "pubDate": "Wed, 26 May 2021 09:03:37 GMT",
-      "query": "amazon.com marketplace"
-    },
-    {
       "title": "Amazon offers to change Marketplace rules to address CMA concerns - GOV.UK",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOERXRDBpUS1RR19RUnJjYWxHYlJrODhsYkVUOEF6eWhfS1Q4djhIUnN4REdyRGNhb0xSdTBfQkY4UFdCb3lrU0s5N2ZFc0xudktWeUFPV0wtY3hRR3hiZVlrZFNzTGF3UWdMVXVMMXF6Ymd6dHlHU2NHdjc5VUN3SXdGZmdHMlNBLTg2ZzVVSUhNLXVJQ2ZpVUtFR0xHZHJybXc?oc=5",
       "source": "GOV.UK",
       "pubDate": "Wed, 26 Jul 2023 07:00:00 GMT",
       "query": "Amazon seller policy"
+    },
+    {
+      "title": "Amazon offers concessions to UK antitrust watchdog as part of probe into its marketplace practices - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWnRPSDRjNThCeDkwOC05bVlrSndvQmNqZFFfdDREdk1fOTM0djl0VlFRSk9SVE1EZ2t0RG9OVDdhdVRweHhyX09TVW1Ta3RDeGlQQWtpeTZnY2tnc0xwWkJwQThDZTZYYnR2SnFzUlpVbng2aVNQN2J1b29CNm5HUVQydmtlZW1uS3dQdXlnREVtR3VxbW45czNNT3BjS2x0VUZxZ9IBqgFBVV95cUxQRVVpSmNqS0cxMk8zakFUaUdpTllYWng0STFJeEdyZVRac0x2NXExaU8xVkFraHg0cTJtMUlvelZFc25mVGk4Q0Q4MnVfT1c4dThjZXFLTXkwa2s1REIzV1MxRXJTZkVtNmdoVnNtN0ZzNW9fX2FydUdnc2hoSDZidzUzT1ExTjdzQldHVXd1OXpKUm5VaFUtZ0s1WWl6TmFlQTVfUm5zLVNEdw?oc=5",
+      "source": "CNBC",
+      "pubDate": "Wed, 26 Jul 2023 07:00:00 GMT",
+      "query": "amazon.com marketplace"
+    },
+    {
+      "title": "Amazon’s Banned China Sellers Turn to Walmart’s Marketplace - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdXdzb2Q3VnVoaWprUzVhR0lXSENZRVVJbUpwVl9Vc0pKZTdDRGlNZDA2ZWxQTXQzLVJzNGtFSGN1WmF1N3BOc0U0bWJYS29GRW9NUGF4RUJuQnZzU0RSVnNLQWJsNkpNa0RPTDJIMndBdWkybzY2enB2eEhib19HVHdVOGVLblVFV2FJYkhpNU5yenlpUjVUNHI4ZUg0NkxkdUhjUXJwX1p1cmx5cU5TVEUybXRCcVNyQUpBNkJkeGk3Zw?oc=5",
+      "source": "Bloomberg.com",
+      "pubDate": "Wed, 26 Jan 2022 08:00:00 GMT",
+      "query": "amazon.com marketplace"
+    },
+    {
+      "title": "Amazon Fees Increases Pushed Books Sellers to eBay - Marketplace Pulse",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTWYtS3pRZlVxSnFraFpQWDhWOGN6T2RvUXl6UDNGOHhhaG02dmdLYmNoOWdBam1TU0VPRFE2R3duaEJFRVlZM2FFcm15QkZPVUYyWXZ5NHloT3Q0ZXNXaFVEVlN0Tk04ZGtOemQxcmxvdS1wN2dkQ3Vla1pkNmstVFd0T1BDRXlQWmJvRXlRVVdYdXphR2hj?oc=5",
+      "source": "Marketplace Pulse",
+      "pubDate": "Wed, 26 Apr 2017 07:00:00 GMT",
+      "query": "amazon.com marketplace"
+    },
+    {
+      "title": "Prime Video Leaders Pitch the Benefits of Amazon Channels Marketplace - Variety",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaHU1TkNJenJLLWpoeENpNmNuX1l5N0RrX3NEYkgyVWYxbWR2em14UG1EeXV2cXJINjJwZUV6MnpDbVk3WHJ6d1I3TzBHb2tqZmVJc1FmZmgtUTNKT0JTZUFFaFRyWkNvcEF4MjdwbTNDUkEzOUxKTS02M01YVE1jSWVkVzFhUk1HOFpHd2tYRU9jRDVJSzhWUTcxcWJCSGVfT2o4Rw?oc=5",
+      "source": "Variety",
+      "pubDate": "Wed, 25 Jun 2025 07:00:00 GMT",
+      "query": "amazon.com marketplace"
+    },
+    {
+      "title": "AWS GenAIIC Partner Agent Factory: New AI agents now in AWS Marketplace - Amazon Web Services (AWS)",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeEhqRlBQSEJZUTBoeG9vRnBRNnVSTE9vYkVLYVRUajE4cGMybUFLRG9HY1FhbjA3LUlzZDN0RThBU284d1EzOXNnVWtDQ19Hc2p5SnNmYmRIWG9jVG9kYWFZblJPZjBHQnIxV0dyRENUck1RaWJLeTNJX1QzaGNJNndKQy02bkJweExqM21UTGJGeURncG5nSjNkNkxjNU8tU0lSZFFCeVRiLWl2VmhsNEE2NE1rZw?oc=5",
+      "source": "Amazon Web Services (AWS)",
+      "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "query": "amazon.com marketplace"
     },
     {
       "title": "Amazon gives sellers an even smarter Seller Assistant and a new plugin for Amazon Quick and Anthropic’s Claude - About Amazon",
@@ -115,11 +143,88 @@
       "query": "Amazon Seller Central"
     },
     {
+      "title": "Your guide to Amazon’s A-to-z Guarantee - About Amazon",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZkw5UThvVFhVOF9wd2NobWY4cHc4Q3BlNFEybVNwczg1bXo1VDRVQmY4QUVRcUhQbEJ0ZVBjQXpYTzdDZ0lRRjlNVUF6X2FKRE1IaDBHU3NBeUdtdnREc2lfcmlPNF9FcllqemRrSzFTTzBhREdRXzlvUlgwc3A5aHExYzJtSXIzUUNYZjc3ZGpUTFVKRUtmWWswM19tV1g4MHljbHkwTE4?oc=5",
+      "source": "About Amazon",
+      "pubDate": "Wed, 22 May 2024 07:00:00 GMT",
+      "query": "Amazon seller policy"
+    },
+    {
+      "title": "Amazon Recasts Marketplace Fraud as a Broader Trust Problem - PYMNTS.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa0lFN2NZOU0xWWxiT0h1a3J2QmwzdHJxSjhFM2w2blA5a1p5X19veHhxZ3FOa2NXaU5sbEtsVUdOcWFfVENqenhXNTR1WjBMbUJYLXpUY0dkZmk0Q0ltSTU3T0lvd0x5WGQ1OGZXTTRZVzlMRVpsNVlyRDRnY1pNZzdMTVhidFllLXZ1SjdDWGVFWUlxVktuUnlkN0ZhTGl3MUE?oc=5",
+      "source": "PYMNTS.com",
+      "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "query": "amazon.com marketplace"
+    },
+    {
       "title": "Supply Chain by Amazon increases independent seller sales 20% on average - About Amazon",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZVM2X3VaSEdYdVdzRUdsdXViNXd1cUgyazNqOWswMVk2c2MtRTFrSWVpZXEtcjVoalBuN1RxaDRDd2NHWTgzZlFwR3JTcGw4WlBFVVhDeHJWQVU1ZE5wOGItYW54enE0blM3QTN4ZnhqVHNManVDMWRCTVdYWUpkT1diTUFhem9oVUxPZnRkTk5mVkJ6cHdSUEx5V0dMRWVGa1FvbnNwNmVhbWRvWllDN0ZBdUNfVVdQVFN6T2UyZzl4SzBrTWdMRkdlYkhXdw?oc=5",
       "source": "About Amazon",
       "pubDate": "Wed, 18 Sep 2024 07:00:00 GMT",
       "query": "Amazon sellers news"
+    },
+    {
+      "title": "Walmart beefs up its third-party marketplace as it challenges bigger online rival Amazon - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUVVSa3hQX0U2QTg1aTRWUzc0amdZZWlXVnpiakNxS2pYazhCRkZ6amQ4bHdpOVRZZGRpUVNFMllNdWEtMTdVeDE5RTAzQ0lJTnRFU2dDd3FhNU5XdEhaWUFRSzdiYVYwZl9RWVM2STZsRFFSMFRJZGYtdnliNHpHNVJNZEJnSGs4M2MyLU1VcDhFTzFyeW130gGcAUFVX3lxTE92bUJWSTVMM3M5YTlFMUZWNnlOZXZpMFJoYk1GakJLRXptY2w5WUROTWRrenczeVhnRTZHVHFwV2E5cWNyelBJZ0FiMHdBRW40T0YwNzg5MFlDUklyN2c3THNKSmVveU9hdldzRkpyajR0Q1pST283TFdBUVE4MUhSZm1kSlFHLUIyaXppUE9VQjRldXRpWWo3eDBDZg?oc=5",
+      "source": "CNBC",
+      "pubDate": "Wed, 18 Oct 2023 07:00:00 GMT",
+      "query": "amazon.com marketplace"
+    },
+    {
+      "title": "Amazon Widens Its Fuel Surcharge to Bulk Inventory Services - WWD",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOci1CLXVEQnUxZGlyR0xGR2hvblBuYmh0RWoxX2FfeWZKOWdzYVZBX2dhaWt2RGZpZEFoandxRXo1dThQS1JJVUpBMERvd0ppcUMtb2Z2NTI1WW10M1dNUndSYmMyN2IzOHJreG0zVjdQYkc1azZ0Tlg3MG1XVEIwdHlmZUp5SVNDc1BKa2NfZ2l1czFRd1k3TUw5bmlrdy1LVG1HdjNVZ3dXNFU4T0dMNDN3b0hMYW9T?oc=5",
+      "source": "WWD",
+      "pubDate": "Wed, 18 Nov 2026 22:18:56 GMT",
+      "query": "Amazon sellers news"
+    },
+    {
+      "title": "Amazon Widens Its Fuel Surcharge to Bulk Inventory Services - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN2o4Sjl6X2ROSXB1engzRDJpcTdERFIycnpqZ280M2ptU2czVGNXUzNJYzI1ZlJjb2lCU2t5WEJiSUNGeHhlTEUxTW1aakRoT1hydC1nTmY0MktpUXlQVEt4LW1zUW1uSENLNHZETG8zYkNtV28zaW1VYWxQOW1Ec1BVNk43V0JTa0lXcFhaZkxlS2YxTHpnY2xVV2IwQlk?oc=5",
+      "source": "Yahoo Finance",
+      "pubDate": "Wed, 18 Nov 2026 22:10:19 GMT",
+      "query": "Amazon seller policy"
+    },
+    {
+      "title": "Ecominsights Makes the Case for a Different Kind of Analytics for Amazon Sellers - openPR.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcEdtcjgwb09vR3MwY2hLeGFiQjFRTFlyRzdIcE84ZU9pY0swZ2lMRGY2di1TREpaZW1kRXkxemJFT3ZiUV93bFk4WlRIc3F6SGNRTVdhLWdDUEdJbmF0aE0tSERCR2oxRFNudThPQ0xjNWMyODBucWw4c0VjTjNVOVBhM3g5UkJTOWhpWHNGOEVDaGVCaVduOWZxcm5uUQ?oc=5",
+      "source": "openPR.com",
+      "pubDate": "Wed, 18 Nov 2026 13:00:04 GMT",
+      "query": "Amazon sellers news"
+    },
+    {
+      "title": "Ecominsights Walks Sellers Through How to Find Keywords for an Amazon Listing, With Trend History Free - openPR.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT3RmckJHWUN5dTVOSmJxV3hSQW1GSmkzeWdNT19YTk5YY0MwMXplSVhzQXdLbjZmT0FwMkZIWk90V1VEa2RhRlBnVV9fcGVpS05FNmpTVGFmcFEtaW5KLUdwcms5V2dnb3pkdHFDaXU4ZFZyNml2RlZXU0xqcXgwb0FPRG9tU2hQTzdGajhJRzJydGFaSlB0MEZRX0VqSDg?oc=5",
+      "source": "openPR.com",
+      "pubDate": "Wed, 18 Nov 2026 12:58:03 GMT",
+      "query": "Amazon sellers news"
+    },
+    {
+      "title": "Pumo brings competitor-led listing optimisation to Amazon and Etsy sellers - Tamebay",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGhZVUNROXhyUE5YU0pUMVBSU0hyYnhDLW9PNWRmaEpvLW9VMDlLVGFYWXB3cUZtTU9HWng0aWx2QXlzdVFwYktVdlowaHFSSEVkR3B1RlpnS3E2S2pGUF9QTnNVQ3RTODNuMldTclF0T3A5eXN1bTFOandZZGFhU2hMb2JmdnJoZUxmQ2FObUJ6ZVF5SWFNQlFkS3VMWGFRM0Y1V2Ntd1p5dw?oc=5",
+      "source": "Tamebay",
+      "pubDate": "Wed, 18 Nov 2026 12:05:12 GMT",
+      "query": "Amazon sellers news"
+    },
+    {
+      "title": "Ecominsights Puts Month-by-Month Amazon Sales History on Every Plan, Including Free - openPR.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbUNEQ1lYOG5vMmVYUklKQWxxcDI3N1hCV2lFR202b0FaNmtJbl8xZzdvOThfZ1NQSk5FbUVERTl1TmF0RkdNTl93eEw2UllBNHJ1Zkg3NS1IVXI1bko3TkhKak9EQnFLRmpVWW02UTdFaS1XM2dWa25TVUJ3dDRFc0UxSTA2TDJGOEZ3RXVzaTVNei12YnRuQS1JUGYybFE?oc=5",
+      "source": "openPR.com",
+      "pubDate": "Wed, 18 Nov 2026 07:00:12 GMT",
+      "query": "Amazon sellers news"
+    },
+    {
+      "title": "Amazon is selling a mini dresser that's surprisingly roomy for just $50 - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVUwtclJVYWVZd3BkeXhwS1RSWEdMZGFUOUpQNWNBX3VXbXRDUnRVTjV4VkYzdTFjekpBNDluOFBIdHlPel9Zb0pNOERHZ1NPLV9OTm5kczk2Sy1pVVVQS2xBZXVpOGJJY0xzOHNpR28ySkZZQ1BleVJ5a2M0TlFLLVFsdl9MUXc4VExaUDdOcFl2LURnMHNMc2loZExKYk55MlAxSkRpczhybWM?oc=5",
+      "source": "Yahoo",
+      "pubDate": "Wed, 18 Nov 2026 05:30:00 GMT",
+      "query": "Amazon sellers news"
+    },
+    {
+      "title": "Does Saks pulling out of Amazon’s marketplace reflect a deeper mismatch with luxury brands? - Retail Brew",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVVJteGEyelB5aG85bUMxRFFaaEtTWkxBa0RISG9MSlBHMDR0ZUx5akFldzJRcTBkWnotbjNnSjRLZFptLW1sZEZWOE1RRG5iZzVEUERuYl9BWU50SGI0SmJMSC1RekNnbERPV2poVzd5SHR1aVA3MTNBWm8yMWprUTlpX3RxWHdPYThrQzRVUE84Zjc1eG9FZ3JnRUgtRHluRUQwVEtDSG0tREVDWnpodkt0eGlOazktaHU5V1N1OFNrYXpQY3dmR08xbGQwcUt4cnc?oc=5",
+      "source": "Retail Brew",
+      "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT",
+      "query": "amazon.com marketplace"
     },
     {
       "title": "Amazon introduces agentic AI across the seller experience, transforming how sellers manage their businesses - About Amazon",
@@ -141,6 +246,34 @@
       "source": "About Amazon",
       "pubDate": "Wed, 17 Sep 2025 07:00:00 GMT",
       "query": "Amazon sellers news"
+    },
+    {
+      "title": "Amazon India expands AI tools for marketplace sellers ahead of Prime Day - Social Samosa",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNblQwTm5ReTdfZ2NsdHpCTHEyNDB1V3ZEVFUzZkE4OUs0X2pMQXVCRi1hV0NVMmRNdy1EdXZxWDFuR2EweExUSTQ1bFkxcjEzeEZib29pY3NiMHViVnRTc2JKRFJMd3o2Wk43ZHVET3RnUkliNjRNeXdOZ1dGa2Rab19ZY3VFZnl3WTRhUm14TU9GUnFSUUgzZjFCNzNEMF9oT2pJT1RRSlZQQdIBqgFBVV95cUxNblQwTm5ReTdfZ2NsdHpCTHEyNDB1V3ZEVFUzZkE4OUs0X2pMQXVCRi1hV0NVMmRNdy1EdXZxWDFuR2EweExUSTQ1bFkxcjEzeEZib29pY3NiMHViVnRTc2JKRFJMd3o2Wk43ZHVET3RnUkliNjRNeXdOZ1dGa2Rab19ZY3VFZnl3WTRhUm14TU9GUnFSUUgzZjFCNzNEMF9oT2pJT1RRSlZQQQ?oc=5",
+      "source": "Social Samosa",
+      "pubDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "query": "amazon.com marketplace"
+    },
+    {
+      "title": "Marketplace Checklist: How Amazon Built The Largest Marketplace In The United States - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORmY1N3lRV2l2MUJkSmM5UklHSFhkbi1qZUgwLW00TU9zNDA2dDFQR2NqM2ZuMVoteHlTcGlvVnNWOTZlcmVKdUItNzNhSi05X0tEVGVvS3MyRDF2bGlFNmtCd2pfZlRLYktncDZOdVZIQUZpeHVMemhaNHdxWndhQjFaM2dvU3JTRlpsWF9VV3dkTnM4YmxyR3ZxMjZ3bmtkYTAtbmJKcVdtdF8zOHNnb2JHbjlqZC1VeFpUQWplOE0waDIxVXlHOVIzX285WUhIZmlr?oc=5",
+      "source": "Forbes",
+      "pubDate": "Wed, 17 Jul 2019 07:00:00 GMT",
+      "query": "amazon.com marketplace"
+    },
+    {
+      "title": "Amazon documents reveal company’s secret strategy to dodge India’s regulators - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdWt2dS1CRjAzVkdfYVNldzJnc1NrR1BDU2dDSEloRThSVnBiNDJFY0tnMHVncEg3SmZXbElJcm9Nb2d0MnRGeS1aZ3p0RjUwbUdXVjU2dG5qTGF0eTdiYm80eXRncmVhbE9pMHUydkFmejA1c3h1ZGZCbncwX2R5ag?oc=5",
+      "source": "Reuters",
+      "pubDate": "Wed, 17 Feb 2021 08:00:00 GMT",
+      "query": "Amazon seller policy"
+    },
+    {
+      "title": "Amazon is combining grocery and marketplace into one shopping experience - ConsumerAffairs",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLTNOQU8zdW53R2llVDVjMEZJZGRuY1dyT1RlYmlSaThOMFVpeG1rUmpNNGlfRml4UjhsaHUwQWVORUxJSVdwbFNiUm4tQkhwc3VpVi1KZllNM3U2bldCdVpZenFub3RsbFFwMWRYRUpKUzhKNUk3bnFDZE01aHlaU0dCQV9jWUx5dkxzUUItVmlXVk91SnkxNUFCZ1ZQS3QtRkFvQ0tIdGZKN1R2WFBPX1VHbVFBNU1QWEpWN1ZB?oc=5",
+      "source": "ConsumerAffairs",
+      "pubDate": "Wed, 16 Oct 2024 07:00:00 GMT",
+      "query": "amazon.com marketplace"
     },
     {
       "title": "Fulfillment by Amazon uses AWS Quick Sight Embedded to deliver key reporting insights to Amazon Marketplace sellers - Amazon Web Services (AWS)",
@@ -171,34 +304,6 @@
       "query": "Amazon sellers news"
     },
     {
-      "title": "Amazon.com announces first quarter results - About Amazon",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcmlXNUY0YkNobmFkeEhiaEVvRDJfZXhCUTNIUnF3YUN5c011VlhPdngxdWZmcWRMM3hfWnlibXdvYWRmYl95WkdSaUw3aFRZUDdFR0FkRjNuQ24zazAxSENzUEtCRGh5TXJ1bW9taG1Mb2ZQdWhucTVZc3VyR3hrNTRn?oc=5",
-      "source": "About Amazon",
-      "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
-      "query": "Amazon sellers news"
-    },
-    {
-      "title": "Amazon S3 is now available on the Vercel Marketplace and v0 by Vercel - Amazon Web Services (AWS)",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lR2FkS3BlVjdzcGxvNkxCRmpxYm9aX2pSRVZMTlhBOUc3azVOM29HdjNKVkhka1NUVDZnakdITHdCMFI4Ym5taG5TQzZHOFE0dkxBT3UtOEk2ektzV0Ruc0g2MHlkQUxwbGgwMzc0NGhOWVE?oc=5",
-      "source": "Amazon Web Services (AWS)",
-      "pubDate": "Wed, 14 Oct 2026 07:00:00 GMT",
-      "query": "amazon.com marketplace"
-    },
-    {
-      "title": "Amazon Buy Box: What Is It & How to Win in 2024 (Step-by-Step Guide) - Jungle Scout",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBTGZESkR6NDRVTjN2c0VCaTlRS1ZHU3J3UVJrQ3ZURVlyOFFUNmlMUGJHejlGeHAxNnNGZ3NaUFVwQzQzekZTNFM0eWtjVGhHOC1qSDJtR0M3U0k1RXhIWjl4QUc0QkpOXzRuR0R0aw?oc=5",
-      "source": "Jungle Scout",
-      "pubDate": "Wed, 14 Feb 2024 23:13:50 GMT",
-      "query": "Amazon Seller Central"
-    },
-    {
-      "title": "Deploy third-party software add-ons from AWS Marketplace to Amazon EKS clusters - Amazon Web Services (AWS)",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTUVKQVlUMXNSRXpRY0NPaldzTG5XcFRsM1cwUHNZdmtGcGdpbG1GMlJBWmtJaUg1WTI5d1JqVmlHLUliOFoteXZteHBaWUh2NUtQZmlRcmFCZ0xjSHFWQklNckN3TElvV1JyZndFZFlmT2hDMURoWEx6NzY5XzFjNVRmZVlGTUxjMjJLLUVaM0VmU0s1N2pnQldYb3NmNW4yXzNLLWhTQTBnTHpkaC1XdEpKZURtSjA?oc=5",
-      "source": "Amazon Web Services (AWS)",
-      "pubDate": "Wed, 14 Dec 2022 08:00:00 GMT",
-      "query": "amazon.com marketplace"
-    },
-    {
       "title": "Amazon launches generative AI to help sellers write product descriptions - About Amazon",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR3VnZ2ctNFFDTE9uY29LalNsUHBXbHdmWm9PMENjZWZqRVAyeU9BZzNDSnJ3SGdPa3ZMaTNreHNJZU1iNkMwUlM5cjVkaVVPSVdHLTRqMTlRQ2VOZkwtUzk3aEhfVV8tdFlhRzVtZmJYejc0ZERaSGItSmd1M1gtNHh5QjE3U0U2?oc=5",
       "source": "About Amazon",
@@ -211,6 +316,13 @@
       "source": "About Amazon",
       "pubDate": "Wed, 13 Mar 2024 07:00:00 GMT",
       "query": "Amazon sellers news"
+    },
+    {
+      "title": "Align with Amazon’s strategy for marketplace success - Practical Ecommerce",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdFA1QjBZUUF5S0NOcWdYOGw5V3hpdl9NSFZlaHNvc0RrMjdBUWhiUVhxT1RwbWpIcWJkVVJxaWNfSndJbEhqc05GS3laM3Y3aWVNSW5KVDJZeURfRTNtcExwdThVc19sUGNFVWJGUV9EdVBZbnlTcGRLMEc4Ny10LVF6NjBFdzM4Tld1dUd3?oc=5",
+      "source": "Practical Ecommerce",
+      "pubDate": "Wed, 13 Dec 2017 08:00:00 GMT",
+      "query": "amazon.com marketplace"
     },
     {
       "title": "Amazon introduces feeds to make it easier for merchants to reach more customers through AI-powered Shop Direct - About Amazon",
@@ -227,129 +339,17 @@
       "query": "amazon.com marketplace"
     },
     {
+      "title": "TII Falcon-H1 models now available on Amazon Bedrock Marketplace and Amazon SageMaker JumpStart - Amazon Web Services (AWS)",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeUZhSXVRTDJRdzV0Y1AtNEx0UUpCTmZ1Nk9uSDJsbE1uVjY0SEJydEpwYmNUMFZFbTFIaEtUZlpuRTFKRV9McjFXbkZvczZROE0wclpBbkstZTU0aUROdHNTb29KVXgyR2tGYmNUUEJBcTQzeFRHdm5Wd2dNd3lYOVBiaHc2VDFSV1VpWHJCcHA1QlBxVGxpYzlLZ1kwcHFzeFJSSktYX1lsby1CZGRYUG9QcXRkZTNSZDFNbmN6V3N3WmFfRFdGUS1VbWxYdDNoZ2xqc1ZDU3FFZw?oc=5",
+      "source": "Amazon Web Services (AWS)",
+      "pubDate": "Wed, 10 Sep 2025 07:00:00 GMT",
+      "query": "amazon.com marketplace"
+    },
+    {
       "title": "Amazon Advantage gets a makeover, looks more like Seller Central - Jane Friedman",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb1l4Q09acXJNeUExNlV1cVJaLUNWN3JrOUtpZ2xRUHN6TEZ2d0RJdUMyM0J6clNLay0wMlVRck1rQWN0VzN4cmZadThMMG9KNF9XTnpGM3hIOG16WnNub2lwSkJQTHUxV0JzVDdhdXJ3OXp2QmRuTFQyUlhFaVlWOWR5ajd1cmlYcWZLdGZSTXJsOWs?oc=5",
       "source": "Jane Friedman",
       "pubDate": "Wed, 09 Dec 2020 08:00:00 GMT",
-      "query": "Amazon Seller Central"
-    },
-    {
-      "title": "Create SaaS Product Listing AWS Marketplace - Amazon Web Services (AWS)",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WUVZIVk5DTVl3MXI1b3ZvZFdjMnZ5SkgtRFEzN0UwcjREci1aNzhSckl0emJuaFpYZFBPVzl3YkQxbV9sbGpNa1N3Y2VpMGJfSFdlbHhjcFpLQUU?oc=5",
-      "source": "Amazon Web Services (AWS)",
-      "pubDate": "Wed, 07 Jan 2026 18:59:26 GMT",
-      "query": "amazon.com marketplace"
-    },
-    {
-      "title": "Amazon FBA Seller Central Guide: How to Make Money on Amazon - Jungle Scout",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wRGJaelpKWW1KR2MxSUlaQnRxZktXOXBTQ2FGeF9QeVBJR3pWWDFnSTBDRjNsT0NRYzF4Yk82WF9VQlY4RlJSX0VkWjhDbnNvdDk3UE51enZUWlFEUWJHUWRWckw3QQ?oc=5",
-      "source": "Jungle Scout",
-      "pubDate": "Wed, 06 Jun 2018 07:00:00 GMT",
-      "query": "Amazon Seller Central"
-    },
-    {
-      "title": "$2.5 trillion in sales and counting: Celebrating 25 years of Amazon’s partnership with independent sellers - About Amazon",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTURZUzhrVTdaVWJFOC1UUVhPNF9LSjRBVXVIX0xrRllkb09LR21PNVZTWHpyd0o4VW1zYzI2eko0ZlVoUEZrQjEwd0RXc3B2d3FxTUNzSmJOUXBGbTY4NjRPRlY2aGg2S2JUbGFiSWozbUtKblZLa0xGMmNjUWtSMnR0N0I1MkFBdTNjNnVrSFg?oc=5",
-      "source": "About Amazon",
-      "pubDate": "Wed, 05 Nov 2025 08:00:00 GMT",
-      "query": "Amazon sellers news"
-    },
-    {
-      "title": "An update on Amazon’s Worldwide Selling Partner Services leadership - About Amazon",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNTY0ZGNxYnBEY1JiamhjbFUtZUtSUzVzbWZWSFZzZ0Rnc3E3VUQ2VmRfYWpTU25tS0x0UmZEbG43RmctZFFROEh0bUFTakZfVEVHY0dOSXVqWG54eF9SMkc5M1BhZjdxVGI0dkRta0JhbmZHWExHMFRFYTNuTmV0RzVtV3BHMVpKRDNxTUdaWGhpaVpXTExTd21FYUJSMFk?oc=5",
-      "source": "About Amazon",
-      "pubDate": "Wed, 04 Feb 2026 08:00:00 GMT",
-      "query": "Amazon sellers news"
-    },
-    {
-      "title": "Introducing Buy with AWS: an accelerated procurement experience on AWS Partner sites, powered by AWS Marketplace | Amazon Web Services - Amazon Web Services (AWS)",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNERiSTJ0NFdvOWR3MEY4V0I0cVkwcDY0OXhsTUFDSDAxSWJaZm9qUWk0QmlLUlpXd1VoVU5UNVpEOG5vRmxUZWJiTjZmYUFPaVFIa056ODZhRmVObnlzbldBR2RTZXhiQWI2V0tDRXVzb0pabVgyd09PbXdLeDg2QmxITm56VV9QaHdfY2RKd2x2ajU3cWI0bVp2cFZ1Y3g0dFB2anZGXzdycGJVeExlUWxvY1d5ZFB1N3JNNC0wNWJEUF9abS1lMjNGaUQxWU9KeDJjTjZmVFVwbURT?oc=5",
-      "source": "Amazon Web Services (AWS)",
-      "pubDate": "Wed, 04 Dec 2024 08:00:00 GMT",
-      "query": "amazon.com marketplace"
-    },
-    {
-      "title": "Amazon Bedrock Marketplace: Access over 100 foundation models in one place | Amazon Web Services - Amazon Web Services (AWS)",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWkZqLVI0aG9EZDNQTnpjY0hPaDNSNkVZcnVpQkkyc183LTA5Ykx5bTdnTGY0emhNdUxKUC1MSU9Bcl9WU3p3RHlxTng0VWRVVjlTd0VIRkdtSFVTemppQ0dMbTBRSHVENTd5czdhUDdWdmVqTllFcUdvS1RkX3QtbE8zdmVHSU13eG9HREVLaHRZOFdRRERxMTRicnNuOXY1cS1JdnFocVZJWTg?oc=5",
-      "source": "Amazon Web Services (AWS)",
-      "pubDate": "Wed, 04 Dec 2024 08:00:00 GMT",
-      "query": "amazon.com marketplace"
-    },
-    {
-      "title": "Amazon’s strategy to squeeze marketplace sellers and maximize its own profits is evolving - vox.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TZVlwcktkVjFOYjR6Sy1BemVlRWFoLVlvalRWcGdQOW45ZkI5YkRnMkZHamo0bVhaUG5uQnQ0Rk55Zms2YUdlYmQ5eUZtazUwc3lsRm1OZU0zUFJpRXRHUWZSVlljTXRoT29lUm12djBSN2VsUEE?oc=5",
-      "source": "vox.com",
-      "pubDate": "Wed, 01 Dec 2021 08:00:00 GMT",
-      "query": "Amazon seller policy"
-    },
-    {
-      "title": "Amazon's fake discount crackdown: List Price rules tighten April 23 - PPC Land",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRUYxRnU3RGVJNEltUjBLenhOR20ybi1Idk1nbGdTcWtqMExCMS05TlpBMFlQMWY0Ri1xSUZsMnh6bXc2TXItMGVVMl9VekZNSHdyWi1iQTV5RDNXMWRHRE9Nb1FQUlFnbnAtaG9hVWdhX3BCRUFqUU5tTUF1N1VKeGZOZFJaZEtQV0U0?oc=5",
-      "source": "PPC Land",
-      "pubDate": "Wed, 01 Apr 2026 07:00:00 GMT",
-      "query": "Amazon seller policy"
-    },
-    {
-      "title": "How to Become an Amazon Seller - Investopedia",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42Mk9nSUU1YkNVcTJhWFllc0o2QXh5M3VGYUZTa3Q2ZUNma1V0Q3pJS2NmMnc0WDFPN21Mc0tOWHk3aGdKTWc1YWFaQ3BMQzVwZ1ZMM0dKX0dncnFFblktZUxWdkdpa2tKeUZWMmZjMlBRYlZxbGc?oc=5",
-      "source": "Investopedia",
-      "pubDate": "Tue, 31 Oct 2023 17:00:10 GMT",
-      "query": "Amazon Seller Central"
-    },
-    {
-      "title": "How Amazon’s New 2024 Fee Structure Affects Sellers - Jungle Scout",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVMlNGcmdHV0VJTzFWenhkS3NVaGZmYXJBbF9uN1lISHlnMGk0UF9ZVWl5bFpYZlh5RDhlc0NhM2F1aVBiX3FSbk5ya2ZrM1BBaGZ5TjY4REZvZ3NuTkMxUjNPR0RxZG94UHdyVlRrQ1VEeXZGX3F1ajNNZw?oc=5",
-      "source": "Jungle Scout",
-      "pubDate": "Tue, 30 Apr 2024 07:00:00 GMT",
-      "query": "Amazon FBA update"
-    },
-    {
-      "title": "The Total Economic Impact™ of using AWS Marketplace, a commissioned study by Forrester Consulting - Amazon Web Services (AWS)",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUkxDY083Z2pvc25EaHJXeDZ3YndJb3piUWdYYlBoTW1Nb3VXRHhDLXR4RWpFV3JBcHBucGRfWGRjQnVlZ05SRzI4SVJnNEZRVXdXTnVGM0VUQS1EaEVPakV1RWFCQUhqZTNVbGVNa0VoYUs2azQ3d1Bhckx6SDZPUlBfNXliQjVJX1ZtSUd0cmVzWDVWT25XUzM0cWxzZzUyenRzM3FROHI3dUVpaEdwLXg5SFBFVno3WDNLSDcxOHZpZHEwWkdGRlB3?oc=5",
-      "source": "Amazon Web Services (AWS)",
-      "pubDate": "Tue, 27 May 2025 07:00:00 GMT",
-      "query": "amazon.com marketplace"
-    },
-    {
-      "title": "Amazon Business Reaches $60 Billion in Annualized Gross Sales, Serving Over 11 Million Organizations Worldwide - About Amazon",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSW9xeXQ4eW52WXJNbXF5cklLMkdKZnViX2h1eURLMjh2SUNEZ29COHZseTlmWXBxR2M1YjBxbEpRdlpzTS0zLWJxRUswX0tQa0thd0NRV3BGTTFPc3dsSUdrR0VPYUxibS1CakhnVVJuZVRmZGpqaWp0RXRROUZFT1hJdGZsakVUcjBkSVBUazlOYWZtZGx0d0Joejg1WFJIOS1ldVQ2T0g2TG1CQlA2VnVSR29wSnpiV1hZT0NRR1NZdHBRNlVKRF9pRVFpX09JaEt5dVF6cndrZFFSU1E?oc=5",
-      "source": "About Amazon",
-      "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "query": "Amazon sellers news"
-    },
-    {
-      "title": "Inside the AI systems Amazon uses to protect every part of your shopping experience - About Amazon",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeEhlQ2h5aHVpNzl4Z0ZONUplbEtlNWJQRFNzUjV4NU1WMzJueTBzNTI3anV4WVpXMENsNFplSGxrVXdWTDA4Wm0zeU1za2RmT096NE9TTTNUYWZhckdTU2ZrQmNoM0lQNzB1b2dRT2F0b053X1h0TnN0dnJDbm40M3ZQLUFYNmdJSVgxNWprWWpfeDEtY19pRGtwOVlZa0lYWlRB?oc=5",
-      "source": "About Amazon",
-      "pubDate": "Tue, 21 Apr 2026 07:00:00 GMT",
-      "query": "Amazon seller policy"
-    },
-    {
-      "title": "Emails show Amazon colluding with other firms to raise prices, California authorities allege - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaWtNVzRRN3oxTmFDWk1jLW55Wmdta2ZlVFdSSW9fQlFTaEdjNHBRVlZKS3M2ckhZX05CWnZBWnRJSDBBb1VBMkJnenFMdDFiZHkxNjZJajJvSjhvVjB4RVRWaW4tRnp0Vlc1bUNuOTMyRS13Tmx5TUxIeXZJQlU1R1NXaWFOQWRWZGs4MVRRTGFqckRGa2F6TTZ5aDNGUTRJNlpr?oc=5",
-      "source": "The Guardian",
-      "pubDate": "Tue, 21 Apr 2026 07:00:00 GMT",
-      "query": "Amazon sellers news"
-    },
-    {
-      "title": "New Amazon report shows small businesses have created millions of US jobs and built thriving communities - About Amazon",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWmplNGE3d0tyUDZ3Yk92SmZkcXg0a0VsTlAyUjQxdzVIYkQtWUlWUXV5V3VQZ2prRnJYc1B6bXRRZFNNUFBleHhrOXFsR2NzdzBrN0RUbXNUdHlQS3J2WVF3Qml1NnF1eWZ4LW05dV9YUS1oNm0yd3ZKQ3owRVNXMks3UmNKc2x4TzdUYzlKTVp2aGc0UzBKMw?oc=5",
-      "source": "About Amazon",
-      "pubDate": "Tue, 20 May 2025 07:00:00 GMT",
-      "query": "Amazon sellers news"
-    },
-    {
-      "title": "European Union pries open Amazon Prime for marketplace sellers - Retail Dive",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSUswcC1kOXpmRWVKTzhSSEZDWU9NcEt2YXI1N0EwV0RpUExEVWhvWC01UFFTRkc5ZlFQSkdwSFk0RWxrZmYzTi1WdHc2YTM1cW9NVHBqWlNOdTFLY3IwbFQ3Yko1eXEycXEyRGc5eFVFS0pkS2NYaHZOdE5sbHJWR2JNRzVSbUtQTF9MZkZhOFNseHgxT3hRYUdHV2hwQQ?oc=5",
-      "source": "Retail Dive",
-      "pubDate": "Tue, 20 Dec 2022 08:00:00 GMT",
-      "query": "amazon.com marketplace"
-    },
-    {
-      "title": "How to Customize Your Storefront URL in Amazon Seller Central - Vocal",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUXhYWjhDekNHRm5PUmQ2ajZzUWxFbkNZcVp0bTRWSVRsOG53aGdod3NKbmJjRF9MODN4eGxrMU56TkJqNF9kYTJCLXkwbldueUU0UlR1NjF1TWJPdVdoY0FydDFwX0VJQUJQcDBCb3gwZUlVT2xmUkJHN3NXYTFMUF9iNEVULS1Fcm4zWE5yV1dUU1k?oc=5",
-      "source": "Vocal",
-      "pubDate": "Tue, 18 Feb 2020 16:04:42 GMT",
       "query": "Amazon Seller Central"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18 04:38",
+  "updated": "2026-11-19 04:23",
   "count": 50,
   "items": [
     {
@@ -31,6 +31,13 @@
       "query": "DeepSeek"
     },
     {
+      "title": "DeepSeek opens tools to help Huawei chips supplant Nvidia in AI - SCMP",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX2pDSnRWMTNZYUhBYnh2eHpWQklRVG1FSDJPYWF5WkI4VTM2VjQteGJTQjRNWjJ6Z3hpcVpiRGpKVjVubkNfeHFVYnY0ODIxbUJKNmFFTFVQUndibGstVDF0WnlMSTRlc0xVMWNlOFhnbEtURjRidE9GejFHdEZBckxZYkZJSzFpNnhGZ0JiS1BSTUdoanBOSGZPd1d0M2FVLVRFalYzNDZRM2NkQ0xEVzN6Rk50OUd5VjQ2NnJwZE5JUTjSAcMBQVVfeXFMT09mUUVmbnlNV0NDZUVUbmE0X0ZKUTVUbkx0RkpseW1OWEZyVHVjSmF3cUNuVG9aNTljcVhSWTVoeldqeWtVczQ0OFcwRnFTSTBOeW93bkNNX2dZTzU2amlZSUFEa1AzV29mTS1IbDA3LTFjcGV4STVUa0E1NFRRU2g4S3JyNUV6aHRsRTVwWW1YX09mMnBxRUNMbmtrV2RmRURRR2l4djBwWm53SG9ta29FTkM2OXNfaVN3aXBBWUVIeHNF?oc=5",
+      "source": "SCMP",
+      "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
+      "query": "DeepSeek"
+    },
+    {
       "title": "Alibaba unveils advanced Qwen 3 AI as Chinese tech rivalry intensifies - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUk5xbmR3dVUzbThQSU5SSDhBeGlOQkRuVFp3WDVGQ2RwTkc0SjhIWmUzSWFrbGNHc2hnWWctQ1l4Zl9JcnI3MHEtVmFQcU9lV3hBMkxISnV4M2k4RDA1SGJfZTNiZlpBZ3Itc3M4S3B2Y19SRWRjVmsyZ3dZN3NoOTdoWk40Ty1qY3haRDByaDZVU3RrMUVheGxvb05KRmNWWS1jQkk0OUpBbURHWkhLUGx2NFRCT3ZMQ3VJcEYtd0NDTFJv?oc=5",
       "source": "Reuters",
@@ -52,11 +59,18 @@
       "query": "AI agent platform"
     },
     {
-      "title": "Gemini 4 Carbon: our next frontier model - blog.google",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHJxLU9oeW51ZGg2aG8xbWpXWjlhazdlbnJHSEZhdHhmQklFRnpKUkpPM1Vubk52TkNOMDRHM0ZWVmdlbGs0UHF5ZFY2QUpMT29DUUpFcXUxb084eGFWWXBpY0poZThuZ2NFbmVjempGam0za085ZHAxLXVuNFp4WkNvXzlhdTZsZWIyS3FXaEhFckliUzNialNtNW1sOS1MLUE?oc=5",
-      "source": "blog.google",
-      "pubDate": "Wed, 28 Oct 2026 07:00:00 GMT",
-      "query": "Google DeepMind"
+      "title": "What Are AI Agents? Types, Uses, and How They Work (2026) - Shopify",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sakFkcURRMTE0enVpV2xZd0sxVno4c3FURlVpT2daUUNFN0U0UE5HQUQtTmNuTUhSRUZ5d2xjcjBJNVBTdzIzNWg4MEtJMWs?oc=5",
+      "source": "Shopify",
+      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
+      "query": "AI agent platform"
+    },
+    {
+      "title": "DeepSeek V4 Signals a New Phase in the U.S.-China AI Rivalry - Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOalo2blFVcFJMSGxHTDBsTVlUTE9sMkd4UUFULWFNaVItaWNtY0hkcnVvM1FLbjUxZmt2ZDlzVnN0cHJBRnVqNEdCejUtcmFoZXlMTXNpdlpmY3ZIMGtiTE4xcVVULXVQaTgxNnB2TzRiNEtHZkdTeTNTZ00xX1Q4S05NNGFVTmgxUHpZeXFrWlhaQQ?oc=5",
+      "source": "Council on Foreign Relations",
+      "pubDate": "Wed, 29 Apr 2026 07:00:00 GMT",
+      "query": "DeepSeek"
     },
     {
       "title": "Best AI Agent Platforms (2026) - Salesforce",
@@ -108,6 +122,13 @@
       "query": "AI video generation"
     },
     {
+      "title": "AI Is Causing Student Artists to Rethink Their Creative Career Plans - KQED",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYm13UjYyYWJ5Y0xaUEhOWWNqSERVMlFoUGJWVDNHbHlSdmpaNkZCMWZZdWFTTTlRaElQVUpwWW1xRnFINFAxSTdvMWlMS1dKNWl4RjZ1Y1NNWmZxOHM2WkRxZ0JOUkd4enVJUTRLS1otNkdKRnk3TndCYXZWcTVwdUhFeFV1Q21pX29kLUNEek5tdi0yY28w?oc=5",
+      "source": "KQED",
+      "pubDate": "Wed, 26 Apr 2023 07:00:00 GMT",
+      "query": "Midjourney"
+    },
+    {
       "title": "Updates to our Privacy Statement and Terms of Service: How we use your data - The GitHub Blog",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUt0WEJpT0VFNzVWYkxPbE9wUTVSdUVldG9aaVBpbU9WaHg3OUNLcWlKZHVQUVYtX2Vpblk0dENvM3AzekpLTkplRi1aUXItWGFmRU5fTW5vSDhyRzh2RVgtdy1vbHhZQmtTMlY2aTR6SkFhTGZaczRONk55eWpqN1VsWldwUDZqRHhOM3lBX2szMnR0eEN5bC1TV1Z2T0lVbXp0SGd0RlBma0ZMMlJ2UFFpMWpRY28?oc=5",
       "source": "The GitHub Blog",
@@ -122,16 +143,16 @@
       "query": "AI model update"
     },
     {
-      "title": "Sora: OpenAI closes AI video app and cancels $1bn Disney deal - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13Y2g4d0sxSGwxaEF4UkY4ZjZwelRCWFB0anAtRXdmVUY3c0ZwQjhBWkVqWHVIdC1VelM2TWMzY0p1SWEySW5zSHYyWjlmWHhyNHJ6c0R4YlJjUQ?oc=5",
-      "source": "BBC",
+      "title": "OpenAI shutters AI video generator Sora in abrupt announcement - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxSjhhNmprLUw4djBMbENiYnlqSjZ0c2lBR3ZEazNkMnlyTWFJZmlHWU1PLVdlRWx2enNxNkFOS041SWNfRTVsVHpnY2lJUVR6MFVISnU1MkI3dTJnWVVTb01ObDRPR3YwdTVHaTRDVnVWRUE3cVdnSUpTTQ?oc=5",
+      "source": "The Guardian",
       "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
       "query": "AI video generation"
     },
     {
-      "title": "OpenAI shutters AI video generator Sora in abrupt announcement - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxSjhhNmprLUw4djBMbENiYnlqSjZ0c2lBR3ZEazNkMnlyTWFJZmlHWU1PLVdlRWx2enNxNkFOS041SWNfRTVsVHpnY2lJUVR6MFVISnU1MkI3dTJnWVVTb01ObDRPR3YwdTVHaTRDVnVWRUE3cVdnSUpTTQ?oc=5",
-      "source": "The Guardian",
+      "title": "Sora: OpenAI closes AI video app and cancels $1bn Disney deal - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13Y2g4d0sxSGwxaEF4UkY4ZjZwelRCWFB0anAtRXdmVUY3c0ZwQjhBWkVqWHVIdC1VelM2TWMzY0p1SWEySW5zSHYyWjlmWHhyNHJ6c0R4YlJjUQ?oc=5",
+      "source": "BBC",
       "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
       "query": "AI video generation"
     },
@@ -188,6 +209,13 @@
       "title": "Airbnb picks Alibaba's Qwen over ChatGPT in a win for Chinese open-source AI - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbWJ4MWp6ZEJSNGdLZnRabnVqNUluWDVfSHVndVVTSk9hRzgyLWx0c0UzVU52cDNieWJPSVM4dFU4R3FpOXlmVlBVN0xBVFhWVFQ4VEd2Uk54M2RmMERDT2lJeDg5dUJqRi1ZeFpkNkdBenp2S042dVJubWJfeW10eXdNaw?oc=5",
       "source": "Yahoo Finance",
+      "pubDate": "Wed, 22 Oct 2025 07:00:00 GMT",
+      "query": "Qwen Alibaba"
+    },
+    {
+      "title": "Airbnb chooses Alibaba’s open-source AI over ‘not ready’ ChatGPT - SCMP",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdEYxS2t4RnVDN0pVVDdSbk52OEdneG9fY2RNbWFjVGlpRWxGRW1iZnc5bmViaVIwTXd3SG5OamJLOEdXVWlaRnZrTS1HSWk4eFVrYXNuZjFKUWlydmozNU53QnVkck9KN2ZQVlc3UnBWTFB1MHQ3M2NYdGZ4eUJPamM4QWl3OElaYkhhZmxpU2EydFlvMjV5VWVqQ2ZMektraEY3U29WOWt3dkQ4V3lZZTBzQ1Z6T2xsYVpQTQ?oc=5",
+      "source": "SCMP",
       "pubDate": "Wed, 22 Oct 2025 07:00:00 GMT",
       "query": "Qwen Alibaba"
     },
@@ -269,6 +297,13 @@
       "query": "LLM release"
     },
     {
+      "title": "Midjourney Founder Admits to Using a ‘Hundred Million’ Images Without Consent - PetaPixel",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbU1DVHpuSVQ5Uk1qdUhONmZPM0diVFRqb20wZ3ptM3dETjN5b0xmRGJGRDA5a2xZMWhIc05vYXhnNklFOGp1UGN1WktFbDladjJkWjlLamtBVTROOU9fcWVkWnpmVUQ4UVJmeUhwSmFKUG5jTXowV1c1cC1yMldJUEEyX3RNRzU5QWV5eUloLW13VjlYaWt0UVNJb2NWNHJvRzRnQUkwdUoxOHNH?oc=5",
+      "source": "PetaPixel",
+      "pubDate": "Wed, 21 Dec 2022 08:00:00 GMT",
+      "query": "Midjourney"
+    },
+    {
       "title": "Innovations from Google I/O 26 on Google Cloud - Google Cloud",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX0JjSzRsTDBES0E1bTl4UGtldERDQjRQSkpUOG5Sb0NvLS0yMWMyM1k4WmlLOTNUYTJ0cjZIc3VOTEoyTlFXN3pLWTZjZGNLelA2Tnp1T0VlQlE4Wmd0Zno1eEt4eE0xN3NrR2lzMmlRNkZVOWVLNXhuZi1YQk1OR0hHVi1aaWZDZktzdno1S21DcnAzZHpCTWpPTDNkeVF1RzdvcmpSbw?oc=5",
       "source": "Google Cloud",
@@ -304,53 +339,18 @@
       "query": "Google DeepMind"
     },
     {
-      "title": "Lebrel Brings Uncensored DeepSeek V4.1 Flash From $0.13 per - GlobeNewswire",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOQWZkbEZzQVpsOGNuanRCZm8xZEM3Z2pmVThLZ0ZncEl4M196WjJJWGNNR3VOOVhiUWxOWVIzeV9WM3dDQndxSUUtM0FjY3ZEbXhWR3Y2N0ZxWk5kWEU1WDNmdzJ4XzVTRUtnNm5HczgzTEgzQXZhQlRQSDlrbDFiVGhTRl9lOXkyd195VDBHeW5kR1N0ZW1SaEstNFo0ai1neERNdUh5ZWlHUHNYV3ktenp4UDJHOWFmYTNGVzhUVmJ4d2l4eHRkYkNjSjdSNUU1dnNJTFU0Z2VRVlNfdWJOZ3BqN3hpY1cxVHBBU3FteFY2ZV80RzNVSDh0TS1IVmViSnNjVWpIc3pmaGxRTk9WMzgwc1UzZw?oc=5",
-      "source": "GlobeNewswire",
-      "pubDate": "Wed, 18 Nov 2026 04:25:00 GMT",
+      "title": "Claude Opus 5.5: Seven Weeks Running an AI Company - OrcaRouter",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWWFHNkJ3Q1o2TGxmZ0xaaWJkUGhNQkRXckpPOXVDWXVYTnViUVZpaHVqNENmN2FSOXpSTDlpX2pDRGxxOTl4Y25vZ1FPOEJ5elJ4UmxLWW1PQlhYZC1yb2hTNHNJV0YwRUlQUU05WVJXbkJQU3lkN1oxU1hwb3BpeEYwbw?oc=5",
+      "source": "OrcaRouter",
+      "pubDate": "Wed, 18 Nov 2026 23:59:31 GMT",
       "query": "DeepSeek"
     },
     {
-      "title": "California Sues OpenAI Over AI Agents and Hugging Face Hack - Brave New Coin",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSTRVX0c0VE4wZnF5VnU3ZWF5MG5hUGpWVlZkd1hYSU5Yb0xhZ2NROVZkS2o2WG9veWpNQlAtRzZTcld2SXFtTG9wa19IMzNoTjBfWGpWTDZucUdKenA2cFNucXpuRkFHMEx5bFJMcmtHNkl6bUEtd0k4RHBEY3RwYjJTQWtPQQ?oc=5",
-      "source": "Brave New Coin",
-      "pubDate": "Wed, 18 Nov 2026 04:24:41 GMT",
-      "query": "OpenAI"
-    },
-    {
-      "title": "Anthropic IPO: Amazon and Google Take 28% Stake - Briefs Finance",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQUJEVTZHT1VXTVB4ZTMwLUpYZ1F6TkUxaGVNSW83SU1TX2YtSWJDUkZnTzJ1ZENCTWZ5NE9VWERsOVp0RU9IR1ZxODlWTkZNc3BIZV9PQVFHMHdzdlp6bktoTVdKSnZJOXZBU1pPWDNrVjVoZUVFTW1EWmhXQzRwN2J2ZlBhandiZk56RWQ3YzF5dw?oc=5",
-      "source": "Briefs Finance",
-      "pubDate": "Wed, 18 Nov 2026 04:08:27 GMT",
+      "title": "ANT stock update: Anthropic share price, stock trading time, and more for Claude maker’s much-hyped IPO - Fast Company",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN3RRcVVxdXkwRTYwSlg4ajFFUGlhaEpZUm5lR0RHYldlbE01ekI5dE9HVjFudHVOUi1zZldMUWRIOTR2ZDk1WFJmSTJ3M2lSamV0MjZHVzdfb2ZBSzE5M3hyY05GdGh4R0Nka2hoWVNseFlDeVNiUHdnN3diRVhXVXEtU3ktd3l5SlZRU2FCUVo4Wk9jVjlodk1hSQ?oc=5",
+      "source": "Fast Company",
+      "pubDate": "Wed, 18 Nov 2026 23:56:51 GMT",
       "query": "Anthropic Claude"
-    },
-    {
-      "title": "Is Liang Wenfeng's \"Big Fat Fish\" Invading Major Tech Giants' Agent Territory? - eu.36kr.com",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IaF9Bamhzb28zZFFGM3dnVWUxc0FycUM1Z3pmYTlyZ3dFcDV5OWVnQ0xqWWRCVEpaSzlpX2Q5SlVIR2hGbnNtQXVPVmx0SG9oY0NN?oc=5",
-      "source": "eu.36kr.com",
-      "pubDate": "Wed, 18 Nov 2026 04:02:17 GMT",
-      "query": "DeepSeek"
-    },
-    {
-      "title": "OpenAI site plan approved for Effingham - The Current",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcXRwaHdoWjZEOW4zb0dyc3VxdUtpd0pDVE03RkRFSFhnYkJVdU5qTUdNTGZmZFZiSU1venFpVkw4dGtxTHNGa1dyai1oWDE0Q3BtOGIyQi1tQTlaeUtBWXFSd3NOWjkyczg5WVZwUkVnTmlucFRGbnNUVzJ4YmFXVUl3?oc=5",
-      "source": "The Current",
-      "pubDate": "Wed, 18 Nov 2026 04:01:51 GMT",
-      "query": "OpenAI"
-    },
-    {
-      "title": "Effingham Approves OpenAI Site Plan, Tables Moratorium - Effingham Herald",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQndwYllJUGlWcG5JOHVNaGFha0dyaGxNTlMxaXRrUklfMldpUEdyN09UbkVuQ2xuaEZMSFNmRVhVTTUxR2ZKN3pBR1pERm5PNW9Zc255XzBiNEhtVHAxVktKN05ENnNnSG9BY1FSaGYyZVBzZVdYd1Nfa1ZCQ1VmQzFZcF9rTlRIUWpZbURIazM1TGJXZHQ2aVA3MkZyQS1vSmlFejlsLUhrMHNCbkxfZ181SDQzYV9oWHFkNUFaSVRPY1ZRNDdXVFp6YXFNYi1mWUE?oc=5",
-      "source": "Effingham Herald",
-      "pubDate": "Wed, 18 Nov 2026 03:23:18 GMT",
-      "query": "OpenAI"
-    },
-    {
-      "title": "Oregon AG discusses $2 Billion OpenAI lawsuit - KREM",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON2RRVDhxVHFvYXY4TldDNFZseXNjV2xSYVl5aDd0V2ZOaFMyZHVRaFE0ekNReTJUd243VGhtR1VVNzFEM3c5U0YyaE5mMHpqSjE1U21HbnE5NnVSRnJZTGFmS3RETWdNNFI0WWtmLVhwd1gwbXB1OXY2YkNPYzdZWnZsS1RLc3A3REVxd1BwTnhxMmt3SUdyaTI3cmEwbE1iUjZQbU1CWXJZakRBbVpHM1ZzZHlYQWZBX3d4RlZabGJOWmpr?oc=5",
-      "source": "KREM",
-      "pubDate": "Wed, 18 Nov 2026 02:43:00 GMT",
-      "query": "OpenAI"
     }
   ]
 }

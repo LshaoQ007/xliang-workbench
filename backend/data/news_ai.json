@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25 05:36",
+  "updated": "2026-11-26 05:18",
   "count": 50,
   "items": [
     {
@@ -24,24 +24,10 @@
       "query": "Google DeepMind"
     },
     {
-      "title": "Millions of new materials discovered with deep learning - Google DeepMind",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNTBYeWxBNDdUTGVUYWNHUWlIYlVlNG1CUU40NlR5aDEyYVFXN2FUTGF5SFY5cVlqbVBNeUF0UWQxdXpzUEEwRm9rbF85OWVsaFZ2dU5CV25lRGRmZjVGR2tJMWoyVU9ueHk0MDJORzA5VU9kVWRnUExQamhEQ2t3cFZUODlHMXJKUEFvM1J3?oc=5",
-      "source": "Google DeepMind",
-      "pubDate": "Wed, 29 Nov 2023 08:00:00 GMT",
-      "query": "Google DeepMind"
-    },
-    {
-      "title": "Introducing Pangram 4 - Pangram",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zUlNBWVZWLVc2VTNkV2NoNzRhaDVnUm00U2lpVktsd1ZHTFNMZkxpMldOeHdxeTRGa3dJcXE2UDBZeDNzanFqYkZtYkwtbmJ0MWVibzFPWXVLZkdaXzhJ?oc=5",
-      "source": "Pangram",
-      "pubDate": "Wed, 29 Jul 2026 15:13:46 GMT",
-      "query": "AI model update"
-    },
-    {
-      "title": "DeepSeek V4 Signals a New Phase in the U.S.-China AI Rivalry - Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOalo2blFVcFJMSGxHTDBsTVlUTE9sMkd4UUFULWFNaVItaWNtY0hkcnVvM1FLbjUxZmt2ZDlzVnN0cHJBRnVqNEdCejUtcmFoZXlMTXNpdlpmY3ZIMGtiTE4xcVVULXVQaTgxNnB2TzRiNEtHZkdTeTNTZ00xX1Q4S05NNGFVTmgxUHpZeXFrWlhaQQ?oc=5",
-      "source": "Council on Foreign Relations",
-      "pubDate": "Wed, 29 Apr 2026 07:00:00 GMT",
+      "title": "DeepSeek Builds for Huawei Ascend - Geopolitechs",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMdmdBMVNucGYtYVNLQlljN040Q0FITV9TSVh3QWVFbk1aNVRfRnZHWmNpMXdMdy1aT0diOFVlZ1hndmpJOHlrbkRLWWlTN21ZOXU1U3c1Vm1QNElPaU9zZW1UZkxVSlNqaG53b0lSdHo4UQ?oc=5",
+      "source": "Geopolitechs",
+      "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
       "query": "DeepSeek"
     },
     {
@@ -59,11 +45,39 @@
       "query": "Google DeepMind"
     },
     {
+      "title": "NVIDIA Releases Nemotron 3.5 Transcribe: An Open 30B MoE Model for 40-Language Transcription with ~4B Active Parameters - MarkTechPost",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbGtzNlhuY2NMRG0zdXQyRGVuQk5ick5rdEZMQktXaUpDYWJCN0Q2VGpydGlLY1hwNV9Pb1ZhYVN5MnVQZGJINjNrVVFOXzJhS2htX3ZrNHg3VzFhX0g1UXJiQ2NPT3JTZVk3b1RmaXdqSVdtTTc4OWhwUUtxRGhFcldHUFF0eHd5TnpFejZmNFPSAZABQVVfeXFMUGxrczZYbmNjTERtM3V0MkRlbkJOYnJOa3RGTEJLV2lKQ2FiQjdENlRqcnRpS2NYcDVfT29WYWFTeTJ1UGRiSDYza1VRTl8yYUtobV92azR4N1cxYV9INVFyYkNjT09yU2VZN29UZml3aklXbU03ODlocFFLcURoRXJXR1BRdHh3eU56RXo2ZjRT?oc=5",
+      "source": "MarkTechPost",
+      "pubDate": "Wed, 28 Oct 2026 07:00:00 GMT",
+      "query": "LLM release"
+    },
+    {
+      "title": "Building an Agentic AI Platform on Amazon Bedrock AgentCore | Amazon Web Services - Amazon Web Services",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRldyOHdWSmREakNkdGgwUmZLMkhWdEt1NlpPWGZmaS1JVEhNeUV0UExEUktoaTk1Q091Rmh3VjlNMnI5a0V1RmFGUmJMTmZIUi1kVTZrQ1hZZmdYcVpfNzFKUXB5SzdjbUVyWUtRZ0V6dVMtZG54MGpJSllnWnF6dXVSc2ctUnpPU25aS1pHbGhGVVU2THFmWVpXTXUwWWZORGx2cU9Qa0VSUQ?oc=5",
+      "source": "Amazon Web Services",
+      "pubDate": "Wed, 28 Oct 2026 07:00:00 GMT",
+      "query": "AI agent platform"
+    },
+    {
       "title": "Oracle AI Data Platform Agent Updates - Oracle Blogs",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVWI3cHB6RVRoQWptemh0Wk11bEFRSXNwSHRKMVRIVkJ2ck96RVExd2tHQ3IzT1FmczN2cTd5cGZsYXNYd2NuYm5HUG9HTV9wS29oeUxkNjhwR1FnUS1oeVBrLU92ZTJ1RDVSQnNqQmNrRlFMR1B0Qm11b1hRSkw0a0VPdjR0QQ?oc=5",
       "source": "Oracle Blogs",
       "pubDate": "Wed, 28 Oct 2026 07:00:00 GMT",
       "query": "AI agent platform"
+    },
+    {
+      "title": "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models, The Information reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZWxreXdWZGhvNFRiam1WcVA1WGMtNnl3NVpEWjIyVV9IR0xReTYwTFU2Ulhnek5QbVlzc1prUlBwYlVYNmpFaXJLdTNRU3NnbkhWSFlzZllyN1lma0RydHM5bEFab2xIRW5aOUllWGtiMzRaOG1HT1M3Z3ZIN1NwVmFFZ2NlUFo5WUNYaTRZSm9waDl6cE03bE1NMEtIM2VORTVVUDN3Y01ER3drXzFwNkMyNFZ0N3F5MC1idTVR?oc=5",
+      "source": "Reuters",
+      "pubDate": "Wed, 28 Oct 2026 07:00:00 GMT",
+      "query": "DeepSeek"
+    },
+    {
+      "title": "Grok Imagine API - xAI",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ycmRTdVlnOUNaXy1UOWdLNGJ4c0pQYjBkY3l6VDVpdWhRSDBiUDZXaE1DbUVWU0lZN2htY3V6SUhLMVlfdVZTWjdn?oc=5",
+      "source": "xAI",
+      "pubDate": "Wed, 28 Jan 2026 08:00:00 GMT",
+      "query": "AI video generation"
     },
     {
       "title": "NVIDIA Blackwell Sets STAC-AI Record for LLM Inference in Finance | NVIDIA Technical Blog - NVIDIA Developer",
@@ -87,9 +101,9 @@
       "query": "Qwen Alibaba"
     },
     {
-      "title": "Alibaba Releases Smaller, Cost-Effective Qwen AI Model - Bloomberg.com",
+      "title": "Alibaba Releases Smaller, Cost-Effective Qwen AI Model - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVFN2VVNaUWE0bXJiNjQ2VWJlbngtWlpzcnY3RG44VlB1eVVhMWNiT21wYmVKSDJnQ0JkNXMycVg5bWRqQ2RIZ3E0d0hzdkEzUlNPV05aUjRUTFhzaXlNdVhVSHFXNGRuZFlPWUhEeEtKemMwdWJValR0MFpZM19OMVRpS1piVVhZWEI3ZmdJZmlDR1B5d2JMRU5DcENuSUktd01Ra0J6Zw?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
       "query": "Qwen Alibaba"
     },
@@ -122,235 +136,221 @@
       "query": "AI video generation"
     },
     {
-      "title": "KRAFTON Officially Launches In-House LLM 'Raon-1 mini' - Inven Global",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMFJyeUZWTXNOSV9ITHZma0hzTzNDZDdGNDQ2bG5tZUU0RGFKUklpQnlBTTBESFZYTkExYkpmS0ZNQTBtUWRLX2RGMlRQOXUxSEllS1hlQ3h1b2tOTDBUUTZMNExldUtKd0FsTncteFR6Y1RhRlptRkFDRWpDT3o4TDV2VDRsX0xMdDhtX1R2cUlMMkdoUllRYTZJYw?oc=5",
-      "source": "Inven Global",
-      "pubDate": "Wed, 25 Nov 2026 05:15:49 GMT",
-      "query": "LLM release"
-    },
-    {
-      "title": "Google AI Mode Adds Wallet: 4 Apps Live, 2 More Due - shattered.io",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUEZ2TE1KcTdvQjhRVjRObV9DNUd6dmZmR0JYdDFMdFg4T1E1NzJrQW1PMlZjaFdKcXRsaWFJMmEyLW9XY0xrTFU3TTdLZVZmNnpaTzVULXZsNWFEUlJPMW0zUmpvTkdyZzhnSzc2N3d2cHJuNS1rdmRqOHZnbzZiUXVkcEhTWXlVT3dMX3pBZ0FmN3lO?oc=5",
-      "source": "shattered.io",
-      "pubDate": "Wed, 25 Nov 2026 05:11:26 GMT",
-      "query": "Gemini AI"
-    },
-    {
-      "title": "OpenClaw’s ShellBench finds top AI agents still fail about 4 in 10 everyday tasks - Crypto Briefing",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uRUhjbXYweTR1bVdUelRqWHhmVmtXSHZVZFVUMVVFbXd0VjVHNmVPUFR6WUFTV0sxWlBEY2oxSzJQblZRVURyVmltMlphdE40WHJaZFRuMDlTQ3NBU3ctUFhNM3k5TUpIQUZFU1JFT0xZaEFU?oc=5",
-      "source": "Crypto Briefing",
-      "pubDate": "Wed, 25 Nov 2026 05:08:28 GMT",
-      "query": "AI agent platform"
-    },
-    {
-      "title": "Report: DeepMind’s Elena Buchatskaya Has Joined Anthropic - FourWeekMBA",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQejBaN1hmMEtaUU9ySkJjcHlMOG5MQkZ1ZzVVa3pEcHplRnlnX3VZTXlEZ3BBMWZlTWE2Sy16Q3NDS3pNbUpKWktTQmdfQ2xxdllENy1pcmF4RDNSSzF6eG9vZ2JlOU14QUQySG9fVjc2Zk9IWnREbmd1dUtBM1V5UEZoMmxEX3pwYmFr?oc=5",
-      "source": "FourWeekMBA",
-      "pubDate": "Wed, 25 Nov 2026 04:41:09 GMT",
-      "query": "Google DeepMind"
-    },
-    {
-      "title": "Cathie Wood’s ARK Sees ‘Excellent Entry Points’ In AI — ‘Big Short’ Steve Eisman Warns Of Recession If Anthropic Or OpenAI Fails - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQZ3dMWWRmcHByZmc3cXFid2N6dS1qYTBoX2d1bUZxblRVRTA4RHdtZ3NFdWRHTGZzcGhmVl9FVndMN0FZYUNhNW5HYTh6YVhlZmxBeWJfYTROaGJxZ21EZ29zczhlRzBFRURFdEJhR01PaVlKU3F4ekFwWDJFSHlZa2ctWjFqYUZaVVpJbXM3TmxyRU8wSU9BWHVlWEtXZ1F1akxVSHB3TVdaRWYwQ0ZfLU96UWhoMDhZUXZRY180UC00bmtDZ05jQy1zeDJYbFJzZ2piYUlMcVVoSUJYczN5ZEZQQTZpMTZNMkF4aWxiVE5vTHRYYVZXbXJWdmlhcjZ5blI1czhOT2JXRUpRWTFjQw?oc=5",
-      "source": "TradingView",
-      "pubDate": "Wed, 25 Nov 2026 04:41:00 GMT",
+      "title": "Musk's Antitrust Suit Against Apple and OpenAI Set for Texas Jury Trial in March - BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91WHZmTERLLXFDaE04RHEyRjFPcmVxckpROS1iU2ZUelk5RVlydmlOU3hiZEpxWnBvcGx1UjhTTEUtMTRTMkVoOENEck1zV2R1b1VRemNOTnl1QzF0TjNjX3pUd2NzSTNDUnFXN25ENVV2Sm9vWXc?oc=5",
+      "source": "BigGo Finance",
+      "pubDate": "Wed, 25 Nov 2026 23:56:00 GMT",
       "query": "OpenAI"
     },
     {
-      "title": "Sand.ai Launches Full MAGI-2 Video Model, With Open Weights Still Promised - Pandaily",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SZDFXSWI4VDFnU2Y2cmJLWU5HekZjVzI0VnFoejFRQk9lRUNhRS1PVGlFSWc1Zi1Hb2xSU0x4cUJHTmhQQ1hTQzNRYkxjazFVZS13UmttbUQ2Y0xGNHZhcllpczM4YzNZZVppVkZ1dVRrRUdITTJLT1FKeGNCQQ?oc=5",
-      "source": "Pandaily",
-      "pubDate": "Wed, 25 Nov 2026 04:37:46 GMT",
+      "title": "Android Authority’s One UI 9.5 beta test: Perplexity goes hands-free, Gemini needs a tap - Digg",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE10Skh5aTFEcWFqTDEtdFZycnQ2a1FJVmFSTkFuWFZESmw0Y1g0SC1RN0pueFBNOU9sbkxSbGRrS19COVVj?oc=5",
+      "source": "Digg",
+      "pubDate": "Wed, 25 Nov 2026 23:42:36 GMT",
+      "query": "Gemini AI"
+    },
+    {
+      "title": "OpenAI reports lab binding for GPT-6.2 protein designs, but calls it a proof of concept - Digg",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1BNXhuckdPWTc2QkRTNS1FNkh2N2NuekJDN1o3SW40ZnBnaUxKZ1dpdFpJS1drMXhqYk5SdzNfOE9TSGNJ?oc=5",
+      "source": "Digg",
+      "pubDate": "Wed, 25 Nov 2026 23:27:22 GMT",
+      "query": "OpenAI"
+    },
+    {
+      "title": "How AI Video Generation Helps Brands Respond Faster to Market Changes - finchannel",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOREdYYTJzMURCMVg0V1llRzZlMlE4ZGFXMi0tQi1JTjVyb2c5Y0ZuUzVUTVRlSkpQLWhOSE5FTzVWeTBRQWU5T0d0aEZzeFZBbWNkMndGM3lxVkxTcG1mSFpFcjdQYVppVnZTcFdxeVN6TXJGZjVRMFNLMjQ5RXdRQ1NZSnJ6ZUN1ei1seVVFUzI2TnlyZFNRREkwTHhMMlJQM0RJNnZ2QzN0b3lYVmR4Z0ZvVXJRQQ?oc=5",
+      "source": "finchannel",
+      "pubDate": "Wed, 25 Nov 2026 23:19:47 GMT",
       "query": "AI video generation"
     },
     {
-      "title": "The future of trade: Rethinking risk, regional platforms and AI agents - Gulf Business",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX2lIemkzR3VoZ0xQT0tGQ2l2ejBNaFA0VGVPLTl2bnFsNmM5ZVMzeWFXbkstMFBweWhLUHlJRmhidkhEWmVTamRkLVF5M0ZldHpacjZDeUhmZENHUkZrZnVXX0d5Y1dmcC1lRXd0MDRHalc5bjNCQjZoaFFlVXNWNllOWVc1NWI3cU1fLTFWR3ZteGpRd1MybkU2eHN2cUpKR1Z4YVl5T01TejhYbHFZbg?oc=5",
-      "source": "Gulf Business",
-      "pubDate": "Wed, 25 Nov 2026 04:21:26 GMT",
-      "query": "AI agent platform"
+      "title": "Anthropic brings Skills over MCP to Claude and Claude Code in public beta - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1VTFhNSWpCLW5XUVZCTkhwZ0RwRndGUVNWeXhIbUVhX2hMOWhBazFlZlQ4SXRFTkFJNElubTBvMXBtVFJUSV9zcmN0TlZWM0V4bWJhNG9DQzRpMFdSTU5vUXZIc1NvR1FtZ2NKYV9aNExveHM?oc=5",
+      "source": "Crypto Briefing",
+      "pubDate": "Wed, 25 Nov 2026 23:08:49 GMT",
+      "query": "Anthropic Claude"
     },
     {
-      "title": "OpenAI Preprint Reports 9/4 Bound for Matrix Multiplication - Unite.AI",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWRNRlNVNGxxX1RZX2ZBTndVM3Jqa1Jtbm5VNlQxZFJZNVBiaVNTR2JqbXpWXzFYdlZ0NWQyVFNHQnRIUUJrWlh0Ny01WU5QbkpVMzh4M0dLbWgtcDlUUVlsN2RqZ1FJU0k2UU12UkpJSVc5M0lMY3N6cWl2RFZhTkZ3bUVFdkZN?oc=5",
-      "source": "Unite.AI",
-      "pubDate": "Wed, 25 Nov 2026 04:10:05 GMT",
+      "title": "Android Auto got a lot more fun the day I told Gemini Live to stop agreeing with me - Android Police",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLOUVtd3dEYUNzSHFzU1kzdUZqMURCQ3JKa1d2NGVudk9yV2VPZWZNX1BlWFJIWkQ4R1MyYVNmcE1kaFNqRXhHSEY5bXk1Y1VsSEVtaTE3Nk5iWlVxU1NKQW9MRDBiWjcyY2hQekdZZw?oc=5",
+      "source": "Android Police",
+      "pubDate": "Wed, 25 Nov 2026 23:01:10 GMT",
+      "query": "Gemini AI"
+    },
+    {
+      "title": "UC gives students free access to ChatGPT. Faculty say OpenAI deal is ‘unwise’ - The Mendocino Voice",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNakFRX2RMODUtUndpMTBBSU1pQ2hCUjNjdTdmMnBad3RWRHQzTzdaOUhuOXhXelVOWTRyOGxLZ205eGdZLWJJME5za0FReXFfUUg1N19hOHBtM3pQRHk0RkdhZy1CZkcxN2NsNjFMaWU2c2NXRllYOFBsSmEzTE9UUnhiVlVXT0ttNFhDYi02aGdTX2h6dmdVcVNGd1pZdERqTFZpTTI4Y3ZEZw?oc=5",
+      "source": "The Mendocino Voice",
+      "pubDate": "Wed, 25 Nov 2026 23:00:00 GMT",
       "query": "OpenAI"
     },
     {
-      "title": "Cisco and OpenAI dispatch AI agents to shield vulnerable systems before permanent patches arrive - InfoWorld",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSFAyYUxldXBMWTc3ejBmMHVoOHZBclVnMk1xdHNfckczSnc0YW5NM2IyTFp3a1FIeUpnVHBBRUxHQVZWOGhGQnNaS0g3bUJVZlBVckdjUG1VVDVIS2gwTjZIT2l3VUpSVHVlUHVTSUVoMDJRaWF4ZHd4WVl1U0s3d3otbEp2SHA1UDZJLWRXUUtVVFk0NFU2aUYzVXBZSk81c21ETkJXS1kyem1HQnhmck5fQXpuYWNQS2w3UVRES2NqZDBGdDZueTVyUTVmaklBRnd2WXlyelMwdTQ?oc=5",
-      "source": "InfoWorld",
-      "pubDate": "Wed, 25 Nov 2026 04:00:33 GMT",
+      "title": "OpenAI Tests Private Inference With Select Customers - The Defiant",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMnRmTUp6aXJfTGw0bE5YMkxadVJJU3p4UmFCUk1Ia1B6Y3U1Q0pscUFsS2h4WHhkU2c1NGQ5T0lULThRUElNempmcGpKazFoUmRvREZsajFUS0dzMzV2dE9NNkdwVE55bGpmNXdSVDkwXzRCai12WUdxR2FveHhOQjgyczEyU05lQU8xNVNGWQ?oc=5",
+      "source": "The Defiant",
+      "pubDate": "Wed, 25 Nov 2026 22:45:58 GMT",
       "query": "OpenAI"
     },
     {
-      "title": "OpenAI establishes exact 2.25 exponent for matrix multiplication - Interesting Engineering",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbk5ZNFFBclBmbkEwcTRzN2dDaGVpLVJsT2FRakVYS3BtaGFuek9xTFZ2aFJoNE9LbXFSYTQ5a0J3SjJFTUlMMEV5b3c4ay0xa3BYeklYVGI5M3VlV3FUY2h6VFI0bDk0b3M1M1ZSXzBGd1lOUWdxV0ZFTUZ4bElDYVIzSWRScGJlX2lXQTJWNHg4aGluSFE?oc=5",
-      "source": "Interesting Engineering",
-      "pubDate": "Wed, 25 Nov 2026 03:52:00 GMT",
+      "title": "Google's Gemini 4 agent claims six math proofs in a day, including one on factoring 30 years in the making - R&D World",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWm9PeXNkcS1WNGM2YnFTTTNaTkdaOTJCV2ZPMzI1V3RJVzV3Q3NxOURkZktGOHJhcDBFWkxJZTNaYmNJM2s1a2cyTGh6SDBUeF82Q3NNSm4xRGxuMG53QjczbXkxek5tLWU2S2o4dlZ5b2M3WjJzUHhLdWVHbWM0RmNqaGlOd1dGRU9UaEx0Zw?oc=5",
+      "source": "R&D World",
+      "pubDate": "Wed, 25 Nov 2026 22:44:27 GMT",
+      "query": "Gemini AI"
+    },
+    {
+      "title": "Anime Influence in Music Visuals and Where an AI Anime Video Generator Fits - New Wave Magazine",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOEdQNkpReTA2Q0p4b1dCdjg2bEhYZjVGVWxxemI2aDUzM0ZIcjRINmtickJNcU5IUno5R29kSFJMRjZMbmtsbkNaN2JMMzVRR3pKZ1RpQTRYdjhIVngzTHRrV3FGZEFyZmE3eERjQWpyeE9XU1ZvM1QxZWtRRWtGSTNtLWJLQVBpWktDQVdpNF9iejgtYmRzWlpWYkRPV2M?oc=5",
+      "source": "New Wave Magazine",
+      "pubDate": "Wed, 25 Nov 2026 22:42:38 GMT",
+      "query": "AI video generation"
+    },
+    {
+      "title": "How a new generation of AI agents could change holiday shopping - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaUZmUFVWNDJ3SVF2YTY0OUlLTjNyV0kxaHgwblBzM0dsaUdnLWF2dmk3XzV6d0NxMFpHam1HT2tKRTFveEp0MFdyTnFreWNlWmZHbXBYTWwtOFp2b1Nkcnl6MnFBRjN0Zzk5ckd0TS1ZaTlBcWtwRkg2aTFBWWpDZDhBMTZlUDktM3lZSFRJVHFRRkloWlBZRDZn?oc=5",
+      "source": "CBS News",
+      "pubDate": "Wed, 25 Nov 2026 22:39:00 GMT",
+      "query": "AI video generation"
+    },
+    {
+      "title": "Anthropic Stock Is Down 33% From Its All-Time High. Here's What a $5,000 Investment Could Be Worth in 1 Year. - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQdUNNV0hVNkJlaEVIZm1JZ0VHNXZsT0ZHZjlvcmVZMkhqUDBzRlZ0d0NSN3ExYVJFZGJhVjJnRVUxYVpoeWFuU19CLVN5UXB6eVp2M1A1MVFJS3I1SDVtd3hKQTJCWGRPbVBnTEFLMlJMNHYwdjkydzJwUmF0cmNQY3A4UTROanE3RlJ3bWFhWGRSMVFfS2hpN3pndndEMFBpbmVvNjBWNTBpdW9mQTg2QzRIR0sxT0tWcVJqN3VKLWVuTVdTOVpVQm96ckRjbWVOQXlYQnJwdFdOV1p2Ui1heXQyazdJaEM3U3lTSkdtNjlvMkMtdzRLWFQyWVNzaE1mYzI1NGxnblUtQlpVSkIxc2FoMGVCaXZuM1dvVg?oc=5",
+      "source": "The Globe and Mail",
+      "pubDate": "Wed, 25 Nov 2026 22:36:41 GMT",
+      "query": "Anthropic Claude"
+    },
+    {
+      "title": "What is Claude Opus 5.5? The model Opus 5.6 would replace, and what it costs - Nacionale",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcUtKd2h2ckYtMHhlVUpGaThFZXAxc0lESmVCNTJkbGNhdFpJdWpjUHNQRXFpTTJlQlgzTERaa285ZXpLOVUwaVBoOXJmV3ZaSUwzSE9pZUhqRmNieGdKb1owcnlvXzNOeFRrMmg0RTVKVjlSb085THJ1UXRwRWtRMlZ1M2R4dzlUVDN1bkZYSHcxekpvWE1Ra3dwQjNYR2g2aENFdmJNbkI?oc=5",
+      "source": "Nacionale",
+      "pubDate": "Wed, 25 Nov 2026 22:29:03 GMT",
+      "query": "Anthropic Claude"
+    },
+    {
+      "title": "Facing Legal Pressure And Industry Alarm, OpenAI And Meta Push For AI Development Guardrails As Anthropic (NYSE: ANT) IPO Fuels Market Frenzy - Foreign Policy Journal",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQU21NWHRSNGE5T0dHSVdYLUU5QlFHWHdsb2drdDZ1RUdhZ2VSeWhWanN0ZTZORzFvVW1vYWxhejNxTTQtcVFNcFVMWTBic0pJN29DSnk2SnNFWU9lYnhFcGx2bVZWNjVPUkJoZXNyeHF4ZmoyOF92enowMW5SVEM3RWNCRUIxemhUaG1qWU9Fb3ZBQk5yV0wzLUFpaTZPa1pCSE53bjdZaEhWREgtMkhtc0xnTjNIVU1WTFozREZRSXNCaGUzcmRwZHpjV3NtM01jZ2VyQmo3ODJLSF9uM1lZZmpJTnJoS29wZkQzOWd6XzdHYmlPQjk1dmJmNEM3V3dCX1pRMzNJNC1YWklwYmJvTXpfd0c?oc=5",
+      "source": "Foreign Policy Journal",
+      "pubDate": "Wed, 25 Nov 2026 21:56:00 GMT",
       "query": "OpenAI"
     },
     {
-      "title": "DeepSeek founder Liang Wenfeng’s fortune surges to $55B - VnExpress International",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHBrZGtkQ050Zm83OTVvbGszOXYzMjZYRjB1bFJ0UTRnVGtaMVJZN0pMNjlWUVUtWEw0em1zZ3NHVVd1R1NuRjRzR09qY3g3bDJmRy1VSzlxY1g0NkdQd2UyTDNESV9Sa2NZQk1GRmdxaWMyQWktR1I3a3ZpNnkwLVVRVjJra3JCV2I4cTdYVS1GbldHVmlwRDRuQ05nTmtNa0Z3TGp1bXFlbUt6bnVKZUlWdUpuZw?oc=5",
-      "source": "VnExpress International",
-      "pubDate": "Wed, 25 Nov 2026 03:51:30 GMT",
+      "title": "OpenAI tests private inference feature with select customers - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcGpFbnc4Nzd3RnU3RlBmR0YxUzlEUDZrWnRrZkdsZWNVRFFqcFBhSnh5WTJpVHBOaE5zaDdxVC1KYlNqdTVkSGJ2U0JmRlk5cUJOLUJlZ2lnUTBFcnlzNmF2TXoxZC15a29IS2FCeVpwY215blNNMHpUcFlKV0R4Z29ON1BfdTQ4aWNlNkpJLWpJZw?oc=5",
+      "source": "Crypto Briefing",
+      "pubDate": "Wed, 25 Nov 2026 21:44:30 GMT",
+      "query": "OpenAI"
+    },
+    {
+      "title": "When will Claude Opus 5.6 come out? Anthropic has set no date; here's what its past launches show - Nacionale",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSF9uZmdpQmRaUmlvb0xXdDVNOFFhZXVoN3A1eUI5Q2pqcVFSRDI1TThTWXZXSVRGV0pxUE05WFpIeHVGZ25JOWF4WUhPa3A4WUx4bHlnWld3dDZJbVFRbW1uS0NEam9tV2dKbEhnOWVuc1FHNVRNZlNvVXJIWFZSUVFjTnFaWW4tcG1KRS05Yk01S29UZVR2SkdqaDY0LVlYXzhYSFNlQ1JTRU0yX0E?oc=5",
+      "source": "Nacionale",
+      "pubDate": "Wed, 25 Nov 2026 21:30:16 GMT",
+      "query": "Anthropic Claude"
+    },
+    {
+      "title": "Anthropic's customers are doing what a leaked Google memo predicted - Quartz",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EdS00NHNvMkEtbU9kYVVzb0x0M1NiVlFId3hMeFJYYWwzc3pqVy15XzdCcEE2TWZ0bkdoZEI5TVBoUFRub3hSSmFoVlpVc1lNU0xXWnJ0N2hBT1RvbmdKQkltc19iYlZWWmhFOXB6dG50bGdFY3E2cG82NEQ4Zw?oc=5",
+      "source": "Quartz",
+      "pubDate": "Wed, 25 Nov 2026 21:19:35 GMT",
+      "query": "Anthropic Claude"
+    },
+    {
+      "title": "OpenAI taps Cravath litigator for court showdown with Musk over AI dominance - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRzJ1c09xSU9NV3J5RGI1Ny1hUkFmV1pURmljRHV5aldoS2tsaTdIMDE2RVBncFNpSmYtWW04eHh4cnlvR3N0Q3Y1MnNSVVNfNmVFUi1KMFk0eTIxclN6TkhhbDNvR2d3S0VncjJlUXhPODlvRVZhcGVGM1NoREFRTHc1QzFFMHlOdjNwSm1DalZ5WTJRa0pTb2YtVloxN3p3ZDNmZkF4bjNORkxJM3ozZlJrRFJSYTJ0cWVORDVmajFmbjA?oc=5",
+      "source": "Reuters",
+      "pubDate": "Wed, 25 Nov 2026 21:10:44 GMT",
+      "query": "OpenAI"
+    },
+    {
+      "title": "AI company employees warn internal models are too powerful to safely release: report - KOKH",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWEpZclJtbzFwYnhHeXUzRGwybVhBSk44R2QzTzdvV3hCakxoZ05pZmlUMWhsWm9ZbXpOdGFhT19xZFlGeUg4WGlFc2xPaDhuMThCQTRYajBOSkJWbFk5cEtJbHJ3em0xd1FKY2lKSXBBM09BM1V5Z2N4SlEtT0Q1emQxbzdVMDFZb2NoNjZsN0M3TW9RTUQxejE4UU85ZTVXUXdWV3FDOFBPS1Y2bl9RRVNNUGNmdlR2aEU3MU01TXdVYmZ0cWMtcWNEVGVxZE5KLVBvSDkyYlo?oc=5",
+      "source": "KOKH",
+      "pubDate": "Wed, 25 Nov 2026 21:01:37 GMT",
+      "query": "OpenAI"
+    },
+    {
+      "title": "AI company employees warn internal models are too powerful to safely release: report - National News Desk",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRXlkX2h6OVhzcTdwbFNERk16Vm9Dd0NqVHBVVlpwWkVlUEhGeGlIcmVKcWNfZTdCT1czckhrdVpxWk1UTWxCSWU0b3p2R1ZiRHFBUTJZTGxMZlpPeDFsSWZKaTh0aXR1TTEzQ0VkNTRHVy1CMU1KdUQybThrQlp6T0xmVUI4clAyQmo3WkFjaVByT3Y2TmsxS3BhQXZjQzAwVk1hQXVmaUI2U3BxZ2dONGFPTkxZZ0V2aWJxcGFKVVhNbzdPNzZyU2xlekVUWEdCX3hheUY2RFM4OXlFSUt5MkpHVXZIYTRTUWxR?oc=5",
+      "source": "National News Desk",
+      "pubDate": "Wed, 25 Nov 2026 20:58:02 GMT",
+      "query": "Anthropic Claude"
+    },
+    {
+      "title": "US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs - The Decoder",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQVRkMl9VdTI5Y2xQTmZQWXlZRzdVZnVuRG9wNVIwLW5jQnpNcXpGMGM1T0YwWXdtYjBIM1JqTnJPZDBTc2ZoWnlKUHZMWkxBQXlTVExNbVlBWWdNUXNrcXFoZUx1eU5VRlBwbGFZaHY4ZWpTc01uT1FWZzd0NDlkcUhDeVVDbng4Ry1kY2dvdGMwZGViOGMzeFd4TWFJQTNPemlnTU9mUU4wbzJEVFhVeDROZHFnci1RRUtoSGoyNHQ?oc=5",
+      "source": "The Decoder",
+      "pubDate": "Wed, 25 Nov 2026 20:51:02 GMT",
       "query": "DeepSeek"
     },
     {
-      "title": "Anthropic's New Model \"Opus 5.6\" Reportedly in Secret Testing; Observed Being Rolled Out to Some Users First - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OZVlRenlPV0lKOG0yXzRlMlMzaEpvaThqTGxBWm1uUGczSDlSMWhCUkxvd0wtZkllUEJwbEhTWl9vTnRLclBYRlE2Y0xaek9ZMGU2VDZPQXQxN3FCU21HZFJDMTFBajQ4X2FUa3lNN0w3SkFwekE?oc=5",
-      "source": "BigGo Finance",
-      "pubDate": "Wed, 25 Nov 2026 03:35:00 GMT",
+      "title": "DeepMind quantum algorithms: what Lean verified - NeoTeo",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YbU5Ub05JWHktcVNLbno0NVgwRnlrN0dYZ1hUc0haOW83djkxb0syaThQMzdKSlo2LUpObjRmMWJYOTF1V2JWcWZuY002dUxiQ0JKNkJsd2FzZUx5cTIxaG1TcE90NDJIVzY2dHpkTFRHZUpVSm5Dcg?oc=5",
+      "source": "NeoTeo",
+      "pubDate": "Wed, 25 Nov 2026 20:40:43 GMT",
+      "query": "Google DeepMind"
+    },
+    {
+      "title": "Is Claude Opus 5.6 out? Not officially: Anthropic has announced nothing, but testers say they have seen it - Nacionale",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM2tnTDZPMS1vTk5rYkZudEdpR29MdlowQno2Vkk1STJOQ1ZZbXlUS201R2RXNzNya0VZbktZWWhVTFgtZjNtMUhBUWg0TVZYMVJacGU5ZzZnVmd6ZElud1lwRy1PSmlUUnhzaDZNSGl6SzgzTjdSYkFRcndydEVlbjBwaXNudVlJSW9FR1pfdEFTbGk3NXdUaHEtZmhsYVU?oc=5",
+      "source": "Nacionale",
+      "pubDate": "Wed, 25 Nov 2026 20:31:57 GMT",
       "query": "Anthropic Claude"
     },
     {
-      "title": "Sany Group Debuts AI Agents and Embodied Heavy-Load Robot Platform, Electric Products Exceed 80% of Display - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xb1ppbGk3MjhQcm9VZFlxX0pMXzVlRVlZUzBodlpFMUUyM2lDMGtwOGxxanRCYnJhOEczc21YQXBRdUpCR0w5VEJYN2tXMTF4ZUMwZmNqRU96VlpfN1N6V0tvR0Fqc0lGQ19FVmcxakJHU2xGeXc?oc=5",
-      "source": "BigGo Finance",
-      "pubDate": "Wed, 25 Nov 2026 03:26:00 GMT",
-      "query": "AI agent platform"
+      "title": "Google's AI Mode Is Getting Wallet, Drive, and Gemini App Integrations - PCMag",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb0l3MmQtSEt5S0RIRGhfWXA0bUs5Njd5X1RRYjJZbUVia2tYTkIwcmZUSlRhbXU0VEdURmMtZDZWZVVHdEVZM1FQRjVhbjRlMFRqV0dMNW1KRWhnZEJLVjRLWTBLQjBOdXE3THNBSlhZTWN1eFNIQzJJZjJ6LTBrRHdMWjVnUjBvcThkMGNkTzZSeDlLcU02SW5R?oc=5",
+      "source": "PCMag",
+      "pubDate": "Wed, 25 Nov 2026 20:30:41 GMT",
+      "query": "Gemini AI"
     },
     {
-      "title": "Model Drift Breaks AI Localization Pipelines: Continuous QA & Pipeline Security Inside Enterprise Translation Workflows + Video - Howl.Link",
-      "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE0ySFZuSFlGNEpXbTc3Y1dkNFdHNExUUXUxT0xYT2Q2VVczYl94ODRReGtrUUlPWHdza0sw?oc=5",
-      "source": "Howl.Link",
-      "pubDate": "Wed, 25 Nov 2026 03:17:04 GMT",
-      "query": "AI model update"
-    },
-    {
-      "title": "OpenAI preprint claims the matrix multiplication exponent is exactly 9/4 - Crypto Briefing",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UcnZZTEFGSHJjZGlaWTRueHR6RG11UThGUVRIWFpJbjBJUGV4OFNuSW1LczZwblRDTUVUYjF5NnR1WFVnQ0l5YWZMbjBrRlhQOUt4QVIzYmk5bVY1c0pwMG1tbmlYQ05MREJQZjR3TldUYXJtYUhxdQ?oc=5",
+      "title": "OpenAI merges ChatGPT Chat and Work tabs, adds shared usage limits - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxWkZmQXpiM3hqc3BORTdOZFFiYWIxVnI4MTg5cVBueE9PbHBYdlowUVIydEVONm1Zb3dVLUxuYzJvWWl0Mnd0WklaUGt4dW45b3NmM1BrdUxpNERjblMwdXhhU0RnU2ZJcnRyaTZELXE0SWVURkstckNoeGo?oc=5",
       "source": "Crypto Briefing",
-      "pubDate": "Wed, 25 Nov 2026 02:37:03 GMT",
+      "pubDate": "Wed, 25 Nov 2026 20:07:01 GMT",
       "query": "OpenAI"
     },
     {
-      "title": "Anthropic is trying to kill traditional desktop apps with Claude-generated desktop apps - SiliconANGLE",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNak95N3VGUTZral9OeUxMdTFPTmE5TWJ2VThkMmFOWDU4YzhGNDJYSEdFNHhyS1daTl9kVXB5S3hoMXpjdXhWM3Z6UzFydzBRWEYxYlE4QjJ0U2VDUGlGOERKdkcweDBUSlVSX2hvZEtnUExFU1owdC1MbUFUVF9CTnB1OGNRazFHTlg2bEFmQzhKSjlSVUFEemhpNjVNVWxVSDRGQW4xR0ZfQU1FLWZlNU5NTUZRT2J1MnJLU1otYXlTUQ?oc=5",
-      "source": "SiliconANGLE",
-      "pubDate": "Wed, 25 Nov 2026 02:36:00 GMT",
-      "query": "Anthropic Claude"
+      "title": "Google Gemini AI integration sees General Motors stock price in upward move - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUV8tVjRKMlFpWTRtLW5DQThxam5NZjBNRHk2dXEtOVdWN1ZtNGh3YTRpelN3emV6V1V2d2NvajNWS3RBSS1KZHFSX3pJUU8yaEd1bWxoVG54N3lIbFpHMUNzYmdsWHV2LW9tRW5tbTByMzZ3YlpQRVhvbEpibVRVRXphcERMaWFfeXBnWVV3?oc=5",
+      "source": "Traders Union",
+      "pubDate": "Wed, 25 Nov 2026 20:04:22 GMT",
+      "query": "Gemini AI"
     },
     {
-      "title": "Meta's Muse AI Agent Accounts for 51% of AI-Powered Shopping Orders - KuCoin",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMFdfbGl0b3ljN1RxdkEzQnNRMTBhZWZQbGlxaEdNZXpxZl9mbVY2UTVxY1VwS1BHMXNOa3BoR081clZKT1VMYnRZRjR6azFhQmtnU3RkaDRoVXhPcC03THdGSGdHYml5SkwzTi1VYUEzYlZuNTFIRVNJaEFYdjg0UXJ6T1JQZ21YRUNsbWxlN0V5MElGdzNBbQ?oc=5",
-      "source": "KuCoin",
-      "pubDate": "Wed, 25 Nov 2026 02:35:24 GMT",
-      "query": "AI agent platform"
-    },
-    {
-      "title": "Anthropic finds Claude agents bypass weakened sandbox limits in up to 32% of tests - Interesting Engineering",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOalpUOW9aM25NblMxbzVNRHhYVWc3ZDdXZjlsU3NTRnV3bWxlUXNzSHQxNnBQSHItN2Vlb0VCdmxuYmYwTWtNdU5ncmlKUzJCRzZQZUI2YjZVRUZfVUlYd0tRUEFCZl9hcXBvM0xnd2dhaUJQM1h0cGRxMDdvNk56aGxnaXlaWVA5M1R6NjFIYVpYMzRG?oc=5",
-      "source": "Interesting Engineering",
-      "pubDate": "Wed, 25 Nov 2026 02:16:00 GMT",
-      "query": "Anthropic Claude"
-    },
-    {
-      "title": "OpenAI’s Model Card is a Great Step Forward for Child Safety and Transparency - Tech Policy Press",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb1k0ajFacUZYWFZJRVh5RDlzVEx0Q0pUeDhKWTFRWmtNWk9CTzhQNzUtVWdHLUd0Wm1PNndkaDRLRURRY0kxREFOc2FtUjlDS044Y0p6UWpJOTJlbDZSQkc4V0VmWTVlZHRQNUlkMk5faTMyNzlpcnZXNjBieDZORjFLZkxUcGpFRVRnVVd3ZVhUSDR5ZmZiWk0wT0RiN2NHTDBz?oc=5",
-      "source": "Tech Policy Press",
-      "pubDate": "Wed, 25 Nov 2026 02:02:03 GMT",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQWZET3dOcDNPZ1c3bnhSaGh6SkdXeGItdEl0dUNmbzVVZlhhSV8wZ1p0OTN5RDlfUXRZV3NMSXNnV2FxYXdVRWY5UnJZZ2FxbkVXNlFkWFFabHNfRTl2ZXJ5ZFVRd0prUkE0OFRYYktyVGNBemZkSGJZbXUzOVljaEtBdEhIT2Vydkhab2h1cFc0NDJyNVZMb29BQ3U2bUh3N2NETVpyenBmVVpRclBCWnpscjUwUQ?oc=5",
+      "source": "TechCrunch",
+      "pubDate": "Wed, 25 Nov 2026 20:03:27 GMT",
       "query": "OpenAI"
     },
     {
-      "title": "OpenAI Bets on Cybersecurity: A $300 Billion Market Awaits, Brockman Says It Will Be Bigger Than Coding - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RVWlRMTZVSGhTeU9FS2d6VFVxalZSc1pVMjNJdzQ0R09INGRBTi1xelZ5N3NYT3RHdlRMRm1sNk5wdUNYRmtIQ25QenBtZ3o1SUdENXlINHRpQ2ZnZ0xUei1XRTh0YXhBRDF2YWhzY21KbUxlalE?oc=5",
-      "source": "BigGo Finance",
-      "pubDate": "Wed, 25 Nov 2026 01:56:00 GMT",
+      "title": "OpenAI adds over 2,000 internet addresses ChatGPT uses to visit websites - PPC Land",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaVJQN3diMDg2R2NPRzRMMEtCUjBlNXpzeWx4R1VxcmE5UmtQczlaRm9uai1JNmg1czVxck4wbjZaS1V1dXRkalFyRUFaUGgya0JUN3Y3clhaN0ZWS2dBUG40Z2tDRlZhYzg1X01XWk5kWmpoYnhmbjRlSGZtYlk0UGplXzY5RHFGa0RjdUJDbG1GYksz?oc=5",
+      "source": "PPC Land",
+      "pubDate": "Wed, 25 Nov 2026 19:50:45 GMT",
       "query": "OpenAI"
     },
     {
-      "title": "DeepMind researcher says AI will evolve from AGI to ASI that surpasses human expert groups - 디지털투데이",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSTd4OVlRNUV4TzN6aWxlRF9vRGZ5VUVrLTBCclp3X0xaMzUyUkxWbGJEcGxsQzRCUzl6QlQyZlJ2bDBhVENocFlqZGsyZlVrMmNTNU9qRkZuU1FvRkVuMlY1a1Q0UUprbjd6dE9vem9CU1I3RTNEQUFLMkpmVWNwYk1lY0pqNW9iWWp3djVpcURjMld2OUY1aGFuMjkydW5FaEJ3WnhKajlFYWU4TTFmTS1aQkQ4cHFhMTVndVZOcDFya25qa0NEUlFwcXFONUxvYVE?oc=5",
-      "source": "디지털투데이",
-      "pubDate": "Wed, 25 Nov 2026 01:43:46 GMT",
-      "query": "Google DeepMind"
-    },
-    {
-      "title": "Google Launches 'Humanity's First Exam' to Test AI Reliability - iClarified",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc2pETTBuLXVIWHdtcVp4Y2xoMDZDRG52SVctRG9WMWtYX3VQMm5uTi1mNUtQZUVwUmFsRHZKTUJnM3BJeWlWbkhzemhRckkwNjRTTUF5cklDanpUeFlESTl0ZGpDZjZZYXFGYmw2b0thYWVIejhtbnVDTXNvS3piaEJ4dlJQVUp4bm5jSHpWQVdOWmkya0V0d0Jabw?oc=5",
-      "source": "iClarified",
-      "pubDate": "Wed, 25 Nov 2026 01:19:18 GMT",
-      "query": "Google DeepMind"
-    },
-    {
-      "title": "OpenAI uses Codex to investigate ChatGPT slowdowns | ETIH EdTech News - EdTech Innovation Hub",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYTV1cUpfZnQ2RXFTb2ZmSmNkR2JqTmRlRkdYX1docWdEVXJsTGg1LUFhUlo4WUltZ25TbURON0dWYW9DZGFHVUN3ZDJINVBTZi1yVy16RVBodm94R29NYzdFMEd5Z3Q5ZzVoMFpoNWU4QWdOWF9tRmZsbHJBMEhrQUxmeVM4VzR2MHlWRXRqc041cDRMSm1qVmFiYnJzYWVBVDZQQThWcGg?oc=5",
-      "source": "EdTech Innovation Hub",
-      "pubDate": "Wed, 25 Nov 2026 01:04:24 GMT",
-      "query": "OpenAI"
-    },
-    {
-      "title": "Google Gemini 4 Dominates Top 3 Spots: The Only Competitor That Can Beat Google Is Google Itself - 36Kr",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MdnBnb1dZLXRNX1hYc0hDZ2ppLUV6c2dWMVgtVVFjRkJxMTh2UHFWcTRiZzB2TWpKdmlLc3FJRW8zenMzUENyazBvX041ei04eDZv?oc=5",
-      "source": "36Kr",
-      "pubDate": "Wed, 25 Nov 2026 01:02:27 GMT",
-      "query": "Google DeepMind"
-    },
-    {
-      "title": "The Big Tech Battle Over Personal Agents: Ambition and Restraint - 36Kr",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JX1NSZGpQRDNOLTNGMVg2UzJpTWFLd2FmUnZ5T3hnSEk5c2JvTGpaTXJDb1hJRGw5RXcxakphTG1OeFhieXA5MkQ4VTVSZUVZM2g0?oc=5",
-      "source": "36Kr",
-      "pubDate": "Wed, 25 Nov 2026 01:02:27 GMT",
-      "query": "Qwen Alibaba"
-    },
-    {
-      "title": "Anthropic’s Claude Ship tackles the pull request bottleneck created by AI coding agents - The New Stack",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ORnM2QXFuaDQ5RFo4ZldrWHJOWG9XTnR1a0tIc1FPa3JhN20tUWJNbGtWUWlSakdMTVMzYTFZeXg3QUJyaDJyNUduY1B3MVRhRWNwUm5CaXNhbXJiajVpbnNQNGhVdw?oc=5",
+      "title": "Anthropic set more than 1,700 traps for Claude — what it found is both reassuring and unsettling - The New Stack",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pMGFiVTVTTEM5QWh0VEhCcUc4RFRYcGFlMFROamdYOF9oR3V5SHFaZmk3bUxTem5rMTZYWWZXZUNfTGZJQW1UTVRyUXZUR1FMUThkMV83VDFoeEg0N3R0WXgyaWc?oc=5",
       "source": "The New Stack",
-      "pubDate": "Wed, 25 Nov 2026 00:52:45 GMT",
+      "pubDate": "Wed, 25 Nov 2026 19:49:16 GMT",
       "query": "Anthropic Claude"
     },
     {
-      "title": "Google Enables Users to Connect Wallet to AI Mode for Personalized Responses - PYMNTS.com",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNY1lSeDB4MEVtaHJKQUZKUzRkaHl0WkpUMVpPUXdfbUt2QW9SSG9kYWJuUUpXSjZGcFJpOWxXUHVjc2lPclQ3QmpqMTN2dzVsMzZKT1dWRXYtb3pjbWxDZEh4WU5EdE1hQmlfb3RzZExQS1NuNy1BX2lkNzJfS25nZ3V6c1ZQazV2TEtZVkgtZjNqUjQ1RDJmNG9YSm5iWVdtUFdUaGdmWVJHalRtMURvanpwYkVwOTJmLWdNdXRfQmNVWFF3bG85LTVxQlNRbXM?oc=5",
-      "source": "PYMNTS.com",
-      "pubDate": "Wed, 25 Nov 2026 00:43:20 GMT",
-      "query": "Gemini AI"
-    },
-    {
-      "title": "Saudi National Accused of Bugging OpenAI Room to Be Released on $1 Million Bond - www.marketscreener.com",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUVpaQm54b2ZLYUcyZkRiTEdfNnhqRHR6VFlfd05RLV9lSHNsQVIxTWtfLS14M3doWFI1aWdCdGFBTl9sYTdZSzBxVzQ2SjQtYTlPbkVoX2VJaUxmUFV5bTdxYzRHZjJGUVpXVjJVanpubFVGbEZmdXlJcVJCMzdfeTR3cnNkYWRSM29OMExfMWFES2J6cnNRQ0Z0QXZNdlA5c1lEbE5KNnFIVHlEQjRRbndLRV9oNUJvcTBUS3FzaUl5S3Y1S1VsVHlVZw?oc=5",
-      "source": "www.marketscreener.com",
-      "pubDate": "Wed, 25 Nov 2026 00:40:25 GMT",
+      "title": "OpenAI Claims Exact Square Matrix Multiplication Exponent - The Defiant",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUFY1OERtNWhzWGkxeVVHRTdfZl9fX0lBZkJ0WnhPbzk4WDJ4YUpkMmpXV1ZWcnBxTGJGVk91aENYSThXZVRuSmJMYXV6Z3A0VUowVUVzeEF5NFhLbjROS1oycnhjbVdpNEU5dXdTWmJGY0RnaHZDNVNlZnRJdXZfRHZ4VkVDbnV3OXlEXzVkZHYzemRaN1E?oc=5",
+      "source": "The Defiant",
+      "pubDate": "Wed, 25 Nov 2026 19:45:56 GMT",
       "query": "OpenAI"
     },
     {
-      "title": "Solar Pro 4 vs Gemini 4 Argon: Context and Price Gap - OrcaRouter",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoWm0xcEpvQ05VbEw2THYtTzFtWDY0YURoZjB1Mk8zbDVtRDRVYzNsdlJfcXMwVldoRjhYR1Y2Tm1LcXNjZVQ3MC1YV1pnbng1cUhPN3J6MDVObXdZZHBET3NDSVAzbExsaW9nYg?oc=5",
-      "source": "OrcaRouter",
-      "pubDate": "Wed, 25 Nov 2026 00:36:32 GMT",
-      "query": "Gemini AI"
-    },
-    {
-      "title": "Solar Pro 4 vs DeepSeek V4.1 Pro: The Missing Model - OrcaRouter",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jLXg2SU9yd3hqSzVqNlBNVmxoRWJ4Q21NUnhZQkZ0OWRJOXNOM253X3FGcWNUVFZ6V2Ria1BLNElZU2ZBajBwR1ZiSkpYY1NWOHNBdVZKc3E2V3E2VlU3dUs3Qm8xbm95NTFFeTBJb2o?oc=5",
-      "source": "OrcaRouter",
-      "pubDate": "Wed, 25 Nov 2026 00:34:25 GMT",
-      "query": "DeepSeek"
-    },
-    {
-      "title": "Zhihu Invests 1.5 Billion Yuan for Indirect Stake in DeepSeek, CEO Zhou Yuan Says Core Business Won't Be Sacrificed - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Ydzh6SmFJMEJiaHMzNFdWeFVlN0xEdEVTLWE3TVFfak5TZFhpZWJNMlZtY1lxVFBRcTRLa3piM2MycUNuZjhYb0RlanphNFd6a0xRUWpKM0lGSzg3TUxvMVgxZUJBZUNTS0lSS044Zm5YWlJuVnc?oc=5",
-      "source": "BigGo Finance",
-      "pubDate": "Wed, 25 Nov 2026 00:25:00 GMT",
-      "query": "DeepSeek"
-    },
-    {
-      "title": "Judge grants bail to OpenAI engineer accused of bugging start-up - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVjQycnVkRUY1azh6dDI5Z1FRV1hubE5kU2xUN3hpd3dlUVI0a0dFWGxTQnBKYkYyV1Z0cXFlOVRrWGtQbDFWcWRFeHFyV2d3MVRaRHI1OGNSZjdqRzltbDN2QkNoRHVoVjU3RC15SmlBMTIzRlFFa0tYaUpMUFVaZzBIZXY?oc=5",
-      "source": "Financial Times",
-      "pubDate": "Wed, 25 Nov 2026 00:16:08 GMT",
-      "query": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s GPT-6.2 Astra finds optimizations that rival models cannot - Crypto Briefing",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1BM042a2N3TU83eXBtbHQ2Y3NCMTdQSFZpbTFES3ZHOU14cnAzdEdjUk9Qa2k4c2NwWU91bnNOdWJMSGh4STBBMXdPcThyTm8wT3Z2NTN1SHU0bHdHNFRORy1HbFdPSVJMN3FuRWhRdm44WFpXWGl6QlFqUWlZUQ?oc=5",
-      "source": "Crypto Briefing",
-      "pubDate": "Wed, 25 Nov 2026 00:15:15 GMT",
-      "query": "OpenAI"
+      "title": "Anthropic Claude AI Predicts a Mindblowing BTC Reversal - Cryptonews",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX2ZIdUpYVWR6MlNiUGZmUFBCelpDbXR0Nk5WQzc2MFRFbktJVld0RHJ1QWxlbWg3RTlGYzVfUGdNQWJRcU9tcENIMjBSOVJXQXBlUHNjVVNsXzhHSE1tWDdFaHAyM3RwMnRTLUNOQVNKT2VYQjdtVHV4RVppNFhuc1FEWi1MNTIwRmc?oc=5",
+      "source": "Cryptonews",
+      "pubDate": "Wed, 25 Nov 2026 19:45:00 GMT",
+      "query": "Anthropic Claude"
     }
   ]
 }
